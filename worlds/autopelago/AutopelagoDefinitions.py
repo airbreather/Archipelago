@@ -120,6 +120,7 @@ class AutopelagoRegionDefinitions(TypedDict):
 
 
 class AutopelagoDefinitions(TypedDict):
+    version_stamp: str
     items: AutopelagoItemDefinitions
     regions: AutopelagoRegionDefinitions
 
@@ -131,7 +132,8 @@ class AutopelagoRegionDefinition:
     requires: AutopelagoAllRequirement
     landmark: bool
 
-    def __init__(self, key: str, exits: List[str], locations: List[str], requires: AutopelagoGameRequirement, landmark: bool):
+    def __init__(self, key: str, exits: List[str], locations: List[str], requires: AutopelagoGameRequirement,
+                 landmark: bool):
         self.key = key
         self.exits = exits
         self.locations = locations
@@ -141,6 +143,8 @@ class AutopelagoRegionDefinition:
 
 _defs: AutopelagoDefinitions = parse_yaml(pkgutil.get_data(__name__, 'AutopelagoDefinitions.yml'))
 
+version_stamp = _defs['version_stamp']
+
 def _gen_ids():
     next_id = BASE_ID
     while True:
@@ -148,15 +152,15 @@ def _gen_ids():
         next_id += 1
 
 
-item_name_to_id: Dict[str, int] = {}
-item_name_to_auras: Dict[str, List[str]] = {}
+item_name_to_auras: Dict[str, List[str]] = { 'Victory': [] }
 generic_nonprogression_item_table: Dict[AutopelagoNonProgressionItemType, List[str]] = {'useful_nonprogression': [],
                                                                                         'trap': [], 'filler': []}
-item_name_to_classification: Dict[str, Optional[ItemClassification]] = {}
+item_name_to_classification: Dict[str, Optional[ItemClassification]] = { 'Victory': ItemClassification.progression }
 item_name_to_rat_count: Dict[str, int] = {}
 game_specific_nonprogression_items: Dict[str, Dict[AutopelagoNonProgressionItemType, List[str]]] = {}
-item_key_to_name: Dict[str, str] = {}
+item_key_to_name: Dict[str, str] = { 'Victory': 'Victory' }
 _item_id_gen = _gen_ids()
+item_name_to_id: Dict[str, Optional[int]] = { 'Victory': next(_item_id_gen) }
 
 for k, v in ((k, v) for k, v in _defs['items'].items() if
              k not in {'rats', 'useful_nonprogression', 'trap', 'filler'}):
@@ -236,9 +240,6 @@ location_names_with_fixed_rewards: Set[str] = set()
 _location_id_gen = _gen_ids()
 
 for k, curr_region in _defs['regions']['landmarks'].items():
-    if k == 'moon_comma_the':
-        # "Moon, The" is only a "region" on the client.
-        continue
     _name = curr_region['name']
     location_name_to_id[_name] = next(_location_id_gen)
     location_name_to_progression_item_name[_name] = item_key_to_name[curr_region['unrandomized_item']]
