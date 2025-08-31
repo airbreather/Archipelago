@@ -180,7 +180,7 @@ class AutopelagoWorld(World):
         nonprogression_item_table = {c: [item_name for item_name in items if item_name not in excluded_names]
                                      for c, items in generic_nonprogression_item_table.items()}
         for category, items in nonprogression_item_table.items():
-            dlc_games = set(game_specific_nonprogression_items)
+            dlc_games = {g for g, categories in game_specific_nonprogression_items.items() if category in categories}
             self.multiworld.random.shuffle(items)
             replacements_made = 0
             for game_name in self.multiworld.game.values():
@@ -188,8 +188,9 @@ class AutopelagoWorld(World):
                     continue
                 dlc_games.remove(game_name)
                 for item in game_specific_nonprogression_items[game_name][category]:
-                    items[replacements_made] = item
-                    replacements_made += 1
+                    if item not in excluded_names:
+                        items[replacements_made] = item
+                        replacements_made += 1
 
         category_to_next_offset: dict[AutopelagoNonProgressionItemType, int] = {category: 0 for category in
                                                                                 generic_nonprogression_item_table}
