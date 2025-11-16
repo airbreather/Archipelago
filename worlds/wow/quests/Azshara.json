@@ -1,0 +1,1065 @@
+{
+    "Loramus": {
+        "ID": 3141,
+        "QuestLevel": 57,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 16,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Loramus",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Demon Hunter"
+        ],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "A Crew Under Fire": {
+        "ID": 3382,
+        "QuestLevel": 57,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 0,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Crew Under Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "Return Trip": {
+        "ID": 3421,
+        "QuestLevel": 55,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 16,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Return Trip",
+        "AllowableClasses": [],
+        "RewardSpell": 12521,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "Return to Tymor": {
+        "ID": 3461,
+        "QuestLevel": 52,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 1537,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Return to Tymor",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Arcane Runes"
+        ],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "Meeting with the Master": {
+        "ID": 3503,
+        "QuestLevel": 55,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 16,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Meeting with the Master",
+        "AllowableClasses": [],
+        "RewardSpell": 12510,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "Betrayed (2)": {
+        "ID": 3505,
+        "QuestLevel": 53,
+        "MinLevel": 44,
+        "QuestInfoID": 0,
+        "QuestSortID": 1637,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Betrayed",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Betrayed (1)"
+        ],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "Betrayed (3)": {
+        "ID": 3506,
+        "QuestLevel": 56,
+        "MinLevel": 44,
+        "QuestInfoID": 0,
+        "QuestSortID": 1637,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Betrayed",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Betrayed (2)"
+        ],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "Betrayed (4)": {
+        "ID": 3507,
+        "QuestLevel": 56,
+        "MinLevel": 44,
+        "QuestInfoID": 0,
+        "QuestSortID": 1637,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Betrayed",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Betrayed (3)"
+        ],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "Breaking the Ward": {
+        "ID": 3508,
+        "QuestLevel": 58,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 16,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Breaking the Ward",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Loramus"
+        ],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "The Name of the Beast (1)": {
+        "ID": 3509,
+        "QuestLevel": 58,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 16,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Name of the Beast",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Breaking the Ward"
+        ],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "The Name of the Beast (2)": {
+        "ID": 3510,
+        "QuestLevel": 58,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 16,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Name of the Beast",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Name of the Beast (1)"
+        ],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "The Name of the Beast (3)": {
+        "ID": 3511,
+        "QuestLevel": 58,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 16,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Name of the Beast",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Name of the Beast (2)"
+        ],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "Stealing Knowledge": {
+        "ID": 3517,
+        "QuestLevel": 52,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 16,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Stealing Knowledge",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "Delivery to Magatha": {
+        "ID": 3518,
+        "QuestLevel": 52,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 16,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Delivery to Magatha",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Stealing Knowledge"
+        ],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "Delivery to Jes'rimon": {
+        "ID": 3541,
+        "QuestLevel": 52,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 16,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Delivery to Jes'rimon",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Stealing Knowledge"
+        ],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "Delivery to Andron Gant": {
+        "ID": 3542,
+        "QuestLevel": 52,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 16,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Delivery to Andron Gant",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Stealing Knowledge"
+        ],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "Delivery to Archmage Xylem": {
+        "ID": 3561,
+        "QuestLevel": 52,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 16,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Delivery to Archmage Xylem",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Stealing Knowledge"
+        ],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "Xylem's Payment to Jediga": {
+        "ID": 3565,
+        "QuestLevel": 52,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 16,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Xylem's Payment to Jediga",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Delivery to Archmage Xylem"
+        ],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "Kim'jael Indeed!": {
+        "ID": 3601,
+        "QuestLevel": 53,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 16,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Kim'jael Indeed!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "Azsharite": {
+        "ID": 3602,
+        "QuestLevel": 58,
+        "MinLevel": 45,
+        "QuestInfoID": 1,
+        "QuestSortID": 16,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Azsharite",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Name of the Beast (3)"
+        ],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "The Formation of Felbane": {
+        "ID": 3621,
+        "QuestLevel": 58,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 16,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Formation of Felbane",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Azsharite"
+        ],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "Dragonscale Leatherworking (1)": {
+        "ID": 5141,
+        "QuestLevel": 55,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": -182,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Dragonscale Leatherworking",
+        "AllowableClasses": [],
+        "RewardSpell": 10657,
+        "ExclusiveGroup": 5141,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Leatherworking",
+        "requires": [],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "Kim'jael's Missing Equipment": {
+        "ID": 5534,
+        "QuestLevel": 53,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 16,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Kim'jael's Missing Equipment",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Kim'jael Indeed!"
+        ],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "Spiritual Unrest": {
+        "ID": 5535,
+        "QuestLevel": 47,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 16,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Spiritual Unrest",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "A Land Filled with Hatred": {
+        "ID": 5536,
+        "QuestLevel": 47,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 16,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Land Filled with Hatred",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "Poisoned Water": {
+        "ID": 6804,
+        "QuestLevel": 56,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 16,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Poisoned Water",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "Stormers and Rumblers": {
+        "ID": 6805,
+        "QuestLevel": 57,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 16,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Stormers and Rumblers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "Agent of Hydraxis": {
+        "ID": 6823,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 16,
+        "RequiredFactionId1": 749,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 9000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Agent of Hydraxis",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "To Kill With Purpose"
+        ],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "A Hero's Reward": {
+        "ID": 7486,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 16,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Hero's Reward",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Hands of the Enemy"
+        ],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "Courser Antlers": {
+        "ID": 8153,
+        "QuestLevel": 52,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": -261,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Courser Antlers",
+        "AllowableClasses": [
+            "Hunter"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Hunter's Charm"
+        ],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "Wavethrashing": {
+        "ID": 8231,
+        "QuestLevel": 52,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": -261,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Wavethrashing",
+        "AllowableClasses": [
+            "Hunter"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Courser Antlers"
+        ],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "Encoded Fragments": {
+        "ID": 8235,
+        "QuestLevel": 52,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": -162,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Encoded Fragments",
+        "AllowableClasses": [
+            "Rogue"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Sealed Azure Bag"
+        ],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "Magic Dust": {
+        "ID": 8251,
+        "QuestLevel": 52,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": -161,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Magic Dust",
+        "AllowableClasses": [
+            "Mage"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Magecraft"
+        ],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "The Siren's Coral": {
+        "ID": 8252,
+        "QuestLevel": 52,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": -161,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Siren's Coral",
+        "AllowableClasses": [
+            "Mage"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Magic Dust"
+        ],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "Of Coursers We Know": {
+        "ID": 8255,
+        "QuestLevel": 52,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": -262,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Of Coursers We Know",
+        "AllowableClasses": [
+            "Priest"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Cenarion Aid"
+        ],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "The Ichor of Undeath": {
+        "ID": 8256,
+        "QuestLevel": 52,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": -262,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Ichor of Undeath",
+        "AllowableClasses": [
+            "Priest"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Of Coursers We Know"
+        ],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "Skygleam the Elder": {
+        "ID": 8720,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Skygleam the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "Warlord Krellian": {
+        "ID": 9362,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": -161,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Warlord Krellian",
+        "AllowableClasses": [
+            "Mage"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azshara"
+        ]
+    },
+    "Fragmented Magic": {
+        "ID": 9364,
+        "QuestLevel": -1,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": -161,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Fragmented Magic",
+        "AllowableClasses": [
+            "Mage"
+        ],
+        "RewardSpell": 28285,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Warlord Krellian"
+        ],
+        "zone": [
+            "Azshara"
+        ]
+    }
+}

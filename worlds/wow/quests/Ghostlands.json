@@ -1,0 +1,2155 @@
+{
+    "Goods from Silvermoon City": {
+        "ID": 9130,
+        "QuestLevel": 10,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Goods from Silvermoon City",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Forsaken (1)"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Fly to Silvermoon City": {
+        "ID": 9133,
+        "QuestLevel": 10,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Fly to Silvermoon City",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Goods from Silvermoon City"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Suncrown Village": {
+        "ID": 9138,
+        "QuestLevel": 10,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Suncrown Village",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to Arcanist Vandril"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Goldenmist Village": {
+        "ID": 9139,
+        "QuestLevel": 11,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Goldenmist Village",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Suncrown Village"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Windrunner Village": {
+        "ID": 9140,
+        "QuestLevel": 14,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Windrunner Village",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Goldenmist Village"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Dealing with Zeb'Sora": {
+        "ID": 9143,
+        "QuestLevel": 12,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Dealing with Zeb'Sora",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Help Ranger Valanna!"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Help Ranger Valanna!": {
+        "ID": 9145,
+        "QuestLevel": 12,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Help Ranger Valanna!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Report to Captain Helios": {
+        "ID": 9146,
+        "QuestLevel": 12,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Report to Captain Helios",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Dealing with Zeb'Sora"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "The Plagued Coast": {
+        "ID": 9149,
+        "QuestLevel": 13,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Plagued Coast",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Salvaging the Past": {
+        "ID": 9150,
+        "QuestLevel": 12,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Salvaging the Past",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "The Sanctum of the Sun": {
+        "ID": 9151,
+        "QuestLevel": 20,
+        "MinLevel": 17,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Sanctum of the Sun",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Tomber's Supplies": {
+        "ID": 9152,
+        "QuestLevel": 11,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Tomber's Supplies",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Down the Dead Scar": {
+        "ID": 9155,
+        "QuestLevel": 14,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Down the Dead Scar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Wanted: Knucklerot and Luzran": {
+        "ID": 9156,
+        "QuestLevel": 21,
+        "MinLevel": 9,
+        "QuestInfoID": 1,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Wanted: Knucklerot and Luzran",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Forgotten Rituals": {
+        "ID": 9157,
+        "QuestLevel": 12,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Forgotten Rituals",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Bearers of the Plague": {
+        "ID": 9158,
+        "QuestLevel": 14,
+        "MinLevel": 11,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Bearers of the Plague",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Curbing the Plague": {
+        "ID": 9159,
+        "QuestLevel": 15,
+        "MinLevel": 11,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Curbing the Plague",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Bearers of the Plague"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Investigate An'daroth": {
+        "ID": 9160,
+        "QuestLevel": 11,
+        "MinLevel": 11,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Investigate An'daroth",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "The Traitor's Shadow": {
+        "ID": 9161,
+        "QuestLevel": 16,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Traitor's Shadow",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Hints of the Past": {
+        "ID": 9162,
+        "QuestLevel": 16,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Hints of the Past",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Traitor's Shadow"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Into Occupied Territory": {
+        "ID": 9163,
+        "QuestLevel": 14,
+        "MinLevel": 11,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Into Occupied Territory",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Investigate An'daroth"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Captives at Deatholme": {
+        "ID": 9164,
+        "QuestLevel": 20,
+        "MinLevel": 17,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Captives at Deatholme",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Restorative Draught"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Deliver the Plans to An'telas": {
+        "ID": 9166,
+        "QuestLevel": 16,
+        "MinLevel": 11,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Deliver the Plans to An'telas",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Into Occupied Territory"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "The Traitor's Destruction": {
+        "ID": 9167,
+        "QuestLevel": 21,
+        "MinLevel": 15,
+        "QuestInfoID": 1,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Traitor's Destruction",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Twin Ziggurats"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Deactivate An'owyn": {
+        "ID": 9169,
+        "QuestLevel": 16,
+        "MinLevel": 11,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Deactivate An'owyn",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Deliver the Plans to An'telas"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Dar'Khan's Lieutenants": {
+        "ID": 9170,
+        "QuestLevel": 20,
+        "MinLevel": 17,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Dar'Khan's Lieutenants",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "War on Deatholme"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Culinary Crunch": {
+        "ID": 9171,
+        "QuestLevel": 15,
+        "MinLevel": 12,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Culinary Crunch",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Report to Magister Kaendris": {
+        "ID": 9172,
+        "QuestLevel": 16,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Report to Magister Kaendris",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Hints of the Past"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Retaking Windrunner Spire": {
+        "ID": 9173,
+        "QuestLevel": 15,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Retaking Windrunner Spire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Vanquishing Aquantion": {
+        "ID": 9174,
+        "QuestLevel": 13,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Vanquishing Aquantion",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Forgotten Rituals"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "The Lady's Necklace": {
+        "ID": 9175,
+        "QuestLevel": 15,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Lady's Necklace",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "The Twin Ziggurats": {
+        "ID": 9176,
+        "QuestLevel": 17,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Twin Ziggurats",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Report to Magister Kaendris"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Journey to Undercity (2)": {
+        "ID": 9180,
+        "QuestLevel": 15,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 1497,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Journey to Undercity",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Lady's Necklace"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Trouble at the Underlight Mines": {
+        "ID": 9192,
+        "QuestLevel": 14,
+        "MinLevel": 11,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Trouble at the Underlight Mines",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Investigate the Amani Catacombs": {
+        "ID": 9193,
+        "QuestLevel": 17,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Investigate the Amani Catacombs",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Troll Juju": {
+        "ID": 9199,
+        "QuestLevel": 17,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Troll Juju",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Underlight Ore Samples": {
+        "ID": 9207,
+        "QuestLevel": 14,
+        "MinLevel": 11,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Underlight Ore Samples",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Escape from the Catacombs": {
+        "ID": 9212,
+        "QuestLevel": 17,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Escape from the Catacombs",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Shadowpine Weaponry": {
+        "ID": 9214,
+        "QuestLevel": 18,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Shadowpine Weaponry",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Bring Me Kel'gash's Head!": {
+        "ID": 9215,
+        "QuestLevel": 20,
+        "MinLevel": 9,
+        "QuestInfoID": 1,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Bring Me Kel'gash's Head!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Rotting Hearts": {
+        "ID": 9216,
+        "QuestLevel": 16,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Rotting Hearts",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "More Rotting Hearts": {
+        "ID": 9217,
+        "QuestLevel": 16,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "More Rotting Hearts",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Rotting Hearts"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Spinal Dust": {
+        "ID": 9218,
+        "QuestLevel": 18,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Spinal Dust",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "More Spinal Dust": {
+        "ID": 9219,
+        "QuestLevel": 18,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "More Spinal Dust",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Spinal Dust"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "War on Deatholme": {
+        "ID": 9220,
+        "QuestLevel": 20,
+        "MinLevel": 17,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "War on Deatholme",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Sanctum of the Sun"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Spirits of the Drowned": {
+        "ID": 9274,
+        "QuestLevel": 12,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Spirits of the Drowned",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "A Little Dash of Seasoning": {
+        "ID": 9275,
+        "QuestLevel": 19,
+        "MinLevel": 16,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Little Dash of Seasoning",
+        "AllowableClasses": [],
+        "RewardSpell": 42876,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Attack on Zeb'Tela": {
+        "ID": 9276,
+        "QuestLevel": 18,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Attack on Zeb'Tela",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Assault on Zeb'Nowa": {
+        "ID": 9277,
+        "QuestLevel": 19,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Assault on Zeb'Nowa",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Attack on Zeb'Tela"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Clearing the Way (1)": {
+        "ID": 9281,
+        "QuestLevel": 18,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Clearing the Way",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "The Farstrider Enclave": {
+        "ID": 9282,
+        "QuestLevel": 16,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Farstrider Enclave",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Anok'suten": {
+        "ID": 9315,
+        "QuestLevel": 11,
+        "MinLevel": 9,
+        "QuestInfoID": 1,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Anok'suten",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to Arcanist Vandril"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "The Forsaken (1)": {
+        "ID": 9327,
+        "QuestLevel": 10,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "The Forsaken",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Hero of the Sin'dorei": {
+        "ID": 9328,
+        "QuestLevel": 21,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Hero of the Sin'dorei",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Traitor's Destruction"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "The Forsaken (2)": {
+        "ID": 9329,
+        "QuestLevel": 10,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll"
+        ],
+        "LogTitle": "The Forsaken",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Combining Forces": {
+        "ID": 9460,
+        "QuestLevel": 12,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -162,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Combining Forces",
+        "AllowableClasses": [
+            "Rogue"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Find Keltus Darkleaf"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Arcane Reavers": {
+        "ID": 9487,
+        "QuestLevel": 16,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": -161,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Arcane Reavers",
+        "AllowableClasses": [
+            "Mage"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "A Simple Robe": {
+        "ID": 9488,
+        "QuestLevel": 16,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": -161,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Simple Robe",
+        "AllowableClasses": [
+            "Mage"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Arcane Reavers"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Greed": {
+        "ID": 9491,
+        "QuestLevel": 18,
+        "MinLevel": 16,
+        "QuestInfoID": 0,
+        "QuestSortID": -162,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Greed",
+        "AllowableClasses": [
+            "Rogue"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Discreet Inquiry"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Return the Reports": {
+        "ID": 9618,
+        "QuestLevel": 10,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -162,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Return the Reports",
+        "AllowableClasses": [
+            "Rogue"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Combining Forces"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "The Rune of Summoning": {
+        "ID": 9619,
+        "QuestLevel": -1,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "The Rune of Summoning",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 11520,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Stone"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Return to Arcanist Vandril": {
+        "ID": 9758,
+        "QuestLevel": 10,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Return to Arcanist Vandril",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Friend of the Sin'dorei": {
+        "ID": 9811,
+        "QuestLevel": 21,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll"
+        ],
+        "LogTitle": "Friend of the Sin'dorei",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Traitor's Destruction"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "A Restorative Draught": {
+        "ID": 9877,
+        "QuestLevel": 20,
+        "MinLevel": 17,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Restorative Draught",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "War on Deatholme"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "The Sad Truth": {
+        "ID": 10548,
+        "QuestLevel": 18,
+        "MinLevel": 16,
+        "QuestInfoID": 0,
+        "QuestSortID": -162,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Sad Truth",
+        "AllowableClasses": [
+            "Rogue"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Greed"
+        ],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Playing with Fire (2)": {
+        "ID": 11915,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Playing with Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Silverpine Forest",
+            "Eversong Woods",
+            "Ghostlands",
+            "Hillsbrad Foothills",
+            "Swamp of Sorrows",
+            "Stranglethorn Vale",
+            "Stonetalon Mountains",
+            "Ashenvale",
+            "Thousand Needles",
+            "Desolace",
+            "Tanaris",
+            "Feralas",
+            "Winterspring",
+            "Hellfire Peninsula",
+            "Zangarmarsh",
+            "Terokkar Forest",
+            "Terokkar Forest",
+            "Nagrand",
+            "Blade's Edge Mountains",
+            "Netherstorm",
+            "Shadowmoon Valley",
+            "Sholazar Basin"
+        ]
+    },
+    "Desecrate this Fire! (Ghostlands - Alliance)": {
+        "ID": 11774,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Honor the Flame (Ghostlands - Horde)": {
+        "ID": 11850,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    },
+    "Candy Bucket (Ghostlands)": {
+        "ID": 12373,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ghostlands"
+        ]
+    }
+}

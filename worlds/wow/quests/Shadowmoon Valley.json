@@ -1,0 +1,5613 @@
+{
+    "Escape from Coilskar Cistern": {
+        "ID": 10451,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 1,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Escape from Coilskar Cistern",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Enraged Spirits of Fire and Earth": {
+        "ID": 10458,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Enraged Spirits of Fire and Earth",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Enraged Spirits of Water": {
+        "ID": 10480,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Enraged Spirits of Water",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Enraged Spirits of Fire and Earth"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Enraged Spirits of Air": {
+        "ID": 10481,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Enraged Spirits of Air",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Enraged Spirits of Water"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Oronok Torn-heart": {
+        "ID": 10513,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Oronok Torn-heart",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Enraged Spirits of Air"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "I Was A Lot Of Things...": {
+        "ID": 10514,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "I Was A Lot Of Things...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Oronok Torn-heart"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "A Lesson Learned": {
+        "ID": 10515,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Lesson Learned",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "I Was A Lot Of Things..."
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Cipher of Damnation - Truth and History": {
+        "ID": 10519,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Cipher of Damnation - Truth and History",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Lesson Learned"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Grom'tor, Son of Oronok": {
+        "ID": 10521,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Grom'tor, Son of Oronok",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Cipher of Damnation - Truth and History"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Cipher of Damnation - Grom'tor's Charge": {
+        "ID": 10522,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Cipher of Damnation - Grom'tor's Charge",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Grom'tor, Son of Oronok"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Cipher of Damnation - The First Fragment Recovered": {
+        "ID": 10523,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Cipher of Damnation - The First Fragment Recovered",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -10523,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Cipher of Damnation - Grom'tor's Charge"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Ar'tor, Son of Oronok": {
+        "ID": 10527,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Ar'tor, Son of Oronok",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Cipher of Damnation - Truth and History"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Demonic Crystal Prisons": {
+        "ID": 10528,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Demonic Crystal Prisons",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Ar'tor, Son of Oronok"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Lohn'goron, Bow of the Torn-heart": {
+        "ID": 10537,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Lohn'goron, Bow of the Torn-heart",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Demonic Crystal Prisons"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Cipher of Damnation - Ar'tor's Charge": {
+        "ID": 10540,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Cipher of Damnation - Ar'tor's Charge",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Lohn'goron, Bow of the Torn-heart"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Cipher of Damnation - The Second Fragment Recovered": {
+        "ID": 10541,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Cipher of Damnation - The Second Fragment Recovered",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -10523,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Cipher of Damnation - Ar'tor's Charge"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Borak, Son of Oronok": {
+        "ID": 10546,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Borak, Son of Oronok",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Cipher of Damnation - Truth and History"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Of Thistleheads and Eggs...": {
+        "ID": 10547,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Of Thistleheads and Eggs...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Borak, Son of Oronok"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Besieged! (1)": {
+        "ID": 10562,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Besieged!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "To Legion Hold (1)": {
+        "ID": 10563,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "To Legion Hold",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Besieged! (1)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Blast the Infernals! (1)": {
+        "ID": 10564,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Blast the Infernals!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Setting Up the Bomb (1)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Tablets of Baa'ri (1)": {
+        "ID": 10568,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Tablets of Baa'ri",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 10568,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Sketh'lon Wreckage (1)": {
+        "ID": 10569,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Sketh'lon Wreckage",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "To Catch A Thistlehead": {
+        "ID": 10570,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "To Catch A Thistlehead",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Bundle of Bloodthistle"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Oronu the Elder (1)": {
+        "ID": 10571,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Oronu the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Tablets of Baa'ri (1)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Setting Up the Bomb (1)": {
+        "ID": 10572,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Setting Up the Bomb",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "To Legion Hold (1)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Deathforge (1)": {
+        "ID": 10573,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Deathforge",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Blast the Infernals! (1)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Ashtongue Corruptors (1)": {
+        "ID": 10574,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Ashtongue Corruptors",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Oronu the Elder (1)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Warden's Cage (1)": {
+        "ID": 10575,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Warden's Cage",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Ashtongue Corruptors (1)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Shadowmoon Shuffle": {
+        "ID": 10576,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Shadowmoon Shuffle",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "To Catch A Thistlehead"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "What Illidan Wants, Illidan Gets...": {
+        "ID": 10577,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "What Illidan Wants, Illidan Gets...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Shadowmoon Shuffle"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Cipher of Damnation - Borak's Charge": {
+        "ID": 10578,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 1,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Cipher of Damnation - Borak's Charge",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "What Illidan Wants, Illidan Gets..."
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Cipher of Damnation - The Third Fragment Recovered": {
+        "ID": 10579,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Cipher of Damnation - The Third Fragment Recovered",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -10523,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Cipher of Damnation - Borak's Charge"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Minions of the Shadow Council (1)": {
+        "ID": 10582,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Minions of the Shadow Council",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Deathforge (1)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Fate of Flanis": {
+        "ID": 10583,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Fate of Flanis",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -10583,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Minions of the Shadow Council (1)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Summoning Chamber (1)": {
+        "ID": 10585,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Summoning Chamber",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -10583,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Minions of the Shadow Council (1)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Bring Down the Warbringer! (1)": {
+        "ID": 10586,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Bring Down the Warbringer!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Karabor Training Grounds (1)": {
+        "ID": 10587,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Karabor Training Grounds",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Cipher of Damnation": {
+        "ID": 10588,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 1,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Cipher of Damnation",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Gaining Access (1)": {
+        "ID": 10589,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Gaining Access",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Bring Down the Warbringer! (1)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Besieged! (2)": {
+        "ID": 10595,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Besieged!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "To Legion Hold (2)": {
+        "ID": 10596,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "To Legion Hold",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Besieged! (2)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Setting Up the Bomb (2)": {
+        "ID": 10597,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Setting Up the Bomb",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "To Legion Hold (2)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Blast the Infernals! (2)": {
+        "ID": 10598,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Blast the Infernals!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Setting Up the Bomb (2)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Deathforge (2)": {
+        "ID": 10599,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Deathforge",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Blast the Infernals! (2)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Minions of the Shadow Council (2)": {
+        "ID": 10600,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Minions of the Shadow Council",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Deathforge (2)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Fate of Kagrosh": {
+        "ID": 10601,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Fate of Kagrosh",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -10601,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Minions of the Shadow Council (2)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Summoning Chamber (2)": {
+        "ID": 10602,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Summoning Chamber",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -10601,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Minions of the Shadow Council (2)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Bring Down the Warbringer! (2)": {
+        "ID": 10603,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Bring Down the Warbringer!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Gaining Access (2)": {
+        "ID": 10604,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Gaining Access",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Bring Down the Warbringer! (2)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Art of Fel Reaver Maintenance (1)": {
+        "ID": 10606,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Art of Fel Reaver Maintenance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Invasion Point: Cataclysm (1)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Art of Fel Reaver Maintenance (2)": {
+        "ID": 10611,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Art of Fel Reaver Maintenance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Invasion Point: Cataclysm (2)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Fel and the Furious (1)": {
+        "ID": 10612,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Fel and the Furious",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Art of Fel Reaver Maintenance (1)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Fel and the Furious (2)": {
+        "ID": 10613,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Fel and the Furious",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Art of Fel Reaver Maintenance (2)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Ashtongue Tribe": {
+        "ID": 10619,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Ashtongue Tribe",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 10619,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Illidari-Bane Shard (1)": {
+        "ID": 10621,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Illidari-Bane Shard",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Proof of Allegiance": {
+        "ID": 10622,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Proof of Allegiance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Illidari-Bane Shard (2)": {
+        "ID": 10623,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Illidari-Bane Shard",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "A Haunted History": {
+        "ID": 10624,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Haunted History",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Spectrecles": {
+        "ID": 10625,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Spectrecles",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Haunted History"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Capture the Weapons (1)": {
+        "ID": 10626,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 1,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Capture the Weapons",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Illidari-Bane Shard (1)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Capture the Weapons (2)": {
+        "ID": 10627,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 1,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Capture the Weapons",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Illidari-Bane Shard (2)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Akama": {
+        "ID": 10628,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Akama",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Proof of Allegiance"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Teron Gorefiend - Lore and Legend (1)": {
+        "ID": 10633,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Teron Gorefiend - Lore and Legend",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Spectrecles"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Divination: Gorefiend's Armor": {
+        "ID": 10634,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 1,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Divination: Gorefiend's Armor",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Divination: Gorefiend's Cloak": {
+        "ID": 10635,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Divination: Gorefiend's Cloak",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Divination: Gorefiend's Truncheon": {
+        "ID": 10636,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 1,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Divination: Gorefiend's Truncheon",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "A Necessary Distraction (1)": {
+        "ID": 10637,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Necessary Distraction",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Karabor Training Grounds (1)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Teron Gorefiend, I am... (1)": {
+        "ID": 10639,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Teron Gorefiend, I am...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Altruis (1)": {
+        "ID": 10640,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Altruis",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Necessary Distraction (1)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "A Ghost in the Machine": {
+        "ID": 10642,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Ghost in the Machine",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Harbingers of Shadowmoon": {
+        "ID": 10643,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Harbingers of Shadowmoon",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Ghost in the Machine"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Teron Gorefiend - Lore and Legend (2)": {
+        "ID": 10644,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Teron Gorefiend - Lore and Legend",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Harbingers of Shadowmoon"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Teron Gorefiend, I am... (2)": {
+        "ID": 10645,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Teron Gorefiend, I am...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Wanted: Uvuros, Scourge of Shadowmoon (1)": {
+        "ID": 10647,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 1,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Wanted: Uvuros, Scourge of Shadowmoon",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Wanted: Uvuros, Scourge of Shadowmoon (2)": {
+        "ID": 10648,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 1,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Wanted: Uvuros, Scourge of Shadowmoon",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Varedis Must Be Stopped (1)": {
+        "ID": 10651,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 1,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Varedis Must Be Stopped",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to the Aldor"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "What Strange Creatures...": {
+        "ID": 10660,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "What Strange Creatures...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Spleendid!": {
+        "ID": 10661,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Spleendid!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Hermit Smith (1)": {
+        "ID": 10662,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Hermit Smith",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Capture the Weapons (1)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Hermit Smith (2)": {
+        "ID": 10663,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Hermit Smith",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Capture the Weapons (2)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Frankly, It Makes No Sense...": {
+        "ID": 10672,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Frankly, It Makes No Sense...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "What Strange Creatures..."
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Felspine the Greater": {
+        "ID": 10673,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Felspine the Greater",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Frankly, It Makes No Sense..."
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Second Course...": {
+        "ID": 10677,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Second Course...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Spleendid!"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Main Course!": {
+        "ID": 10678,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Main Course!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Second Course..."
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Hand of Gul'dan (1)": {
+        "ID": 10680,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Hand of Gul'dan",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Hand of Gul'dan (2)": {
+        "ID": 10681,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Hand of Gul'dan",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Tablets of Baa'ri (2)": {
+        "ID": 10683,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Tablets of Baa'ri",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 10568,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Oronu the Elder (2)": {
+        "ID": 10684,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Oronu the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Tablets of Baa'ri (2)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Ashtongue Corruptors (2)": {
+        "ID": 10685,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Ashtongue Corruptors",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Oronu the Elder (2)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Warden's Cage (2)": {
+        "ID": 10686,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Warden's Cage",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Ashtongue Corruptors (2)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Karabor Training Grounds (2)": {
+        "ID": 10687,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Karabor Training Grounds",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "A Necessary Distraction (2)": {
+        "ID": 10688,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Necessary Distraction",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Karabor Training Grounds (2)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Altruis (2)": {
+        "ID": 10689,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Altruis",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Necessary Distraction (2)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Varedis Must Be Stopped (2)": {
+        "ID": 10692,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 1,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Varedis Must Be Stopped",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to the Scryers"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "A Grunt's Work...": {
+        "ID": 10702,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Grunt's Work...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Put On Yer Kneepads...": {
+        "ID": 10703,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Put On Yer Kneepads...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Ata'mal Terrace": {
+        "ID": 10707,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 1,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Ata'mal Terrace",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Mysterious Portent"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "News of Victory (1)": {
+        "ID": 10744,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "News of Victory",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Fel and the Furious (1)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "News of Victory (2)": {
+        "ID": 10745,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "News of Victory",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Fel and the Furious (2)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Path of Conquest (1)": {
+        "ID": 10750,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 1,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Path of Conquest",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Breaching the Path (1)": {
+        "ID": 10751,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 1,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Breaching the Path",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Path of Conquest (1)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Find the Deserter (1)": {
+        "ID": 10759,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Find the Deserter",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Sketh'lon Wreckage (1)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Sketh'lon Wreckage (2)": {
+        "ID": 10760,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Sketh'lon Wreckage",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Find the Deserter (2)": {
+        "ID": 10761,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Find the Deserter",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Sketh'lon Wreckage (2)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "When Worlds Collide...": {
+        "ID": 10765,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 1,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "When Worlds Collide...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Breaching the Path (1)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Invasion Point: Cataclysm (1)": {
+        "ID": 10766,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Invasion Point: Cataclysm",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Gaining Access (1)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Invasion Point: Cataclysm (2)": {
+        "ID": 10767,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Invasion Point: Cataclysm",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Gaining Access (2)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Tabards of the Illidari (1)": {
+        "ID": 10768,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 1,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Tabards of the Illidari",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "When Worlds Collide..."
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Dissension Amongst the Ranks... (1)": {
+        "ID": 10769,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 1,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Dissension Amongst the Ranks...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Tabards of the Illidari (1)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Path of Conquest (2)": {
+        "ID": 10772,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 1,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Path of Conquest",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Breaching the Path (2)": {
+        "ID": 10773,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 1,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Breaching the Path",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Path of Conquest (2)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Blood Elf + Giant = ???": {
+        "ID": 10774,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 1,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Blood Elf + Giant = ???",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Breaching the Path (2)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Tabards of the Illidari (2)": {
+        "ID": 10775,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 1,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Tabards of the Illidari",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Blood Elf + Giant = ???"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Dissension Amongst the Ranks... (2)": {
+        "ID": 10776,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 1,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Dissension Amongst the Ranks...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Tabards of the Illidari (2)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Asghar's Totem": {
+        "ID": 10777,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Asghar's Totem",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Rod of Lianthe": {
+        "ID": 10778,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Rod of Lianthe",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Asghar's Totem"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Sketh'lon Feathers": {
+        "ID": 10780,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Sketh'lon Feathers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Rod of Lianthe"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Battle of the Crimson Watch": {
+        "ID": 10781,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 1,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Battle of the Crimson Watch",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Journal of Val'zareq: Portends of War (1)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Imbuing the Headpiece": {
+        "ID": 10782,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Imbuing the Headpiece",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Sketh'lon Feathers"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Journal of Val'zareq: Portends of War (1)": {
+        "ID": 10793,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 1,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Journal of Val'zareq: Portends of War",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Kindness": {
+        "ID": 10804,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Kindness",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Ashtongue Broken": {
+        "ID": 10807,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Ashtongue Broken",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 10619,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Thwart the Dark Conclave": {
+        "ID": 10808,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Thwart the Dark Conclave",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Imbuing the Headpiece"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Seek Out Neltharaku": {
+        "ID": 10811,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Seek Out Neltharaku",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Kindness"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Neltharaku's Tale": {
+        "ID": 10814,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Neltharaku's Tale",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Seek Out Neltharaku"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Reclaiming Holy Grounds": {
+        "ID": 10816,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Reclaiming Holy Grounds",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Ashtongue Tribe"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Great Retribution": {
+        "ID": 10817,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Great Retribution",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Ashtongue Broken"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Single Sunfury Signet (2)": {
+        "ID": 10822,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3703,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Single Sunfury Signet",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Sunfury Signets (2)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "More Sunfury Signets (2)": {
+        "ID": 10823,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "More Sunfury Signets",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Sunfury Signets (2)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Sunfury Signets (2)": {
+        "ID": 10824,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Sunfury Signets",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Marks of Sargeras (2)": {
+        "ID": 10826,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3703,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Marks of Sargeras",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "More Marks of Sargeras (2)": {
+        "ID": 10827,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3703,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "More Marks of Sargeras",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Marks of Sargeras (2)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Single Mark of Sargeras (2)": {
+        "ID": 10828,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3703,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Single Mark of Sargeras",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Marks of Sargeras (2)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Infiltrating Dragonmaw Fortress": {
+        "ID": 10836,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Infiltrating Dragonmaw Fortress",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Neltharaku's Tale"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "To Netherwing Ledge!": {
+        "ID": 10837,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "To Netherwing Ledge!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Infiltrating Dragonmaw Fortress"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Force of Neltharaku": {
+        "ID": 10854,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Force of Neltharaku",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "To Netherwing Ledge!"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Karynaku": {
+        "ID": 10858,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 1,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Karynaku",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Force of Neltharaku"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Zuluhed the Whacked (2)": {
+        "ID": 10866,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 1,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Zuluhed the Whacked",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Karynaku"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Ally of the Netherwing (2)": {
+        "ID": 10870,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Ally of the Netherwing",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Zuluhed the Whacked (2)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Ally of the Netherwing (1)": {
+        "ID": 10871,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Ally of the Netherwing",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Zuluhed the Whacked (1)": {
+        "ID": 10872,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 1,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Zuluhed the Whacked",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Secret Compromised": {
+        "ID": 10944,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Secret Compromised",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Akama's Promise (2)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Hostage Soul": {
+        "ID": 10948,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3703,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Hostage Soul",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "An Artifact From the Past"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "A Distraction for Akama (1)": {
+        "ID": 10985,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Distraction for Akama",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Entry Into the Black Temple"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Blood Oath of the Netherwing": {
+        "ID": 11012,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Blood Oath of the Netherwing",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Ally of the Netherwing (2)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "In Service of the Illidari": {
+        "ID": 11013,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "In Service of the Illidari",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Blood Oath of the Netherwing"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Enter the Taskmaster": {
+        "ID": 11014,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Enter the Taskmaster",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "In Service of the Illidari"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Netherwing Crystals": {
+        "ID": 11015,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Netherwing Crystals",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Enter the Taskmaster"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Nethermine Flayer Hide": {
+        "ID": 11016,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Nethermine Flayer Hide",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 11016,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Enter the Taskmaster"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Netherdust Pollen": {
+        "ID": 11017,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Netherdust Pollen",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 11016,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Enter the Taskmaster"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Nethercite Ore": {
+        "ID": 11018,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Nethercite Ore",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 11016,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Enter the Taskmaster"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Your Friend On The Inside": {
+        "ID": 11019,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Your Friend On The Inside",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Enter the Taskmaster"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "A Slow Death": {
+        "ID": 11020,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Slow Death",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Your Friend On The Inside"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Not-So-Friendly Skies...": {
+        "ID": 11035,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Not-So-Friendly Skies...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Your Friend On The Inside"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "A Job Unfinished...": {
+        "ID": 11041,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 1,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Job Unfinished...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Enter the Taskmaster"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Great Netherwing Egg Hunt": {
+        "ID": 11049,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Great Netherwing Egg Hunt",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Your Friend On The Inside"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Accepting All Eggs": {
+        "ID": 11050,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Accepting All Eggs",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Great Netherwing Egg Hunt"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Akama's Promise (1)": {
+        "ID": 11052,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Akama's Promise",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Rise, Overseer!": {
+        "ID": 11053,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Orc",
+            "Dwarf",
+            "Night Elf",
+            "Undead",
+            "Tauren",
+            "Gnome",
+            "Troll",
+            "Blood Elf",
+            "Draenei"
+        ],
+        "LogTitle": "Rise, Overseer!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Your Friend On The Inside"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Overseeing and You: Making the Right Choices": {
+        "ID": 11054,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Orc",
+            "Dwarf",
+            "Night Elf",
+            "Undead",
+            "Tauren",
+            "Gnome",
+            "Troll",
+            "Blood Elf",
+            "Draenei"
+        ],
+        "LogTitle": "Overseeing and You: Making the Right Choices",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Rise, Overseer!"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Booterang: A Cure For The Common Worthless Peon": {
+        "ID": 11055,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Orc",
+            "Dwarf",
+            "Night Elf",
+            "Undead",
+            "Tauren",
+            "Gnome",
+            "Troll",
+            "Blood Elf",
+            "Draenei"
+        ],
+        "LogTitle": "The Booterang: A Cure For The Common Worthless Peon",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Overseeing and You: Making the Right Choices"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Earning Your Wings...": {
+        "ID": 11063,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Earning Your Wings...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Dragonmaw Race: The Ballad of Oldie McOld": {
+        "ID": 11064,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Dragonmaw Race: The Ballad of Oldie McOld",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Earning Your Wings..."
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Dragonmaw Race: Trope the Filth-Belcher": {
+        "ID": 11067,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Dragonmaw Race: Trope the Filth-Belcher",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Dragonmaw Race: The Ballad of Oldie McOld"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Dragonmaw Race: Corlok the Vet": {
+        "ID": 11068,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Dragonmaw Race: Corlok the Vet",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Dragonmaw Race: Trope the Filth-Belcher"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Dragonmaw Race: Wing Commander Ichman": {
+        "ID": 11069,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Dragonmaw Race: Wing Commander Ichman",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Dragonmaw Race: Corlok the Vet"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Dragonmaw Race: Wing Commander Mulverick": {
+        "ID": 11070,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Dragonmaw Race: Wing Commander Mulverick",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Dragonmaw Race: Wing Commander Ichman"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Dragonmaw Race: Captain Skyshatter": {
+        "ID": 11071,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Dragonmaw Race: Captain Skyshatter",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Dragonmaw Race: Wing Commander Mulverick"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Netherwing Mines": {
+        "ID": 11075,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Orc",
+            "Dwarf",
+            "Night Elf",
+            "Undead",
+            "Tauren",
+            "Gnome",
+            "Troll",
+            "Blood Elf",
+            "Draenei"
+        ],
+        "LogTitle": "The Netherwing Mines",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Rise, Overseer!"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Picking Up The Pieces...": {
+        "ID": 11076,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Orc",
+            "Dwarf",
+            "Night Elf",
+            "Undead",
+            "Tauren",
+            "Gnome",
+            "Troll",
+            "Blood Elf",
+            "Draenei"
+        ],
+        "LogTitle": "Picking Up The Pieces...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Netherwing Mines"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Dragons are the Least of Our Problems": {
+        "ID": 11077,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Dragons are the Least of Our Problems",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Netherwing Mines"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Great Murkblood Revolt": {
+        "ID": 11081,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Great Murkblood Revolt",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Netherwing Mines"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Seeker of Truth": {
+        "ID": 11082,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Seeker of Truth",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Great Murkblood Revolt"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Crazed and Confused": {
+        "ID": 11083,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Crazed and Confused",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Netherwing Mines"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Stand Tall, Captain!": {
+        "ID": 11084,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Orc",
+            "Dwarf",
+            "Night Elf",
+            "Undead",
+            "Tauren",
+            "Gnome",
+            "Troll",
+            "Blood Elf",
+            "Draenei"
+        ],
+        "LogTitle": "Stand Tall, Captain!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Rise, Overseer!"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Disrupting the Twilight Portal": {
+        "ID": 11086,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Disrupting the Twilight Portal",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Stand Tall, Captain!"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Soul Cannon of Reth'hedron": {
+        "ID": 11089,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Soul Cannon of Reth'hedron",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Stand Tall, Captain!"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Subdue the Subduer": {
+        "ID": 11090,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Subdue the Subduer",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Soul Cannon of Reth'hedron"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Hail, Commander!": {
+        "ID": 11092,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Orc",
+            "Dwarf",
+            "Night Elf",
+            "Undead",
+            "Tauren",
+            "Gnome",
+            "Troll",
+            "Blood Elf",
+            "Draenei"
+        ],
+        "LogTitle": "Hail, Commander!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Stand Tall, Captain!"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Kill Them All! (1)": {
+        "ID": 11094,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Kill Them All!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Hail, Commander!"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Commander Hobb": {
+        "ID": 11095,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Commander Hobb",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Kill Them All! (1)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Deadliest Trap Ever Laid (1)": {
+        "ID": 11097,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 1,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Deadliest Trap Ever Laid",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Commander Hobb"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Kill Them All! (2)": {
+        "ID": 11099,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Kill Them All!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Hail, Commander!"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Commander Arcus": {
+        "ID": 11100,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Commander Arcus",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Kill Them All! (2)"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "The Deadliest Trap Ever Laid (2)": {
+        "ID": 11101,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 1,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Deadliest Trap Ever Laid",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Commander Arcus"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Bow to the Highlord": {
+        "ID": 11107,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Orc",
+            "Dwarf",
+            "Night Elf",
+            "Undead",
+            "Tauren",
+            "Gnome",
+            "Troll",
+            "Blood Elf",
+            "Draenei"
+        ],
+        "LogTitle": "Bow to the Highlord",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Lord Illidan Stormrage": {
+        "ID": 11108,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Lord Illidan Stormrage",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Bow to the Highlord"
+        ],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Playing with Fire (1)": {
+        "ID": 11882,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Playing with Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Teldrassil",
+            "Darkshore",
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Westfall",
+            "Redridge Mountains",
+            "Duskwood",
+            "Wetlands",
+            "Hillsbrad Foothills",
+            "The Hinterlands",
+            "Stranglethorn Vale",
+            "Western Plaguelands",
+            "Burning Steppes",
+            "Blasted Lands",
+            "Ashenvale",
+            "Tanaris",
+            "Winterspring",
+            "Dustwallow Marsh",
+            "Hellfire Peninsula",
+            "Zangarmarsh",
+            "Terokkar Forest",
+            "Terokkar Forest",
+            "Nagrand",
+            "Blade's Edge Mountains",
+            "Netherstorm",
+            "Shadowmoon Valley",
+            "Borean Tundra",
+            "The Storm Peaks"
+        ]
+    },
+    "Playing with Fire (2)": {
+        "ID": 11915,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Playing with Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Silverpine Forest",
+            "Eversong Woods",
+            "Ghostlands",
+            "Hillsbrad Foothills",
+            "Swamp of Sorrows",
+            "Stranglethorn Vale",
+            "Stonetalon Mountains",
+            "Ashenvale",
+            "Thousand Needles",
+            "Desolace",
+            "Tanaris",
+            "Feralas",
+            "Winterspring",
+            "Hellfire Peninsula",
+            "Zangarmarsh",
+            "Terokkar Forest",
+            "Terokkar Forest",
+            "Nagrand",
+            "Blade's Edge Mountains",
+            "Netherstorm",
+            "Shadowmoon Valley",
+            "Sholazar Basin"
+        ]
+    },
+    "Desecrate this Fire! (Shadowmoon Valley - Horde)": {
+        "ID": 11752,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Desecrate this Fire! (Shadowmoon Valley - Alliance)": {
+        "ID": 11779,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Honor the Flame (Shadowmoon Valley - Alliance)": {
+        "ID": 11823,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Honor the Flame (Shadowmoon Valley - Horde)": {
+        "ID": 11855,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Candy Bucket (Shadowmoon Valley, Wildhammer Stronghold)": {
+        "ID": 12360,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Candy Bucket (Shadowmoon Valley, Shadowmoon Village)": {
+        "ID": 12395,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    },
+    "Candy Bucket (Shadowmoon Valley, Altar of Sha'tar or Sanctum of the Stars)": {
+        "ID": 12409,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Shadowmoon Valley"
+        ]
+    }
+}

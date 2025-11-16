@@ -1,0 +1,4806 @@
+{
+    "The Encroaching Wilderness (1)": {
+        "ID": 10455,
+        "QuestLevel": 66,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Encroaching Wilderness",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Marauding Wolves": {
+        "ID": 10456,
+        "QuestLevel": 66,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Marauding Wolves",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Encroaching Wilderness (1)"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Protecting Our Own (1)": {
+        "ID": 10457,
+        "QuestLevel": 66,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Protecting Our Own",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Marauding Wolves"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "The Encroaching Wilderness (2)": {
+        "ID": 10486,
+        "QuestLevel": 66,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Encroaching Wilderness",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Dust from the Drakes": {
+        "ID": 10487,
+        "QuestLevel": 66,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Dust from the Drakes",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Encroaching Wilderness (2)"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Protecting Our Own (2)": {
+        "ID": 10488,
+        "QuestLevel": 66,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Protecting Our Own",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Dust from the Drakes"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Felling an Ancient Tree": {
+        "ID": 10489,
+        "QuestLevel": 66,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Felling an Ancient Tree",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "The Bloodmaul Ogres (1)": {
+        "ID": 10502,
+        "QuestLevel": 66,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Bloodmaul Ogres",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "The Bladespire Threat": {
+        "ID": 10503,
+        "QuestLevel": 66,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Bladespire Threat",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "The Bladespire Ogres": {
+        "ID": 10504,
+        "QuestLevel": 66,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Bladespire Ogres",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Bloodmaul Ogres (1)"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "The Bloodmaul Ogres (2)": {
+        "ID": 10505,
+        "QuestLevel": 66,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Bloodmaul Ogres",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Bladespire Threat"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "A Dire Situation": {
+        "ID": 10506,
+        "QuestLevel": 66,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Dire Situation",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Protecting Our Own (1)"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Into the Draenethyst Mine": {
+        "ID": 10510,
+        "QuestLevel": 66,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Into the Draenethyst Mine",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Strange Brew": {
+        "ID": 10511,
+        "QuestLevel": 66,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Strange Brew",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Getting the Bladespire Tanked": {
+        "ID": 10512,
+        "QuestLevel": 66,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Getting the Bladespire Tanked",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Strange Brew"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "The Trappings of a Vindicator": {
+        "ID": 10516,
+        "QuestLevel": 66,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Trappings of a Vindicator",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Gorr'Dim, Your Time Has Come...": {
+        "ID": 10517,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Gorr'Dim, Your Time Has Come...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Trappings of a Vindicator"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Planting the Banner": {
+        "ID": 10518,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 1,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Planting the Banner",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Gorr'Dim, Your Time Has Come..."
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Thunderlord Clan Artifacts": {
+        "ID": 10524,
+        "QuestLevel": 66,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Thunderlord Clan Artifacts",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Vision Guide": {
+        "ID": 10525,
+        "QuestLevel": 66,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Vision Guide",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Thunderlord Clan Artifacts"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "The Thunderspike": {
+        "ID": 10526,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Thunderspike",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Vision Guide"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "They Stole Me Hookah and Me Brews!": {
+        "ID": 10542,
+        "QuestLevel": 66,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "They Stole Me Hookah and Me Brews!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Grimnok and Korgaah, I Am For You!": {
+        "ID": 10543,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Grimnok and Korgaah, I Am For You!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Bladespire Kegger"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "A Curse Upon Both of Your Clans!": {
+        "ID": 10544,
+        "QuestLevel": 66,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Curse Upon Both of Your Clans!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Grimnok and Korgaah, I Am For You!"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Bladespire Kegger": {
+        "ID": 10545,
+        "QuestLevel": 66,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Bladespire Kegger",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "They Stole Me Hookah and Me Brews!"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Malaise": {
+        "ID": 10555,
+        "QuestLevel": 66,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Malaise",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Scratches": {
+        "ID": 10556,
+        "QuestLevel": 66,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Scratches",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Malaise"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Test Flight: The Zephyrium Capacitorium": {
+        "ID": 10557,
+        "QuestLevel": 64,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Test Flight: The Zephyrium Capacitorium",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "The Stones of Vekh'nir": {
+        "ID": 10565,
+        "QuestLevel": 66,
+        "MinLevel": 61,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Stones of Vekh'nir",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Trial and Error": {
+        "ID": 10566,
+        "QuestLevel": 66,
+        "MinLevel": 61,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Trial and Error",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Stones of Vekh'nir"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Creating the Pendant": {
+        "ID": 10567,
+        "QuestLevel": 66,
+        "MinLevel": 66,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Creating the Pendant",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Where Did Those Darn Gnomes Go?": {
+        "ID": 10580,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Where Did Those Darn Gnomes Go?",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Planting the Banner"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Follow the Breadcrumbs": {
+        "ID": 10581,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Follow the Breadcrumbs",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Where Did Those Darn Gnomes Go?"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Picking Up Some Power Converters": {
+        "ID": 10584,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Picking Up Some Power Converters",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Follow the Breadcrumbs"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Gauging the Resonant Frequency": {
+        "ID": 10594,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Gauging the Resonant Frequency",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Crystal Clear"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Whispers of the Raven God": {
+        "ID": 10607,
+        "QuestLevel": 68,
+        "MinLevel": 66,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Whispers of the Raven God",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Creating the Pendant"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Crystal Clear": {
+        "ID": 10608,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Crystal Clear",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "What Came First, the Drake or the Egg?": {
+        "ID": 10609,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "What Came First, the Drake or the Egg?",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Whispers on the Wind": {
+        "ID": 10614,
+        "QuestLevel": 66,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Whispers on the Wind",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Spirits Have Voices"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Ruuan Weald": {
+        "ID": 10615,
+        "QuestLevel": 64,
+        "MinLevel": 61,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Ruuan Weald",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Trial and Error"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Silkwing Cocoons": {
+        "ID": 10617,
+        "QuestLevel": 66,
+        "MinLevel": 61,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Silkwing Cocoons",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "The Softest Wings": {
+        "ID": 10618,
+        "QuestLevel": 65,
+        "MinLevel": 61,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Softest Wings",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Ridgespine Menace": {
+        "ID": 10620,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Ridgespine Menace",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Picking Up Some Power Converters"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Cutting Your Teeth": {
+        "ID": 10632,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Cutting Your Teeth",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Picking Up Some Power Converters"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Ride the Lightning": {
+        "ID": 10657,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Ride the Lightning",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Picking Up Some Power Converters"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "More than a Pound of Flesh": {
+        "ID": 10671,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "More than a Pound of Flesh",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Ridgespine Menace"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Trapping the Light Fantastic": {
+        "ID": 10674,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Trapping the Light Fantastic",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Ride the Lightning"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Show Them Gnome Mercy!": {
+        "ID": 10675,
+        "QuestLevel": 68,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Show Them Gnome Mercy!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Trapping the Light Fantastic"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "A Time for Negotiation...": {
+        "ID": 10682,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Time for Negotiation...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "The Den Mother": {
+        "ID": 10690,
+        "QuestLevel": 66,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Den Mother",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Reunion": {
+        "ID": 10709,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Reunion",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Whispers on the Wind"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Test Flight: The Singing Ridge": {
+        "ID": 10710,
+        "QuestLevel": 64,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Test Flight: The Singing Ridge",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Picking Up Some Power Converters"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Test Flight: Razaan's Landing": {
+        "ID": 10711,
+        "QuestLevel": 64,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Test Flight: Razaan's Landing",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Test Flight: The Singing Ridge"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Test Flight: Ruuan Weald": {
+        "ID": 10712,
+        "QuestLevel": 64,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Test Flight: Ruuan Weald",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Test Flight: Razaan's Landing"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "...and a Time for Action": {
+        "ID": 10713,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "...and a Time for Action",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Time for Negotiation..."
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "On Spirit's Wings": {
+        "ID": 10714,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "On Spirit's Wings",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Reunion"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Into the Churning Gulch (1)": {
+        "ID": 10715,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Into the Churning Gulch",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Baron Sablemane"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Poaching from Poachers": {
+        "ID": 10717,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Poaching from Poachers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Time for Negotiation..."
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "The Spirits Have Voices": {
+        "ID": 10718,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Spirits Have Voices",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Thunderspike"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Did You Get The Note?": {
+        "ID": 10719,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Did You Get The Note?",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "The Smallest Creatures": {
+        "ID": 10720,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Smallest Creatures",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Baron Sablemane's Poison"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "A Boaring Time for Grulloc": {
+        "ID": 10721,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Boaring Time for Grulloc",
+        "AllowableClasses": [],
+        "RewardSpell": 38406,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Smallest Creatures"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Meeting at the Blackwing Coven": {
+        "ID": 10722,
+        "QuestLevel": 68,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Meeting at the Blackwing Coven",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Longtail is the Lynchpin"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Gorgrom the Dragon-Eater (1)": {
+        "ID": 10723,
+        "QuestLevel": 68,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Gorgrom the Dragon-Eater",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "It's a Trap! (1)"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Prisoner of the Bladespire": {
+        "ID": 10724,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 1,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Prisoner of the Bladespire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Gorgrom the Dragon-Eater (1)"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Showdown (1)": {
+        "ID": 10742,
+        "QuestLevel": 70,
+        "MinLevel": 65,
+        "QuestInfoID": 1,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Showdown",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Prisoner of the Bladespire"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Whelps of the Wyrmcult": {
+        "ID": 10747,
+        "QuestLevel": 68,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Whelps of the Wyrmcult",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Poaching from Poachers"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Maxnar Must Die!": {
+        "ID": 10748,
+        "QuestLevel": 68,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Maxnar Must Die!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Meeting at the Blackwing Coven"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Baron Sablemane's Poison": {
+        "ID": 10749,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Baron Sablemane's Poison",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Into the Churning Gulch (1)"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Culling the Wild": {
+        "ID": 10753,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Culling the Wild",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Little Embers": {
+        "ID": 10770,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Little Embers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "From the Ashes": {
+        "ID": 10771,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "From the Ashes",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Baron Sablemane": {
+        "ID": 10783,
+        "QuestLevel": 67,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Baron Sablemane",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "On Spirit's Wings"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Crush the Bloodmaul Camp": {
+        "ID": 10784,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Crush the Bloodmaul Camp",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Baron Sablemane's Poison"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "It's a Trap! (1)": {
+        "ID": 10785,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "It's a Trap!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Boaring Time for Grulloc"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Slaughter at Boulder'mok (1)": {
+        "ID": 10786,
+        "QuestLevel": 68,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Slaughter at Boulder'mok",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "It's a Trap! (1)"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "A Date with Dorgok": {
+        "ID": 10795,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Date with Dorgok",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Crush the Bloodmaul Camp!": {
+        "ID": 10796,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Crush the Bloodmaul Camp!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Favor of the Gronn": {
+        "ID": 10797,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Favor of the Gronn",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Date with Dorgok"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Pay the Baron a Visit": {
+        "ID": 10798,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Pay the Baron a Visit",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Favor of the Gronn"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Into the Churning Gulch (2)": {
+        "ID": 10799,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Into the Churning Gulch",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pay the Baron a Visit"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Goodnight, Gronn": {
+        "ID": 10800,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Goodnight, Gronn",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Into the Churning Gulch (2)"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "It's a Trap! (2)": {
+        "ID": 10801,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "It's a Trap!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Goodnight, Gronn"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Gorgrom the Dragon-Eater (2)": {
+        "ID": 10802,
+        "QuestLevel": 68,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Gorgrom the Dragon-Eater",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "It's a Trap! (2)"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Slaughter at Boulder'mok (2)": {
+        "ID": 10803,
+        "QuestLevel": 68,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Slaughter at Boulder'mok",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "It's a Trap! (2)"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Massacre at Gruul's Lair": {
+        "ID": 10805,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 1,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Massacre at Gruul's Lair",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Baron Sablemane Has Requested Your Presence"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Showdown (2)": {
+        "ID": 10806,
+        "QuestLevel": 70,
+        "MinLevel": 65,
+        "QuestInfoID": 1,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Showdown",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Massacre at Gruul's Lair"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Damaged Mask": {
+        "ID": 10810,
+        "QuestLevel": 68,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Damaged Mask",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Mystery Mask": {
+        "ID": 10812,
+        "QuestLevel": 68,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Mystery Mask",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Damaged Mask"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Baron Sablemane Has Requested Your Presence": {
+        "ID": 10818,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Baron Sablemane Has Requested Your Presence",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Gorgrom the Dragon-Eater (2)"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Felsworn Gas Mask": {
+        "ID": 10819,
+        "QuestLevel": 68,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Felsworn Gas Mask",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mystery Mask"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Deceive thy Enemy": {
+        "ID": 10820,
+        "QuestLevel": 68,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Deceive thy Enemy",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Felsworn Gas Mask"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "You're Fired!": {
+        "ID": 10821,
+        "QuestLevel": 68,
+        "MinLevel": 65,
+        "QuestInfoID": 1,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "You're Fired!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Deceive thy Enemy"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "The Truth Unorbed": {
+        "ID": 10825,
+        "QuestLevel": 68,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Truth Unorbed",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Treebole Must Know": {
+        "ID": 10829,
+        "QuestLevel": 68,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Treebole Must Know",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Truth Unorbed"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Exorcising the Trees": {
+        "ID": 10830,
+        "QuestLevel": 68,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Exorcising the Trees",
+        "AllowableClasses": [],
+        "RewardSpell": 38665,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Treebole Must Know"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Since Time Forgotten...": {
+        "ID": 10843,
+        "QuestLevel": 68,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Since Time Forgotten...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Understanding the Mok'Nathal"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Slay the Brood Mother": {
+        "ID": 10845,
+        "QuestLevel": 68,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Slay the Brood Mother",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Since Time Forgotten..."
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Understanding the Mok'Nathal": {
+        "ID": 10846,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Understanding the Mok'Nathal",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Stones of Vekh'nir"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "The Totems of My Enemy": {
+        "ID": 10851,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Totems of My Enemy",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Understanding the Mok'Nathal"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Spirit Calling": {
+        "ID": 10853,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Spirit Calling",
+        "AllowableClasses": [],
+        "RewardSpell": 38788,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Totems of My Enemy"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Gather the Orbs": {
+        "ID": 10859,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Gather the Orbs",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Spirit Calling"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Mok'Nathal Treats": {
+        "ID": 10860,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Mok'Nathal Treats",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Inform Leoroxx!": {
+        "ID": 10865,
+        "QuestLevel": 68,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Inform Leoroxx!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Gather the Orbs"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "There Can Be Only One Response": {
+        "ID": 10867,
+        "QuestLevel": 68,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "There Can Be Only One Response",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Inform Leoroxx!"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Longtail is the Lynchpin": {
+        "ID": 10893,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Longtail is the Lynchpin",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Wyrmskull Watcher"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Wyrmskull Watcher": {
+        "ID": 10894,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Wyrmskull Watcher",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Did You Get The Note?"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Harvesting the Fel Ammunition": {
+        "ID": 10904,
+        "QuestLevel": 68,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Harvesting the Fel Ammunition",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Death's Door"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Death's Door": {
+        "ID": 10910,
+        "QuestLevel": 68,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Death's Door",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "You're Fired!"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Fire At Will!": {
+        "ID": 10911,
+        "QuestLevel": 68,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Fire At Will!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Harvesting the Fel Ammunition"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "The Hound-Master": {
+        "ID": 10912,
+        "QuestLevel": 68,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Hound-Master",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Fire At Will!"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Killing the Crawlers (1)": {
+        "ID": 10927,
+        "QuestLevel": 65,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Killing the Crawlers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Killing the Crawlers (2)": {
+        "ID": 10928,
+        "QuestLevel": 65,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Killing the Crawlers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Purging the Chambers of Bash'ir": {
+        "ID": 10975,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 1,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Purging the Chambers of Bash'ir",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Stasis Chambers of Bash'ir"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "The Mark of the Nexus-King": {
+        "ID": 10976,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 1,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Mark of the Nexus-King",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Stasis Chambers of Bash'ir"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "The Book of the Raven": {
+        "ID": 10980,
+        "QuestLevel": -1,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Book of the Raven",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "To the Evergrove"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "The Eye of Haramad": {
+        "ID": 10982,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Eye of Haramad",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Stasis Chambers of the Mana-Tombs"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Eyes in the Sky": {
+        "ID": 10986,
+        "QuestLevel": -1,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Eyes in the Sky",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Book of the Raven"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Mog'dorg the Wizened (1)": {
+        "ID": 10989,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Mog'dorg the Wizened",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 10983,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "The Eagle's Essence": {
+        "ID": 10990,
+        "QuestLevel": -1,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Eagle's Essence",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Raven Stones"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Return to Cenarion Refuge": {
+        "ID": 10993,
+        "QuestLevel": -1,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Return to Cenarion Refuge",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Hawk's Essence"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Grulloc Has Two Skulls": {
+        "ID": 10995,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 1,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Grulloc Has Two Skulls",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -10995,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Maggoc's Treasure Chest": {
+        "ID": 10996,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 1,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Maggoc's Treasure Chest",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -10995,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Even Gronn Have Standards": {
+        "ID": 10997,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 1,
+        "QuestSortID": 3696,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Even Gronn Have Standards",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -10995,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Grim(oire) Business": {
+        "ID": 10998,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 1,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Grim(oire) Business",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Into the Soulgrinder": {
+        "ID": 11000,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 1,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Into the Soulgrinder",
+        "AllowableClasses": [],
+        "RewardSpell": 40145,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Grim(oire) Business"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Ogre Heaven": {
+        "ID": 11009,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Ogre Heaven",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Into the Soulgrinder"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Bombing Run (1)": {
+        "ID": 11010,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Bombing Run",
+        "AllowableClasses": [
+            "Warrior",
+            "Paladin",
+            "Hunter",
+            "Rogue",
+            "Priest",
+            "Death Knight",
+            "Shaman",
+            "Mage",
+            "Warlock"
+        ],
+        "RewardSpell": 40198,
+        "ExclusiveGroup": 11010,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Speak with Mog'dorg": {
+        "ID": 11022,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Speak with Mog'dorg",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Into the Soulgrinder"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Bomb Them Again!": {
+        "ID": 11023,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Bomb Them Again!",
+        "AllowableClasses": [],
+        "RewardSpell": 40198,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Bombing Run (1)"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "The Crystals": {
+        "ID": 11025,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Crystals",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Ogre Heaven"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Banish the Demons": {
+        "ID": 11026,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Banish the Demons",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Our Boy Wants To Be A Skyguard Ranger": {
+        "ID": 11030,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Our Boy Wants To Be A Skyguard Ranger",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -11010,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Crystals"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Out of This World Produce!": {
+        "ID": 11036,
+        "QuestLevel": 67,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Out of This World Produce!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 10183,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Parts for the Rocket-Chief": {
+        "ID": 11040,
+        "QuestLevel": 67,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Parts for the Rocket-Chief",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 10183,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Building a Better Gryphon": {
+        "ID": 11043,
+        "QuestLevel": 67,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Building a Better Gryphon",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "The Apprentice's Request": {
+        "ID": 11047,
+        "QuestLevel": 67,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Apprentice's Request",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Banish More Demons": {
+        "ID": 11051,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Banish More Demons",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Banish the Demons"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "The Trouble Below": {
+        "ID": 11057,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Trouble Below",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "An Apexis Relic": {
+        "ID": 11058,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "An Apexis Relic",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -11010,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Crystals"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Guardian of the Monument": {
+        "ID": 11059,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 1,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Guardian of the Monument",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Crystals"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "A Crystalforged Darkrune": {
+        "ID": 11060,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Crystalforged Darkrune",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "A Father's Duty": {
+        "ID": 11061,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Father's Duty",
+        "AllowableClasses": [],
+        "RewardSpell": 41109,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Our Boy Wants To Be A Skyguard Ranger",
+            "An Apexis Relic"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "The Skyguard Outpost": {
+        "ID": 11062,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Skyguard Outpost",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Our Boy Wants To Be A Skyguard Ranger",
+            "An Apexis Relic"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Wrangle Some Aether Rays!": {
+        "ID": 11065,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Wrangle Some Aether Rays!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Crystals"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Wrangle More Aether Rays!": {
+        "ID": 11066,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Wrangle More Aether Rays!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Wrangle Some Aether Rays!"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "To Rule The Skies": {
+        "ID": 11078,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 1,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "To Rule The Skies",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Bombing Run (1)"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "A Fel Whip For Gahk": {
+        "ID": 11079,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 1,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Fel Whip For Gahk",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Father's Duty"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "The Relic's Emanation": {
+        "ID": 11080,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Relic's Emanation",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Our Boy Wants To Be A Skyguard Ranger",
+            "An Apexis Relic"
+        ],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "A Special Thank You": {
+        "ID": 11091,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Special Thank You",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Bombing Run (Druid) (1)": {
+        "ID": 11102,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Bombing Run",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 40198,
+        "ExclusiveGroup": 11010,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Assault on Bash'ir Landing!": {
+        "ID": 11119,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Assault on Bash'ir Landing!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Playing with Fire (1)": {
+        "ID": 11882,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Playing with Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Teldrassil",
+            "Darkshore",
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Westfall",
+            "Redridge Mountains",
+            "Duskwood",
+            "Wetlands",
+            "Hillsbrad Foothills",
+            "The Hinterlands",
+            "Stranglethorn Vale",
+            "Western Plaguelands",
+            "Burning Steppes",
+            "Blasted Lands",
+            "Ashenvale",
+            "Tanaris",
+            "Winterspring",
+            "Dustwallow Marsh",
+            "Hellfire Peninsula",
+            "Zangarmarsh",
+            "Terokkar Forest",
+            "Terokkar Forest",
+            "Nagrand",
+            "Blade's Edge Mountains",
+            "Netherstorm",
+            "Shadowmoon Valley",
+            "Borean Tundra",
+            "The Storm Peaks"
+        ]
+    },
+    "Playing with Fire (2)": {
+        "ID": 11915,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Playing with Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Silverpine Forest",
+            "Eversong Woods",
+            "Ghostlands",
+            "Hillsbrad Foothills",
+            "Swamp of Sorrows",
+            "Stranglethorn Vale",
+            "Stonetalon Mountains",
+            "Ashenvale",
+            "Thousand Needles",
+            "Desolace",
+            "Tanaris",
+            "Feralas",
+            "Winterspring",
+            "Hellfire Peninsula",
+            "Zangarmarsh",
+            "Terokkar Forest",
+            "Terokkar Forest",
+            "Nagrand",
+            "Blade's Edge Mountains",
+            "Netherstorm",
+            "Shadowmoon Valley",
+            "Sholazar Basin"
+        ]
+    },
+    "Desecrate this Fire! (Blade's Edge Mountains - Horde)": {
+        "ID": 11736,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Desecrate this Fire! (Blade's Edge Mountains - Alliance)": {
+        "ID": 11767,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Honor the Flame (Blade's Edge Mountains - Alliance)": {
+        "ID": 11807,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Honor the Flame (Blade's Edge Mountains - Horde)": {
+        "ID": 11843,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Candy Bucket (Blade's Edge Mountains, Sylvanaar)": {
+        "ID": 12358,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Candy Bucket (Blade's Edge Mountains, Toshley's Station)": {
+        "ID": 12359,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Candy Bucket (Blade's Edge Mountains, Thunderlord Stronghold)": {
+        "ID": 12393,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Candy Bucket (Blade's Edge Mountains, Mok'Nathal Village)": {
+        "ID": 12394,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    },
+    "Candy Bucket (Blade's Edge Mountains, Evergrove)": {
+        "ID": 12406,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blade's Edge Mountains"
+        ]
+    }
+}

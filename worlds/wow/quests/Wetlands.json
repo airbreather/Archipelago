@@ -1,0 +1,1699 @@
+{
+    "A Dark Threat Looms (4)": {
+        "ID": 274,
+        "QuestLevel": 18,
+        "MinLevel": 16,
+        "QuestInfoID": 0,
+        "QuestSortID": 38,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Dark Threat Looms",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Dark Threat Looms (2)"
+        ],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "Blisters on The Land": {
+        "ID": 275,
+        "QuestLevel": 26,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Blisters on The Land",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Fire Taboo"
+        ],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "Tramping Paws": {
+        "ID": 276,
+        "QuestLevel": 21,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Tramping Paws",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "Fire Taboo": {
+        "ID": 277,
+        "QuestLevel": 23,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Fire Taboo",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Tramping Paws"
+        ],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "Claws from the Deep": {
+        "ID": 279,
+        "QuestLevel": 22,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Claws from the Deep",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "Reclaiming Goods": {
+        "ID": 281,
+        "QuestLevel": 25,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Reclaiming Goods",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Claws from the Deep"
+        ],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "The Search Continues": {
+        "ID": 284,
+        "QuestLevel": 25,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Search Continues",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Reclaiming Goods"
+        ],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "Search More Hovels": {
+        "ID": 285,
+        "QuestLevel": 25,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Search More Hovels",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Search Continues"
+        ],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "Return the Statuette": {
+        "ID": 286,
+        "QuestLevel": 25,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Return the Statuette",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Search More Hovels"
+        ],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "The Third Fleet": {
+        "ID": 288,
+        "QuestLevel": 27,
+        "MinLevel": 22,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Third Fleet",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "The Cursed Crew": {
+        "ID": 289,
+        "QuestLevel": 29,
+        "MinLevel": 22,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Cursed Crew",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Third Fleet"
+        ],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "Lifting the Curse": {
+        "ID": 290,
+        "QuestLevel": 30,
+        "MinLevel": 22,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Lifting the Curse",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Cursed Crew"
+        ],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "The Eye of Paleth": {
+        "ID": 292,
+        "QuestLevel": 30,
+        "MinLevel": 22,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Eye of Paleth",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Lifting the Curse"
+        ],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "Cleansing the Eye": {
+        "ID": 293,
+        "QuestLevel": 30,
+        "MinLevel": 22,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Cleansing the Eye",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Eye of Paleth"
+        ],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "Ormer's Revenge (1)": {
+        "ID": 294,
+        "QuestLevel": 24,
+        "MinLevel": 22,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Ormer's Revenge",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "Ormer's Revenge (2)": {
+        "ID": 295,
+        "QuestLevel": 27,
+        "MinLevel": 22,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Ormer's Revenge",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Ormer's Revenge (1)"
+        ],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "Ormer's Revenge (3)": {
+        "ID": 296,
+        "QuestLevel": 29,
+        "MinLevel": 22,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Ormer's Revenge",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Ormer's Revenge (2)"
+        ],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "Uncovering the Past": {
+        "ID": 299,
+        "QuestLevel": 28,
+        "MinLevel": 25,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Uncovering the Past",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "The Dark Iron War": {
+        "ID": 303,
+        "QuestLevel": 30,
+        "MinLevel": 25,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Dark Iron War",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "A Grim Task": {
+        "ID": 304,
+        "QuestLevel": 31,
+        "MinLevel": 26,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Grim Task",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "In Search of The Excavation Team (1)": {
+        "ID": 305,
+        "QuestLevel": 24,
+        "MinLevel": 21,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "In Search of The Excavation Team",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "In Search of The Excavation Team (2)": {
+        "ID": 306,
+        "QuestLevel": 24,
+        "MinLevel": 21,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "In Search of The Excavation Team",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "In Search of The Excavation Team (1)"
+        ],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "Lightforge Iron": {
+        "ID": 321,
+        "QuestLevel": 29,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": 10,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Lightforge Iron",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Doomed Fleet"
+        ],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "Blessed Arm": {
+        "ID": 322,
+        "QuestLevel": 29,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": 10,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Blessed Arm",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Lost Ingots"
+        ],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "The Lost Ingots": {
+        "ID": 324,
+        "QuestLevel": 29,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": 10,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Lost Ingots",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Lightforge Iron"
+        ],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "The Greenwarden": {
+        "ID": 463,
+        "QuestLevel": 21,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Greenwarden",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "War Banners": {
+        "ID": 464,
+        "QuestLevel": 26,
+        "MinLevel": 23,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "War Banners",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Report to Captain Stoutfist"
+        ],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "Nek'rosh's Gambit": {
+        "ID": 465,
+        "QuestLevel": 26,
+        "MinLevel": 23,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Nek'rosh's Gambit",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "War Banners"
+        ],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "Daily Delivery": {
+        "ID": 469,
+        "QuestLevel": 21,
+        "MinLevel": 18,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Daily Delivery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "Digging Through the Ooze": {
+        "ID": 470,
+        "QuestLevel": 24,
+        "MinLevel": 19,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Digging Through the Ooze",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "Apprentice's Duties": {
+        "ID": 471,
+        "QuestLevel": 26,
+        "MinLevel": 18,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Apprentice's Duties",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Young Crocolisk Skins"
+        ],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "Fall of Dun Modr": {
+        "ID": 472,
+        "QuestLevel": 25,
+        "MinLevel": 25,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Fall of Dun Modr",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "Report to Captain Stoutfist": {
+        "ID": 473,
+        "QuestLevel": 26,
+        "MinLevel": 23,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Report to Captain Stoutfist",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "Defeat Nek'rosh": {
+        "ID": 474,
+        "QuestLevel": 26,
+        "MinLevel": 23,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Defeat Nek'rosh",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Nek'rosh's Gambit"
+        ],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "Young Crocolisk Skins": {
+        "ID": 484,
+        "QuestLevel": 22,
+        "MinLevel": 18,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Young Crocolisk Skins",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "Lightforge Ingots": {
+        "ID": 526,
+        "QuestLevel": 29,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": 10,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Lightforge Ingots",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Lost Ingots"
+        ],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "The Thandol Span (1)": {
+        "ID": 631,
+        "QuestLevel": 31,
+        "MinLevel": 28,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Thandol Span",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "The Thandol Span (2)": {
+        "ID": 632,
+        "QuestLevel": 31,
+        "MinLevel": 28,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Thandol Span",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Thandol Span (1)"
+        ],
+        "zone": [
+            "Wetlands",
+            "Arathi Highlands"
+        ]
+    },
+    "The Thandol Span (3)": {
+        "ID": 633,
+        "QuestLevel": 31,
+        "MinLevel": 28,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Thandol Span",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Thandol Span (2)"
+        ],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "Plea To The Alliance": {
+        "ID": 634,
+        "QuestLevel": 31,
+        "MinLevel": 28,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Plea To The Alliance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Thandol Span (3)"
+        ],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "The Absent Minded Prospector (5)": {
+        "ID": 943,
+        "QuestLevel": 24,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Absent Minded Prospector",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Absent Minded Prospector (4)"
+        ],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "The Missing Diplomat (10)": {
+        "ID": 1249,
+        "QuestLevel": 33,
+        "MinLevel": 28,
+        "QuestInfoID": 0,
+        "QuestSortID": 1519,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Missing Diplomat",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Missing Diplomat (9)"
+        ],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "The Missing Diplomat (11)": {
+        "ID": 1250,
+        "QuestLevel": 33,
+        "MinLevel": 28,
+        "QuestInfoID": 0,
+        "QuestSortID": 1519,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Missing Diplomat",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Missing Diplomat (10)"
+        ],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "The Missing Diplomat (12)": {
+        "ID": 1264,
+        "QuestLevel": 33,
+        "MinLevel": 28,
+        "QuestInfoID": 0,
+        "QuestSortID": 1519,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Missing Diplomat",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Missing Diplomat (11)"
+        ],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "James Hyal (2)": {
+        "ID": 1302,
+        "QuestLevel": 35,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "James Hyal",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 1282,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "Winter's Presents (1)": {
+        "ID": 8827,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Winter's Presents",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Winter Veil",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dun Morogh",
+            "Durotar",
+            "Tirisfal Glades",
+            "Wetlands",
+            "Stranglethorn Vale",
+            "Tanaris"
+        ]
+    },
+    "Winter's Presents (2)": {
+        "ID": 8828,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Winter's Presents",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Winter Veil",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dun Morogh",
+            "Durotar",
+            "Tirisfal Glades",
+            "Wetlands",
+            "Stranglethorn Vale",
+            "Tanaris"
+        ]
+    },
+    "New Year Celebrations! (1)": {
+        "ID": 8860,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "New Year Celebrations!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "New Year",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dun Morogh",
+            "Durotar",
+            "Tirisfal Glades",
+            "Wetlands",
+            "Stranglethorn Vale",
+            "Tanaris"
+        ]
+    },
+    "New Year Celebrations! (2)": {
+        "ID": 8861,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "New Year Celebrations!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "New Year",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dun Morogh",
+            "Durotar",
+            "Tirisfal Glades",
+            "Wetlands",
+            "Stranglethorn Vale",
+            "Tanaris"
+        ]
+    },
+    "Playing with Fire (1)": {
+        "ID": 11882,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Playing with Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Teldrassil",
+            "Darkshore",
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Westfall",
+            "Redridge Mountains",
+            "Duskwood",
+            "Wetlands",
+            "Hillsbrad Foothills",
+            "The Hinterlands",
+            "Stranglethorn Vale",
+            "Western Plaguelands",
+            "Burning Steppes",
+            "Blasted Lands",
+            "Ashenvale",
+            "Tanaris",
+            "Winterspring",
+            "Dustwallow Marsh",
+            "Hellfire Peninsula",
+            "Zangarmarsh",
+            "Terokkar Forest",
+            "Terokkar Forest",
+            "Nagrand",
+            "Blade's Edge Mountains",
+            "Netherstorm",
+            "Shadowmoon Valley",
+            "Borean Tundra",
+            "The Storm Peaks"
+        ]
+    },
+    "Desecrate this Fire! (Wetlands - Horde)": {
+        "ID": 11757,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "Honor the Flame (Wetlands - Alliance)": {
+        "ID": 11828,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Wetlands"
+        ]
+    },
+    "Candy Bucket (Wetlands)": {
+        "ID": 12343,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Wetlands"
+        ]
+    }
+}

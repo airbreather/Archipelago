@@ -1,0 +1,2924 @@
+{
+    "Arcane Intellect (Rank 1)": {
+        "id": 1459,
+        "spell_icon_id": 125,
+        "money_cost": 10,
+        "Level": 1,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Conjure Water (Rank 1)": {
+        "id": 5504,
+        "spell_icon_id": 1357,
+        "money_cost": 100,
+        "Level": 4,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frostbolt (Rank 1)": {
+        "id": 116,
+        "spell_icon_id": 188,
+        "money_cost": 100,
+        "Level": 4,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Blast (Rank 1)": {
+        "id": 2136,
+        "spell_icon_id": 12,
+        "money_cost": 100,
+        "Level": 6,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Conjure Food (Rank 1)": {
+        "id": 587,
+        "spell_icon_id": 1437,
+        "money_cost": 100,
+        "Level": 6,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fireball (Rank 2)": {
+        "id": 143,
+        "spell_icon_id": 185,
+        "money_cost": 100,
+        "Level": 6,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Missiles (Rank 1)": {
+        "id": 5143,
+        "spell_icon_id": 225,
+        "money_cost": 200,
+        "Level": 8,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frostbolt (Rank 2)": {
+        "id": 205,
+        "spell_icon_id": 188,
+        "money_cost": 200,
+        "Level": 8,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Polymorph (Rank 1)": {
+        "id": 118,
+        "spell_icon_id": 82,
+        "money_cost": 200,
+        "Level": 8,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Armor (Rank 2)": {
+        "id": 7300,
+        "spell_icon_id": 181,
+        "money_cost": 400,
+        "Level": 10,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Conjure Water (Rank 2)": {
+        "id": 5505,
+        "spell_icon_id": 1309,
+        "money_cost": 400,
+        "Level": 10,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Nova (Rank 1)": {
+        "id": 122,
+        "spell_icon_id": 193,
+        "money_cost": 400,
+        "Level": 10,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Dampen Magic (Rank 1)": {
+        "id": 604,
+        "spell_icon_id": 263,
+        "money_cost": 600,
+        "Level": 12,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Conjure Food (Rank 2)": {
+        "id": 597,
+        "spell_icon_id": 374,
+        "money_cost": 600,
+        "Level": 12,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fireball (Rank 3)": {
+        "id": 145,
+        "spell_icon_id": 185,
+        "money_cost": 600,
+        "Level": 12,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Slow Fall": {
+        "id": 130,
+        "spell_icon_id": 505,
+        "money_cost": 600,
+        "Level": 12,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Blast (Rank 2)": {
+        "id": 2137,
+        "spell_icon_id": 12,
+        "money_cost": 900,
+        "Level": 14,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Intellect (Rank 2)": {
+        "id": 1460,
+        "spell_icon_id": 125,
+        "money_cost": 900,
+        "Level": 14,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Explosion (Rank 1)": {
+        "id": 1449,
+        "spell_icon_id": 122,
+        "money_cost": 900,
+        "Level": 14,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frostbolt (Rank 3)": {
+        "id": 837,
+        "spell_icon_id": 188,
+        "money_cost": 900,
+        "Level": 14,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Missiles (Rank 2)": {
+        "id": 5144,
+        "spell_icon_id": 225,
+        "money_cost": 1500,
+        "Level": 16,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flamestrike (Rank 1)": {
+        "id": 2120,
+        "spell_icon_id": 37,
+        "money_cost": 1500,
+        "Level": 16,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fireball (Rank 4)": {
+        "id": 3140,
+        "spell_icon_id": 185,
+        "money_cost": 1800,
+        "Level": 18,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Amplify Magic (Rank 1)": {
+        "id": 1008,
+        "spell_icon_id": 242,
+        "money_cost": 1800,
+        "Level": 18,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Remove Curse": {
+        "id": 475,
+        "spell_icon_id": 195,
+        "money_cost": 1800,
+        "Level": 18,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Polymorph (Rank 2)": {
+        "id": 12824,
+        "spell_icon_id": 82,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Evocation": {
+        "id": 12051,
+        "spell_icon_id": 47,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Teleport: Silvermoon": {
+        "id": 32272,
+        "spell_icon_id": 2125,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Teleport: Exodar": {
+        "id": 32271,
+        "spell_icon_id": 2124,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Teleport: Theramore": {
+        "id": 49359,
+        "spell_icon_id": 2661,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Teleport: Stonard": {
+        "id": 49358,
+        "spell_icon_id": 2660,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frostbolt (Rank 4)": {
+        "id": 7322,
+        "spell_icon_id": 188,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Armor (Rank 3)": {
+        "id": 7301,
+        "spell_icon_id": 181,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Conjure Water (Rank 3)": {
+        "id": 5506,
+        "spell_icon_id": 1358,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Teleport: Orgrimmar": {
+        "id": 3567,
+        "spell_icon_id": 1490,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Teleport: Thunder Bluff": {
+        "id": 3566,
+        "spell_icon_id": 1492,
+        "money_cost": 8000,
+        "Level": 20,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Teleport: Darnassus": {
+        "id": 3565,
+        "spell_icon_id": 1486,
+        "money_cost": 8000,
+        "Level": 20,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Teleport: Undercity": {
+        "id": 3563,
+        "spell_icon_id": 1493,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Teleport: Ironforge": {
+        "id": 3562,
+        "spell_icon_id": 1489,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Teleport: Stormwind": {
+        "id": 3561,
+        "spell_icon_id": 1491,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blink": {
+        "id": 1953,
+        "spell_icon_id": 1499,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mana Shield (Rank 1)": {
+        "id": 1463,
+        "spell_icon_id": 209,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Ward (Rank 1)": {
+        "id": 543,
+        "spell_icon_id": 16,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blizzard (Rank 1)": {
+        "id": 10,
+        "spell_icon_id": 285,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Explosion (Rank 2)": {
+        "id": 8437,
+        "spell_icon_id": 122,
+        "money_cost": 3000,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Ward (Rank 1)": {
+        "id": 6143,
+        "spell_icon_id": 501,
+        "money_cost": 3000,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Scorch (Rank 1)": {
+        "id": 2948,
+        "spell_icon_id": 816,
+        "money_cost": 3000,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Blast (Rank 3)": {
+        "id": 2138,
+        "spell_icon_id": 12,
+        "money_cost": 3000,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Conjure Food (Rank 3)": {
+        "id": 990,
+        "spell_icon_id": 259,
+        "money_cost": 3000,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Pyroblast (Rank 2)": {
+        "id": 12505,
+        "spell_icon_id": 184,
+        "money_cost": 100,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Dampen Magic (Rank 2)": {
+        "id": 8450,
+        "spell_icon_id": 263,
+        "money_cost": 4000,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fireball (Rank 5)": {
+        "id": 8400,
+        "spell_icon_id": 185,
+        "money_cost": 4000,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Missiles (Rank 3)": {
+        "id": 5145,
+        "spell_icon_id": 225,
+        "money_cost": 4000,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Counterspell": {
+        "id": 2139,
+        "spell_icon_id": 17,
+        "money_cost": 4000,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flamestrike (Rank 2)": {
+        "id": 2121,
+        "spell_icon_id": 37,
+        "money_cost": 4000,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frostbolt (Rank 5)": {
+        "id": 8406,
+        "spell_icon_id": 188,
+        "money_cost": 5000,
+        "Level": 26,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Nova (Rank 2)": {
+        "id": 865,
+        "spell_icon_id": 193,
+        "money_cost": 5000,
+        "Level": 26,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Cone of Cold (Rank 1)": {
+        "id": 120,
+        "spell_icon_id": 35,
+        "money_cost": 5000,
+        "Level": 26,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mana Shield (Rank 2)": {
+        "id": 8494,
+        "spell_icon_id": 209,
+        "money_cost": 7000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Scorch (Rank 2)": {
+        "id": 8444,
+        "spell_icon_id": 816,
+        "money_cost": 7000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blizzard (Rank 2)": {
+        "id": 6141,
+        "spell_icon_id": 285,
+        "money_cost": 7000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Intellect (Rank 3)": {
+        "id": 1461,
+        "spell_icon_id": 125,
+        "money_cost": 7000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Conjure Mana Gem (Rank 1)": {
+        "id": 759,
+        "spell_icon_id": 1036,
+        "money_cost": 7000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Pyroblast (Rank 3)": {
+        "id": 12522,
+        "spell_icon_id": 184,
+        "money_cost": 400,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ice Block": {
+        "id": 45438,
+        "spell_icon_id": 14,
+        "money_cost": 8000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Ward (Rank 2)": {
+        "id": 8457,
+        "spell_icon_id": 16,
+        "money_cost": 8000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Amplify Magic (Rank 2)": {
+        "id": 8455,
+        "spell_icon_id": 242,
+        "money_cost": 8000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Explosion (Rank 3)": {
+        "id": 8438,
+        "spell_icon_id": 122,
+        "money_cost": 8000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Blast (Rank 4)": {
+        "id": 8412,
+        "spell_icon_id": 12,
+        "money_cost": 8000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fireball (Rank 6)": {
+        "id": 8401,
+        "spell_icon_id": 185,
+        "money_cost": 8000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ice Armor (Rank 1)": {
+        "id": 7302,
+        "spell_icon_id": 181,
+        "money_cost": 8000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Conjure Water (Rank 4)": {
+        "id": 6127,
+        "spell_icon_id": 1359,
+        "money_cost": 8000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Ward (Rank 2)": {
+        "id": 8461,
+        "spell_icon_id": 501,
+        "money_cost": 10000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flamestrike (Rank 3)": {
+        "id": 8422,
+        "spell_icon_id": 37,
+        "money_cost": 10000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Missiles (Rank 4)": {
+        "id": 8416,
+        "spell_icon_id": 225,
+        "money_cost": 10000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frostbolt (Rank 6)": {
+        "id": 8407,
+        "spell_icon_id": 188,
+        "money_cost": 10000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Conjure Food (Rank 4)": {
+        "id": 6129,
+        "spell_icon_id": 258,
+        "money_cost": 10000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Cone of Cold (Rank 2)": {
+        "id": 8492,
+        "spell_icon_id": 35,
+        "money_cost": 12000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Scorch (Rank 3)": {
+        "id": 8445,
+        "spell_icon_id": 816,
+        "money_cost": 12000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mage Armor (Rank 1)": {
+        "id": 6117,
+        "spell_icon_id": 1711,
+        "money_cost": 13000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Portal: Stonard": {
+        "id": 49361,
+        "spell_icon_id": 2659,
+        "money_cost": 15000,
+        "Level": 35,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Portal: Theramore": {
+        "id": 49360,
+        "spell_icon_id": 2662,
+        "money_cost": 15000,
+        "Level": 35,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blast Wave (Rank 2)": {
+        "id": 13018,
+        "spell_icon_id": 292,
+        "money_cost": 400,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Pyroblast (Rank 4)": {
+        "id": 12523,
+        "spell_icon_id": 184,
+        "money_cost": 650,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mana Shield (Rank 3)": {
+        "id": 8495,
+        "spell_icon_id": 209,
+        "money_cost": 13000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Dampen Magic (Rank 3)": {
+        "id": 8451,
+        "spell_icon_id": 263,
+        "money_cost": 13000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blizzard (Rank 3)": {
+        "id": 8427,
+        "spell_icon_id": 285,
+        "money_cost": 13000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fireball (Rank 7)": {
+        "id": 8402,
+        "spell_icon_id": 185,
+        "money_cost": 13000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Explosion (Rank 4)": {
+        "id": 8439,
+        "spell_icon_id": 122,
+        "money_cost": 14000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Blast (Rank 5)": {
+        "id": 8413,
+        "spell_icon_id": 12,
+        "money_cost": 14000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frostbolt (Rank 7)": {
+        "id": 8408,
+        "spell_icon_id": 188,
+        "money_cost": 14000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Conjure Mana Gem (Rank 2)": {
+        "id": 3552,
+        "spell_icon_id": 1037,
+        "money_cost": 14000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Polymorph (Rank 3)": {
+        "id": 12825,
+        "spell_icon_id": 82,
+        "money_cost": 15000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Portal: Undercity": {
+        "id": 11418,
+        "spell_icon_id": 1484,
+        "money_cost": 15000,
+        "Level": 40,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Portal: Orgrimmar": {
+        "id": 11417,
+        "spell_icon_id": 1481,
+        "money_cost": 15000,
+        "Level": 40,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Portal: Ironforge": {
+        "id": 11416,
+        "spell_icon_id": 1480,
+        "money_cost": 15000,
+        "Level": 40,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Portal: Silvermoon": {
+        "id": 32267,
+        "spell_icon_id": 2123,
+        "money_cost": 15000,
+        "Level": 40,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Portal: Exodar": {
+        "id": 32266,
+        "spell_icon_id": 2122,
+        "money_cost": 15000,
+        "Level": 40,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Conjure Water (Rank 5)": {
+        "id": 10138,
+        "spell_icon_id": 1306,
+        "money_cost": 15000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Portal: Stormwind": {
+        "id": 10059,
+        "spell_icon_id": 1482,
+        "money_cost": 15000,
+        "Level": 40,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Ward (Rank 3)": {
+        "id": 8458,
+        "spell_icon_id": 16,
+        "money_cost": 15000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Scorch (Rank 4)": {
+        "id": 8446,
+        "spell_icon_id": 816,
+        "money_cost": 15000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flamestrike (Rank 4)": {
+        "id": 8423,
+        "spell_icon_id": 37,
+        "money_cost": 15000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Missiles (Rank 5)": {
+        "id": 8417,
+        "spell_icon_id": 225,
+        "money_cost": 15000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ice Armor (Rank 2)": {
+        "id": 7320,
+        "spell_icon_id": 181,
+        "money_cost": 15000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Nova (Rank 3)": {
+        "id": 6131,
+        "spell_icon_id": 193,
+        "money_cost": 15000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Pyroblast (Rank 5)": {
+        "id": 12524,
+        "spell_icon_id": 184,
+        "money_cost": 900,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Amplify Magic (Rank 3)": {
+        "id": 10169,
+        "spell_icon_id": 242,
+        "money_cost": 18000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Cone of Cold (Rank 3)": {
+        "id": 10159,
+        "spell_icon_id": 35,
+        "money_cost": 18000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Intellect (Rank 4)": {
+        "id": 10156,
+        "spell_icon_id": 125,
+        "money_cost": 18000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fireball (Rank 8)": {
+        "id": 10148,
+        "spell_icon_id": 185,
+        "money_cost": 18000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Conjure Food (Rank 5)": {
+        "id": 10144,
+        "spell_icon_id": 260,
+        "money_cost": 18000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Ward (Rank 3)": {
+        "id": 8462,
+        "spell_icon_id": 501,
+        "money_cost": 18000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blast Wave (Rank 3)": {
+        "id": 13019,
+        "spell_icon_id": 292,
+        "money_cost": 1148,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mana Shield (Rank 4)": {
+        "id": 10191,
+        "spell_icon_id": 209,
+        "money_cost": 23000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blizzard (Rank 4)": {
+        "id": 10185,
+        "spell_icon_id": 285,
+        "money_cost": 23000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frostbolt (Rank 8)": {
+        "id": 10179,
+        "spell_icon_id": 188,
+        "money_cost": 23000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ice Barrier (Rank 2)": {
+        "id": 13031,
+        "spell_icon_id": 32,
+        "money_cost": 1700,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Scorch (Rank 5)": {
+        "id": 10205,
+        "spell_icon_id": 816,
+        "money_cost": 26000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Explosion (Rank 5)": {
+        "id": 10201,
+        "spell_icon_id": 122,
+        "money_cost": 26000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Blast (Rank 6)": {
+        "id": 10197,
+        "spell_icon_id": 12,
+        "money_cost": 26000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mage Armor (Rank 2)": {
+        "id": 22782,
+        "spell_icon_id": 1711,
+        "money_cost": 1400,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Pyroblast (Rank 6)": {
+        "id": 12525,
+        "spell_icon_id": 184,
+        "money_cost": 1400,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flamestrike (Rank 5)": {
+        "id": 10215,
+        "spell_icon_id": 37,
+        "money_cost": 28000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Missiles (Rank 6)": {
+        "id": 10211,
+        "spell_icon_id": 225,
+        "money_cost": 28000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Dampen Magic (Rank 4)": {
+        "id": 10173,
+        "spell_icon_id": 263,
+        "money_cost": 28000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fireball (Rank 9)": {
+        "id": 10149,
+        "spell_icon_id": 185,
+        "money_cost": 28000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Conjure Mana Gem (Rank 3)": {
+        "id": 10053,
+        "spell_icon_id": 1038,
+        "money_cost": 28000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Portal: Thunder Bluff": {
+        "id": 11420,
+        "spell_icon_id": 1483,
+        "money_cost": 32000,
+        "Level": 50,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Portal: Darnassus": {
+        "id": 11419,
+        "spell_icon_id": 1479,
+        "money_cost": 32000,
+        "Level": 50,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Ward (Rank 4)": {
+        "id": 10223,
+        "spell_icon_id": 16,
+        "money_cost": 32000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ice Armor (Rank 3)": {
+        "id": 10219,
+        "spell_icon_id": 181,
+        "money_cost": 32000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frostbolt (Rank 9)": {
+        "id": 10180,
+        "spell_icon_id": 188,
+        "money_cost": 32000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Cone of Cold (Rank 4)": {
+        "id": 10160,
+        "spell_icon_id": 35,
+        "money_cost": 32000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Conjure Water (Rank 6)": {
+        "id": 10139,
+        "spell_icon_id": 1360,
+        "money_cost": 32000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ice Barrier (Rank 3)": {
+        "id": 13032,
+        "spell_icon_id": 32,
+        "money_cost": 1748,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blast Wave (Rank 4)": {
+        "id": 13020,
+        "spell_icon_id": 292,
+        "money_cost": 1748,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Scorch (Rank 6)": {
+        "id": 10206,
+        "spell_icon_id": 816,
+        "money_cost": 35000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mana Shield (Rank 5)": {
+        "id": 10192,
+        "spell_icon_id": 209,
+        "money_cost": 35000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blizzard (Rank 5)": {
+        "id": 10186,
+        "spell_icon_id": 285,
+        "money_cost": 35000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Ward (Rank 4)": {
+        "id": 10177,
+        "spell_icon_id": 501,
+        "money_cost": 35000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Conjure Food (Rank 6)": {
+        "id": 10145,
+        "spell_icon_id": 1512,
+        "money_cost": 35000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Pyroblast (Rank 7)": {
+        "id": 12526,
+        "spell_icon_id": 184,
+        "money_cost": 1800,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Nova (Rank 4)": {
+        "id": 10230,
+        "spell_icon_id": 193,
+        "money_cost": 36000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Explosion (Rank 6)": {
+        "id": 10202,
+        "spell_icon_id": 122,
+        "money_cost": 36000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Blast (Rank 7)": {
+        "id": 10199,
+        "spell_icon_id": 12,
+        "money_cost": 36000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Amplify Magic (Rank 4)": {
+        "id": 10170,
+        "spell_icon_id": 242,
+        "money_cost": 36000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fireball (Rank 10)": {
+        "id": 10150,
+        "spell_icon_id": 185,
+        "money_cost": 36000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Dragon's Breath (Rank 2)": {
+        "id": 33041,
+        "spell_icon_id": 1548,
+        "money_cost": 1900,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flamestrike (Rank 6)": {
+        "id": 10216,
+        "spell_icon_id": 37,
+        "money_cost": 38000,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Missiles (Rank 7)": {
+        "id": 10212,
+        "spell_icon_id": 225,
+        "money_cost": 38000,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frostbolt (Rank 10)": {
+        "id": 10181,
+        "spell_icon_id": 188,
+        "money_cost": 38000,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Intellect (Rank 5)": {
+        "id": 10157,
+        "spell_icon_id": 125,
+        "money_cost": 38000,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Brilliance (Rank 1)": {
+        "id": 23028,
+        "spell_icon_id": 1694,
+        "money_cost": 38000,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ice Barrier (Rank 4)": {
+        "id": 13033,
+        "spell_icon_id": 32,
+        "money_cost": 2000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Scorch (Rank 7)": {
+        "id": 10207,
+        "spell_icon_id": 816,
+        "money_cost": 40000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Cone of Cold (Rank 5)": {
+        "id": 10161,
+        "spell_icon_id": 35,
+        "money_cost": 40000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Conjure Mana Gem (Rank 4)": {
+        "id": 10054,
+        "spell_icon_id": 1039,
+        "money_cost": 40000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mage Armor (Rank 3)": {
+        "id": 22783,
+        "spell_icon_id": 1711,
+        "money_cost": 40000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blast Wave (Rank 5)": {
+        "id": 13021,
+        "spell_icon_id": 292,
+        "money_cost": 2100,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Polymorph (Rank 4)": {
+        "id": 12826,
+        "spell_icon_id": 82,
+        "money_cost": 42000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Conjure Food (Rank 7)": {
+        "id": 28612,
+        "spell_icon_id": 1911,
+        "money_cost": 42000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Ward (Rank 5)": {
+        "id": 28609,
+        "spell_icon_id": 501,
+        "money_cost": 42000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Missiles (Rank 8)": {
+        "id": 25345,
+        "spell_icon_id": 225,
+        "money_cost": 42000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frostbolt (Rank 11)": {
+        "id": 25304,
+        "spell_icon_id": 188,
+        "money_cost": 42000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Teleport: Shattrath": {
+        "id": 33690,
+        "spell_icon_id": 2175,
+        "money_cost": 20000,
+        "Level": 60,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Ward (Rank 5)": {
+        "id": 10225,
+        "spell_icon_id": 16,
+        "money_cost": 42000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ice Armor (Rank 4)": {
+        "id": 10220,
+        "spell_icon_id": 181,
+        "money_cost": 42000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mana Shield (Rank 6)": {
+        "id": 10193,
+        "spell_icon_id": 209,
+        "money_cost": 42000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blizzard (Rank 6)": {
+        "id": 10187,
+        "spell_icon_id": 285,
+        "money_cost": 42000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Dampen Magic (Rank 5)": {
+        "id": 10174,
+        "spell_icon_id": 263,
+        "money_cost": 42000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fireball (Rank 11)": {
+        "id": 10151,
+        "spell_icon_id": 185,
+        "money_cost": 42000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Conjure Water (Rank 7)": {
+        "id": 10140,
+        "spell_icon_id": 1687,
+        "money_cost": 42000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Pyroblast (Rank 8)": {
+        "id": 18809,
+        "spell_icon_id": 184,
+        "money_cost": 2100,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Blast (Rank 8)": {
+        "id": 27078,
+        "spell_icon_id": 12,
+        "money_cost": 46000,
+        "Level": 61,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Molten Armor (Rank 1)": {
+        "id": 30482,
+        "spell_icon_id": 2307,
+        "money_cost": 51000,
+        "Level": 62,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Explosion (Rank 7)": {
+        "id": 27080,
+        "spell_icon_id": 122,
+        "money_cost": 51000,
+        "Level": 62,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fireball (Rank 12)": {
+        "id": 25306,
+        "spell_icon_id": 185,
+        "money_cost": 42000,
+        "Level": 62,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Amplify Magic (Rank 5)": {
+        "id": 27130,
+        "spell_icon_id": 242,
+        "money_cost": 57000,
+        "Level": 63,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Missiles (Rank 9)": {
+        "id": 27075,
+        "spell_icon_id": 225,
+        "money_cost": 57000,
+        "Level": 63,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frostbolt (Rank 12)": {
+        "id": 27071,
+        "spell_icon_id": 188,
+        "money_cost": 57000,
+        "Level": 63,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Blast (Rank 1)": {
+        "id": 30451,
+        "spell_icon_id": 2294,
+        "money_cost": 63000,
+        "Level": 64,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ice Barrier (Rank 5)": {
+        "id": 27134,
+        "spell_icon_id": 32,
+        "money_cost": 2500,
+        "Level": 64,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flamestrike (Rank 7)": {
+        "id": 27086,
+        "spell_icon_id": 37,
+        "money_cost": 63000,
+        "Level": 64,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Dragon's Breath (Rank 3)": {
+        "id": 33042,
+        "spell_icon_id": 1548,
+        "money_cost": 2200,
+        "Level": 64,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blast Wave (Rank 6)": {
+        "id": 27133,
+        "spell_icon_id": 292,
+        "money_cost": 3500,
+        "Level": 65,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Cone of Cold (Rank 6)": {
+        "id": 27087,
+        "spell_icon_id": 35,
+        "money_cost": 70000,
+        "Level": 65,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Scorch (Rank 8)": {
+        "id": 27073,
+        "spell_icon_id": 816,
+        "money_cost": 70000,
+        "Level": 65,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Conjure Water (Rank 8)": {
+        "id": 37420,
+        "spell_icon_id": 2346,
+        "money_cost": 70000,
+        "Level": 65,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Portal: Shattrath": {
+        "id": 33691,
+        "spell_icon_id": 2174,
+        "money_cost": 150000,
+        "Level": 65,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ice Lance (Rank 1)": {
+        "id": 30455,
+        "spell_icon_id": 186,
+        "money_cost": 78000,
+        "Level": 66,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Pyroblast (Rank 9)": {
+        "id": 27132,
+        "spell_icon_id": 184,
+        "money_cost": 3900,
+        "Level": 66,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fireball (Rank 13)": {
+        "id": 27070,
+        "spell_icon_id": 185,
+        "money_cost": 78000,
+        "Level": 66,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Nova (Rank 5)": {
+        "id": 27088,
+        "spell_icon_id": 193,
+        "money_cost": 87000,
+        "Level": 67,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Dampen Magic (Rank 6)": {
+        "id": 33944,
+        "spell_icon_id": 263,
+        "money_cost": 100000,
+        "Level": 67,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mana Shield (Rank 7)": {
+        "id": 27131,
+        "spell_icon_id": 209,
+        "money_cost": 96000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Conjure Mana Gem (Rank 5)": {
+        "id": 27101,
+        "spell_icon_id": 283,
+        "money_cost": 96000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blizzard (Rank 7)": {
+        "id": 27085,
+        "spell_icon_id": 285,
+        "money_cost": 96000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Invisibility": {
+        "id": 66,
+        "spell_icon_id": 2308,
+        "money_cost": 96000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Ward (Rank 6)": {
+        "id": 27128,
+        "spell_icon_id": 16,
+        "money_cost": 110000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mage Armor (Rank 4)": {
+        "id": 27125,
+        "spell_icon_id": 1711,
+        "money_cost": 110000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ice Armor (Rank 5)": {
+        "id": 27124,
+        "spell_icon_id": 181,
+        "money_cost": 110000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frostbolt (Rank 13)": {
+        "id": 27072,
+        "spell_icon_id": 188,
+        "money_cost": 110000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Missiles (Rank 10)": {
+        "id": 38699,
+        "spell_icon_id": 225,
+        "money_cost": 87000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Amplify Magic (Rank 6)": {
+        "id": 33946,
+        "spell_icon_id": 242,
+        "money_cost": 110000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Spellsteal": {
+        "id": 30449,
+        "spell_icon_id": 1961,
+        "money_cost": 120000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Brilliance (Rank 2)": {
+        "id": 27127,
+        "spell_icon_id": 1694,
+        "money_cost": 100000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Intellect (Rank 6)": {
+        "id": 27126,
+        "spell_icon_id": 125,
+        "money_cost": 120000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Conjure Water (Rank 9)": {
+        "id": 27090,
+        "spell_icon_id": 1844,
+        "money_cost": 150000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Explosion (Rank 8)": {
+        "id": 27082,
+        "spell_icon_id": 122,
+        "money_cost": 120000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Blast (Rank 9)": {
+        "id": 27079,
+        "spell_icon_id": 12,
+        "money_cost": 120000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Scorch (Rank 9)": {
+        "id": 27074,
+        "spell_icon_id": 816,
+        "money_cost": 120000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Living Bomb (Rank 2)": {
+        "id": 55359,
+        "spell_icon_id": 3000,
+        "money_cost": 5000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Missiles (Rank 11)": {
+        "id": 38704,
+        "spell_icon_id": 225,
+        "money_cost": 100000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frostbolt (Rank 14)": {
+        "id": 38697,
+        "spell_icon_id": 188,
+        "money_cost": 150000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fireball (Rank 14)": {
+        "id": 38692,
+        "spell_icon_id": 185,
+        "money_cost": 150000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Pyroblast (Rank 10)": {
+        "id": 33938,
+        "spell_icon_id": 184,
+        "money_cost": 7500,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blast Wave (Rank 7)": {
+        "id": 33933,
+        "spell_icon_id": 292,
+        "money_cost": 6000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Conjure Food (Rank 8)": {
+        "id": 33717,
+        "spell_icon_id": 1842,
+        "money_cost": 150000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ice Barrier (Rank 6)": {
+        "id": 33405,
+        "spell_icon_id": 32,
+        "money_cost": 6000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Dragon's Breath (Rank 4)": {
+        "id": 33043,
+        "spell_icon_id": 1548,
+        "money_cost": 2500,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Ward (Rank 6)": {
+        "id": 32796,
+        "spell_icon_id": 501,
+        "money_cost": 120000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Barrage (Rank 2)": {
+        "id": 44780,
+        "spell_icon_id": 3376,
+        "money_cost": 10000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ritual of Refreshment (Rank 1)": {
+        "id": 43987,
+        "spell_icon_id": 2267,
+        "money_cost": 120000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Molten Armor (Rank 2)": {
+        "id": 43045,
+        "spell_icon_id": 2307,
+        "money_cost": 150000,
+        "Level": 71,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mage Armor (Rank 5)": {
+        "id": 43023,
+        "spell_icon_id": 1711,
+        "money_cost": 150000,
+        "Level": 71,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Blast (Rank 2)": {
+        "id": 42894,
+        "spell_icon_id": 2294,
+        "money_cost": 150000,
+        "Level": 71,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Cone of Cold (Rank 7)": {
+        "id": 42930,
+        "spell_icon_id": 35,
+        "money_cost": 150000,
+        "Level": 72,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flamestrike (Rank 8)": {
+        "id": 42925,
+        "spell_icon_id": 37,
+        "money_cost": 150000,
+        "Level": 72,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ice Lance (Rank 2)": {
+        "id": 42913,
+        "spell_icon_id": 186,
+        "money_cost": 150000,
+        "Level": 72,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mana Shield (Rank 8)": {
+        "id": 43019,
+        "spell_icon_id": 209,
+        "money_cost": 150000,
+        "Level": 73,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Pyroblast (Rank 11)": {
+        "id": 42890,
+        "spell_icon_id": 184,
+        "money_cost": 7500,
+        "Level": 73,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Scorch (Rank 10)": {
+        "id": 42858,
+        "spell_icon_id": 816,
+        "money_cost": 150000,
+        "Level": 73,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Portal: Dalaran": {
+        "id": 53142,
+        "spell_icon_id": 3051,
+        "money_cost": 100000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blizzard (Rank 8)": {
+        "id": 42939,
+        "spell_icon_id": 285,
+        "money_cost": 150000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Blast (Rank 10)": {
+        "id": 42872,
+        "spell_icon_id": 12,
+        "money_cost": 150000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fireball (Rank 15)": {
+        "id": 42832,
+        "spell_icon_id": 185,
+        "money_cost": 150000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frostfire Bolt (Rank 1)": {
+        "id": 44614,
+        "spell_icon_id": 2946,
+        "money_cost": 150000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ice Barrier (Rank 7)": {
+        "id": 43038,
+        "spell_icon_id": 32,
+        "money_cost": 7500,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Conjure Refreshment (Rank 1)": {
+        "id": 42955,
+        "spell_icon_id": 2966,
+        "money_cost": 150000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Dragon's Breath (Rank 5)": {
+        "id": 42949,
+        "spell_icon_id": 1548,
+        "money_cost": 7500,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blast Wave (Rank 8)": {
+        "id": 42944,
+        "spell_icon_id": 292,
+        "money_cost": 7500,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Nova (Rank 6)": {
+        "id": 42917,
+        "spell_icon_id": 193,
+        "money_cost": 150000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Missiles (Rank 12)": {
+        "id": 42843,
+        "spell_icon_id": 225,
+        "money_cost": 150000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frostbolt (Rank 15)": {
+        "id": 42841,
+        "spell_icon_id": 188,
+        "money_cost": 150000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Dampen Magic (Rank 7)": {
+        "id": 43015,
+        "spell_icon_id": 263,
+        "money_cost": 150000,
+        "Level": 76,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Explosion (Rank 9)": {
+        "id": 42920,
+        "spell_icon_id": 122,
+        "money_cost": 150000,
+        "Level": 76,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Blast (Rank 3)": {
+        "id": 42896,
+        "spell_icon_id": 2294,
+        "money_cost": 150000,
+        "Level": 76,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Amplify Magic (Rank 7)": {
+        "id": 43017,
+        "spell_icon_id": 242,
+        "money_cost": 150000,
+        "Level": 77,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Conjure Mana Gem (Rank 6)": {
+        "id": 42985,
+        "spell_icon_id": 2451,
+        "money_cost": 150000,
+        "Level": 77,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Pyroblast (Rank 12)": {
+        "id": 42891,
+        "spell_icon_id": 184,
+        "money_cost": 7500,
+        "Level": 77,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Ward (Rank 7)": {
+        "id": 43010,
+        "spell_icon_id": 16,
+        "money_cost": 150000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ice Lance (Rank 3)": {
+        "id": 42914,
+        "spell_icon_id": 186,
+        "money_cost": 150000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Scorch (Rank 11)": {
+        "id": 42859,
+        "spell_icon_id": 816,
+        "money_cost": 150000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fireball (Rank 16)": {
+        "id": 42833,
+        "spell_icon_id": 185,
+        "money_cost": 150000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Molten Armor (Rank 3)": {
+        "id": 43046,
+        "spell_icon_id": 2307,
+        "money_cost": 150000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mage Armor (Rank 6)": {
+        "id": 43024,
+        "spell_icon_id": 1711,
+        "money_cost": 150000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mana Shield (Rank 9)": {
+        "id": 43020,
+        "spell_icon_id": 209,
+        "money_cost": 150000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Ward (Rank 7)": {
+        "id": 43012,
+        "spell_icon_id": 501,
+        "money_cost": 150000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ice Armor (Rank 6)": {
+        "id": 43008,
+        "spell_icon_id": 181,
+        "money_cost": 150000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Cone of Cold (Rank 8)": {
+        "id": 42931,
+        "spell_icon_id": 35,
+        "money_cost": 150000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flamestrike (Rank 9)": {
+        "id": 42926,
+        "spell_icon_id": 37,
+        "money_cost": 150000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Missiles (Rank 13)": {
+        "id": 42846,
+        "spell_icon_id": 225,
+        "money_cost": 150000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frostbolt (Rank 16)": {
+        "id": 42842,
+        "spell_icon_id": 188,
+        "money_cost": 150000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Living Bomb (Rank 3)": {
+        "id": 55360,
+        "spell_icon_id": 3000,
+        "money_cost": 7500,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mirror Image": {
+        "id": 55342,
+        "spell_icon_id": 331,
+        "money_cost": 150000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ritual of Refreshment (Rank 2)": {
+        "id": 58659,
+        "spell_icon_id": 2267,
+        "money_cost": 150000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Barrage (Rank 3)": {
+        "id": 44781,
+        "spell_icon_id": 3376,
+        "money_cost": 15000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ice Barrier (Rank 8)": {
+        "id": 43039,
+        "spell_icon_id": 32,
+        "money_cost": 7500,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Brilliance (Rank 3)": {
+        "id": 43002,
+        "spell_icon_id": 1694,
+        "money_cost": 150000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Intellect (Rank 7)": {
+        "id": 42995,
+        "spell_icon_id": 125,
+        "money_cost": 150000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Conjure Refreshment (Rank 2)": {
+        "id": 42956,
+        "spell_icon_id": 2967,
+        "money_cost": 150000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Dragon's Breath (Rank 6)": {
+        "id": 42950,
+        "spell_icon_id": 1548,
+        "money_cost": 7500,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blast Wave (Rank 9)": {
+        "id": 42945,
+        "spell_icon_id": 292,
+        "money_cost": 7500,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blizzard (Rank 9)": {
+        "id": 42940,
+        "spell_icon_id": 285,
+        "money_cost": 150000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Explosion (Rank 10)": {
+        "id": 42921,
+        "spell_icon_id": 122,
+        "money_cost": 150000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Blast (Rank 4)": {
+        "id": 42897,
+        "spell_icon_id": 2294,
+        "money_cost": 150000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Blast (Rank 11)": {
+        "id": 42873,
+        "spell_icon_id": 12,
+        "money_cost": 150000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frostfire Bolt (Rank 2)": {
+        "id": 47610,
+        "spell_icon_id": 2946,
+        "money_cost": 150000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    }
+}

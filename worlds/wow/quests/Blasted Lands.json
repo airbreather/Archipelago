@@ -1,0 +1,754 @@
+{
+    "To Serve Kum'isha": {
+        "ID": 2521,
+        "QuestLevel": 55,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 4,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "To Serve Kum'isha",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blasted Lands"
+        ]
+    },
+    "Kum'isha's Endeavors": {
+        "ID": 2522,
+        "QuestLevel": 55,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 4,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Kum'isha's Endeavors",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "To Serve Kum'isha"
+        ],
+        "zone": [
+            "Blasted Lands"
+        ]
+    },
+    "Snickerfang Jowls": {
+        "ID": 2581,
+        "QuestLevel": 50,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 4,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Snickerfang Jowls",
+        "AllowableClasses": [],
+        "RewardSpell": 10670,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blasted Lands"
+        ]
+    },
+    "Rage of Ages": {
+        "ID": 2582,
+        "QuestLevel": 50,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 4,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Rage of Ages",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Snickerfang Jowls"
+        ],
+        "zone": [
+            "Blasted Lands"
+        ]
+    },
+    "A Boar's Vitality": {
+        "ID": 2583,
+        "QuestLevel": 50,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 4,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Boar's Vitality",
+        "AllowableClasses": [],
+        "RewardSpell": 10671,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blasted Lands"
+        ]
+    },
+    "Spirit of the Boar": {
+        "ID": 2584,
+        "QuestLevel": 50,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 4,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Spirit of the Boar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Boar's Vitality"
+        ],
+        "zone": [
+            "Blasted Lands"
+        ]
+    },
+    "The Decisive Striker": {
+        "ID": 2585,
+        "QuestLevel": 50,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 4,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Decisive Striker",
+        "AllowableClasses": [],
+        "RewardSpell": 10672,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blasted Lands"
+        ]
+    },
+    "Salt of the Scorpok": {
+        "ID": 2586,
+        "QuestLevel": 50,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 4,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Salt of the Scorpok",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Decisive Striker"
+        ],
+        "zone": [
+            "Blasted Lands"
+        ]
+    },
+    "The Basilisk's Bite": {
+        "ID": 2601,
+        "QuestLevel": 50,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 4,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Basilisk's Bite",
+        "AllowableClasses": [],
+        "RewardSpell": 10690,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blasted Lands"
+        ]
+    },
+    "Infallible Mind": {
+        "ID": 2602,
+        "QuestLevel": 50,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 4,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Infallible Mind",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Basilisk's Bite"
+        ],
+        "zone": [
+            "Blasted Lands"
+        ]
+    },
+    "Vulture's Vigor": {
+        "ID": 2603,
+        "QuestLevel": 50,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 4,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Vulture's Vigor",
+        "AllowableClasses": [],
+        "RewardSpell": 10691,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blasted Lands"
+        ]
+    },
+    "Spiritual Domination": {
+        "ID": 2604,
+        "QuestLevel": 50,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 4,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Spiritual Domination",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Vulture's Vigor"
+        ],
+        "zone": [
+            "Blasted Lands"
+        ]
+    },
+    "The Cover of Darkness": {
+        "ID": 2743,
+        "QuestLevel": 60,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 4,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Cover of Darkness",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Kirith"
+        ],
+        "zone": [
+            "Blasted Lands"
+        ]
+    },
+    "Petty Squabbles": {
+        "ID": 2783,
+        "QuestLevel": 57,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 4,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Petty Squabbles",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blasted Lands"
+        ]
+    },
+    "The Divination": {
+        "ID": 2992,
+        "QuestLevel": 47,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 47,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Divination",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Nekrum's Medallion"
+        ],
+        "zone": [
+            "Blasted Lands"
+        ]
+    },
+    "Return to the Hinterlands": {
+        "ID": 2993,
+        "QuestLevel": 47,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 47,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Return to the Hinterlands",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Divination"
+        ],
+        "zone": [
+            "Blasted Lands"
+        ]
+    },
+    "Everything Counts In Large Amounts": {
+        "ID": 3501,
+        "QuestLevel": 55,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 4,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Everything Counts In Large Amounts",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blasted Lands"
+        ]
+    },
+    "One Draenei's Junk...": {
+        "ID": 3502,
+        "QuestLevel": 55,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 4,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "One Draenei's Junk...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Everything Counts In Large Amounts"
+        ],
+        "zone": [
+            "Blasted Lands"
+        ]
+    },
+    "The Prison's Casing": {
+        "ID": 7582,
+        "QuestLevel": -1,
+        "MinLevel": 60,
+        "QuestInfoID": 1,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Prison's Casing",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Prison's Bindings"
+        ],
+        "zone": [
+            "Blasted Lands"
+        ]
+    },
+    "Suppression": {
+        "ID": 7583,
+        "QuestLevel": -1,
+        "MinLevel": 60,
+        "QuestInfoID": 1,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Suppression",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 20700,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Prison's Casing"
+        ],
+        "zone": [
+            "Blasted Lands"
+        ]
+    },
+    "Bellowrage the Elder": {
+        "ID": 8647,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Bellowrage the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blasted Lands"
+        ]
+    },
+    "Through the Dark Portal (1)": {
+        "ID": 9407,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Through the Dark Portal",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blasted Lands"
+        ]
+    },
+    "Through the Dark Portal (3)": {
+        "ID": 10119,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Through the Dark Portal",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blasted Lands"
+        ]
+    },
+    "Into the Breach (1)": {
+        "ID": 10259,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 4,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Into the Breach",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blasted Lands"
+        ]
+    },
+    "Playing with Fire (1)": {
+        "ID": 11882,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Playing with Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Teldrassil",
+            "Darkshore",
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Westfall",
+            "Redridge Mountains",
+            "Duskwood",
+            "Wetlands",
+            "Hillsbrad Foothills",
+            "The Hinterlands",
+            "Stranglethorn Vale",
+            "Western Plaguelands",
+            "Burning Steppes",
+            "Blasted Lands",
+            "Ashenvale",
+            "Tanaris",
+            "Winterspring",
+            "Dustwallow Marsh",
+            "Hellfire Peninsula",
+            "Zangarmarsh",
+            "Terokkar Forest",
+            "Terokkar Forest",
+            "Nagrand",
+            "Blade's Edge Mountains",
+            "Netherstorm",
+            "Shadowmoon Valley",
+            "Borean Tundra",
+            "The Storm Peaks"
+        ]
+    },
+    "Desecrate this Fire! (Blasted Lands - Horde)": {
+        "ID": 11737,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blasted Lands"
+        ]
+    },
+    "Honor the Flame (Blasted Lands - Alliance)": {
+        "ID": 11808,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Blasted Lands"
+        ]
+    }
+}

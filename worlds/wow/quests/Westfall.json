@@ -1,0 +1,1264 @@
+{
+    "The Killing Fields": {
+        "ID": 9,
+        "QuestLevel": 15,
+        "MinLevel": 8,
+        "QuestInfoID": 0,
+        "QuestSortID": 40,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Killing Fields",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "The People's Militia (1)": {
+        "ID": 12,
+        "QuestLevel": 12,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 40,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The People's Militia",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "The People's Militia (2)": {
+        "ID": 13,
+        "QuestLevel": 14,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 40,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The People's Militia",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The People's Militia (1)"
+        ],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "The People's Militia (3)": {
+        "ID": 14,
+        "QuestLevel": 17,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 40,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The People's Militia",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The People's Militia (2)"
+        ],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "Goretusk Liver Pie": {
+        "ID": 22,
+        "QuestLevel": 12,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 40,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Goretusk Liver Pie",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "Westfall Stew (1)": {
+        "ID": 36,
+        "QuestLevel": 10,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 40,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Westfall Stew",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "Westfall Stew (2)": {
+        "ID": 38,
+        "QuestLevel": 13,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 40,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Westfall Stew",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Westfall Stew (1)"
+        ],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "Sweet Amber (1)": {
+        "ID": 48,
+        "QuestLevel": 44,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 40,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Sweet Amber",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "Sweet Amber (2)": {
+        "ID": 49,
+        "QuestLevel": 44,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 40,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Sweet Amber",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Sweet Amber (1)"
+        ],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "Sweet Amber (3)": {
+        "ID": 50,
+        "QuestLevel": 44,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 40,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Sweet Amber",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Sweet Amber (2)"
+        ],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "Sweet Amber (4)": {
+        "ID": 51,
+        "QuestLevel": 44,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 40,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Sweet Amber",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Sweet Amber (3)"
+        ],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "Sweet Amber (5)": {
+        "ID": 53,
+        "QuestLevel": 44,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 40,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Sweet Amber",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Sweet Amber (4)"
+        ],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "The Forgotten Heirloom": {
+        "ID": 64,
+        "QuestLevel": 12,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 40,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Forgotten Heirloom",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "The Defias Brotherhood (1)": {
+        "ID": 65,
+        "QuestLevel": 18,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": 40,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Defias Brotherhood",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "The Legend of Stalvan (3)": {
+        "ID": 68,
+        "QuestLevel": 28,
+        "MinLevel": 22,
+        "QuestInfoID": 0,
+        "QuestSortID": 10,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Legend of Stalvan",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Legend of Stalvan (2)"
+        ],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "Patrolling Westfall": {
+        "ID": 102,
+        "QuestLevel": 14,
+        "MinLevel": 8,
+        "QuestInfoID": 0,
+        "QuestSortID": 40,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Patrolling Westfall",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "Keeper of the Flame": {
+        "ID": 103,
+        "QuestLevel": 16,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 40,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Keeper of the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "The Coastal Menace": {
+        "ID": 104,
+        "QuestLevel": 20,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 40,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Coastal Menace",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "Report to Gryan Stoutmantle": {
+        "ID": 109,
+        "QuestLevel": 10,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 12,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Report to Gryan Stoutmantle",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Elwynn Forest",
+            "Westfall"
+        ]
+    },
+    "Thunderbrew Lager": {
+        "ID": 117,
+        "QuestLevel": 15,
+        "MinLevel": 0,
+        "QuestInfoID": 0,
+        "QuestSortID": 40,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Thunderbrew Lager",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "The Defias Brotherhood (3)": {
+        "ID": 135,
+        "QuestLevel": 18,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": 40,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Defias Brotherhood",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Defias Brotherhood (2)"
+        ],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "Captain Sanders' Hidden Treasure (2)": {
+        "ID": 138,
+        "QuestLevel": 16,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 40,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Captain Sanders' Hidden Treasure",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Captain Sanders' Hidden Treasure (1)"
+        ],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "Captain Sanders' Hidden Treasure (3)": {
+        "ID": 139,
+        "QuestLevel": 16,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 40,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Captain Sanders' Hidden Treasure",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Captain Sanders' Hidden Treasure (2)"
+        ],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "Captain Sanders' Hidden Treasure (4)": {
+        "ID": 140,
+        "QuestLevel": 16,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 40,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Captain Sanders' Hidden Treasure",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Captain Sanders' Hidden Treasure (3)"
+        ],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "The Defias Brotherhood (5)": {
+        "ID": 142,
+        "QuestLevel": 18,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": 40,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Defias Brotherhood",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Defias Brotherhood (4)"
+        ],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "Messenger to Westfall (2)": {
+        "ID": 144,
+        "QuestLevel": 14,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": 44,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Messenger to Westfall",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Messenger to Westfall (1)"
+        ],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "Poor Old Blanchy": {
+        "ID": 151,
+        "QuestLevel": 14,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 40,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Poor Old Blanchy",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "The Coast Isn't Clear": {
+        "ID": 152,
+        "QuestLevel": 19,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 40,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Coast Isn't Clear",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "Red Leather Bandanas": {
+        "ID": 153,
+        "QuestLevel": 15,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 40,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Red Leather Bandanas",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "The Defias Brotherhood (6)": {
+        "ID": 155,
+        "QuestLevel": 18,
+        "MinLevel": 14,
+        "QuestInfoID": 1,
+        "QuestSortID": 40,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Defias Brotherhood",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Defias Brotherhood (5)"
+        ],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "The Tome of Valor (Paladin) (5)": {
+        "ID": 1651,
+        "QuestLevel": -1,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -141,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Tome of Valor",
+        "AllowableClasses": [
+            "Paladin"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Tome of Valor (Paladin) (4)"
+        ],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "The Tome of Valor (Paladin) (6)": {
+        "ID": 1652,
+        "QuestLevel": -1,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -141,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Tome of Valor",
+        "AllowableClasses": [
+            "Paladin"
+        ],
+        "RewardSpell": 5503,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Tome of Valor (Paladin) (5)"
+        ],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "Klaven's Tower": {
+        "ID": 2359,
+        "QuestLevel": -1,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -162,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Klaven's Tower",
+        "AllowableClasses": [
+            "Rogue"
+        ],
+        "RewardSpell": 2995,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mathias and the Defias"
+        ],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "CLUCK!": {
+        "ID": 3861,
+        "QuestLevel": 1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "CLUCK!",
+        "AllowableClasses": [],
+        "RewardSpell": 13563,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Elwynn Forest",
+            "Westfall",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Redridge Mountains",
+            "Duskwood",
+            "Hillsbrad Foothills",
+            "Dustwallow Marsh"
+        ]
+    },
+    "A Swift Message": {
+        "ID": 6181,
+        "QuestLevel": 10,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 40,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Swift Message",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "Continue to Stormwind": {
+        "ID": 6281,
+        "QuestLevel": 10,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 40,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Continue to Stormwind",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Swift Message"
+        ],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "Skychaser the Elder": {
+        "ID": 8675,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Skychaser the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "Playing with Fire (1)": {
+        "ID": 11882,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Playing with Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Teldrassil",
+            "Darkshore",
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Westfall",
+            "Redridge Mountains",
+            "Duskwood",
+            "Wetlands",
+            "Hillsbrad Foothills",
+            "The Hinterlands",
+            "Stranglethorn Vale",
+            "Western Plaguelands",
+            "Burning Steppes",
+            "Blasted Lands",
+            "Ashenvale",
+            "Tanaris",
+            "Winterspring",
+            "Dustwallow Marsh",
+            "Hellfire Peninsula",
+            "Zangarmarsh",
+            "Terokkar Forest",
+            "Terokkar Forest",
+            "Nagrand",
+            "Blade's Edge Mountains",
+            "Netherstorm",
+            "Shadowmoon Valley",
+            "Borean Tundra",
+            "The Storm Peaks"
+        ]
+    },
+    "Desecrate this Fire! (Westfall - Horde)": {
+        "ID": 11581,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "Honor the Flame (Westfall - Alliance)": {
+        "ID": 11583,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Westfall"
+        ]
+    },
+    "Candy Bucket (Westfall)": {
+        "ID": 12340,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Westfall"
+        ]
+    }
+}

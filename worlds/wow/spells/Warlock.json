@@ -1,0 +1,2342 @@
+{
+    "Felsteed": {
+        "id": 5784,
+        "spell_icon_id": 115,
+        "money_cost": 0,
+        "Level": 0,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Inferno": {
+        "id": 1122,
+        "spell_icon_id": 460,
+        "money_cost": 0,
+        "Level": 0,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Dreadsteed": {
+        "id": 23161,
+        "spell_icon_id": 1715,
+        "money_cost": 0,
+        "Level": 0,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Summon Imp": {
+        "id": 688,
+        "spell_icon_id": 215,
+        "money_cost": 100,
+        "Level": 1,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": true
+    },
+    "Immolate (Rank 1)": {
+        "id": 348,
+        "spell_icon_id": 31,
+        "money_cost": 10,
+        "Level": 3,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Curse of Weakness (Rank 1)": {
+        "id": 702,
+        "spell_icon_id": 543,
+        "money_cost": 100,
+        "Level": 4,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Corruption (Rank 1)": {
+        "id": 172,
+        "spell_icon_id": 313,
+        "money_cost": 100,
+        "Level": 4,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Life Tap (Rank 1)": {
+        "id": 1454,
+        "spell_icon_id": 208,
+        "money_cost": 100,
+        "Level": 6,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Bolt (Rank 2)": {
+        "id": 695,
+        "spell_icon_id": 213,
+        "money_cost": 100,
+        "Level": 6,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fear (Rank 1)": {
+        "id": 5782,
+        "spell_icon_id": 98,
+        "money_cost": 200,
+        "Level": 8,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Curse of Agony (Rank 1)": {
+        "id": 980,
+        "spell_icon_id": 544,
+        "money_cost": 200,
+        "Level": 8,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Create Healthstone (Rank 1)": {
+        "id": 6201,
+        "spell_icon_id": 284,
+        "money_cost": 300,
+        "Level": 10,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Drain Soul (Rank 1)": {
+        "id": 1120,
+        "spell_icon_id": 113,
+        "money_cost": 300,
+        "Level": 10,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Immolate (Rank 2)": {
+        "id": 707,
+        "spell_icon_id": 31,
+        "money_cost": 300,
+        "Level": 10,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Demon Skin (Rank 2)": {
+        "id": 696,
+        "spell_icon_id": 89,
+        "money_cost": 300,
+        "Level": 10,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Curse of Weakness (Rank 2)": {
+        "id": 1108,
+        "spell_icon_id": 543,
+        "money_cost": 600,
+        "Level": 12,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Health Funnel (Rank 1)": {
+        "id": 755,
+        "spell_icon_id": 153,
+        "money_cost": 600,
+        "Level": 12,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Bolt (Rank 3)": {
+        "id": 705,
+        "spell_icon_id": 213,
+        "money_cost": 600,
+        "Level": 12,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Corruption (Rank 2)": {
+        "id": 6222,
+        "spell_icon_id": 313,
+        "money_cost": 900,
+        "Level": 14,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Drain Life (Rank 1)": {
+        "id": 689,
+        "spell_icon_id": 546,
+        "money_cost": 900,
+        "Level": 14,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Unending Breath": {
+        "id": 5697,
+        "spell_icon_id": 545,
+        "money_cost": 1200,
+        "Level": 16,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Life Tap (Rank 2)": {
+        "id": 1455,
+        "spell_icon_id": 208,
+        "money_cost": 1080,
+        "Level": 16,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Searing Pain (Rank 1)": {
+        "id": 5676,
+        "spell_icon_id": 816,
+        "money_cost": 1500,
+        "Level": 18,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Curse of Agony (Rank 2)": {
+        "id": 1014,
+        "spell_icon_id": 544,
+        "money_cost": 1500,
+        "Level": 18,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Create Soulstone (Rank 1)": {
+        "id": 693,
+        "spell_icon_id": 92,
+        "money_cost": 1500,
+        "Level": 18,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rain of Fire (Rank 1)": {
+        "id": 5740,
+        "spell_icon_id": 547,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Health Funnel (Rank 2)": {
+        "id": 3698,
+        "spell_icon_id": 153,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Immolate (Rank 3)": {
+        "id": 1094,
+        "spell_icon_id": 31,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Bolt (Rank 4)": {
+        "id": 1088,
+        "spell_icon_id": 213,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Demon Armor (Rank 1)": {
+        "id": 706,
+        "spell_icon_id": 89,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ritual of Summoning": {
+        "id": 698,
+        "spell_icon_id": 164,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Curse of Weakness (Rank 3)": {
+        "id": 6205,
+        "spell_icon_id": 543,
+        "money_cost": 2500,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Create Healthstone (Rank 2)": {
+        "id": 6202,
+        "spell_icon_id": 284,
+        "money_cost": 2500,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Drain Life (Rank 2)": {
+        "id": 699,
+        "spell_icon_id": 546,
+        "money_cost": 2500,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Eye of Kilrogg": {
+        "id": 126,
+        "spell_icon_id": 135,
+        "money_cost": 2500,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Drain Soul (Rank 2)": {
+        "id": 8288,
+        "spell_icon_id": 113,
+        "money_cost": 3000,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Corruption (Rank 3)": {
+        "id": 6223,
+        "spell_icon_id": 313,
+        "money_cost": 3000,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Drain Mana": {
+        "id": 5138,
+        "spell_icon_id": 548,
+        "money_cost": 3000,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadowburn (Rank 2)": {
+        "id": 18867,
+        "spell_icon_id": 1590,
+        "money_cost": 148,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Searing Pain (Rank 2)": {
+        "id": 17919,
+        "spell_icon_id": 816,
+        "money_cost": 4000,
+        "Level": 26,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Curse of Tongues (Rank 1)": {
+        "id": 1714,
+        "spell_icon_id": 692,
+        "money_cost": 4000,
+        "Level": 26,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Life Tap (Rank 3)": {
+        "id": 1456,
+        "spell_icon_id": 208,
+        "money_cost": 3600,
+        "Level": 26,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Detect Invisibility": {
+        "id": 132,
+        "spell_icon_id": 209,
+        "money_cost": 4000,
+        "Level": 26,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Create Firestone (Rank 1)": {
+        "id": 6366,
+        "spell_icon_id": 1506,
+        "money_cost": 5000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Curse of Agony (Rank 3)": {
+        "id": 6217,
+        "spell_icon_id": 544,
+        "money_cost": 5000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Health Funnel (Rank 3)": {
+        "id": 3699,
+        "spell_icon_id": 153,
+        "money_cost": 5000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Bolt (Rank 5)": {
+        "id": 1106,
+        "spell_icon_id": 213,
+        "money_cost": 5000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Banish (Rank 1)": {
+        "id": 710,
+        "spell_icon_id": 96,
+        "money_cost": 5000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Immolate (Rank 4)": {
+        "id": 2941,
+        "spell_icon_id": 31,
+        "money_cost": 6000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hellfire (Rank 1)": {
+        "id": 1949,
+        "spell_icon_id": 937,
+        "money_cost": 6000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Enslave Demon (Rank 1)": {
+        "id": 1098,
+        "spell_icon_id": 1500,
+        "money_cost": 6000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Demon Armor (Rank 2)": {
+        "id": 1086,
+        "spell_icon_id": 89,
+        "money_cost": 6000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Drain Life (Rank 3)": {
+        "id": 709,
+        "spell_icon_id": 546,
+        "money_cost": 6000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Create Soulstone (Rank 2)": {
+        "id": 20752,
+        "spell_icon_id": 92,
+        "money_cost": 6000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Curse of Weakness (Rank 4)": {
+        "id": 7646,
+        "spell_icon_id": 543,
+        "money_cost": 7000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Ward (Rank 1)": {
+        "id": 6229,
+        "spell_icon_id": 207,
+        "money_cost": 7000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fear (Rank 2)": {
+        "id": 6213,
+        "spell_icon_id": 98,
+        "money_cost": 7000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Curse of the Elements (Rank 1)": {
+        "id": 1490,
+        "spell_icon_id": 55,
+        "money_cost": 7000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadowburn (Rank 3)": {
+        "id": 18868,
+        "spell_icon_id": 1590,
+        "money_cost": 348,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Searing Pain (Rank 3)": {
+        "id": 17920,
+        "spell_icon_id": 816,
+        "money_cost": 8000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Corruption (Rank 4)": {
+        "id": 7648,
+        "spell_icon_id": 313,
+        "money_cost": 8000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rain of Fire (Rank 2)": {
+        "id": 6219,
+        "spell_icon_id": 547,
+        "money_cost": 8000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Create Healthstone (Rank 3)": {
+        "id": 5699,
+        "spell_icon_id": 284,
+        "money_cost": 8000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Create Firestone (Rank 2)": {
+        "id": 17951,
+        "spell_icon_id": 1506,
+        "money_cost": 9000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Life Tap (Rank 4)": {
+        "id": 11687,
+        "spell_icon_id": 208,
+        "money_cost": 8100,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Bolt (Rank 6)": {
+        "id": 7641,
+        "spell_icon_id": 213,
+        "money_cost": 9000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Health Funnel (Rank 4)": {
+        "id": 3700,
+        "spell_icon_id": 153,
+        "money_cost": 9000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Create Spellstone (Rank 1)": {
+        "id": 2362,
+        "spell_icon_id": 344,
+        "money_cost": 9000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Curse of Agony (Rank 4)": {
+        "id": 11711,
+        "spell_icon_id": 544,
+        "money_cost": 10000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Drain Soul (Rank 3)": {
+        "id": 8289,
+        "spell_icon_id": 113,
+        "money_cost": 10000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Drain Life (Rank 4)": {
+        "id": 7651,
+        "spell_icon_id": 546,
+        "money_cost": 10000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Demon Armor (Rank 3)": {
+        "id": 11733,
+        "spell_icon_id": 89,
+        "money_cost": 11000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Immolate (Rank 5)": {
+        "id": 11665,
+        "spell_icon_id": 31,
+        "money_cost": 11000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Howl of Terror (Rank 1)": {
+        "id": 5484,
+        "spell_icon_id": 134,
+        "money_cost": 11000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Create Soulstone (Rank 3)": {
+        "id": 20755,
+        "spell_icon_id": 92,
+        "money_cost": 11000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadowburn (Rank 4)": {
+        "id": 18869,
+        "spell_icon_id": 1590,
+        "money_cost": 548,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Ward (Rank 2)": {
+        "id": 11739,
+        "spell_icon_id": 207,
+        "money_cost": 11000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Curse of Weakness (Rank 5)": {
+        "id": 11707,
+        "spell_icon_id": 543,
+        "money_cost": 11000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hellfire (Rank 2)": {
+        "id": 11683,
+        "spell_icon_id": 937,
+        "money_cost": 11000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Searing Pain (Rank 4)": {
+        "id": 17921,
+        "spell_icon_id": 816,
+        "money_cost": 11000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Death Coil (Rank 1)": {
+        "id": 6789,
+        "spell_icon_id": 88,
+        "money_cost": 11000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Enslave Demon (Rank 2)": {
+        "id": 11725,
+        "spell_icon_id": 1500,
+        "money_cost": 12000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Health Funnel (Rank 5)": {
+        "id": 11693,
+        "spell_icon_id": 153,
+        "money_cost": 12000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Corruption (Rank 5)": {
+        "id": 11671,
+        "spell_icon_id": 313,
+        "money_cost": 12000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Bolt (Rank 7)": {
+        "id": 11659,
+        "spell_icon_id": 213,
+        "money_cost": 12000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Create Firestone (Rank 3)": {
+        "id": 17952,
+        "spell_icon_id": 1506,
+        "money_cost": 13000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Create Healthstone (Rank 4)": {
+        "id": 11729,
+        "spell_icon_id": 284,
+        "money_cost": 13000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Curse of the Elements (Rank 2)": {
+        "id": 11721,
+        "spell_icon_id": 55,
+        "money_cost": 13000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Drain Life (Rank 5)": {
+        "id": 11699,
+        "spell_icon_id": 546,
+        "money_cost": 13000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Life Tap (Rank 5)": {
+        "id": 11688,
+        "spell_icon_id": 208,
+        "money_cost": 11700,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rain of Fire (Rank 3)": {
+        "id": 11677,
+        "spell_icon_id": 547,
+        "money_cost": 13000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Create Spellstone (Rank 2)": {
+        "id": 17727,
+        "spell_icon_id": 344,
+        "money_cost": 14000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Curse of Agony (Rank 5)": {
+        "id": 11712,
+        "spell_icon_id": 544,
+        "money_cost": 14000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Soul Fire (Rank 1)": {
+        "id": 6353,
+        "spell_icon_id": 184,
+        "money_cost": 14000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadowburn (Rank 5)": {
+        "id": 18870,
+        "spell_icon_id": 1590,
+        "money_cost": 700,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Banish (Rank 2)": {
+        "id": 18647,
+        "spell_icon_id": 96,
+        "money_cost": 14000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Demon Armor (Rank 4)": {
+        "id": 11734,
+        "spell_icon_id": 89,
+        "money_cost": 15000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Curse of Tongues (Rank 2)": {
+        "id": 11719,
+        "spell_icon_id": 692,
+        "money_cost": 15000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Immolate (Rank 6)": {
+        "id": 11667,
+        "spell_icon_id": 31,
+        "money_cost": 15000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Death Coil (Rank 2)": {
+        "id": 17925,
+        "spell_icon_id": 88,
+        "money_cost": 15000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Searing Pain (Rank 5)": {
+        "id": 17922,
+        "spell_icon_id": 816,
+        "money_cost": 15000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Create Soulstone (Rank 4)": {
+        "id": 20756,
+        "spell_icon_id": 92,
+        "money_cost": 15000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Dark Pact (Rank 2)": {
+        "id": 18937,
+        "spell_icon_id": 154,
+        "money_cost": 748,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Ward (Rank 3)": {
+        "id": 11740,
+        "spell_icon_id": 207,
+        "money_cost": 18000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Curse of Weakness (Rank 6)": {
+        "id": 11708,
+        "spell_icon_id": 543,
+        "money_cost": 18000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Health Funnel (Rank 6)": {
+        "id": 11694,
+        "spell_icon_id": 153,
+        "money_cost": 18000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Drain Soul (Rank 4)": {
+        "id": 11675,
+        "spell_icon_id": 113,
+        "money_cost": 18000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Bolt (Rank 8)": {
+        "id": 11660,
+        "spell_icon_id": 213,
+        "money_cost": 18000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Drain Life (Rank 6)": {
+        "id": 11700,
+        "spell_icon_id": 546,
+        "money_cost": 20000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hellfire (Rank 3)": {
+        "id": 11684,
+        "spell_icon_id": 937,
+        "money_cost": 20000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Corruption (Rank 6)": {
+        "id": 11672,
+        "spell_icon_id": 313,
+        "money_cost": 20000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Howl of Terror (Rank 2)": {
+        "id": 17928,
+        "spell_icon_id": 134,
+        "money_cost": 20000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Create Firestone (Rank 4)": {
+        "id": 17953,
+        "spell_icon_id": 1506,
+        "money_cost": 22000,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Life Tap (Rank 6)": {
+        "id": 11689,
+        "spell_icon_id": 208,
+        "money_cost": 19800,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Soul Fire (Rank 2)": {
+        "id": 17924,
+        "spell_icon_id": 184,
+        "money_cost": 22000,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fear (Rank 3)": {
+        "id": 6215,
+        "spell_icon_id": 98,
+        "money_cost": 22000,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadowburn (Rank 6)": {
+        "id": 18871,
+        "spell_icon_id": 1590,
+        "money_cost": 1100,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Create Healthstone (Rank 5)": {
+        "id": 11730,
+        "spell_icon_id": 284,
+        "money_cost": 24000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Enslave Demon (Rank 3)": {
+        "id": 11726,
+        "spell_icon_id": 1500,
+        "money_cost": 24000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Curse of Agony (Rank 6)": {
+        "id": 11713,
+        "spell_icon_id": 544,
+        "money_cost": 24000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rain of Fire (Rank 4)": {
+        "id": 11678,
+        "spell_icon_id": 547,
+        "money_cost": 24000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Death Coil (Rank 3)": {
+        "id": 17926,
+        "spell_icon_id": 88,
+        "money_cost": 24000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Searing Pain (Rank 6)": {
+        "id": 17923,
+        "spell_icon_id": 816,
+        "money_cost": 24000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Create Spellstone (Rank 3)": {
+        "id": 17728,
+        "spell_icon_id": 344,
+        "money_cost": 26000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Demon Armor (Rank 5)": {
+        "id": 11735,
+        "spell_icon_id": 89,
+        "money_cost": 26000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Curse of the Elements (Rank 3)": {
+        "id": 11722,
+        "spell_icon_id": 55,
+        "money_cost": 26000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Health Funnel (Rank 7)": {
+        "id": 11695,
+        "spell_icon_id": 153,
+        "money_cost": 26000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Immolate (Rank 7)": {
+        "id": 11668,
+        "spell_icon_id": 31,
+        "money_cost": 26000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Bolt (Rank 9)": {
+        "id": 11661,
+        "spell_icon_id": 213,
+        "money_cost": 26000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadowfury (Rank 2)": {
+        "id": 30413,
+        "spell_icon_id": 1988,
+        "money_cost": 2500,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Unstable Affliction (Rank 2)": {
+        "id": 30404,
+        "spell_icon_id": 2039,
+        "money_cost": 2500,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Ward (Rank 4)": {
+        "id": 28610,
+        "spell_icon_id": 207,
+        "money_cost": 34000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Corruption (Rank 7)": {
+        "id": 25311,
+        "spell_icon_id": 313,
+        "money_cost": 26000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Immolate (Rank 8)": {
+        "id": 25309,
+        "spell_icon_id": 31,
+        "money_cost": 26000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Curse of Doom (Rank 1)": {
+        "id": 603,
+        "spell_icon_id": 91,
+        "money_cost": 26000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Create Soulstone (Rank 5)": {
+        "id": 20757,
+        "spell_icon_id": 92,
+        "money_cost": 26000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Dark Pact (Rank 3)": {
+        "id": 18938,
+        "spell_icon_id": 154,
+        "money_cost": 1300,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Curse of Weakness (Rank 7)": {
+        "id": 27224,
+        "spell_icon_id": 543,
+        "money_cost": 30000,
+        "Level": 61,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fel Armor (Rank 1)": {
+        "id": 28176,
+        "spell_icon_id": 2297,
+        "money_cost": 34000,
+        "Level": 62,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Drain Life (Rank 7)": {
+        "id": 27219,
+        "spell_icon_id": 546,
+        "money_cost": 30000,
+        "Level": 62,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Bolt (Rank 10)": {
+        "id": 25307,
+        "spell_icon_id": 213,
+        "money_cost": 26000,
+        "Level": 62,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadowburn (Rank 7)": {
+        "id": 27263,
+        "spell_icon_id": 1590,
+        "money_cost": 1300,
+        "Level": 63,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Incinerate (Rank 1)": {
+        "id": 29722,
+        "spell_icon_id": 2128,
+        "money_cost": 42000,
+        "Level": 64,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Soul Fire (Rank 3)": {
+        "id": 27211,
+        "spell_icon_id": 184,
+        "money_cost": 42000,
+        "Level": 64,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Corruption (Rank 8)": {
+        "id": 27216,
+        "spell_icon_id": 313,
+        "money_cost": 46000,
+        "Level": 65,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Searing Pain (Rank 7)": {
+        "id": 27210,
+        "spell_icon_id": 816,
+        "money_cost": 46000,
+        "Level": 65,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Create Spellstone (Rank 4)": {
+        "id": 28172,
+        "spell_icon_id": 344,
+        "money_cost": 51000,
+        "Level": 66,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Create Firestone (Rank 5)": {
+        "id": 27250,
+        "spell_icon_id": 1506,
+        "money_cost": 51000,
+        "Level": 66,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Health Funnel (Rank 8)": {
+        "id": 27259,
+        "spell_icon_id": 153,
+        "money_cost": 57000,
+        "Level": 67,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Curse of Agony (Rank 7)": {
+        "id": 27218,
+        "spell_icon_id": 544,
+        "money_cost": 57000,
+        "Level": 67,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Drain Soul (Rank 5)": {
+        "id": 27217,
+        "spell_icon_id": 113,
+        "money_cost": 57000,
+        "Level": 67,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ritual of Souls (Rank 1)": {
+        "id": 29893,
+        "spell_icon_id": 2206,
+        "money_cost": 63000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Create Healthstone (Rank 6)": {
+        "id": 27230,
+        "spell_icon_id": 284,
+        "money_cost": 63000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Death Coil (Rank 4)": {
+        "id": 27223,
+        "spell_icon_id": 88,
+        "money_cost": 63000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Life Tap (Rank 7)": {
+        "id": 27222,
+        "spell_icon_id": 208,
+        "money_cost": 56700,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hellfire (Rank 4)": {
+        "id": 27213,
+        "spell_icon_id": 937,
+        "money_cost": 63000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Curse of Weakness (Rank 8)": {
+        "id": 30909,
+        "spell_icon_id": 543,
+        "money_cost": 70000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fel Armor (Rank 2)": {
+        "id": 28189,
+        "spell_icon_id": 2297,
+        "money_cost": 70000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Curse of the Elements (Rank 4)": {
+        "id": 27228,
+        "spell_icon_id": 55,
+        "money_cost": 70000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Drain Life (Rank 8)": {
+        "id": 27220,
+        "spell_icon_id": 546,
+        "money_cost": 70000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Immolate (Rank 9)": {
+        "id": 27215,
+        "spell_icon_id": 31,
+        "money_cost": 70000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rain of Fire (Rank 5)": {
+        "id": 27212,
+        "spell_icon_id": 547,
+        "money_cost": 70000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Bolt (Rank 11)": {
+        "id": 27209,
+        "spell_icon_id": 213,
+        "money_cost": 70000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Curse of Doom (Rank 2)": {
+        "id": 30910,
+        "spell_icon_id": 91,
+        "money_cost": 78000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadowburn (Rank 8)": {
+        "id": 30546,
+        "spell_icon_id": 1590,
+        "money_cost": 3900,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Soul Fire (Rank 4)": {
+        "id": 30545,
+        "spell_icon_id": 184,
+        "money_cost": 78000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Searing Pain (Rank 8)": {
+        "id": 30459,
+        "spell_icon_id": 816,
+        "money_cost": 78000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadowfury (Rank 3)": {
+        "id": 30414,
+        "spell_icon_id": 1988,
+        "money_cost": 2500,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Unstable Affliction (Rank 3)": {
+        "id": 30405,
+        "spell_icon_id": 2039,
+        "money_cost": 2500,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Dark Pact (Rank 4)": {
+        "id": 27265,
+        "spell_icon_id": 154,
+        "money_cost": 1300,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Demon Armor (Rank 6)": {
+        "id": 27260,
+        "spell_icon_id": 89,
+        "money_cost": 78000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Seed of Corruption (Rank 1)": {
+        "id": 27243,
+        "spell_icon_id": 1932,
+        "money_cost": 78000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Create Soulstone (Rank 6)": {
+        "id": 27238,
+        "spell_icon_id": 92,
+        "money_cost": 78000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Chaos Bolt (Rank 2)": {
+        "id": 59170,
+        "spell_icon_id": 3178,
+        "money_cost": 2500,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Haunt (Rank 2)": {
+        "id": 59161,
+        "spell_icon_id": 3172,
+        "money_cost": 2500,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Incinerate (Rank 2)": {
+        "id": 32231,
+        "spell_icon_id": 2128,
+        "money_cost": 78000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Curse of Weakness (Rank 9)": {
+        "id": 50511,
+        "spell_icon_id": 543,
+        "money_cost": 160000,
+        "Level": 71,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Corruption (Rank 9)": {
+        "id": 47812,
+        "spell_icon_id": 313,
+        "money_cost": 160000,
+        "Level": 71,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Enslave Demon (Rank 4)": {
+        "id": 61191,
+        "spell_icon_id": 1500,
+        "money_cost": 70000,
+        "Level": 72,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Ward (Rank 5)": {
+        "id": 47890,
+        "spell_icon_id": 207,
+        "money_cost": 160000,
+        "Level": 72,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Create Spellstone (Rank 5)": {
+        "id": 47886,
+        "spell_icon_id": 344,
+        "money_cost": 160000,
+        "Level": 72,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rain of Fire (Rank 6)": {
+        "id": 47819,
+        "spell_icon_id": 547,
+        "money_cost": 160000,
+        "Level": 72,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Create Healthstone (Rank 7)": {
+        "id": 47871,
+        "spell_icon_id": 284,
+        "money_cost": 160000,
+        "Level": 73,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Curse of Agony (Rank 8)": {
+        "id": 47863,
+        "spell_icon_id": 544,
+        "money_cost": 160000,
+        "Level": 73,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Death Coil (Rank 5)": {
+        "id": 47859,
+        "spell_icon_id": 88,
+        "money_cost": 160000,
+        "Level": 73,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Create Firestone (Rank 6)": {
+        "id": 60219,
+        "spell_icon_id": 1506,
+        "money_cost": 160000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fel Armor (Rank 3)": {
+        "id": 47892,
+        "spell_icon_id": 2297,
+        "money_cost": 160000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Incinerate (Rank 3)": {
+        "id": 47837,
+        "spell_icon_id": 2128,
+        "money_cost": 100000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Searing Pain (Rank 9)": {
+        "id": 47814,
+        "spell_icon_id": 816,
+        "money_cost": 160000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Bolt (Rank 12)": {
+        "id": 47808,
+        "spell_icon_id": 213,
+        "money_cost": 160000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Chaos Bolt (Rank 3)": {
+        "id": 59171,
+        "spell_icon_id": 3178,
+        "money_cost": 8000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Haunt (Rank 3)": {
+        "id": 59163,
+        "spell_icon_id": 3172,
+        "money_cost": 8000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadowflame (Rank 1)": {
+        "id": 47897,
+        "spell_icon_id": 3317,
+        "money_cost": 10000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadowfury (Rank 4)": {
+        "id": 47846,
+        "spell_icon_id": 1988,
+        "money_cost": 8000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Unstable Affliction (Rank 4)": {
+        "id": 47841,
+        "spell_icon_id": 2039,
+        "money_cost": 8000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Seed of Corruption (Rank 2)": {
+        "id": 47835,
+        "spell_icon_id": 1932,
+        "money_cost": 160000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadowburn (Rank 9)": {
+        "id": 47826,
+        "spell_icon_id": 1590,
+        "money_cost": 8000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Soul Fire (Rank 5)": {
+        "id": 47824,
+        "spell_icon_id": 184,
+        "money_cost": 160000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Immolate (Rank 10)": {
+        "id": 47810,
+        "spell_icon_id": 31,
+        "money_cost": 160000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Create Soulstone (Rank 7)": {
+        "id": 47884,
+        "spell_icon_id": 92,
+        "money_cost": 160000,
+        "Level": 76,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Health Funnel (Rank 9)": {
+        "id": 47856,
+        "spell_icon_id": 153,
+        "money_cost": 160000,
+        "Level": 76,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Demon Armor (Rank 7)": {
+        "id": 47793,
+        "spell_icon_id": 89,
+        "money_cost": 160000,
+        "Level": 76,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Drain Soul (Rank 6)": {
+        "id": 47855,
+        "spell_icon_id": 113,
+        "money_cost": 160000,
+        "Level": 77,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Corruption (Rank 10)": {
+        "id": 47813,
+        "spell_icon_id": 313,
+        "money_cost": 160000,
+        "Level": 77,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Ward (Rank 6)": {
+        "id": 47891,
+        "spell_icon_id": 207,
+        "money_cost": 160000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Create Spellstone (Rank 6)": {
+        "id": 47888,
+        "spell_icon_id": 344,
+        "money_cost": 160000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Curse of the Elements (Rank 5)": {
+        "id": 47865,
+        "spell_icon_id": 55,
+        "money_cost": 160000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Death Coil (Rank 6)": {
+        "id": 47860,
+        "spell_icon_id": 88,
+        "money_cost": 160000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Drain Life (Rank 9)": {
+        "id": 47857,
+        "spell_icon_id": 546,
+        "money_cost": 160000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hellfire (Rank 5)": {
+        "id": 47823,
+        "spell_icon_id": 937,
+        "money_cost": 160000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fel Armor (Rank 4)": {
+        "id": 47893,
+        "spell_icon_id": 2297,
+        "money_cost": 160000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Create Healthstone (Rank 8)": {
+        "id": 47878,
+        "spell_icon_id": 284,
+        "money_cost": 160000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Curse of Agony (Rank 9)": {
+        "id": 47864,
+        "spell_icon_id": 544,
+        "money_cost": 160000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rain of Fire (Rank 7)": {
+        "id": 47820,
+        "spell_icon_id": 547,
+        "money_cost": 160000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Searing Pain (Rank 10)": {
+        "id": 47815,
+        "spell_icon_id": 816,
+        "money_cost": 160000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Bolt (Rank 13)": {
+        "id": 47809,
+        "spell_icon_id": 213,
+        "money_cost": 160000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadowflame (Rank 2)": {
+        "id": 61290,
+        "spell_icon_id": 3317,
+        "money_cost": 10000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Create Firestone (Rank 7)": {
+        "id": 60220,
+        "spell_icon_id": 1506,
+        "money_cost": 160000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Chaos Bolt (Rank 4)": {
+        "id": 59172,
+        "spell_icon_id": 3178,
+        "money_cost": 8000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Haunt (Rank 4)": {
+        "id": 59164,
+        "spell_icon_id": 3172,
+        "money_cost": 8000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Dark Pact (Rank 5)": {
+        "id": 59092,
+        "spell_icon_id": 154,
+        "money_cost": 160000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ritual of Souls (Rank 2)": {
+        "id": 58887,
+        "spell_icon_id": 2206,
+        "money_cost": 160000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Life Tap (Rank 8)": {
+        "id": 57946,
+        "spell_icon_id": 208,
+        "money_cost": 160000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Demonic Circle: Teleport": {
+        "id": 48020,
+        "spell_icon_id": 3221,
+        "money_cost": 160000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Demonic Circle: Summon": {
+        "id": 48018,
+        "spell_icon_id": 3217,
+        "money_cost": 160000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Demon Armor (Rank 8)": {
+        "id": 47889,
+        "spell_icon_id": 89,
+        "money_cost": 160000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Curse of Doom (Rank 3)": {
+        "id": 47867,
+        "spell_icon_id": 91,
+        "money_cost": 160000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadowfury (Rank 5)": {
+        "id": 47847,
+        "spell_icon_id": 1988,
+        "money_cost": 8000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Unstable Affliction (Rank 5)": {
+        "id": 47843,
+        "spell_icon_id": 2039,
+        "money_cost": 8000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Incinerate (Rank 4)": {
+        "id": 47838,
+        "spell_icon_id": 2128,
+        "money_cost": 100000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Seed of Corruption (Rank 3)": {
+        "id": 47836,
+        "spell_icon_id": 1932,
+        "money_cost": 160000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadowburn (Rank 10)": {
+        "id": 47827,
+        "spell_icon_id": 1590,
+        "money_cost": 8000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Soul Fire (Rank 6)": {
+        "id": 47825,
+        "spell_icon_id": 184,
+        "money_cost": 160000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Immolate (Rank 11)": {
+        "id": 47811,
+        "spell_icon_id": 31,
+        "money_cost": 160000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    }
+}

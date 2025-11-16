@@ -1,0 +1,4560 @@
+{
+    "Tiger Mastery (1)": {
+        "ID": 185,
+        "QuestLevel": 31,
+        "MinLevel": 28,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Tiger Mastery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Welcome to the Jungle"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Tiger Mastery (2)": {
+        "ID": 186,
+        "QuestLevel": 33,
+        "MinLevel": 28,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Tiger Mastery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Tiger Mastery (1)"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Tiger Mastery (3)": {
+        "ID": 187,
+        "QuestLevel": 35,
+        "MinLevel": 28,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Tiger Mastery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Tiger Mastery (2)"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Tiger Mastery (4)": {
+        "ID": 188,
+        "QuestLevel": 37,
+        "MinLevel": 28,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Tiger Mastery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -193,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Tiger Mastery (3)"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Bloodscalp Ears": {
+        "ID": 189,
+        "QuestLevel": 35,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Bloodscalp Ears",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Panther Mastery (1)": {
+        "ID": 190,
+        "QuestLevel": 31,
+        "MinLevel": 28,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Panther Mastery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Welcome to the Jungle"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Panther Mastery (2)": {
+        "ID": 191,
+        "QuestLevel": 33,
+        "MinLevel": 28,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Panther Mastery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Panther Mastery (1)"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Panther Mastery (3)": {
+        "ID": 192,
+        "QuestLevel": 38,
+        "MinLevel": 28,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Panther Mastery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Panther Mastery (2)"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Panther Mastery (4)": {
+        "ID": 193,
+        "QuestLevel": 40,
+        "MinLevel": 28,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Panther Mastery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -193,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Panther Mastery (3)"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Raptor Mastery (1)": {
+        "ID": 194,
+        "QuestLevel": 34,
+        "MinLevel": 28,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Raptor Mastery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Welcome to the Jungle"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Raptor Mastery (2)": {
+        "ID": 195,
+        "QuestLevel": 36,
+        "MinLevel": 28,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Raptor Mastery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Raptor Mastery (1)"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Raptor Mastery (3)": {
+        "ID": 196,
+        "QuestLevel": 41,
+        "MinLevel": 28,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Raptor Mastery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Raptor Mastery (2)"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Raptor Mastery (4)": {
+        "ID": 197,
+        "QuestLevel": 43,
+        "MinLevel": 28,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Raptor Mastery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -193,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Raptor Mastery (3)"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Supplies to Private Thorsen": {
+        "ID": 198,
+        "QuestLevel": 32,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Supplies to Private Thorsen",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Bookie Herod": {
+        "ID": 200,
+        "QuestLevel": 35,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Bookie Herod",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Jungle Secrets"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Investigate the Camp": {
+        "ID": 201,
+        "QuestLevel": 32,
+        "MinLevel": 28,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Investigate the Camp",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Colonel Kurzen": {
+        "ID": 202,
+        "QuestLevel": 40,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Colonel Kurzen",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Special Forces"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "The Second Rebellion": {
+        "ID": 203,
+        "QuestLevel": 33,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Second Rebellion",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -203,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Bad Medicine": {
+        "ID": 204,
+        "QuestLevel": 34,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Bad Medicine",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -203,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Troll Witchery": {
+        "ID": 205,
+        "QuestLevel": 40,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Troll Witchery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Kurzen's Mystery"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Mai'Zoth": {
+        "ID": 206,
+        "QuestLevel": 46,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Mai'Zoth",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Troll Witchery"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Kurzen's Mystery": {
+        "ID": 207,
+        "QuestLevel": 38,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Kurzen's Mystery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Second Rebellion",
+            "Bad Medicine"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Big Game Hunter": {
+        "ID": 208,
+        "QuestLevel": 43,
+        "MinLevel": 28,
+        "QuestInfoID": 1,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Big Game Hunter",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Skullsplitter Tusks": {
+        "ID": 209,
+        "QuestLevel": 42,
+        "MinLevel": 37,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Skullsplitter Tusks",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Bloodscalp Ears"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Krazek's Cookery": {
+        "ID": 210,
+        "QuestLevel": 37,
+        "MinLevel": 32,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Krazek's Cookery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Hostile Takeover": {
+        "ID": 213,
+        "QuestLevel": 36,
+        "MinLevel": 31,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Hostile Takeover",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Jungle Secrets": {
+        "ID": 215,
+        "QuestLevel": 33,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Jungle Secrets",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "The Hidden Key": {
+        "ID": 328,
+        "QuestLevel": 37,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Hidden Key",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Bookie Herod"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "The Spy Revealed!": {
+        "ID": 329,
+        "QuestLevel": 37,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Spy Revealed!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Hidden Key"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Patrol Schedules": {
+        "ID": 330,
+        "QuestLevel": 37,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Patrol Schedules",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Spy Revealed!"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Report to Doren": {
+        "ID": 331,
+        "QuestLevel": 37,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Report to Doren",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Patrol Schedules"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "The Green Hills of Stranglethorn": {
+        "ID": 338,
+        "QuestLevel": 40,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Green Hills of Stranglethorn",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Welcome to the Jungle"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Chapter I": {
+        "ID": 339,
+        "QuestLevel": 40,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Chapter I",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Chapter II": {
+        "ID": 340,
+        "QuestLevel": 40,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Chapter II",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Chapter III": {
+        "ID": 341,
+        "QuestLevel": 40,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Chapter III",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Chapter IV": {
+        "ID": 342,
+        "QuestLevel": 40,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Chapter IV",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Stranglethorn Fever (1)": {
+        "ID": 348,
+        "QuestLevel": 45,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Stranglethorn Fever",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "The Defense of Grom'gol (1)": {
+        "ID": 568,
+        "QuestLevel": 36,
+        "MinLevel": 33,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Defense of Grom'gol",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "The Defense of Grom'gol (2)": {
+        "ID": 569,
+        "QuestLevel": 37,
+        "MinLevel": 33,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Defense of Grom'gol",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Defense of Grom'gol (1)"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Mok'thardin's Enchantment (1)": {
+        "ID": 570,
+        "QuestLevel": 38,
+        "MinLevel": 33,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Mok'thardin's Enchantment",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Mok'thardin's Enchantment (2)": {
+        "ID": 571,
+        "QuestLevel": 41,
+        "MinLevel": 33,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Mok'thardin's Enchantment",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mok'thardin's Enchantment (3)"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Mok'thardin's Enchantment (3)": {
+        "ID": 572,
+        "QuestLevel": 41,
+        "MinLevel": 33,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Mok'thardin's Enchantment",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mok'thardin's Enchantment (1)"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Mok'thardin's Enchantment (4)": {
+        "ID": 573,
+        "QuestLevel": 44,
+        "MinLevel": 33,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Mok'thardin's Enchantment",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mok'thardin's Enchantment (2)"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Special Forces": {
+        "ID": 574,
+        "QuestLevel": 38,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Special Forces",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Supply and Demand": {
+        "ID": 575,
+        "QuestLevel": 31,
+        "MinLevel": 26,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Supply and Demand",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Keep An Eye Out": {
+        "ID": 576,
+        "QuestLevel": 42,
+        "MinLevel": 37,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Keep An Eye Out",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Bloodsail Buccaneers (1)"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Some Assembly Required": {
+        "ID": 577,
+        "QuestLevel": 36,
+        "MinLevel": 31,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Some Assembly Required",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Supply and Demand"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "The Stone of the Tides": {
+        "ID": 578,
+        "QuestLevel": 37,
+        "MinLevel": 32,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Stone of the Tides",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Haunted Isle"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Whiskey Slim's Lost Grog": {
+        "ID": 580,
+        "QuestLevel": 50,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Whiskey Slim's Lost Grog",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Hunt for Yenniku": {
+        "ID": 581,
+        "QuestLevel": 34,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Hunt for Yenniku",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Headhunting": {
+        "ID": 582,
+        "QuestLevel": 37,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Headhunting",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Hunt for Yenniku"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Welcome to the Jungle": {
+        "ID": 583,
+        "QuestLevel": 30,
+        "MinLevel": 28,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Welcome to the Jungle",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Bloodscalp Clan Heads": {
+        "ID": 584,
+        "QuestLevel": 41,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Bloodscalp Clan Heads",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Headhunting"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Speaking with Nezzliok": {
+        "ID": 585,
+        "QuestLevel": 40,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Speaking with Nezzliok",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -585,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Bloodscalp Clan Heads"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Speaking with Gan'zulah": {
+        "ID": 586,
+        "QuestLevel": 46,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Speaking with Gan'zulah",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -585,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Bloodscalp Clan Heads"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Up to Snuff": {
+        "ID": 587,
+        "QuestLevel": 41,
+        "MinLevel": 37,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Up to Snuff",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Bloodsail Buccaneers (1)"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "The Fate of Yenniku": {
+        "ID": 588,
+        "QuestLevel": 45,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Fate of Yenniku",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "The Singing Crystals": {
+        "ID": 589,
+        "QuestLevel": 45,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Singing Crystals",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Fate of Yenniku"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "The Mind's Eye": {
+        "ID": 591,
+        "QuestLevel": 46,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Mind's Eye",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Singing Crystals"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Saving Yenniku": {
+        "ID": 592,
+        "QuestLevel": 46,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Saving Yenniku",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Mind's Eye"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "The Bloodsail Buccaneers (1)": {
+        "ID": 595,
+        "QuestLevel": 41,
+        "MinLevel": 37,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Bloodsail Buccaneers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Bloody Bone Necklaces": {
+        "ID": 596,
+        "QuestLevel": 37,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Bloody Bone Necklaces",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "The Bloodsail Buccaneers (2)": {
+        "ID": 597,
+        "QuestLevel": 41,
+        "MinLevel": 37,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Bloodsail Buccaneers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Bloodsail Buccaneers (1)"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Split Bone Necklace": {
+        "ID": 598,
+        "QuestLevel": 42,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Split Bone Necklace",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Bloody Bone Necklaces"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "The Bloodsail Buccaneers (3)": {
+        "ID": 599,
+        "QuestLevel": 41,
+        "MinLevel": 37,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Bloodsail Buccaneers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Bloodsail Buccaneers (2)"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Venture Company Mining": {
+        "ID": 600,
+        "QuestLevel": 41,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Venture Company Mining",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Singing Blue Shards"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Water Elementals": {
+        "ID": 601,
+        "QuestLevel": 37,
+        "MinLevel": 32,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Water Elementals",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Stone of the Tides"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Magical Analysis": {
+        "ID": 602,
+        "QuestLevel": 37,
+        "MinLevel": 32,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Magical Analysis",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Water Elementals"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "The Bloodsail Buccaneers (4)": {
+        "ID": 604,
+        "QuestLevel": 42,
+        "MinLevel": 37,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Bloodsail Buccaneers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Bloodsail Buccaneers (3)"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Singing Blue Shards": {
+        "ID": 605,
+        "QuestLevel": 35,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Singing Blue Shards",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Scaring Shaky": {
+        "ID": 606,
+        "QuestLevel": 41,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Scaring Shaky",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Return to MacKinley": {
+        "ID": 607,
+        "QuestLevel": 41,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Return to MacKinley",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Scaring Shaky"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "The Bloodsail Buccaneers (5)": {
+        "ID": 608,
+        "QuestLevel": 42,
+        "MinLevel": 37,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Bloodsail Buccaneers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Bloodsail Buccaneers (4)"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Voodoo Dues": {
+        "ID": 609,
+        "QuestLevel": 44,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Voodoo Dues",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to MacKinley"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Pretty Boy Duncan": {
+        "ID": 610,
+        "QuestLevel": 39,
+        "MinLevel": 32,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Pretty Boy Duncan",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Ansirem's Key"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "The Curse of the Tides": {
+        "ID": 611,
+        "QuestLevel": 40,
+        "MinLevel": 32,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Curse of the Tides",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pretty Boy Duncan"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Cracking Maury's Foot": {
+        "ID": 613,
+        "QuestLevel": 44,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Cracking Maury's Foot",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Voodoo Dues"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "The Haunted Isle": {
+        "ID": 616,
+        "QuestLevel": 37,
+        "MinLevel": 32,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Haunted Isle",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Akiris by the Bundle (1)": {
+        "ID": 617,
+        "QuestLevel": 43,
+        "MinLevel": 38,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Akiris by the Bundle",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Enticing Negolash": {
+        "ID": 619,
+        "QuestLevel": 42,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Enticing Negolash",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Zanzil's Secret": {
+        "ID": 621,
+        "QuestLevel": 44,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Zanzil's Secret",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -621,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Return to Corporal Kaleb": {
+        "ID": 622,
+        "QuestLevel": 37,
+        "MinLevel": 32,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Return to Corporal Kaleb",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Favor for Krazek"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Akiris by the Bundle (2)": {
+        "ID": 623,
+        "QuestLevel": 43,
+        "MinLevel": 38,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Akiris by the Bundle",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Akiris by the Bundle (1)"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Favor for Krazek": {
+        "ID": 627,
+        "QuestLevel": 37,
+        "MinLevel": 32,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Favor for Krazek",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Krazek's Cookery"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Excelsior": {
+        "ID": 628,
+        "QuestLevel": 38,
+        "MinLevel": 31,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Excelsior",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Some Assembly Required"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "The Vile Reef": {
+        "ID": 629,
+        "QuestLevel": 37,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Vile Reef",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Message in a Bottle (2)": {
+        "ID": 630,
+        "QuestLevel": 42,
+        "MinLevel": 42,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Message in a Bottle",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Message in a Bottle (1)"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Trollbane": {
+        "ID": 638,
+        "QuestLevel": 37,
+        "MinLevel": 32,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Trollbane",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Sunken Treasure (5)": {
+        "ID": 670,
+        "QuestLevel": 40,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Sunken Treasure",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Sunken Treasure (4)"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Avast Ye, Scallywag": {
+        "ID": 1036,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 87,
+        "RequiredFactionId2": 21,
+        "RequiredFactionValue1": 3000,
+        "RequiredFactionValue2": -6001,
+        "AllowableRaces": [],
+        "LogTitle": "Avast Ye, Scallywag",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "The Caravan Road": {
+        "ID": 1041,
+        "QuestLevel": 30,
+        "MinLevel": 25,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Caravan Road",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Passage to Booty Bay"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Dream Dust in the Swamp": {
+        "ID": 1116,
+        "QuestLevel": 36,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 8,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Dream Dust in the Swamp",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Rumormonger"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Rumors for Kravel": {
+        "ID": 1117,
+        "QuestLevel": 36,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 400,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Rumors for Kravel",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Dream Dust in the Swamp"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Zanzil's Mixture and a Fool's Stout": {
+        "ID": 1119,
+        "QuestLevel": 44,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 400,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Zanzil's Mixture and a Fool's Stout",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Goblin Sponsorship (3)": {
+        "ID": 1181,
+        "QuestLevel": 37,
+        "MinLevel": 29,
+        "QuestInfoID": 0,
+        "QuestSortID": 400,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Goblin Sponsorship",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Goblin Sponsorship (2)"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Goblin Sponsorship (4)": {
+        "ID": 1182,
+        "QuestLevel": 37,
+        "MinLevel": 29,
+        "QuestInfoID": 0,
+        "QuestSortID": 400,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Goblin Sponsorship",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Goblin Sponsorship (3)"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Goblin Sponsorship (5)": {
+        "ID": 1183,
+        "QuestLevel": 37,
+        "MinLevel": 29,
+        "QuestInfoID": 0,
+        "QuestSortID": 400,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Goblin Sponsorship",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Goblin Sponsorship (4)"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Marg Speaks": {
+        "ID": 1261,
+        "QuestLevel": 40,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 15,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Marg Speaks",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Troll Witchdoctor"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "The Mithril Order": {
+        "ID": 2760,
+        "QuestLevel": 40,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": -121,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Mithril Order",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Blacksmithing",
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Smelt On, Smelt Off": {
+        "ID": 2761,
+        "QuestLevel": 45,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": -121,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Smelt On, Smelt Off",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -2761,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Blacksmithing",
+        "requires": [
+            "The Mithril Order"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "The Great Silver Deceiver": {
+        "ID": 2762,
+        "QuestLevel": 45,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": -121,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Great Silver Deceiver",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -2761,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Blacksmithing",
+        "requires": [
+            "The Mithril Order"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "The Art of the Imbue": {
+        "ID": 2763,
+        "QuestLevel": 45,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": -121,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Art of the Imbue",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -2761,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Blacksmithing",
+        "requires": [
+            "The Mithril Order"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Galvan's Finest Pupil": {
+        "ID": 2764,
+        "QuestLevel": 45,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": -121,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Galvan's Finest Pupil",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Blacksmithing",
+        "requires": [
+            "Smelt On, Smelt Off",
+            "The Great Silver Deceiver",
+            "The Art of the Imbue"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Expert Blacksmith!": {
+        "ID": 2765,
+        "QuestLevel": 45,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": -121,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Expert Blacksmith!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Blacksmithing",
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Stoley's Debt": {
+        "ID": 2872,
+        "QuestLevel": 45,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 440,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Stoley's Debt",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Grim Message": {
+        "ID": 2932,
+        "QuestLevel": 42,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 47,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Grim Message",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Enchanted Azsharite Fel Weaponry": {
+        "ID": 3625,
+        "QuestLevel": 58,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Enchanted Azsharite Fel Weaponry",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Formation of Felbane"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Return to the Blasted Lands": {
+        "ID": 3626,
+        "QuestLevel": 58,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Return to the Blasted Lands",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Enchanted Azsharite Fel Weaponry"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Show Your Work (3)": {
+        "ID": 3643,
+        "QuestLevel": -1,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -201,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Show Your Work",
+        "AllowableClasses": [],
+        "RewardSpell": 20220,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Engineering",
+        "requires": [
+            "Gnome Engineering (4)"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Membership Card Renewal (2)": {
+        "ID": 3645,
+        "QuestLevel": 47,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": -201,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Membership Card Renewal",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Engineering",
+        "requires": [
+            "Show Your Work (2)"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "An OOX of Your Own": {
+        "ID": 3721,
+        "QuestLevel": 50,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 35,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "An OOX of Your Own",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Avast Ye, Admiral!": {
+        "ID": 4621,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 87,
+        "RequiredFactionId2": 21,
+        "RequiredFactionValue1": 3000,
+        "RequiredFactionValue2": -6001,
+        "AllowableRaces": [],
+        "LogTitle": "Avast Ye, Admiral!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Components for the Enchanted Gold Bloodrobe (Warlock) (3)": {
+        "ID": 4782,
+        "QuestLevel": 34,
+        "MinLevel": 31,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Components for the Enchanted Gold Bloodrobe",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Components for the Enchanted Gold Bloodrobe (Warlock) (2)"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Fine Gold Thread": {
+        "ID": 4785,
+        "QuestLevel": 37,
+        "MinLevel": 31,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Fine Gold Thread",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Components for the Enchanted Gold Bloodrobe (Warlock) (4)"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Tribal Leatherworking (2)": {
+        "ID": 5148,
+        "QuestLevel": 55,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": -182,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Tribal Leatherworking",
+        "AllowableClasses": [],
+        "RewardSpell": 10661,
+        "ExclusiveGroup": 5145,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Leatherworking",
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Master Angler": {
+        "ID": 8193,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -101,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Master Angler",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Fishing",
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Apprentice Angler": {
+        "ID": 8194,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -101,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Apprentice Angler",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Fishing",
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Rare Fish - Keefer's Angelfish": {
+        "ID": 8221,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -101,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Rare Fish - Keefer's Angelfish",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Fishing",
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Rare Fish - Dezian Queenfish": {
+        "ID": 8224,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -101,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Rare Fish - Dezian Queenfish",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Fishing",
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Rare Fish - Brownell's Blue Striped Racer": {
+        "ID": 8225,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -101,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Rare Fish - Brownell's Blue Striped Racer",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Fishing",
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "The Captain's Chest (2)": {
+        "ID": 8551,
+        "QuestLevel": 42,
+        "MinLevel": 35,
+        "QuestInfoID": 1,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Captain's Chest",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "The Captain's Cutlass (2)": {
+        "ID": 8553,
+        "QuestLevel": 42,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Captain's Cutlass",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Monogrammed Sash (1)"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Facing Negolash (2)": {
+        "ID": 8554,
+        "QuestLevel": 42,
+        "MinLevel": 35,
+        "QuestInfoID": 1,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Facing Negolash",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Captain's Cutlass (2)"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Winterhoof the Elder": {
+        "ID": 8674,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Winterhoof the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Starglade the Elder": {
+        "ID": 8716,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Starglade the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Winter's Presents (1)": {
+        "ID": 8827,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Winter's Presents",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Winter Veil",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dun Morogh",
+            "Durotar",
+            "Tirisfal Glades",
+            "Wetlands",
+            "Stranglethorn Vale",
+            "Tanaris"
+        ]
+    },
+    "Winter's Presents (2)": {
+        "ID": 8828,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Winter's Presents",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Winter Veil",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dun Morogh",
+            "Durotar",
+            "Tirisfal Glades",
+            "Wetlands",
+            "Stranglethorn Vale",
+            "Tanaris"
+        ]
+    },
+    "New Year Celebrations! (1)": {
+        "ID": 8860,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "New Year Celebrations!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "New Year",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dun Morogh",
+            "Durotar",
+            "Tirisfal Glades",
+            "Wetlands",
+            "Stranglethorn Vale",
+            "Tanaris"
+        ]
+    },
+    "New Year Celebrations! (2)": {
+        "ID": 8861,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "New Year Celebrations!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "New Year",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dun Morogh",
+            "Durotar",
+            "Tirisfal Glades",
+            "Wetlands",
+            "Stranglethorn Vale",
+            "Tanaris"
+        ]
+    },
+    "Traitor to the Bloodsail": {
+        "ID": 9259,
+        "QuestLevel": -1,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Traitor to the Bloodsail",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Bloodscalp Insight": {
+        "ID": 9436,
+        "QuestLevel": 34,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Bloodscalp Insight",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "An Unusual Patron": {
+        "ID": 9457,
+        "QuestLevel": 36,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "An Unusual Patron",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Bloodscalp Insight"
+        ],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Brewfest! (2)": {
+        "ID": 11446,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -370,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Brewfest!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 11446,
+        "seasonalEvent": "Brewfest",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "The Barrens",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Playing with Fire (1)": {
+        "ID": 11882,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Playing with Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Teldrassil",
+            "Darkshore",
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Westfall",
+            "Redridge Mountains",
+            "Duskwood",
+            "Wetlands",
+            "Hillsbrad Foothills",
+            "The Hinterlands",
+            "Stranglethorn Vale",
+            "Western Plaguelands",
+            "Burning Steppes",
+            "Blasted Lands",
+            "Ashenvale",
+            "Tanaris",
+            "Winterspring",
+            "Dustwallow Marsh",
+            "Hellfire Peninsula",
+            "Zangarmarsh",
+            "Terokkar Forest",
+            "Terokkar Forest",
+            "Nagrand",
+            "Blade's Edge Mountains",
+            "Netherstorm",
+            "Shadowmoon Valley",
+            "Borean Tundra",
+            "The Storm Peaks"
+        ]
+    },
+    "Playing with Fire (2)": {
+        "ID": 11915,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Playing with Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Silverpine Forest",
+            "Eversong Woods",
+            "Ghostlands",
+            "Hillsbrad Foothills",
+            "Swamp of Sorrows",
+            "Stranglethorn Vale",
+            "Stonetalon Mountains",
+            "Ashenvale",
+            "Thousand Needles",
+            "Desolace",
+            "Tanaris",
+            "Feralas",
+            "Winterspring",
+            "Hellfire Peninsula",
+            "Zangarmarsh",
+            "Terokkar Forest",
+            "Terokkar Forest",
+            "Nagrand",
+            "Blade's Edge Mountains",
+            "Netherstorm",
+            "Shadowmoon Valley",
+            "Sholazar Basin"
+        ]
+    },
+    "The Master of Summer Lore": {
+        "ID": 11970,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Master of Summer Lore",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Teldrassil",
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "The Spinner of Summer Tales": {
+        "ID": 11971,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Spinner of Summer Tales",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Desperate Research (Undead) (1)": {
+        "ID": 12752,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Undead"
+        ],
+        "LogTitle": "Desperate Research",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "A Desperate Alliance (Dwarf) (1)": {
+        "ID": 12753,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Dwarf"
+        ],
+        "LogTitle": "A Desperate Alliance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dun Morogh",
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "A Desperate Alliance (Night Elf) (1)": {
+        "ID": 12772,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Night Elf"
+        ],
+        "LogTitle": "A Desperate Alliance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "A Desperate Alliance (Human) (1)": {
+        "ID": 12775,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human"
+        ],
+        "LogTitle": "A Desperate Alliance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "A Desperate Alliance (Draenei) (1)": {
+        "ID": 12777,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "A Desperate Alliance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dun Morogh",
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Desperate Research (Blood Elf) (1)": {
+        "ID": 12782,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Desperate Research",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Desperate Research (Troll) (1)": {
+        "ID": 12783,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Troll"
+        ],
+        "LogTitle": "Desperate Research",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks"
+        ]
+    },
+    "Desperate Research (Tauren) (1)": {
+        "ID": 12784,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Tauren"
+        ],
+        "LogTitle": "Desperate Research",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "A Desperate Alliance (Gnome) (1)": {
+        "ID": 12808,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Gnome"
+        ],
+        "LogTitle": "A Desperate Alliance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dun Morogh",
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Desperate Research (Orc) (1)": {
+        "ID": 12811,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc"
+        ],
+        "LogTitle": "Desperate Research",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Spring Collectors": {
+        "ID": 13484,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -374,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Spring Collectors",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Noblegarden",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Pilgrim's Bounty (1)": {
+        "ID": 14022,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -375,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Pilgrim's Bounty",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Pilgrim's Bounty",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Pilgrim's Bounty (2)": {
+        "ID": 14036,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -375,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Pilgrim's Bounty",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Pilgrim's Bounty",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks"
+        ]
+    },
+    "Desecrate this Fire! (Stranglethorn Vale - Horde)": {
+        "ID": 11761,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Desecrate this Fire! (Stranglethorn Vale - Alliance)": {
+        "ID": 11801,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Honor the Flame (Stranglethorn Vale - Alliance)": {
+        "ID": 11832,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Honor the Flame (Stranglethorn Vale - Horde)": {
+        "ID": 11837,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Candy Bucket (Stranglethorn Vale, Grom'gol Base Camp)": {
+        "ID": 12382,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    },
+    "Candy Bucket (Stranglethorn Vale, Booty Bay)": {
+        "ID": 12397,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Stranglethorn Vale"
+        ]
+    }
+}

@@ -1,0 +1,1302 @@
+{
+    "Summoning the Princess": {
+        "ID": 656,
+        "QuestLevel": 50,
+        "MinLevel": 30,
+        "QuestInfoID": 1,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Summoning the Princess",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Lost Fragments"
+        ],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "The Lost Fragments": {
+        "ID": 692,
+        "QuestLevel": 41,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Lost Fragments",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Theldurin the Lost"
+        ],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Barbecued Buzzard Wings": {
+        "ID": 703,
+        "QuestLevel": 40,
+        "MinLevel": 33,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Barbecued Buzzard Wings",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Pearl Diving": {
+        "ID": 705,
+        "QuestLevel": 37,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Pearl Diving",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Fiery Blaze Enchantments": {
+        "ID": 706,
+        "QuestLevel": 45,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Fiery Blaze Enchantments",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Study of the Elements: Rock (1)": {
+        "ID": 710,
+        "QuestLevel": 37,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Study of the Elements: Rock",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Study of the Elements: Rock (2)": {
+        "ID": 711,
+        "QuestLevel": 39,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Study of the Elements: Rock",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Study of the Elements: Rock (1)"
+        ],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Study of the Elements: Rock (3)": {
+        "ID": 712,
+        "QuestLevel": 42,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Study of the Elements: Rock",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -734,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Study of the Elements: Rock (2)"
+        ],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Coolant Heads Prevail": {
+        "ID": 713,
+        "QuestLevel": 37,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Coolant Heads Prevail",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Gyro... What?": {
+        "ID": 714,
+        "QuestLevel": 37,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Gyro... What?",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -734,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Coolant Heads Prevail"
+        ],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Liquid Stone": {
+        "ID": 715,
+        "QuestLevel": 37,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Liquid Stone",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Study of the Elements: Rock (3)",
+            "Gyro... What?"
+        ],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Stone Is Better than Cloth": {
+        "ID": 716,
+        "QuestLevel": 42,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Stone Is Better than Cloth",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Study of the Elements: Rock (3)",
+            "Gyro... What?"
+        ],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Tremors of the Earth (1)": {
+        "ID": 717,
+        "QuestLevel": 50,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Tremors of the Earth",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Tremors of the Earth (2)"
+        ],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Mirages": {
+        "ID": 718,
+        "QuestLevel": 38,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Mirages",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "A Dwarf and His Tools": {
+        "ID": 719,
+        "QuestLevel": 35,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Dwarf and His Tools",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "A Sign of Hope (1)": {
+        "ID": 720,
+        "QuestLevel": 35,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Sign of Hope",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Prospect of Faith (2)": {
+        "ID": 724,
+        "QuestLevel": 40,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Prospect of Faith",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Prospect of Faith (1)"
+        ],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "To Ironforge for Yagyin's Digest": {
+        "ID": 727,
+        "QuestLevel": 40,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "To Ironforge for Yagyin's Digest",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Solution to Doom"
+        ],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "To the Undercity for Yagyin's Digest": {
+        "ID": 728,
+        "QuestLevel": 40,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "To the Undercity for Yagyin's Digest",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Solution to Doom"
+        ],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Tremors of the Earth (2)": {
+        "ID": 732,
+        "QuestLevel": 43,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Tremors of the Earth",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mirages"
+        ],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Scrounging": {
+        "ID": 733,
+        "QuestLevel": 40,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Scrounging",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mirages"
+        ],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "This Is Going to Be Hard (1)": {
+        "ID": 734,
+        "QuestLevel": 42,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "This Is Going to Be Hard",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Murdaloc": {
+        "ID": 739,
+        "QuestLevel": 42,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Murdaloc",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Find Agmond"
+        ],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "This Is Going to Be Hard (2)": {
+        "ID": 777,
+        "QuestLevel": 42,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "This Is Going to Be Hard",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "This Is Going to Be Hard (1)"
+        ],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "This Is Going to Be Hard (3)": {
+        "ID": 778,
+        "QuestLevel": 45,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "This Is Going to Be Hard",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "This Is Going to Be Hard (2)"
+        ],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Seal of the Earth (1)": {
+        "ID": 779,
+        "QuestLevel": 50,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Seal of the Earth",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Broken Alliances (1)": {
+        "ID": 782,
+        "QuestLevel": 43,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Broken Alliances",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Broken Alliances (2)": {
+        "ID": 793,
+        "QuestLevel": 50,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Broken Alliances",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Broken Alliances (1)"
+        ],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Seal of the Earth (2)": {
+        "ID": 795,
+        "QuestLevel": 50,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Seal of the Earth",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Indurium": {
+        "ID": 1108,
+        "QuestLevel": 39,
+        "MinLevel": 28,
+        "QuestInfoID": 0,
+        "QuestSortID": 400,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Indurium",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Martek the Exiled"
+        ],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "News for Fizzle": {
+        "ID": 1137,
+        "QuestLevel": 38,
+        "MinLevel": 28,
+        "QuestInfoID": 0,
+        "QuestSortID": 400,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "News for Fizzle",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Indurium"
+        ],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Coyote Thieves": {
+        "ID": 1419,
+        "QuestLevel": 40,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Coyote Thieves",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Report to Helgrum": {
+        "ID": 1420,
+        "QuestLevel": 40,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Report to Helgrum",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Neeka Bloodscar"
+        ],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Flash Bomb Recipe": {
+        "ID": 1559,
+        "QuestLevel": 37,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": -201,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Flash Bomb Recipe",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Engineering",
+        "requires": [
+            "Pearl Diving"
+        ],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Badlands Reagent Run II (1)": {
+        "ID": 2203,
+        "QuestLevel": 44,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Badlands Reagent Run II",
+        "AllowableClasses": [],
+        "RewardSpell": 11522,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Uldaman Reagent Run (2)"
+        ],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Badlands Reagent Run (2)": {
+        "ID": 2258,
+        "QuestLevel": 39,
+        "MinLevel": 36,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Badlands Reagent Run",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Dreadmaul Rock": {
+        "ID": 3821,
+        "QuestLevel": 52,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Dreadmaul Rock",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "The Rise of the Machines (1)": {
+        "ID": 4061,
+        "QuestLevel": 54,
+        "MinLevel": 52,
+        "QuestInfoID": 0,
+        "QuestSortID": 46,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Rise of the Machines",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "The Rise of the Machines (2)": {
+        "ID": 4062,
+        "QuestLevel": 54,
+        "MinLevel": 52,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Rise of the Machines",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Rise of the Machines (1)"
+        ],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Eitrigg's Wisdom": {
+        "ID": 4941,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 1637,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Eitrigg's Wisdom",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Warlord's Command"
+        ],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Dragonscale Leatherworking (2)": {
+        "ID": 5145,
+        "QuestLevel": 55,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": -182,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Dragonscale Leatherworking",
+        "AllowableClasses": [],
+        "RewardSpell": 10657,
+        "ExclusiveGroup": 5145,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Leatherworking",
+        "requires": [],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Unclaimed Baggage": {
+        "ID": 9439,
+        "QuestLevel": 40,
+        "MinLevel": 36,
+        "QuestInfoID": 0,
+        "QuestSortID": 3,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Unclaimed Baggage",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Desecrate this Fire! (Badlands - Alliance)": {
+        "ID": 11766,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Honor the Flame (Badlands - Horde)": {
+        "ID": 11842,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Badlands"
+        ]
+    },
+    "Candy Bucket (Badlands)": {
+        "ID": 12385,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Badlands"
+        ]
+    }
+}

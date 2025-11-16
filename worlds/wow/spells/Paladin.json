@@ -1,0 +1,1702 @@
+{
+    "Redemption (Rank 1)": {
+        "id": 7328,
+        "spell_icon_id": 121,
+        "money_cost": 0,
+        "Level": 0,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Devotion Aura (Rank 1)": {
+        "id": 465,
+        "spell_icon_id": 291,
+        "money_cost": 10,
+        "Level": 1,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Judgement of Light": {
+        "id": 20271,
+        "spell_icon_id": 205,
+        "money_cost": 100,
+        "Level": 4,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blessing of Might (Rank 1)": {
+        "id": 19740,
+        "spell_icon_id": 298,
+        "money_cost": 100,
+        "Level": 4,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Light (Rank 2)": {
+        "id": 639,
+        "spell_icon_id": 70,
+        "money_cost": 100,
+        "Level": 6,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Divine Protection": {
+        "id": 498,
+        "spell_icon_id": 73,
+        "money_cost": 100,
+        "Level": 6,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Purify": {
+        "id": 1152,
+        "spell_icon_id": 300,
+        "money_cost": 100,
+        "Level": 8,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hammer of Justice (Rank 1)": {
+        "id": 853,
+        "spell_icon_id": 302,
+        "money_cost": 100,
+        "Level": 8,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Devotion Aura (Rank 2)": {
+        "id": 10290,
+        "spell_icon_id": 291,
+        "money_cost": 300,
+        "Level": 10,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hand of Protection (Rank 1)": {
+        "id": 1022,
+        "spell_icon_id": 303,
+        "money_cost": 300,
+        "Level": 10,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lay on Hands (Rank 1)": {
+        "id": 633,
+        "spell_icon_id": 79,
+        "money_cost": 300,
+        "Level": 10,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Judgement of Wisdom": {
+        "id": 53408,
+        "spell_icon_id": 3014,
+        "money_cost": 1000,
+        "Level": 12,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blessing of Might (Rank 2)": {
+        "id": 19834,
+        "spell_icon_id": 298,
+        "money_cost": 1000,
+        "Level": 12,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Righteous Defense": {
+        "id": 31789,
+        "spell_icon_id": 2037,
+        "money_cost": 4000,
+        "Level": 14,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Light (Rank 3)": {
+        "id": 647,
+        "spell_icon_id": 70,
+        "money_cost": 2000,
+        "Level": 14,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blessing of Wisdom (Rank 1)": {
+        "id": 19742,
+        "spell_icon_id": 306,
+        "money_cost": 2000,
+        "Level": 14,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Righteous Fury": {
+        "id": 25780,
+        "spell_icon_id": 301,
+        "money_cost": 3000,
+        "Level": 16,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Retribution Aura (Rank 1)": {
+        "id": 7294,
+        "spell_icon_id": 555,
+        "money_cost": 3000,
+        "Level": 16,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hand of Reckoning": {
+        "id": 62124,
+        "spell_icon_id": 3722,
+        "money_cost": 3000,
+        "Level": 16,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hand of Freedom": {
+        "id": 1044,
+        "spell_icon_id": 80,
+        "money_cost": 3500,
+        "Level": 18,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Consecration (Rank 1)": {
+        "id": 26573,
+        "spell_icon_id": 51,
+        "money_cost": 4000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Exorcism (Rank 1)": {
+        "id": 879,
+        "spell_icon_id": 292,
+        "money_cost": 4000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Devotion Aura (Rank 3)": {
+        "id": 643,
+        "spell_icon_id": 291,
+        "money_cost": 4000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blessing of Kings": {
+        "id": 20217,
+        "spell_icon_id": 332,
+        "money_cost": 4000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flash of Light (Rank 1)": {
+        "id": 19750,
+        "spell_icon_id": 242,
+        "money_cost": 4000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Light (Rank 4)": {
+        "id": 1026,
+        "spell_icon_id": 70,
+        "money_cost": 4000,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Seal of Justice": {
+        "id": 20164,
+        "spell_icon_id": 307,
+        "money_cost": 4000,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blessing of Might (Rank 3)": {
+        "id": 19835,
+        "spell_icon_id": 298,
+        "money_cost": 4000,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Concentration Aura": {
+        "id": 19746,
+        "spell_icon_id": 1487,
+        "money_cost": 4000,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Turn Evil": {
+        "id": 10326,
+        "spell_icon_id": 309,
+        "money_cost": 5000,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hand of Protection (Rank 2)": {
+        "id": 5599,
+        "spell_icon_id": 303,
+        "money_cost": 5000,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hammer of Justice (Rank 2)": {
+        "id": 5588,
+        "spell_icon_id": 302,
+        "money_cost": 5000,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blessing of Wisdom (Rank 2)": {
+        "id": 19850,
+        "spell_icon_id": 306,
+        "money_cost": 5000,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Retribution Aura (Rank 2)": {
+        "id": 10298,
+        "spell_icon_id": 555,
+        "money_cost": 6000,
+        "Level": 26,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hand of Salvation": {
+        "id": 1038,
+        "spell_icon_id": 305,
+        "money_cost": 6000,
+        "Level": 26,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flash of Light (Rank 2)": {
+        "id": 19939,
+        "spell_icon_id": 242,
+        "money_cost": 6000,
+        "Level": 26,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Judgement of Justice": {
+        "id": 53407,
+        "spell_icon_id": 3013,
+        "money_cost": 9000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Exorcism (Rank 2)": {
+        "id": 5614,
+        "spell_icon_id": 292,
+        "money_cost": 9000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Resistance Aura (Rank 1)": {
+        "id": 19876,
+        "spell_icon_id": 140,
+        "money_cost": 9000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Devotion Aura (Rank 4)": {
+        "id": 10291,
+        "spell_icon_id": 291,
+        "money_cost": 11000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lay on Hands (Rank 2)": {
+        "id": 2800,
+        "spell_icon_id": 79,
+        "money_cost": 11000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Light (Rank 5)": {
+        "id": 1042,
+        "spell_icon_id": 70,
+        "money_cost": 11000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Seal of Light": {
+        "id": 20165,
+        "spell_icon_id": 299,
+        "money_cost": 11000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Consecration (Rank 2)": {
+        "id": 20116,
+        "spell_icon_id": 51,
+        "money_cost": 11000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Divine Intervention": {
+        "id": 19752,
+        "spell_icon_id": 58,
+        "money_cost": 11000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Resistance Aura (Rank 1)": {
+        "id": 19888,
+        "spell_icon_id": 133,
+        "money_cost": 12000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blessing of Might (Rank 4)": {
+        "id": 19836,
+        "spell_icon_id": 298,
+        "money_cost": 12000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Divine Shield": {
+        "id": 642,
+        "spell_icon_id": 81,
+        "money_cost": 13000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flash of Light (Rank 3)": {
+        "id": 19940,
+        "spell_icon_id": 242,
+        "money_cost": 13000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blessing of Wisdom (Rank 3)": {
+        "id": 19852,
+        "spell_icon_id": 306,
+        "money_cost": 13000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Retribution Aura (Rank 3)": {
+        "id": 10299,
+        "spell_icon_id": 555,
+        "money_cost": 14000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Exorcism (Rank 3)": {
+        "id": 5615,
+        "spell_icon_id": 292,
+        "money_cost": 14000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Resistance Aura (Rank 1)": {
+        "id": 19891,
+        "spell_icon_id": 33,
+        "money_cost": 14000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hand of Protection (Rank 3)": {
+        "id": 10278,
+        "spell_icon_id": 303,
+        "money_cost": 16000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Light (Rank 6)": {
+        "id": 3472,
+        "spell_icon_id": 70,
+        "money_cost": 16000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Seal of Wisdom": {
+        "id": 20166,
+        "spell_icon_id": 206,
+        "money_cost": 16000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hammer of Justice (Rank 3)": {
+        "id": 5589,
+        "spell_icon_id": 302,
+        "money_cost": 20000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Devotion Aura (Rank 5)": {
+        "id": 1032,
+        "spell_icon_id": 291,
+        "money_cost": 20000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Charger": {
+        "id": 23214,
+        "spell_icon_id": 1716,
+        "money_cost": 3500,
+        "Level": 40,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Draenei"
+        ],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Consecration (Rank 3)": {
+        "id": 20922,
+        "spell_icon_id": 51,
+        "money_cost": 20000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Resistance Aura (Rank 2)": {
+        "id": 19895,
+        "spell_icon_id": 140,
+        "money_cost": 20000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Cleanse": {
+        "id": 4987,
+        "spell_icon_id": 321,
+        "money_cost": 21000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flash of Light (Rank 4)": {
+        "id": 19941,
+        "spell_icon_id": 242,
+        "money_cost": 21000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blessing of Might (Rank 5)": {
+        "id": 19837,
+        "spell_icon_id": 298,
+        "money_cost": 21000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Exorcism (Rank 4)": {
+        "id": 10312,
+        "spell_icon_id": 292,
+        "money_cost": 22000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hammer of Wrath (Rank 1)": {
+        "id": 24275,
+        "spell_icon_id": 42,
+        "money_cost": 22000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Resistance Aura (Rank 2)": {
+        "id": 19897,
+        "spell_icon_id": 133,
+        "money_cost": 22000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blessing of Wisdom (Rank 4)": {
+        "id": 19853,
+        "spell_icon_id": 306,
+        "money_cost": 22000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Light (Rank 7)": {
+        "id": 10328,
+        "spell_icon_id": 70,
+        "money_cost": 24000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Retribution Aura (Rank 4)": {
+        "id": 10300,
+        "spell_icon_id": 555,
+        "money_cost": 24000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hand of Sacrifice": {
+        "id": 6940,
+        "spell_icon_id": 504,
+        "money_cost": 24000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Shock (Rank 2)": {
+        "id": 20929,
+        "spell_icon_id": 156,
+        "money_cost": 1300,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Resistance Aura (Rank 2)": {
+        "id": 19899,
+        "spell_icon_id": 33,
+        "money_cost": 26000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lay on Hands (Rank 3)": {
+        "id": 10310,
+        "spell_icon_id": 79,
+        "money_cost": 28000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Devotion Aura (Rank 6)": {
+        "id": 10292,
+        "spell_icon_id": 291,
+        "money_cost": 28000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Wrath (Rank 1)": {
+        "id": 2812,
+        "spell_icon_id": 158,
+        "money_cost": 28000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Shield (Rank 2)": {
+        "id": 20927,
+        "spell_icon_id": 453,
+        "money_cost": 1400,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Consecration (Rank 4)": {
+        "id": 20923,
+        "spell_icon_id": 51,
+        "money_cost": 28000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flash of Light (Rank 5)": {
+        "id": 19942,
+        "spell_icon_id": 242,
+        "money_cost": 28000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Greater Blessing of Might (Rank 1)": {
+        "id": 25782,
+        "spell_icon_id": 1802,
+        "money_cost": 46000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Exorcism (Rank 5)": {
+        "id": 10313,
+        "spell_icon_id": 292,
+        "money_cost": 34000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hammer of Wrath (Rank 2)": {
+        "id": 24274,
+        "spell_icon_id": 42,
+        "money_cost": 34000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Resistance Aura (Rank 3)": {
+        "id": 19896,
+        "spell_icon_id": 140,
+        "money_cost": 34000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blessing of Might (Rank 6)": {
+        "id": 19838,
+        "spell_icon_id": 298,
+        "money_cost": 34000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Greater Blessing of Wisdom (Rank 1)": {
+        "id": 25894,
+        "spell_icon_id": 1805,
+        "money_cost": 46000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Light (Rank 8)": {
+        "id": 10329,
+        "spell_icon_id": 70,
+        "money_cost": 40000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hammer of Justice (Rank 4)": {
+        "id": 10308,
+        "spell_icon_id": 302,
+        "money_cost": 40000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blessing of Wisdom (Rank 5)": {
+        "id": 19854,
+        "spell_icon_id": 306,
+        "money_cost": 40000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Retribution Aura (Rank 5)": {
+        "id": 10301,
+        "spell_icon_id": 555,
+        "money_cost": 42000,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Shock (Rank 3)": {
+        "id": 20930,
+        "spell_icon_id": 156,
+        "money_cost": 2100,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Resistance Aura (Rank 3)": {
+        "id": 19898,
+        "spell_icon_id": 133,
+        "money_cost": 42000,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flash of Light (Rank 6)": {
+        "id": 19943,
+        "spell_icon_id": 242,
+        "money_cost": 44000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Greater Blessing of Wisdom (Rank 2)": {
+        "id": 25918,
+        "spell_icon_id": 1805,
+        "money_cost": 46000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Greater Blessing of Might (Rank 2)": {
+        "id": 25916,
+        "spell_icon_id": 1802,
+        "money_cost": 46000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Greater Blessing of Sanctuary": {
+        "id": 25899,
+        "spell_icon_id": 1804,
+        "money_cost": 2300,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Greater Blessing of Kings": {
+        "id": 25898,
+        "spell_icon_id": 1800,
+        "money_cost": 2300,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Light (Rank 9)": {
+        "id": 25292,
+        "spell_icon_id": 70,
+        "money_cost": 46000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blessing of Might (Rank 7)": {
+        "id": 25291,
+        "spell_icon_id": 298,
+        "money_cost": 50000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blessing of Wisdom (Rank 6)": {
+        "id": 25290,
+        "spell_icon_id": 306,
+        "money_cost": 50000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Avenger's Shield (Rank 2)": {
+        "id": 32699,
+        "spell_icon_id": 2172,
+        "money_cost": 2300,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Wrath (Rank 2)": {
+        "id": 10318,
+        "spell_icon_id": 158,
+        "money_cost": 46000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Exorcism (Rank 6)": {
+        "id": 10314,
+        "spell_icon_id": 292,
+        "money_cost": 46000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Devotion Aura (Rank 7)": {
+        "id": 10293,
+        "spell_icon_id": 291,
+        "money_cost": 46000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hammer of Wrath (Rank 3)": {
+        "id": 24239,
+        "spell_icon_id": 42,
+        "money_cost": 46000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Shield (Rank 3)": {
+        "id": 20928,
+        "spell_icon_id": 453,
+        "money_cost": 2300,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Consecration (Rank 5)": {
+        "id": 20924,
+        "spell_icon_id": 51,
+        "money_cost": 46000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Resistance Aura (Rank 3)": {
+        "id": 19900,
+        "spell_icon_id": 33,
+        "money_cost": 46000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Light (Rank 10)": {
+        "id": 27135,
+        "spell_icon_id": 70,
+        "money_cost": 55000,
+        "Level": 62,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Crusader Aura": {
+        "id": 32223,
+        "spell_icon_id": 2291,
+        "money_cost": 55000,
+        "Level": 62,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Resistance Aura (Rank 4)": {
+        "id": 27151,
+        "spell_icon_id": 140,
+        "money_cost": 61000,
+        "Level": 63,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Shock (Rank 4)": {
+        "id": 27174,
+        "spell_icon_id": 156,
+        "money_cost": 3348,
+        "Level": 64,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Seal of Vengeance": {
+        "id": 31801,
+        "spell_icon_id": 2292,
+        "money_cost": 67000,
+        "Level": 64,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Draenei"
+        ],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Greater Blessing of Wisdom (Rank 3)": {
+        "id": 27143,
+        "spell_icon_id": 1805,
+        "money_cost": 75000,
+        "Level": 65,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blessing of Wisdom (Rank 7)": {
+        "id": 27142,
+        "spell_icon_id": 306,
+        "money_cost": 75000,
+        "Level": 65,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Retribution Aura (Rank 6)": {
+        "id": 27150,
+        "spell_icon_id": 555,
+        "money_cost": 83000,
+        "Level": 66,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flash of Light (Rank 7)": {
+        "id": 27137,
+        "spell_icon_id": 242,
+        "money_cost": 83000,
+        "Level": 66,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Seal of Corruption": {
+        "id": 53736,
+        "spell_icon_id": 2292,
+        "money_cost": 100000,
+        "Level": 66,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hammer of Wrath (Rank 4)": {
+        "id": 27180,
+        "spell_icon_id": 42,
+        "money_cost": 100000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Resistance Aura (Rank 4)": {
+        "id": 27152,
+        "spell_icon_id": 133,
+        "money_cost": 100000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Exorcism (Rank 7)": {
+        "id": 27138,
+        "spell_icon_id": 292,
+        "money_cost": 100000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lay on Hands (Rank 4)": {
+        "id": 27154,
+        "spell_icon_id": 79,
+        "money_cost": 110000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Wrath (Rank 3)": {
+        "id": 27139,
+        "spell_icon_id": 158,
+        "money_cost": 110000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Shield (Rank 4)": {
+        "id": 27179,
+        "spell_icon_id": 453,
+        "money_cost": 6500,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Consecration (Rank 6)": {
+        "id": 27173,
+        "spell_icon_id": 51,
+        "money_cost": 130000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Resistance Aura (Rank 4)": {
+        "id": 27153,
+        "spell_icon_id": 33,
+        "money_cost": 130000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Devotion Aura (Rank 8)": {
+        "id": 27149,
+        "spell_icon_id": 291,
+        "money_cost": 130000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Greater Blessing of Might (Rank 3)": {
+        "id": 27141,
+        "spell_icon_id": 1802,
+        "money_cost": 100000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blessing of Might (Rank 8)": {
+        "id": 27140,
+        "spell_icon_id": 298,
+        "money_cost": 200000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Light (Rank 11)": {
+        "id": 27136,
+        "spell_icon_id": 70,
+        "money_cost": 130000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Shock (Rank 5)": {
+        "id": 33072,
+        "spell_icon_id": 156,
+        "money_cost": 6500,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Avenger's Shield (Rank 3)": {
+        "id": 32700,
+        "spell_icon_id": 2172,
+        "money_cost": 5000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Avenging Wrath": {
+        "id": 31884,
+        "spell_icon_id": 2168,
+        "money_cost": 130000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Divine Plea": {
+        "id": 54428,
+        "spell_icon_id": 2821,
+        "money_cost": 100000,
+        "Level": 71,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Greater Blessing of Wisdom (Rank 4)": {
+        "id": 48937,
+        "spell_icon_id": 1805,
+        "money_cost": 200000,
+        "Level": 71,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blessing of Wisdom (Rank 8)": {
+        "id": 48935,
+        "spell_icon_id": 306,
+        "money_cost": 200000,
+        "Level": 71,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Wrath (Rank 4)": {
+        "id": 48816,
+        "spell_icon_id": 158,
+        "money_cost": 200000,
+        "Level": 72,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Greater Blessing of Might (Rank 4)": {
+        "id": 48933,
+        "spell_icon_id": 1802,
+        "money_cost": 200000,
+        "Level": 73,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blessing of Might (Rank 9)": {
+        "id": 48931,
+        "spell_icon_id": 298,
+        "money_cost": 200000,
+        "Level": 73,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Exorcism (Rank 8)": {
+        "id": 48800,
+        "spell_icon_id": 292,
+        "money_cost": 200000,
+        "Level": 73,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Devotion Aura (Rank 9)": {
+        "id": 48941,
+        "spell_icon_id": 291,
+        "money_cost": 200000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hammer of Wrath (Rank 5)": {
+        "id": 48805,
+        "spell_icon_id": 42,
+        "money_cost": 200000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flash of Light (Rank 8)": {
+        "id": 48784,
+        "spell_icon_id": 242,
+        "money_cost": 200000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shield of Righteousness (Rank 1)": {
+        "id": 53600,
+        "spell_icon_id": 3031,
+        "money_cost": 200000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Shield (Rank 5)": {
+        "id": 48951,
+        "spell_icon_id": 453,
+        "money_cost": 10000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Avenger's Shield (Rank 4)": {
+        "id": 48826,
+        "spell_icon_id": 2172,
+        "money_cost": 10000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Shock (Rank 6)": {
+        "id": 48824,
+        "spell_icon_id": 156,
+        "money_cost": 10000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Consecration (Rank 7)": {
+        "id": 48818,
+        "spell_icon_id": 51,
+        "money_cost": 200000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Light (Rank 12)": {
+        "id": 48781,
+        "spell_icon_id": 70,
+        "money_cost": 200000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Retribution Aura (Rank 7)": {
+        "id": 54043,
+        "spell_icon_id": 555,
+        "money_cost": 200000,
+        "Level": 76,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Resistance Aura (Rank 5)": {
+        "id": 48943,
+        "spell_icon_id": 140,
+        "money_cost": 200000,
+        "Level": 76,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Resistance Aura (Rank 5)": {
+        "id": 48945,
+        "spell_icon_id": 133,
+        "money_cost": 200000,
+        "Level": 77,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Greater Blessing of Wisdom (Rank 5)": {
+        "id": 48938,
+        "spell_icon_id": 1805,
+        "money_cost": 200000,
+        "Level": 77,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blessing of Wisdom (Rank 9)": {
+        "id": 48936,
+        "spell_icon_id": 306,
+        "money_cost": 200000,
+        "Level": 77,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Resistance Aura (Rank 5)": {
+        "id": 48947,
+        "spell_icon_id": 33,
+        "money_cost": 200000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Wrath (Rank 5)": {
+        "id": 48817,
+        "spell_icon_id": 158,
+        "money_cost": 200000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lay on Hands (Rank 5)": {
+        "id": 48788,
+        "spell_icon_id": 79,
+        "money_cost": 200000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Devotion Aura (Rank 10)": {
+        "id": 48942,
+        "spell_icon_id": 291,
+        "money_cost": 200000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Greater Blessing of Might (Rank 5)": {
+        "id": 48934,
+        "spell_icon_id": 1802,
+        "money_cost": 200000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blessing of Might (Rank 10)": {
+        "id": 48932,
+        "spell_icon_id": 298,
+        "money_cost": 200000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Exorcism (Rank 9)": {
+        "id": 48801,
+        "spell_icon_id": 292,
+        "money_cost": 200000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flash of Light (Rank 9)": {
+        "id": 48785,
+        "spell_icon_id": 242,
+        "money_cost": 200000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Sacred Shield (Rank 1)": {
+        "id": 53601,
+        "spell_icon_id": 3033,
+        "money_cost": 100000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shield of Righteousness (Rank 2)": {
+        "id": 61411,
+        "spell_icon_id": 3031,
+        "money_cost": 200000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Shield (Rank 6)": {
+        "id": 48952,
+        "spell_icon_id": 453,
+        "money_cost": 10000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Avenger's Shield (Rank 5)": {
+        "id": 48827,
+        "spell_icon_id": 2172,
+        "money_cost": 10000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Shock (Rank 7)": {
+        "id": 48825,
+        "spell_icon_id": 156,
+        "money_cost": 10000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Consecration (Rank 8)": {
+        "id": 48819,
+        "spell_icon_id": 51,
+        "money_cost": 200000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hammer of Wrath (Rank 6)": {
+        "id": 48806,
+        "spell_icon_id": 42,
+        "money_cost": 200000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Light (Rank 13)": {
+        "id": 48782,
+        "spell_icon_id": 70,
+        "money_cost": 200000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    }
+}

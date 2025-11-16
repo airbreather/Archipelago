@@ -1,0 +1,2724 @@
+{
+    "Sharptalon's Claw": {
+        "ID": 2,
+        "QuestLevel": 30,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Sharptalon's Claw",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -2,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Ashenvale Hunt (1)"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Ursangous's Paw": {
+        "ID": 23,
+        "QuestLevel": 24,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Ursangous's Paw",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -2,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Ashenvale Hunt (1)"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Shadumbra's Head": {
+        "ID": 24,
+        "QuestLevel": 27,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Shadumbra's Head",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -2,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Ashenvale Hunt (1)"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Stonetalon Standstill": {
+        "ID": 25,
+        "QuestLevel": 25,
+        "MinLevel": 23,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Stonetalon Standstill",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Between a Rock and a Thistlefur": {
+        "ID": 216,
+        "QuestLevel": 24,
+        "MinLevel": 21,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Between a Rock and a Thistlefur",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "The Hunt Completed": {
+        "ID": 247,
+        "QuestLevel": 30,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Hunt Completed",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Je'neu of the Earthen Ring": {
+        "ID": 824,
+        "QuestLevel": 27,
+        "MinLevel": 23,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Je'neu of the Earthen Ring",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Befouled Element"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "The Tower of Althalaxx (4)": {
+        "ID": 970,
+        "QuestLevel": 21,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Tower of Althalaxx",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Tower of Althalaxx (3)"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "The Tower of Althalaxx (5)": {
+        "ID": 973,
+        "QuestLevel": 24,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Tower of Althalaxx",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Tower of Althalaxx (4)"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Supplies to Auberdine": {
+        "ID": 976,
+        "QuestLevel": 24,
+        "MinLevel": 19,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Supplies to Auberdine",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Tower of Althalaxx (5)"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Raene's Cleansing (1)": {
+        "ID": 991,
+        "QuestLevel": 19,
+        "MinLevel": 18,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Raene's Cleansing",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "The Ancient Statuette": {
+        "ID": 1007,
+        "QuestLevel": 20,
+        "MinLevel": 19,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Ancient Statuette",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "The Zoram Strand": {
+        "ID": 1008,
+        "QuestLevel": 19,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Zoram Strand",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Ruuzel": {
+        "ID": 1009,
+        "QuestLevel": 25,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Ruuzel",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Ancient Statuette"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Bathran's Hair": {
+        "ID": 1010,
+        "QuestLevel": 20,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Bathran's Hair",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Forsaken Diseases": {
+        "ID": 1011,
+        "QuestLevel": 29,
+        "MinLevel": 24,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Forsaken Diseases",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Kayneth Stillwind"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Insane Druids": {
+        "ID": 1012,
+        "QuestLevel": 32,
+        "MinLevel": 24,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Insane Druids",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Forsaken Diseases"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Elemental Bracers": {
+        "ID": 1016,
+        "QuestLevel": 24,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Elemental Bracers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Mage Summoner": {
+        "ID": 1017,
+        "QuestLevel": 25,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Mage Summoner",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Elemental Bracers"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Orendil's Cure": {
+        "ID": 1020,
+        "QuestLevel": 20,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Orendil's Cure",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Bathran's Hair"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Vile Satyr! Dryads in Danger!": {
+        "ID": 1021,
+        "QuestLevel": 32,
+        "MinLevel": 26,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Vile Satyr! Dryads in Danger!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "The Howling Vale": {
+        "ID": 1022,
+        "QuestLevel": 30,
+        "MinLevel": 25,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Howling Vale",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Raene's Cleansing (2)": {
+        "ID": 1023,
+        "QuestLevel": 21,
+        "MinLevel": 18,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Raene's Cleansing",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Raene's Cleansing (1)"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Raene's Cleansing (3)": {
+        "ID": 1024,
+        "QuestLevel": 21,
+        "MinLevel": 18,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Raene's Cleansing",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Raene's Cleansing (2)"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "An Aggressive Defense": {
+        "ID": 1025,
+        "QuestLevel": 24,
+        "MinLevel": 18,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "An Aggressive Defense",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Raene's Cleansing (2)"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Raene's Cleansing (4)": {
+        "ID": 1026,
+        "QuestLevel": 27,
+        "MinLevel": 18,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Raene's Cleansing",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Raene's Cleansing (3)"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Raene's Cleansing (5)": {
+        "ID": 1027,
+        "QuestLevel": 28,
+        "MinLevel": 18,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Raene's Cleansing",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Raene's Cleansing (4)"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Raene's Cleansing (6)": {
+        "ID": 1028,
+        "QuestLevel": 28,
+        "MinLevel": 18,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Raene's Cleansing",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Raene's Cleansing (5)"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Raene's Cleansing (7)": {
+        "ID": 1029,
+        "QuestLevel": 28,
+        "MinLevel": 18,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Raene's Cleansing",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Raene's Cleansing (11)"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Raene's Cleansing (8)": {
+        "ID": 1030,
+        "QuestLevel": 28,
+        "MinLevel": 18,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Raene's Cleansing",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Raene's Cleansing (7)"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "The Branch of Cenarius": {
+        "ID": 1031,
+        "QuestLevel": 32,
+        "MinLevel": 26,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Branch of Cenarius",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Vile Satyr! Dryads in Danger!"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Satyr Slaying!": {
+        "ID": 1032,
+        "QuestLevel": 32,
+        "MinLevel": 26,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Satyr Slaying!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Branch of Cenarius"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Elune's Tear": {
+        "ID": 1033,
+        "QuestLevel": 22,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Elune's Tear",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Orendil's Cure"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "The Ruins of Stardust": {
+        "ID": 1034,
+        "QuestLevel": 23,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Ruins of Stardust",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Elune's Tear"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Fallen Sky Lake": {
+        "ID": 1035,
+        "QuestLevel": 30,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Fallen Sky Lake",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Ruins of Stardust"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Velinde Starsong": {
+        "ID": 1037,
+        "QuestLevel": 30,
+        "MinLevel": 25,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Velinde Starsong",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Howling Vale"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Raene's Cleansing (9)": {
+        "ID": 1045,
+        "QuestLevel": 30,
+        "MinLevel": 18,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Raene's Cleansing",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Raene's Cleansing (8)"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Raene's Cleansing (10)": {
+        "ID": 1046,
+        "QuestLevel": 30,
+        "MinLevel": 18,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Raene's Cleansing",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Raene's Cleansing (9)"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Culling the Threat": {
+        "ID": 1054,
+        "QuestLevel": 25,
+        "MinLevel": 18,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Culling the Threat",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Raene's Cleansing (11)": {
+        "ID": 1055,
+        "QuestLevel": 28,
+        "MinLevel": 18,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Raene's Cleansing",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Raene's Cleansing (6)"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Journey to Stonetalon Peak": {
+        "ID": 1056,
+        "QuestLevel": 18,
+        "MinLevel": 18,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Journey to Stonetalon Peak",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "On Guard in Stonetalon (1)": {
+        "ID": 1070,
+        "QuestLevel": 21,
+        "MinLevel": 17,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "On Guard in Stonetalon",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Reception from Tyrande": {
+        "ID": 1081,
+        "QuestLevel": 28,
+        "MinLevel": 17,
+        "QuestInfoID": 0,
+        "QuestSortID": 406,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Reception from Tyrande",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Update for Sentinel Thenysil"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Pridewings of Stonetalon": {
+        "ID": 1134,
+        "QuestLevel": 21,
+        "MinLevel": 18,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Pridewings of Stonetalon",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Zoram Strand"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "The Tower of Althalaxx (7)": {
+        "ID": 1140,
+        "QuestLevel": 28,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Tower of Althalaxx",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Tower of Althalaxx (5)"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "The Tower of Althalaxx (9)": {
+        "ID": 1167,
+        "QuestLevel": 28,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Tower of Althalaxx",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Tower of Althalaxx (7)"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "The Befouled Element": {
+        "ID": 1918,
+        "QuestLevel": 27,
+        "MinLevel": 23,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Befouled Element",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Kayneth Stillwind": {
+        "ID": 4581,
+        "QuestLevel": 29,
+        "MinLevel": 24,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Kayneth Stillwind",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "The Sleeper Has Awakened": {
+        "ID": 5321,
+        "QuestLevel": 20,
+        "MinLevel": 17,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Sleeper Has Awakened",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Darkshore",
+            "Ashenvale"
+        ]
+    },
+    "The Ashenvale Hunt (1)": {
+        "ID": 6383,
+        "QuestLevel": 20,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Ashenvale Hunt",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Satyr Horns": {
+        "ID": 6441,
+        "QuestLevel": 26,
+        "MinLevel": 21,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Satyr Horns",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Naga at the Zoram Strand": {
+        "ID": 6442,
+        "QuestLevel": 19,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Naga at the Zoram Strand",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Troll Charm": {
+        "ID": 6462,
+        "QuestLevel": 24,
+        "MinLevel": 19,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Troll Charm",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Freedom to Ruul": {
+        "ID": 6482,
+        "QuestLevel": 24,
+        "MinLevel": 19,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Freedom to Ruul",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Ashenvale Outrunners": {
+        "ID": 6503,
+        "QuestLevel": 24,
+        "MinLevel": 19,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Ashenvale Outrunners",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "The Lost Pages": {
+        "ID": 6504,
+        "QuestLevel": 30,
+        "MinLevel": 23,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Lost Pages",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Torek's Assault": {
+        "ID": 6544,
+        "QuestLevel": 24,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Torek's Assault",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Warsong Runner Update": {
+        "ID": 6545,
+        "QuestLevel": 19,
+        "MinLevel": 17,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Warsong Runner Update",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Warsong Outrider Update": {
+        "ID": 6546,
+        "QuestLevel": 25,
+        "MinLevel": 17,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Warsong Outrider Update",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Warsong Scout Update": {
+        "ID": 6547,
+        "QuestLevel": 21,
+        "MinLevel": 17,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Warsong Scout Update",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Warsong Supplies": {
+        "ID": 6571,
+        "QuestLevel": 27,
+        "MinLevel": 22,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Warsong Supplies",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Warsong Saw Blades": {
+        "ID": 6581,
+        "QuestLevel": 27,
+        "MinLevel": 22,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Warsong Saw Blades",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "King of the Foulweald": {
+        "ID": 6621,
+        "QuestLevel": 26,
+        "MinLevel": 21,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "King of the Foulweald",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Between a Rock and a Thistlefur"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Vorsha the Lasher": {
+        "ID": 6641,
+        "QuestLevel": 23,
+        "MinLevel": 20,
+        "QuestInfoID": 1,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Vorsha the Lasher",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Sentinel Basic Care Package": {
+        "ID": 7863,
+        "QuestLevel": 34,
+        "MinLevel": 25,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Sentinel Basic Care Package",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 7863,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Sentinel Standard Care Package": {
+        "ID": 7864,
+        "QuestLevel": 44,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Sentinel Standard Care Package",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 7863,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Sentinel Advanced Care Package": {
+        "ID": 7865,
+        "QuestLevel": 70,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Sentinel Advanced Care Package",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 7863,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Riversong the Elder": {
+        "ID": 8725,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Riversong the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Destroy the Legion (1)": {
+        "ID": 9516,
+        "QuestLevel": 30,
+        "MinLevel": 27,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Destroy the Legion",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "A Shameful Waste": {
+        "ID": 9517,
+        "QuestLevel": 28,
+        "MinLevel": 24,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Shameful Waste",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Agents of Destruction": {
+        "ID": 9518,
+        "QuestLevel": 28,
+        "MinLevel": 24,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Agents of Destruction",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "The Lost Chalice": {
+        "ID": 9519,
+        "QuestLevel": 27,
+        "MinLevel": 23,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Lost Chalice",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Never Again! (1)": {
+        "ID": 9522,
+        "QuestLevel": 32,
+        "MinLevel": 27,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Never Again!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Diabolical Plans (1)"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Reclaiming Felfire Hill": {
+        "ID": 9526,
+        "QuestLevel": 30,
+        "MinLevel": 27,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Reclaiming Felfire Hill",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "A Helping Hand": {
+        "ID": 9533,
+        "QuestLevel": 25,
+        "MinLevel": 22,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Helping Hand",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Destroy the Legion (2)": {
+        "ID": 9534,
+        "QuestLevel": 30,
+        "MinLevel": 27,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Destroy the Legion",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Never Again! (2)": {
+        "ID": 9536,
+        "QuestLevel": 32,
+        "MinLevel": 27,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Never Again!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Diabolical Plans (2)"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Playing with Fire (1)": {
+        "ID": 11882,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Playing with Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Teldrassil",
+            "Darkshore",
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Westfall",
+            "Redridge Mountains",
+            "Duskwood",
+            "Wetlands",
+            "Hillsbrad Foothills",
+            "The Hinterlands",
+            "Stranglethorn Vale",
+            "Western Plaguelands",
+            "Burning Steppes",
+            "Blasted Lands",
+            "Ashenvale",
+            "Tanaris",
+            "Winterspring",
+            "Dustwallow Marsh",
+            "Hellfire Peninsula",
+            "Zangarmarsh",
+            "Terokkar Forest",
+            "Terokkar Forest",
+            "Nagrand",
+            "Blade's Edge Mountains",
+            "Netherstorm",
+            "Shadowmoon Valley",
+            "Borean Tundra",
+            "The Storm Peaks"
+        ]
+    },
+    "An Innocent Disguise": {
+        "ID": 11891,
+        "QuestLevel": -1,
+        "MinLevel": 16,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "An Innocent Disguise",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Unusual Activity"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Playing with Fire (2)": {
+        "ID": 11915,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Playing with Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Silverpine Forest",
+            "Eversong Woods",
+            "Ghostlands",
+            "Hillsbrad Foothills",
+            "Swamp of Sorrows",
+            "Stranglethorn Vale",
+            "Stonetalon Mountains",
+            "Ashenvale",
+            "Thousand Needles",
+            "Desolace",
+            "Tanaris",
+            "Feralas",
+            "Winterspring",
+            "Hellfire Peninsula",
+            "Zangarmarsh",
+            "Terokkar Forest",
+            "Terokkar Forest",
+            "Nagrand",
+            "Blade's Edge Mountains",
+            "Netherstorm",
+            "Shadowmoon Valley",
+            "Sholazar Basin"
+        ]
+    },
+    "Inform the Elder": {
+        "ID": 12012,
+        "QuestLevel": -1,
+        "MinLevel": 16,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Inform the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "An Innocent Disguise"
+        ],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Desecrate this Fire! (Ashenvale - Horde)": {
+        "ID": 11734,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Desecrate this Fire! (Ashenvale - Alliance)": {
+        "ID": 11765,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Honor the Flame (Ashenvale - Alliance)": {
+        "ID": 11805,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Honor the Flame (Ashenvale - Horde)": {
+        "ID": 11841,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Candy Bucket (Ashenvale, Astranaar)": {
+        "ID": 12345,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    },
+    "Candy Bucket (Ashenvale, Splintertree Post)": {
+        "ID": 12377,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Ashenvale"
+        ]
+    }
+}

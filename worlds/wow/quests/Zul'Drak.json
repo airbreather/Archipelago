@@ -1,0 +1,3523 @@
+{
+    "Troll Patrol (1)": {
+        "ID": 12501,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Troll Patrol",
+        "AllowableClasses": [],
+        "RewardSpell": 53707,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pa'Troll"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Troll Patrol: High Standards": {
+        "ID": 12502,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Troll Patrol: High Standards",
+        "AllowableClasses": [],
+        "RewardSpell": 50574,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Defend the Stand": {
+        "ID": 12503,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Defend the Stand",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12503,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Taking a Stand"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Argent Crusade, We Are Leaving!": {
+        "ID": 12504,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Argent Crusade, We Are Leaving!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "New Orders for Sergeant Stackhammer"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "New Orders for Sergeant Stackhammer": {
+        "ID": 12505,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "New Orders for Sergeant Stackhammer",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Defend the Stand",
+            "Parachutes for the Argent Crusade"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Trouble at the Altar of Sseratus": {
+        "ID": 12506,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Trouble at the Altar of Sseratus",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Defend the Stand",
+            "Parachutes for the Argent Crusade"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Strange Mojo": {
+        "ID": 12507,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Strange Mojo",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Mopping Up": {
+        "ID": 12508,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Mopping Up",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "New Orders for Sergeant Stackhammer"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Troll Patrol: Intestinal Fortitude": {
+        "ID": 12509,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Troll Patrol: Intestinal Fortitude",
+        "AllowableClasses": [],
+        "RewardSpell": 50634,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Precious Elemental Fluids": {
+        "ID": 12510,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Precious Elemental Fluids",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Strange Mojo"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Leave No One Behind": {
+        "ID": 12512,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Leave No One Behind",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Mushroom Mixer": {
+        "ID": 12514,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Mushroom Mixer",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Precious Elemental Fluids"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Too Much of a Good Thing": {
+        "ID": 12516,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Too Much of a Good Thing",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mushroom Mixer"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Troll Patrol: Whatdya Want, a Medal?": {
+        "ID": 12519,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Troll Patrol: Whatdya Want, a Medal?",
+        "AllowableClasses": [],
+        "RewardSpell": 51233,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Gluttonous Lurkers": {
+        "ID": 12527,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Gluttonous Lurkers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Troll Patrol: The Alchemist's Apprentice": {
+        "ID": 12541,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Troll Patrol: The Alchemist's Apprentice",
+        "AllowableClasses": [],
+        "RewardSpell": 51232,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pa'Troll"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Death to the Necromagi": {
+        "ID": 12552,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Death to the Necromagi",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pa'Troll"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Skimmer Spinnerets": {
+        "ID": 12553,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Skimmer Spinnerets",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12583,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Malas the Corrupter": {
+        "ID": 12554,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 1,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Malas the Corrupter",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Death to the Necromagi"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "A Tangled Skein": {
+        "ID": 12555,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Tangled Skein",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Lab Work": {
+        "ID": 12557,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Lab Work",
+        "AllowableClasses": [],
+        "RewardSpell": 51232,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "The Drakkari Do Not Need Water Elementals!": {
+        "ID": 12562,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Drakkari Do Not Need Water Elementals!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Troll Patrol (2)": {
+        "ID": 12563,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Troll Patrol",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pa'Troll"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Troll Patrol: Something for the Pain": {
+        "ID": 12564,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Troll Patrol: Something for the Pain",
+        "AllowableClasses": [],
+        "RewardSpell": 50574,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "The Blessing of Zim'Abwa": {
+        "ID": 12565,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Blessing of Zim'Abwa",
+        "AllowableClasses": [],
+        "RewardSpell": 51265,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Blessing of Zim'Abwa": {
+        "ID": 12567,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Blessing of Zim'Abwa",
+        "AllowableClasses": [],
+        "RewardSpell": 51265,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Blessing of Zim'Abwa"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Troll Patrol: Done to Death": {
+        "ID": 12568,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Troll Patrol: Done to Death",
+        "AllowableClasses": [],
+        "RewardSpell": 50634,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Crashed Sprayer": {
+        "ID": 12583,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Crashed Sprayer",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12583,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Pure Evil": {
+        "ID": 12584,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Pure Evil",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Troll Patrol: Creature Comforts": {
+        "ID": 12585,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Troll Patrol: Creature Comforts",
+        "AllowableClasses": [],
+        "RewardSpell": 51233,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Troll Patrol (3)": {
+        "ID": 12587,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Troll Patrol",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pa'Troll"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Troll Patrol: Can You Dig It?": {
+        "ID": 12588,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Troll Patrol: Can You Dig It?",
+        "AllowableClasses": [],
+        "RewardSpell": 50574,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Troll Patrol: Throwing Down": {
+        "ID": 12591,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Troll Patrol: Throwing Down",
+        "AllowableClasses": [],
+        "RewardSpell": 50634,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Troll Patrol: Couldn't Care Less": {
+        "ID": 12594,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Troll Patrol: Couldn't Care Less",
+        "AllowableClasses": [],
+        "RewardSpell": 51233,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Pa'Troll": {
+        "ID": 12596,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Pa'Troll",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Defend the Stand",
+            "Parachutes for the Argent Crusade"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Something for the Pain": {
+        "ID": 12597,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Something for the Pain",
+        "AllowableClasses": [],
+        "RewardSpell": 50574,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Throwing Down": {
+        "ID": 12598,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Throwing Down",
+        "AllowableClasses": [],
+        "RewardSpell": 50634,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Creature Comforts": {
+        "ID": 12599,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Creature Comforts",
+        "AllowableClasses": [],
+        "RewardSpell": 51233,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Congratulations!": {
+        "ID": 12604,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Congratulations!",
+        "AllowableClasses": [],
+        "RewardSpell": 51580,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Cocooned!": {
+        "ID": 12606,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Cocooned!",
+        "AllowableClasses": [],
+        "RewardSpell": 50634,
+        "ExclusiveGroup": -12583,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Stocking the Shelves": {
+        "ID": 12609,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Stocking the Shelves",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Siphoning the Spirits"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Clipping Their Wings": {
+        "ID": 12610,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Clipping Their Wings",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Siphoning the Spirits"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "The Blessing of Zim'Torga": {
+        "ID": 12615,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Blessing of Zim'Torga",
+        "AllowableClasses": [],
+        "RewardSpell": 51729,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Too Much of a Good Thing"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Blessing of Zim'Torga": {
+        "ID": 12618,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Blessing of Zim'Torga",
+        "AllowableClasses": [],
+        "RewardSpell": 51729,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Blessing of Zim'Torga"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "The Leaders at Jin'Alai": {
+        "ID": 12622,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Leaders at Jin'Alai",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "To the Witch Doctor": {
+        "ID": 12623,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "To the Witch Doctor",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Too Much of a Good Thing"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Breaking Through Jin'Alai": {
+        "ID": 12627,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Breaking Through Jin'Alai",
+        "AllowableClasses": [],
+        "RewardSpell": 51863,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "To the Witch Doctor"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "To Speak With Har'koa": {
+        "ID": 12628,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "To Speak With Har'koa",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Breaking Through Jin'Alai"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "You Can Run, But You Can't Hide": {
+        "ID": 12629,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "You Can Run, But You Can't Hide",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Near Miss"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Kickin' Nass and Takin' Manes": {
+        "ID": 12630,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Kickin' Nass and Takin' Manes",
+        "AllowableClasses": [],
+        "RewardSpell": 51909,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Ebon Watch"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "An Invitation, of Sorts...": {
+        "ID": 12631,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "An Invitation, of Sorts...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "But First My Offspring": {
+        "ID": 12632,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "But First My Offspring",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "To Speak With Har'koa"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Darkness Calling": {
+        "ID": 12633,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Darkness Calling",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Cleansing Drak'Tharon"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Relics of the Snow Leopard Goddess": {
+        "ID": 12635,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Relics of the Snow Leopard Goddess",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Near Miss": {
+        "ID": 12637,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Near Miss",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "An Invitation, of Sorts..."
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Close Call": {
+        "ID": 12638,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Close Call",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Darkness Calling"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "The Frozen Earth": {
+        "ID": 12639,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Frozen Earth",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Leaders at Jin'Alai"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Sealing the Rifts": {
+        "ID": 12640,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Sealing the Rifts",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Leaders at Jin'Alai"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Spirit of Rhunok": {
+        "ID": 12642,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Spirit of Rhunok",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "But First My Offspring"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Silver Lining": {
+        "ID": 12643,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Silver Lining",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Close Call"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "My Prophet, My Enemy": {
+        "ID": 12646,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "My Prophet, My Enemy",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Spirit of Rhunok"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "An End to the Suffering": {
+        "ID": 12647,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "An End to the Suffering",
+        "AllowableClasses": [],
+        "RewardSpell": 54183,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "My Prophet, My Enemy"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Dressing Down": {
+        "ID": 12648,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Dressing Down",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12648,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "You Can Run, But You Can't Hide"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Suit Up!": {
+        "ID": 12649,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Suit Up!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12648,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Silver Lining"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Plundering Their Own": {
+        "ID": 12650,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Plundering Their Own",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Relics of the Snow Leopard Goddess"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Feedin' Da Goolz": {
+        "ID": 12652,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Orc",
+            "Dwarf",
+            "Night Elf",
+            "Undead",
+            "Tauren",
+            "Gnome",
+            "Troll",
+            "Blood Elf",
+            "Draenei"
+        ],
+        "LogTitle": "Feedin' Da Goolz",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Back to Har'koa": {
+        "ID": 12653,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Back to Har'koa",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "An End to the Suffering"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "The Blessing of Zim'Rhuk": {
+        "ID": 12655,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Blessing of Zim'Rhuk",
+        "AllowableClasses": [],
+        "RewardSpell": 52051,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "But First My Offspring"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Blessing of Zim'Rhuk": {
+        "ID": 12656,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Blessing of Zim'Rhuk",
+        "AllowableClasses": [],
+        "RewardSpell": 52051,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Blessing of Zim'Rhuk"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Scalps!": {
+        "ID": 12659,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Scalps!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Sealing the Rifts"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Infiltrating Voltarus": {
+        "ID": 12661,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Infiltrating Voltarus",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Bringing Down Heb'Jin": {
+        "ID": 12662,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Bringing Down Heb'Jin",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Reunited": {
+        "ID": 12663,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Reunited",
+        "AllowableClasses": [],
+        "RewardSpell": 52224,
+        "ExclusiveGroup": 12663,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Suit Up!"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Dark Horizon": {
+        "ID": 12664,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Dark Horizon",
+        "AllowableClasses": [],
+        "RewardSpell": 52224,
+        "ExclusiveGroup": 12663,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Dressing Down"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "I Sense a Disturbance": {
+        "ID": 12665,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "I Sense a Disturbance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Back to Har'koa"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Preparations for the Underworld": {
+        "ID": 12666,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Preparations for the Underworld",
+        "AllowableClasses": [],
+        "RewardSpell": 52219,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "I Sense a Disturbance"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Seek the Wind Serpent Goddess": {
+        "ID": 12667,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Seek the Wind Serpent Goddess",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Preparations for the Underworld"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Foundation for Revenge": {
+        "ID": 12668,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Foundation for Revenge",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Setting the Stage"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "So Far, So Bad": {
+        "ID": 12669,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "So Far, So Bad",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Infiltrating Voltarus"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Setting the Stage": {
+        "ID": 12672,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Setting the Stage",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Seek the Wind Serpent Goddess"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "It Rolls Downhill": {
+        "ID": 12673,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "It Rolls Downhill",
+        "AllowableClasses": [],
+        "RewardSpell": 52253,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Hell Hath a Fury": {
+        "ID": 12674,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Hell Hath a Fury",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Foundation for Revenge"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "One Last Thing": {
+        "ID": 12675,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "One Last Thing",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Hell Hath a Fury"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Sabotage": {
+        "ID": 12676,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Sabotage",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Hazardous Materials"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Hazardous Materials": {
+        "ID": 12677,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Hazardous Materials",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "So Far, So Bad"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Blood of a Dead God": {
+        "ID": 12684,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Blood of a Dead God",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "One Last Thing"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "You Reap What You Sow": {
+        "ID": 12685,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "You Reap What You Sow",
+        "AllowableClasses": [],
+        "RewardSpell": 52486,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Blood of a Dead God"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Zero Tolerance": {
+        "ID": 12686,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Zero Tolerance",
+        "AllowableClasses": [],
+        "RewardSpell": 52355,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Fuel for the Fire": {
+        "ID": 12690,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Fuel for the Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 52680,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Wooly Justice": {
+        "ID": 12707,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Wooly Justice",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "You Reap What You Sow"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Enchanted Tiki Warriors": {
+        "ID": 12708,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Enchanted Tiki Warriors",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "You Reap What You Sow"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Hexed Caches": {
+        "ID": 12709,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Hexed Caches",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "You Reap What You Sow"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Disclosure": {
+        "ID": 12710,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Disclosure",
+        "AllowableClasses": [],
+        "RewardSpell": 52675,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Fuel for the Fire"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "The Key of Warlord Zol'Maz": {
+        "ID": 12712,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Key of Warlord Zol'Maz",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "You Reap What You Sow"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Betrayal": {
+        "ID": 12713,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Betrayal",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Sabotage"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Rampage": {
+        "ID": 12721,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Rampage",
+        "AllowableClasses": [],
+        "RewardSpell": 52932,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Key of Warlord Zol'Maz"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "The Gods Have Spoken": {
+        "ID": 12729,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 1,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Gods Have Spoken",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Rampage"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Convocation at Zol'Heb": {
+        "ID": 12730,
+        "QuestLevel": 78,
+        "MinLevel": 74,
+        "QuestInfoID": 1,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Convocation at Zol'Heb",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Gods Have Spoken"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Parachutes for the Argent Crusade": {
+        "ID": 12740,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Parachutes for the Argent Crusade",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12503,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "First Things First": {
+        "ID": 12792,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "First Things First",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12789,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Smoke on the Horizon": {
+        "ID": 12793,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Smoke on the Horizon",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12789,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Taking a Stand": {
+        "ID": 12795,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Taking a Stand",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Kickin' Nass and Takin' Manes"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "The Magical Kingdom of Dalaran (3)": {
+        "ID": 12796,
+        "QuestLevel": 74,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 4395,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Magical Kingdom of Dalaran",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12796,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Siphoning the Spirits": {
+        "ID": 12799,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Siphoning the Spirits",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Wanted: Ragemane's Flipper": {
+        "ID": 12857,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 1,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Wanted: Ragemane's Flipper",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "This Just In: Fire Still Hot!": {
+        "ID": 12859,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "This Just In: Fire Still Hot!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Trolls Is Gone Crazy!": {
+        "ID": 12861,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Trolls Is Gone Crazy!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Orders From Drakuru": {
+        "ID": 12883,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Orders From Drakuru",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "In Search Of Answers"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "The Ebon Watch": {
+        "ID": 12884,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Ebon Watch",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Orders From Drakuru"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Crusader Forward Camp": {
+        "ID": 12894,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Crusader Forward Camp",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Orders From Drakuru"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Making Something Out Of Nothing": {
+        "ID": 12901,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Making Something Out Of Nothing",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Crusader Forward Camp"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "In Search Of Answers": {
+        "ID": 12902,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "In Search Of Answers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "That's What Friends Are For...": {
+        "ID": 12903,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "That's What Friends Are For...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Crusader Forward Camp"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Light Won't Grant Me Vengeance": {
+        "ID": 12904,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Light Won't Grant Me Vengeance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "That's What Friends Are For..."
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "A Great Storm Approaches": {
+        "ID": 12912,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Great Storm Approaches",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Crusader Forward Camp"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Gymer's Salvation": {
+        "ID": 12914,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Gymer's Salvation",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Great Storm Approaches"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Our Only Hope": {
+        "ID": 12916,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Our Only Hope",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Gymer's Salvation"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "The Storm King's Vengeance": {
+        "ID": 12919,
+        "QuestLevel": 76,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Storm King's Vengeance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Our Only Hope"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "The Amphitheater of Anguish: Yggdras! (1)": {
+        "ID": 12932,
+        "QuestLevel": 77,
+        "MinLevel": 75,
+        "QuestInfoID": 1,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Amphitheater of Anguish: Yggdras!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12932,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "The Amphitheater of Anguish: Magnataur!": {
+        "ID": 12933,
+        "QuestLevel": 77,
+        "MinLevel": 75,
+        "QuestInfoID": 1,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Amphitheater of Anguish: Magnataur!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "The Amphitheater of Anguish: From Beyond!": {
+        "ID": 12934,
+        "QuestLevel": 77,
+        "MinLevel": 75,
+        "QuestInfoID": 1,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Amphitheater of Anguish: From Beyond!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Amphitheater of Anguish: Magnataur!"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "The Amphitheater of Anguish: Tuskarrmageddon!": {
+        "ID": 12935,
+        "QuestLevel": 77,
+        "MinLevel": 75,
+        "QuestInfoID": 1,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Amphitheater of Anguish: Tuskarrmageddon!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Amphitheater of Anguish: From Beyond!"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "The Amphitheater of Anguish: Korrak the Bloodrager!": {
+        "ID": 12936,
+        "QuestLevel": 77,
+        "MinLevel": 75,
+        "QuestInfoID": 1,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Amphitheater of Anguish: Korrak the Bloodrager!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Amphitheater of Anguish: Tuskarrmageddon!"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Candy Bucket (82)": {
+        "ID": 12941,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "The Champion of Anguish": {
+        "ID": 12948,
+        "QuestLevel": 78,
+        "MinLevel": 75,
+        "QuestInfoID": 1,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Champion of Anguish",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Amphitheater of Anguish: Korrak the Bloodrager!"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "The Amphitheater of Anguish: Yggdras! (2)": {
+        "ID": 12954,
+        "QuestLevel": 77,
+        "MinLevel": 75,
+        "QuestInfoID": 1,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Amphitheater of Anguish: Yggdras!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12932,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Ring of Blood: The Final Challenge"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Tauros the Elder": {
+        "ID": 13027,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Tauros the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Unfinished Business (5)": {
+        "ID": 13097,
+        "QuestLevel": 78,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Unfinished Business",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Convocation at Zol'Heb"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Just Checkin'": {
+        "ID": 13099,
+        "QuestLevel": 78,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Just Checkin'",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Tails Up": {
+        "ID": 13549,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Tails Up",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Relics of the Snow Leopard Goddess"
+        ],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Eggs for Dubra'Jin": {
+        "ID": 13556,
+        "QuestLevel": 77,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Eggs for Dubra'Jin",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Sharing a Bountiful Feast (2)": {
+        "ID": 14065,
+        "QuestLevel": -1,
+        "MinLevel": 0,
+        "QuestInfoID": 0,
+        "QuestSortID": -375,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Sharing a Bountiful Feast",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Pilgrim's Bounty",
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pilgrim's Bounty (2)"
+        ],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Hillsbrad Foothills",
+            "Burning Steppes",
+            "Stonetalon Mountains",
+            "Thousand Needles",
+            "Desolace",
+            "Tanaris",
+            "Dustwallow Marsh",
+            "Hellfire Peninsula",
+            "Borean Tundra",
+            "Sholazar Basin",
+            "Dragonblight",
+            "Howling Fjord",
+            "Grizzly Hills",
+            "Zul'Drak",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Candy Bucket (Zul'Drak)": {
+        "ID": 12940,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Desecrate this Fire! (Zul'Drak - Horde)": {
+        "ID": 13449,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Desecrate this Fire! (Zul'Drak - Alliance)": {
+        "ID": 13458,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Honor the Flame (Zul'Drak - Alliance)": {
+        "ID": 13492,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    },
+    "Honor the Flame (Zul'Drak - Horde)": {
+        "ID": 13500,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zul'Drak"
+        ]
+    }
+}

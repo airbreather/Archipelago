@@ -1,0 +1,1964 @@
+{
+    "Down the Scarlet Path (1)": {
+        "ID": 261,
+        "QuestLevel": 39,
+        "MinLevel": 34,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Down the Scarlet Path",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Down the Scarlet Path (2)": {
+        "ID": 1052,
+        "QuestLevel": 40,
+        "MinLevel": 34,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Down the Scarlet Path",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Down the Scarlet Path (1)"
+        ],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Khan Dez'hepah": {
+        "ID": 1365,
+        "QuestLevel": 35,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Khan Dez'hepah",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Centaur Bounty (2)": {
+        "ID": 1366,
+        "QuestLevel": 31,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Centaur Bounty",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Khan Dez'hepah"
+        ],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Magram Alliance": {
+        "ID": 1367,
+        "QuestLevel": 33,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 93,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 3000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Magram Alliance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Gelkis Alliance": {
+        "ID": 1368,
+        "QuestLevel": 33,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 92,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 3000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Gelkis Alliance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Broken Tears": {
+        "ID": 1369,
+        "QuestLevel": 33,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 93,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 3000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Broken Tears",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Stealing Supplies": {
+        "ID": 1370,
+        "QuestLevel": 35,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 92,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 3000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Stealing Supplies",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Gizmo for Warug": {
+        "ID": 1371,
+        "QuestLevel": 35,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 93,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 3000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Gizmo for Warug",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Broken Tears"
+        ],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Ongeku": {
+        "ID": 1373,
+        "QuestLevel": 37,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 92,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 3000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Ongeku",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Stealing Supplies"
+        ],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Khan Jehn": {
+        "ID": 1374,
+        "QuestLevel": 37,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 92,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 3000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Khan Jehn",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Ongeku"
+        ],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Khan Shaka": {
+        "ID": 1375,
+        "QuestLevel": 37,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 93,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 3000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Khan Shaka",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Gizmo for Warug"
+        ],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Khan Hratha (1)": {
+        "ID": 1380,
+        "QuestLevel": 42,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 92,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 3000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Khan Hratha",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Khan Jehn"
+        ],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Khan Hratha (2)": {
+        "ID": 1381,
+        "QuestLevel": 42,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 93,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 3000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Khan Hratha",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Khan Shaka"
+        ],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Strange Alliance": {
+        "ID": 1382,
+        "QuestLevel": 35,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 92,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 3000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Strange Alliance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Raid on the Kolkar": {
+        "ID": 1384,
+        "QuestLevel": 32,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 92,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 3000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Raid on the Kolkar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Strange Alliance"
+        ],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Brutal Politics": {
+        "ID": 1385,
+        "QuestLevel": 35,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 93,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 3000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Brutal Politics",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Assault on the Kolkar": {
+        "ID": 1386,
+        "QuestLevel": 32,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 93,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 3000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Assault on the Kolkar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Brutal Politics"
+        ],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Centaur Bounty (1)": {
+        "ID": 1387,
+        "QuestLevel": 31,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Centaur Bounty",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Alliance Relations (3)": {
+        "ID": 1433,
+        "QuestLevel": 33,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 1637,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Alliance Relations",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Alliance Relations (2)"
+        ],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Befouled by Satyr": {
+        "ID": 1434,
+        "QuestLevel": 33,
+        "MinLevel": 25,
+        "QuestInfoID": 0,
+        "QuestSortID": 1637,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Befouled by Satyr",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "The Burning of Spirits": {
+        "ID": 1435,
+        "QuestLevel": 33,
+        "MinLevel": 25,
+        "QuestInfoID": 0,
+        "QuestSortID": 1637,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Burning of Spirits",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Alliance Relations (3)"
+        ],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Alliance Relations (4)": {
+        "ID": 1436,
+        "QuestLevel": 33,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 1637,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Alliance Relations",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Burning of Spirits"
+        ],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Vahlarriel's Search (1)": {
+        "ID": 1437,
+        "QuestLevel": 33,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Vahlarriel's Search",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Vahlarriel's Search (2)": {
+        "ID": 1438,
+        "QuestLevel": 33,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Vahlarriel's Search",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Vahlarriel's Search (3)"
+        ],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Search for Tyranis": {
+        "ID": 1439,
+        "QuestLevel": 33,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Search for Tyranis",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Vahlarriel's Search (2)"
+        ],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Return to Vahlarriel": {
+        "ID": 1440,
+        "QuestLevel": 33,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Return to Vahlarriel",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Search for Tyranis"
+        ],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "The Karnitol Shipwreck (1)": {
+        "ID": 1454,
+        "QuestLevel": 39,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Karnitol Shipwreck",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Reclaimers' Business in Desolace"
+        ],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "The Karnitol Shipwreck (2)": {
+        "ID": 1455,
+        "QuestLevel": 39,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Karnitol Shipwreck",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Karnitol Shipwreck (1)"
+        ],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "The Karnitol Shipwreck (3)": {
+        "ID": 1456,
+        "QuestLevel": 39,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Karnitol Shipwreck",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Karnitol Shipwreck (2)"
+        ],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "The Karnitol Shipwreck (4)": {
+        "ID": 1457,
+        "QuestLevel": 39,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Karnitol Shipwreck",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Karnitol Shipwreck (3)"
+        ],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Reagents for Reclaimers Inc. (1)": {
+        "ID": 1458,
+        "QuestLevel": 33,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Reagents for Reclaimers Inc.",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Reclaimers' Business in Desolace"
+        ],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Reagents for Reclaimers Inc. (2)": {
+        "ID": 1459,
+        "QuestLevel": 35,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Reagents for Reclaimers Inc.",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Reagents for Reclaimers Inc. (1)"
+        ],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Vahlarriel's Search (3)": {
+        "ID": 1465,
+        "QuestLevel": 33,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Vahlarriel's Search",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Vahlarriel's Search (1)"
+        ],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Reagents for Reclaimers Inc. (3)": {
+        "ID": 1466,
+        "QuestLevel": 40,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Reagents for Reclaimers Inc.",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Reagents for Reclaimers Inc. (2)"
+        ],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Reagents for Reclaimers Inc. (4)": {
+        "ID": 1467,
+        "QuestLevel": 40,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Reagents for Reclaimers Inc.",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Reagents for Reclaimers Inc. (3)"
+        ],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "The Corrupter (2)": {
+        "ID": 1481,
+        "QuestLevel": 33,
+        "MinLevel": 25,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Corrupter",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Corrupter (1)"
+        ],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "The Corrupter (3)": {
+        "ID": 1482,
+        "QuestLevel": 35,
+        "MinLevel": 25,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Corrupter",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Corrupter (2)"
+        ],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "The Corrupter (4)": {
+        "ID": 1484,
+        "QuestLevel": 33,
+        "MinLevel": 25,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Corrupter",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Corrupter (3)"
+        ],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "The Corrupter (5)": {
+        "ID": 1488,
+        "QuestLevel": 40,
+        "MinLevel": 25,
+        "QuestInfoID": 1,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Corrupter",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Corrupter (4)"
+        ],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Hand of Iruxos": {
+        "ID": 5381,
+        "QuestLevel": 38,
+        "MinLevel": 32,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Hand of Iruxos",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Catch of the Day": {
+        "ID": 5386,
+        "QuestLevel": 37,
+        "MinLevel": 32,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Catch of the Day",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Fish in a Bucket": {
+        "ID": 5421,
+        "QuestLevel": 25,
+        "MinLevel": 25,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Fish in a Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Bone Collector": {
+        "ID": 5501,
+        "QuestLevel": 32,
+        "MinLevel": 29,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Bone Collector",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Kodo Roundup": {
+        "ID": 5561,
+        "QuestLevel": 34,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Kodo Roundup",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Portals of the Legion": {
+        "ID": 5581,
+        "QuestLevel": 38,
+        "MinLevel": 32,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Portals of the Legion",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Hand of Iruxos"
+        ],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Sceptre of Light": {
+        "ID": 5741,
+        "QuestLevel": 33,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Sceptre of Light",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Hunting in Stranglethorn": {
+        "ID": 5763,
+        "QuestLevel": 31,
+        "MinLevel": 28,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Hunting in Stranglethorn",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Bodyguard for Hire": {
+        "ID": 5821,
+        "QuestLevel": 35,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Bodyguard for Hire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Gizelton Caravan": {
+        "ID": 5943,
+        "QuestLevel": 38,
+        "MinLevel": 32,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Gizelton Caravan",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Book of the Ancients": {
+        "ID": 6027,
+        "QuestLevel": 38,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Book of the Ancients",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Sceptre of Light"
+        ],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Get Me Out of Here!": {
+        "ID": 6132,
+        "QuestLevel": 39,
+        "MinLevel": 34,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Get Me Out of Here!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Ghost-o-plasm Round Up": {
+        "ID": 6134,
+        "QuestLevel": 39,
+        "MinLevel": 34,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Ghost-o-plasm Round Up",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Clam Bait": {
+        "ID": 6142,
+        "QuestLevel": 35,
+        "MinLevel": 31,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Clam Bait",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Other Fish to Fry": {
+        "ID": 6143,
+        "QuestLevel": 36,
+        "MinLevel": 32,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Other Fish to Fry",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Claim Rackmore's Treasure!": {
+        "ID": 6161,
+        "QuestLevel": 36,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Claim Rackmore's Treasure!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Mistress of Deception": {
+        "ID": 6568,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Mistress of Deception",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Champion of the Horde"
+        ],
+        "zone": [
+            "Stonetalon Mountains",
+            "Desolace",
+            "Feralas"
+        ]
+    },
+    "Playing with Fire (2)": {
+        "ID": 11915,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Playing with Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Silverpine Forest",
+            "Eversong Woods",
+            "Ghostlands",
+            "Hillsbrad Foothills",
+            "Swamp of Sorrows",
+            "Stranglethorn Vale",
+            "Stonetalon Mountains",
+            "Ashenvale",
+            "Thousand Needles",
+            "Desolace",
+            "Tanaris",
+            "Feralas",
+            "Winterspring",
+            "Hellfire Peninsula",
+            "Zangarmarsh",
+            "Terokkar Forest",
+            "Terokkar Forest",
+            "Nagrand",
+            "Blade's Edge Mountains",
+            "Netherstorm",
+            "Shadowmoon Valley",
+            "Sholazar Basin"
+        ]
+    },
+    "Sharing a Bountiful Feast (2)": {
+        "ID": 14065,
+        "QuestLevel": -1,
+        "MinLevel": 0,
+        "QuestInfoID": 0,
+        "QuestSortID": -375,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Sharing a Bountiful Feast",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Pilgrim's Bounty",
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pilgrim's Bounty (2)"
+        ],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Hillsbrad Foothills",
+            "Burning Steppes",
+            "Stonetalon Mountains",
+            "Thousand Needles",
+            "Desolace",
+            "Tanaris",
+            "Dustwallow Marsh",
+            "Hellfire Peninsula",
+            "Borean Tundra",
+            "Sholazar Basin",
+            "Dragonblight",
+            "Howling Fjord",
+            "Grizzly Hills",
+            "Zul'Drak",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Desecrate this Fire! (Desolace - Horde)": {
+        "ID": 11741,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Desecrate this Fire! (Desolace - Alliance)": {
+        "ID": 11769,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Honor the Flame (Desolace - Alliance)": {
+        "ID": 11812,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Honor the Flame (Desolace - Horde)": {
+        "ID": 11845,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Candy Bucket (Desolace, Nijel's Point)": {
+        "ID": 12348,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Desolace"
+        ]
+    },
+    "Candy Bucket (Desolace, Shadowprey Village)": {
+        "ID": 12381,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Desolace"
+        ]
+    }
+}

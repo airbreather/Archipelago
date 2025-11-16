@@ -1,0 +1,3255 @@
+{
+    "The Zapthrottle Mote Extractor! (1)": {
+        "ID": 9635,
+        "QuestLevel": 60,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": -201,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Zapthrottle Mote Extractor!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Engineering",
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "The Zapthrottle Mote Extractor! (2)": {
+        "ID": 9636,
+        "QuestLevel": 60,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": -201,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Zapthrottle Mote Extractor!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Engineering",
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Watcher Leesa'oh": {
+        "ID": 9697,
+        "QuestLevel": 63,
+        "MinLevel": 61,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Watcher Leesa'oh",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Observing the Sporelings": {
+        "ID": 9701,
+        "QuestLevel": 63,
+        "MinLevel": 61,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Observing the Sporelings",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "A Question of Gluttony": {
+        "ID": 9702,
+        "QuestLevel": 64,
+        "MinLevel": 61,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Question of Gluttony",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Observing the Sporelings"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Familiar Fungi": {
+        "ID": 9708,
+        "QuestLevel": 63,
+        "MinLevel": 61,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Familiar Fungi",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Question of Gluttony"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Stealing Back the Mushrooms": {
+        "ID": 9709,
+        "QuestLevel": 64,
+        "MinLevel": 61,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Stealing Back the Mushrooms",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Familiar Fungi"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Disturbance at Umbrafen Lake": {
+        "ID": 9716,
+        "QuestLevel": 63,
+        "MinLevel": 61,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Disturbance at Umbrafen Lake",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "As the Crow Flies": {
+        "ID": 9718,
+        "QuestLevel": 63,
+        "MinLevel": 61,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "As the Crow Flies",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Disturbance at Umbrafen Lake"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Balance Must Be Preserved": {
+        "ID": 9720,
+        "QuestLevel": 64,
+        "MinLevel": 61,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Balance Must Be Preserved",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "As the Crow Flies"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Warning the Cenarion Circle (2)": {
+        "ID": 9724,
+        "QuestLevel": 64,
+        "MinLevel": 61,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Warning the Cenarion Circle",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Drain Schematics"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Now That We're Friends...": {
+        "ID": 9726,
+        "QuestLevel": 64,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Now That We're Friends...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Now That We're Still Friends...": {
+        "ID": 9727,
+        "QuestLevel": 64,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Now That We're Still Friends...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Now That We're Friends..."
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "A Warm Welcome": {
+        "ID": 9728,
+        "QuestLevel": 64,
+        "MinLevel": 61,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Warm Welcome",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Warden Hamoot"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Fhwoor Smash!": {
+        "ID": 9729,
+        "QuestLevel": 65,
+        "MinLevel": 63,
+        "QuestInfoID": 1,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Fhwoor Smash!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Leader of the Darkcrest": {
+        "ID": 9730,
+        "QuestLevel": 64,
+        "MinLevel": 58,
+        "QuestInfoID": 1,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Leader of the Darkcrest",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Drain Schematics": {
+        "ID": 9731,
+        "QuestLevel": 63,
+        "MinLevel": 59,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Drain Schematics",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "The Sporelings' Plight": {
+        "ID": 9739,
+        "QuestLevel": 63,
+        "MinLevel": 61,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Sporelings' Plight",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "More Spore Sacs": {
+        "ID": 9742,
+        "QuestLevel": 63,
+        "MinLevel": 61,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "More Spore Sacs",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Sporelings' Plight"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Natural Enemies": {
+        "ID": 9743,
+        "QuestLevel": 64,
+        "MinLevel": 61,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Natural Enemies",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "More Tendrils!": {
+        "ID": 9744,
+        "QuestLevel": 64,
+        "MinLevel": 61,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "More Tendrils!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Natural Enemies"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "The Umbrafen Tribe": {
+        "ID": 9747,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Umbrafen Tribe",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Escape from Umbrafen": {
+        "ID": 9752,
+        "QuestLevel": 63,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Escape from Umbrafen",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "There's No Explanation for Fashion": {
+        "ID": 9769,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "There's No Explanation for Fashion",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Menacing Marshfangs (1)": {
+        "ID": 9770,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Menacing Marshfangs",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Searching for Scout Jyoba": {
+        "ID": 9771,
+        "QuestLevel": 62,
+        "MinLevel": 59,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Searching for Scout Jyoba",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Thick Hydra Scales"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Jyoba's Report": {
+        "ID": 9772,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Jyoba's Report",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Searching for Scout Jyoba"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "No More Mushrooms!": {
+        "ID": 9773,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "No More Mushrooms!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Thick Hydra Scales": {
+        "ID": 9774,
+        "QuestLevel": 62,
+        "MinLevel": 59,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Thick Hydra Scales",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Report to Shadow Hunter Denjai": {
+        "ID": 9775,
+        "QuestLevel": 62,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Report to Shadow Hunter Denjai",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "The Orebor Harborage": {
+        "ID": 9776,
+        "QuestLevel": 64,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Orebor Harborage",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Fulgor Spores": {
+        "ID": 9777,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Fulgor Spores",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Warden Hamoot": {
+        "ID": 9778,
+        "QuestLevel": 64,
+        "MinLevel": 61,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Warden Hamoot",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Umbrafen Eel Filets": {
+        "ID": 9780,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Umbrafen Eel Filets",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Menacing Marshfangs (2)"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Too Many Mouths to Feed": {
+        "ID": 9781,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Too Many Mouths to Feed",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "The Dead Mire": {
+        "ID": 9782,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Dead Mire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "An Unnatural Drought": {
+        "ID": 9783,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "An Unnatural Drought",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Dead Mire"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Identify Plant Parts": {
+        "ID": 9784,
+        "QuestLevel": 64,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Identify Plant Parts",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Plants of Zangarmarsh"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Blessings of the Ancients": {
+        "ID": 9785,
+        "QuestLevel": 64,
+        "MinLevel": 59,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Blessings of the Ancients",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "The Boha'mu Ruins": {
+        "ID": 9786,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Boha'mu Ruins",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Idols of the Feralfen": {
+        "ID": 9787,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Idols of the Feralfen",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Boha'mu Ruins"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "A Damp, Dark Place": {
+        "ID": 9788,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Damp, Dark Place",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Umbrafen Tribe"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Diaphanous Wings": {
+        "ID": 9790,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Diaphanous Wings",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Too Many Mouths to Feed"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Menacing Marshfangs (2)": {
+        "ID": 9791,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Menacing Marshfangs",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "A Message to Telaar": {
+        "ID": 9792,
+        "QuestLevel": 64,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Message to Telaar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "The Fate of Tuurem": {
+        "ID": 9793,
+        "QuestLevel": 62,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Fate of Tuurem",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 9793,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "No Time for Curiosity": {
+        "ID": 9794,
+        "QuestLevel": 65,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "No Time for Curiosity",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "The Ogre Threat": {
+        "ID": 9795,
+        "QuestLevel": 65,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Ogre Threat",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "News from Zangarmarsh": {
+        "ID": 9796,
+        "QuestLevel": 62,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "News from Zangarmarsh",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 9796,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Reinforcements for Garadar": {
+        "ID": 9797,
+        "QuestLevel": 64,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Reinforcements for Garadar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Gathering the Reagents": {
+        "ID": 9801,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Gathering the Reagents",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Idols of the Feralfen"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Plants of Zangarmarsh": {
+        "ID": 9802,
+        "QuestLevel": 63,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Plants of Zangarmarsh",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Messenger to the Feralfen": {
+        "ID": 9803,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Messenger to the Feralfen",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Gathering the Reagents"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Fertile Spores": {
+        "ID": 9806,
+        "QuestLevel": 64,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Fertile Spores",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "More Fertile Spores": {
+        "ID": 9807,
+        "QuestLevel": 64,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "More Fertile Spores",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Fertile Spores"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Glowcap Mushrooms": {
+        "ID": 9808,
+        "QuestLevel": 64,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Glowcap Mushrooms",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "More Glowcaps": {
+        "ID": 9809,
+        "QuestLevel": 64,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "More Glowcaps",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Glowcap Mushrooms"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Burstcap Mushrooms, Mon!": {
+        "ID": 9814,
+        "QuestLevel": 64,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Burstcap Mushrooms, Mon!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Have You Ever Seen One of These?": {
+        "ID": 9816,
+        "QuestLevel": 64,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Have You Ever Seen One of These?",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Burstcap Mushrooms, Mon!"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Leader of the Bloodscale": {
+        "ID": 9817,
+        "QuestLevel": 63,
+        "MinLevel": 58,
+        "QuestInfoID": 1,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Leader of the Bloodscale",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "WANTED: Boss Grog'ak": {
+        "ID": 9820,
+        "QuestLevel": 64,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "WANTED: Boss Grog'ak",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Impending Attack": {
+        "ID": 9822,
+        "QuestLevel": 64,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Impending Attack",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "WANTED: Boss Grog'ak"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Us or Them": {
+        "ID": 9823,
+        "QuestLevel": 64,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Us or Them",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Impending Attack"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Withered Basidium (1)": {
+        "ID": 9827,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Withered Basidium",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Withered Basidium (2)": {
+        "ID": 9828,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Withered Basidium",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Stinger Venom": {
+        "ID": 9830,
+        "QuestLevel": 64,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Stinger Venom",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Lines of Communication (2)": {
+        "ID": 9833,
+        "QuestLevel": 64,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Lines of Communication",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Natural Armor": {
+        "ID": 9834,
+        "QuestLevel": 64,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Natural Armor",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Ango'rosh Encroachment": {
+        "ID": 9835,
+        "QuestLevel": 64,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Ango'rosh Encroachment",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Overlord Gorefist": {
+        "ID": 9839,
+        "QuestLevel": 64,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Overlord Gorefist",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Ango'rosh Encroachment"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Stinging the Stingers": {
+        "ID": 9841,
+        "QuestLevel": 64,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Stinging the Stingers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "The Sharpest Blades": {
+        "ID": 9842,
+        "QuestLevel": 64,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Sharpest Blades",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Stinging the Stingers"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Angling to Beat the Competition": {
+        "ID": 9845,
+        "QuestLevel": 64,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Angling to Beat the Competition",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Spirits of the Feralfen": {
+        "ID": 9846,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Spirits of the Feralfen",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "A Spirit Ally?": {
+        "ID": 9847,
+        "QuestLevel": 64,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Spirit Ally?",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Spirits of the Feralfen"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Secrets of the Daggerfen": {
+        "ID": 9848,
+        "QuestLevel": 64,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Secrets of the Daggerfen",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Safeguarding the Watchers": {
+        "ID": 9894,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 1,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Safeguarding the Watchers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Umbrafen Tribe"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "The Dying Balance": {
+        "ID": 9895,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 1,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Dying Balance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Blacksting's Bane": {
+        "ID": 9896,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Blacksting's Bane",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Unfinished Business (2)"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Nothin' Says Lovin' Like a Big Stinger": {
+        "ID": 9898,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Nothin' Says Lovin' Like a Big Stinger",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Menacing Marshfangs (1)"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "A Job Undone": {
+        "ID": 9899,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Job Undone",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "No More Mushrooms!"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Unfinished Business (2)": {
+        "ID": 9901,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Unfinished Business",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "The Terror of Marshlight Lake": {
+        "ID": 9902,
+        "QuestLevel": 64,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Terror of Marshlight Lake",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "The Biggest of Them All": {
+        "ID": 9903,
+        "QuestLevel": 64,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Biggest of Them All",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Angling to Beat the Competition"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Pursuing Terrorclaw": {
+        "ID": 9904,
+        "QuestLevel": 64,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Pursuing Terrorclaw",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Angling to Beat the Competition"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Maktu's Revenge": {
+        "ID": 9905,
+        "QuestLevel": 64,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Maktu's Revenge",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Natural Armor"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "The Count of the Marshes": {
+        "ID": 9911,
+        "QuestLevel": 64,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Count of the Marshes",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Sporeggar": {
+        "ID": 9919,
+        "QuestLevel": 64,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Sporeggar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "What's Wrong at Cenarion Thicket? (1)": {
+        "ID": 9957,
+        "QuestLevel": 63,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3519,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "What's Wrong at Cenarion Thicket?",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Saving the Sporeloks": {
+        "ID": 10096,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Saving the Sporeloks",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Umbrafen Tribe"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Concerns About Tuurem": {
+        "ID": 10104,
+        "QuestLevel": 62,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Concerns About Tuurem",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 9793,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "News for Rakoria": {
+        "ID": 10105,
+        "QuestLevel": 62,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "News for Rakoria",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 9796,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Daggerfen Deviance": {
+        "ID": 10115,
+        "QuestLevel": 64,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Daggerfen Deviance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Wanted: Chieftain Mummaki (1)": {
+        "ID": 10116,
+        "QuestLevel": 64,
+        "MinLevel": 58,
+        "QuestInfoID": 1,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Wanted: Chieftain Mummaki",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Wanted: Chieftain Mummaki (2)": {
+        "ID": 10117,
+        "QuestLevel": 64,
+        "MinLevel": 58,
+        "QuestInfoID": 1,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Wanted: Chieftain Mummaki",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Message to the Daggerfen": {
+        "ID": 10118,
+        "QuestLevel": 64,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Message to the Daggerfen",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Impending Attack"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Withered Flesh": {
+        "ID": 10355,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Withered Flesh",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Withered Basidium (1)"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "The Ward of Wakening": {
+        "ID": 10961,
+        "QuestLevel": -1,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Ward of Wakening",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Morthis Whisperwing"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Waking the Sleeper": {
+        "ID": 10964,
+        "QuestLevel": -1,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Waking the Sleeper",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Ward of Wakening"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "To the Evergrove": {
+        "ID": 10979,
+        "QuestLevel": -1,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "To the Evergrove",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to Morthis Whisperwing"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Chasing the Moonstone": {
+        "ID": 10994,
+        "QuestLevel": -1,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Chasing the Moonstone",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to Cenarion Refuge"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Eternal Vigilance": {
+        "ID": 11011,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Eternal Vigilance",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Vanquish the Raven God"
+        ],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Playing with Fire (1)": {
+        "ID": 11882,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Playing with Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Teldrassil",
+            "Darkshore",
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Westfall",
+            "Redridge Mountains",
+            "Duskwood",
+            "Wetlands",
+            "Hillsbrad Foothills",
+            "The Hinterlands",
+            "Stranglethorn Vale",
+            "Western Plaguelands",
+            "Burning Steppes",
+            "Blasted Lands",
+            "Ashenvale",
+            "Tanaris",
+            "Winterspring",
+            "Dustwallow Marsh",
+            "Hellfire Peninsula",
+            "Zangarmarsh",
+            "Terokkar Forest",
+            "Terokkar Forest",
+            "Nagrand",
+            "Blade's Edge Mountains",
+            "Netherstorm",
+            "Shadowmoon Valley",
+            "Borean Tundra",
+            "The Storm Peaks"
+        ]
+    },
+    "Playing with Fire (2)": {
+        "ID": 11915,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Playing with Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Silverpine Forest",
+            "Eversong Woods",
+            "Ghostlands",
+            "Hillsbrad Foothills",
+            "Swamp of Sorrows",
+            "Stranglethorn Vale",
+            "Stonetalon Mountains",
+            "Ashenvale",
+            "Thousand Needles",
+            "Desolace",
+            "Tanaris",
+            "Feralas",
+            "Winterspring",
+            "Hellfire Peninsula",
+            "Zangarmarsh",
+            "Terokkar Forest",
+            "Terokkar Forest",
+            "Nagrand",
+            "Blade's Edge Mountains",
+            "Netherstorm",
+            "Shadowmoon Valley",
+            "Sholazar Basin"
+        ]
+    },
+    "Desecrate this Fire! (Zangarmarsh - Horde)": {
+        "ID": 11758,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Desecrate this Fire! (Zangarmarsh - Alliance)": {
+        "ID": 11787,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Honor the Flame (Zangarmarsh - Alliance)": {
+        "ID": 11829,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Honor the Flame (Zangarmarsh - Horde)": {
+        "ID": 11863,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Candy Bucket (Zangarmarsh, Telredor)": {
+        "ID": 12354,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Candy Bucket (Zangarmarsh, Orebor Harborage)": {
+        "ID": 12355,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Candy Bucket (Zangarmarsh, Zabra'jin)": {
+        "ID": 12390,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    },
+    "Candy Bucket (Zangarmarsh, Cenarion Refuge)": {
+        "ID": 12403,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Zangarmarsh"
+        ]
+    }
+}

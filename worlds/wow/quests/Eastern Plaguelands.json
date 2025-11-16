@@ -1,0 +1,2035 @@
+{
+    "Pamela's Doll": {
+        "ID": 5149,
+        "QuestLevel": 55,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Pamela's Doll",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Auntie Marlene": {
+        "ID": 5152,
+        "QuestLevel": 56,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Auntie Marlene",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pamela's Doll"
+        ],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Heroes of Darrowshire": {
+        "ID": 5168,
+        "QuestLevel": 56,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Heroes of Darrowshire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -5181,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Brother Carlin"
+        ],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Villains of Darrowshire": {
+        "ID": 5181,
+        "QuestLevel": 57,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Villains of Darrowshire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -5181,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Brother Carlin"
+        ],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Marauders of Darrowshire": {
+        "ID": 5206,
+        "QuestLevel": 60,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Marauders of Darrowshire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Defenders of Darrowshire": {
+        "ID": 5211,
+        "QuestLevel": 55,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Defenders of Darrowshire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Uncle Carlin": {
+        "ID": 5241,
+        "QuestLevel": 56,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Uncle Carlin",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pamela's Doll"
+        ],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Fragments of the Past (1)": {
+        "ID": 5246,
+        "QuestLevel": 56,
+        "MinLevel": 53,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Fragments of the Past",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Troubled Spirits of Kel'Theril"
+        ],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Fragments of the Past (2)": {
+        "ID": 5247,
+        "QuestLevel": 57,
+        "MinLevel": 53,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Fragments of the Past",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Fragments of the Past (1)"
+        ],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Tormented By the Past": {
+        "ID": 5248,
+        "QuestLevel": 58,
+        "MinLevel": 53,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Tormented By the Past",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Fragments of the Past (2)"
+        ],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Lord Maxwell Tyrosus": {
+        "ID": 5264,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Lord Maxwell Tyrosus",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Above and Beyond"
+        ],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "The Argent Hold": {
+        "ID": 5265,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Argent Hold",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Lord Maxwell Tyrosus"
+        ],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Soulbound Keepsake": {
+        "ID": 5465,
+        "QuestLevel": 60,
+        "MinLevel": 57,
+        "QuestInfoID": 1,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Soulbound Keepsake",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Menethil's Gift (2)"
+        ],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Argent Dawn Commission (3)": {
+        "ID": 5503,
+        "QuestLevel": 55,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Argent Dawn Commission",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Corruptor's Scourgestones (3)": {
+        "ID": 5508,
+        "QuestLevel": 55,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Corruptor's Scourgestones",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Invader's Scourgestones (3)": {
+        "ID": 5509,
+        "QuestLevel": 55,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Invader's Scourgestones",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Minion's Scourgestones (3)": {
+        "ID": 5510,
+        "QuestLevel": 55,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Minion's Scourgestones",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Mantles of the Dawn (3)": {
+        "ID": 5513,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 529,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 21000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Mantles of the Dawn",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 5504,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Chromatic Mantle of the Dawn (1)": {
+        "ID": 5517,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 529,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 42000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Chromatic Mantle of the Dawn",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 5517,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Demon Dogs": {
+        "ID": 5542,
+        "QuestLevel": 56,
+        "MinLevel": 52,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Demon Dogs",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -5542,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Western Plaguelands",
+            "Eastern Plaguelands"
+        ]
+    },
+    "Blood Tinged Skies": {
+        "ID": 5543,
+        "QuestLevel": 56,
+        "MinLevel": 52,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Blood Tinged Skies",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -5542,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Western Plaguelands",
+            "Eastern Plaguelands"
+        ]
+    },
+    "Carrion Grubbage": {
+        "ID": 5544,
+        "QuestLevel": 56,
+        "MinLevel": 52,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Carrion Grubbage",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -5542,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Western Plaguelands",
+            "Eastern Plaguelands"
+        ]
+    },
+    "Redemption (1)": {
+        "ID": 5742,
+        "QuestLevel": 56,
+        "MinLevel": 52,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Redemption",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Of Forgotten Memories": {
+        "ID": 5781,
+        "QuestLevel": 57,
+        "MinLevel": 52,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Of Forgotten Memories",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Redemption (1)"
+        ],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Of Lost Honor": {
+        "ID": 5845,
+        "QuestLevel": 58,
+        "MinLevel": 52,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Of Lost Honor",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Of Forgotten Memories"
+        ],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Of Love and Family (1)": {
+        "ID": 5846,
+        "QuestLevel": 58,
+        "MinLevel": 52,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Of Love and Family",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Of Lost Honor"
+        ],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Find Myranda": {
+        "ID": 5861,
+        "QuestLevel": 60,
+        "MinLevel": 52,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Find Myranda",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Of Love and Family (2)"
+        ],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Return to Chromie": {
+        "ID": 5941,
+        "QuestLevel": 60,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Return to Chromie",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Marauders of Darrowshire"
+        ],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Hidden Treasures": {
+        "ID": 5942,
+        "QuestLevel": 60,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Hidden Treasures",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Battle of Darrowshire"
+        ],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Zaeldarr the Outcast": {
+        "ID": 6021,
+        "QuestLevel": 55,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Zaeldarr the Outcast",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "To Kill With Purpose": {
+        "ID": 6022,
+        "QuestLevel": 58,
+        "MinLevel": 54,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "To Kill With Purpose",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Hameya's Plea": {
+        "ID": 6024,
+        "QuestLevel": 60,
+        "MinLevel": 54,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Hameya's Plea",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "That's Asking A Lot": {
+        "ID": 6026,
+        "QuestLevel": 58,
+        "MinLevel": 54,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "That's Asking A Lot",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "When Smokey Sings, I Get Violent": {
+        "ID": 6041,
+        "QuestLevel": 58,
+        "MinLevel": 54,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "When Smokey Sings, I Get Violent",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "That's Asking A Lot"
+        ],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Un-Life's Little Annoyances": {
+        "ID": 6042,
+        "QuestLevel": 58,
+        "MinLevel": 54,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Un-Life's Little Annoyances",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "The Ranger Lord's Behest": {
+        "ID": 6133,
+        "QuestLevel": 60,
+        "MinLevel": 54,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Ranger Lord's Behest",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Duskwing, Oh How I Hate Thee...": {
+        "ID": 6135,
+        "QuestLevel": 60,
+        "MinLevel": 56,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Duskwing, Oh How I Hate Thee...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Ranger Lord's Behest"
+        ],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "The Corpulent One": {
+        "ID": 6136,
+        "QuestLevel": 60,
+        "MinLevel": 56,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Corpulent One",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "The Call to Command (1)": {
+        "ID": 6144,
+        "QuestLevel": 60,
+        "MinLevel": 56,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Call to Command",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 6144,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Nathanos' Ruse": {
+        "ID": 6146,
+        "QuestLevel": 60,
+        "MinLevel": 56,
+        "QuestInfoID": 1,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Nathanos' Ruse",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Return to Nathanos": {
+        "ID": 6147,
+        "QuestLevel": 60,
+        "MinLevel": 56,
+        "QuestInfoID": 1,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Return to Nathanos",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Nathanos' Ruse"
+        ],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "The Scarlet Oracle, Demetria": {
+        "ID": 6148,
+        "QuestLevel": 60,
+        "MinLevel": 56,
+        "QuestInfoID": 1,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Scarlet Oracle, Demetria",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to Nathanos"
+        ],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Augustus' Receipt Book": {
+        "ID": 6164,
+        "QuestLevel": 55,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Augustus' Receipt Book",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "A Warning": {
+        "ID": 7621,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": -262,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Warning",
+        "AllowableClasses": [
+            "Priest"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "The Balance of Light and Shadow": {
+        "ID": 7622,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": -262,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Balance of Light and Shadow",
+        "AllowableClasses": [
+            "Priest"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Snowcrown the Elder": {
+        "ID": 8650,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Snowcrown the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Windrun the Elder": {
+        "ID": 8688,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Windrun the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "The Dread Citadel - Naxxramas (1)": {
+        "ID": 9121,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 529,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 9000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Dread Citadel - Naxxramas",
+        "AllowableClasses": [],
+        "RewardSpell": 28006,
+        "ExclusiveGroup": 9121,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "The Dread Citadel - Naxxramas (2)": {
+        "ID": 9122,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 529,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 21000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Dread Citadel - Naxxramas",
+        "AllowableClasses": [],
+        "RewardSpell": 28006,
+        "ExclusiveGroup": 9121,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "The Dread Citadel - Naxxramas (3)": {
+        "ID": 9123,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 529,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 42000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Dread Citadel - Naxxramas",
+        "AllowableClasses": [],
+        "RewardSpell": 28006,
+        "ExclusiveGroup": 9121,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Cryptstalker Armor Doesn't Make Itself...": {
+        "ID": 9124,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Cryptstalker Armor Doesn't Make Itself...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Crypt Fiend Parts": {
+        "ID": 9125,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Crypt Fiend Parts",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Cryptstalker Armor Doesn't Make Itself..."
+        ],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Bonescythe Digs": {
+        "ID": 9126,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Bonescythe Digs",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Bone Fragments": {
+        "ID": 9127,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Bone Fragments",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Bonescythe Digs"
+        ],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "The Elemental Equation": {
+        "ID": 9128,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Elemental Equation",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Core of Elements": {
+        "ID": 9129,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Core of Elements",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Elemental Equation"
+        ],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Binding the Dreadnaught": {
+        "ID": 9131,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Binding the Dreadnaught",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Dark Iron Scraps": {
+        "ID": 9132,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Dark Iron Scraps",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Binding the Dreadnaught"
+        ],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Savage Flora": {
+        "ID": 9136,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Savage Flora",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Savage Fronds": {
+        "ID": 9137,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Savage Fronds",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Savage Flora"
+        ],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "They Call Me The Rooster": {
+        "ID": 9141,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "They Call Me The Rooster",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Craftsman's Writ": {
+        "ID": 9142,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Craftsman's Writ",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "They Call Me The Rooster"
+        ],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Writ of Safe Passage": {
+        "ID": 9165,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Writ of Safe Passage",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "The Ice Guard": {
+        "ID": 9211,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Ice Guard",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "The Shadow Guard": {
+        "ID": 9213,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Shadow Guard",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Superior Armaments of Battle - Friend of the Dawn": {
+        "ID": 9221,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Superior Armaments of Battle - Friend of the Dawn",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Epic Armaments of Battle - Friend of the Dawn": {
+        "ID": 9222,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Epic Armaments of Battle - Friend of the Dawn",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Superior Armaments of Battle - Honored Amongst the Dawn": {
+        "ID": 9223,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Superior Armaments of Battle - Honored Amongst the Dawn",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Epic Armaments of Battle - Honored Amongst the Dawn": {
+        "ID": 9224,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Epic Armaments of Battle - Honored Amongst the Dawn",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Epic Armaments of Battle - Revered Amongst the Dawn": {
+        "ID": 9225,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Epic Armaments of Battle - Revered Amongst the Dawn",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Superior Armaments of Battle - Revered Amongst the Dawn": {
+        "ID": 9226,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Superior Armaments of Battle - Revered Amongst the Dawn",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Superior Armaments of Battle - Exalted Amongst the Dawn": {
+        "ID": 9227,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Superior Armaments of Battle - Exalted Amongst the Dawn",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Epic Armaments of Battle - Exalted Amongst the Dawn": {
+        "ID": 9228,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Epic Armaments of Battle - Exalted Amongst the Dawn",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "The Battle For The Ebon Hold": {
+        "ID": 13166,
+        "QuestLevel": 55,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": -372,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Battle For The Ebon Hold",
+        "AllowableClasses": [
+            "Death Knight"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Taking Back Acherus"
+        ],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Where Kings Walk": {
+        "ID": 13188,
+        "QuestLevel": 55,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": -372,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Where Kings Walk",
+        "AllowableClasses": [
+            "Death Knight"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Battle For The Ebon Hold"
+        ],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Warchief's Blessing": {
+        "ID": 13189,
+        "QuestLevel": 55,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": -372,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Warchief's Blessing",
+        "AllowableClasses": [
+            "Death Knight"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Battle For The Ebon Hold"
+        ],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "The Call to Command (2)": {
+        "ID": 14349,
+        "QuestLevel": 60,
+        "MinLevel": 56,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Call to Command",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 6144,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    },
+    "Candy Bucket (Eastern Plaguelands)": {
+        "ID": 12402,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eastern Plaguelands"
+        ]
+    }
+}

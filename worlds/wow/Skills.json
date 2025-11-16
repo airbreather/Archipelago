@@ -1,0 +1,110 @@
+{
+  "Hunter": {
+    "Parry": {
+      "id": 3127,
+      "Level": 8,
+      "money_cost": 200
+    },
+    "Dual Wield": {
+      "id": 674,
+      "Level": 20,
+      "money_cost": 7000
+    },
+    "Mail": {
+      "id": 8737,
+      "Level": 40,
+      "money_cost": 12000
+    }
+  },
+  "Mage": {
+
+  },
+  "Warlock": {
+
+  },
+  "Priest": {
+
+  },
+  "Druid": {
+
+  },
+  "Rogue": {
+    "Parry": {
+      "id": 3127,
+      "Level": 12,
+      "money_cost": 200
+    },
+    "Dual Wield": {
+      "id": 674,
+      "Level": 20,
+      "money_cost": 7000
+    }
+  },
+  "Shaman": {
+    "Mail": {
+      "id": 8737,
+      "Level": 40,
+      "money_cost": 12000
+    }
+  },
+  "Warrior": {
+    "Parry": {
+      "id": 3127,
+      "Level": 6,
+      "money_cost": 200
+    },
+    "Plate": {
+      "id": 750,
+      "Level": 40,
+      "money_cost": 20000
+    },
+    "Dual Wield": {
+      "id": 674,
+      "Level": 8,
+      "money_cost": 200
+    }
+  },
+  "Paladin": {
+    "Parry": {
+      "id": 3127,
+      "Level": 8,
+      "money_cost": 200
+    },
+    "Plate": {
+      "id": 750,
+      "Level": 40,
+      "money_cost": 20000
+    }
+  },
+  "Death Knight": {
+
+  },
+  "Riding": {
+    "Apprentice Riding": {
+      "id": 33388,
+      "Level": 20,
+      "money_cost": 50000
+
+    },
+    "Journeyman Riding": {
+      "id": 33391,
+      "Level": 40,
+      "money_cost": 500000
+    },
+    "Expert Riding": {
+      "id": 34090,
+      "Level": 60,
+      "money_cost": 2500000
+    },
+    "Artisan Riding": {
+      "id": 34091,
+      "Level": 70,
+      "money_cost": 50000000
+    },
+    "Cold Weather Flying": {
+      "id": 5419,
+      "Level": 77,
+      "money_cost": 10000000
+    }
+  }
+}

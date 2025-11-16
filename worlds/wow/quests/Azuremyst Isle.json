@@ -1,0 +1,3300 @@
+{
+    "You Survived!": {
+        "ID": 9279,
+        "QuestLevel": 1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": 3526,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "You Survived!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Replenishing the Healing Crystals (Draenei) (1)": {
+        "ID": 9280,
+        "QuestLevel": 1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": 3526,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "Replenishing the Healing Crystals",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "You Survived!"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Rescue the Survivors!": {
+        "ID": 9283,
+        "QuestLevel": 2,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": 3526,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "Rescue the Survivors!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Urgent Delivery!"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Paladin Training (Draenei) (1)": {
+        "ID": 9287,
+        "QuestLevel": 2,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -141,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "Paladin Training",
+        "AllowableClasses": [
+            "Paladin"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Replenishing the Healing Crystals (Draenei) (1)"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Hunter Training (Draenei) (1)": {
+        "ID": 9288,
+        "QuestLevel": 2,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -261,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "Hunter Training",
+        "AllowableClasses": [
+            "Hunter"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Replenishing the Healing Crystals (Draenei) (1)"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Warrior Training (Warrior) (1)": {
+        "ID": 9289,
+        "QuestLevel": 2,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -81,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Warrior Training",
+        "AllowableClasses": [
+            "Warrior"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Mage Training (Draenei) (1)": {
+        "ID": 9290,
+        "QuestLevel": 2,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -161,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "Mage Training",
+        "AllowableClasses": [
+            "Mage"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Replenishing the Healing Crystals (Draenei) (1)"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Priest Training (Draenei) (1)": {
+        "ID": 9291,
+        "QuestLevel": 2,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -262,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "Priest Training",
+        "AllowableClasses": [
+            "Priest"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Replenishing the Healing Crystals (Draenei) (1)"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "What Must Be Done...": {
+        "ID": 9293,
+        "QuestLevel": 2,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": 3526,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "What Must Be Done...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Volatile Mutations"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Healing the Lake": {
+        "ID": 9294,
+        "QuestLevel": 3,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": 3526,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Healing the Lake",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "What Must Be Done..."
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Inoculation": {
+        "ID": 9303,
+        "QuestLevel": 4,
+        "MinLevel": 2,
+        "QuestInfoID": 0,
+        "QuestSortID": 3526,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Inoculation",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Spare Parts": {
+        "ID": 9305,
+        "QuestLevel": 4,
+        "MinLevel": 2,
+        "QuestInfoID": 0,
+        "QuestSortID": 3526,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Spare Parts",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "The Missing Scout": {
+        "ID": 9309,
+        "QuestLevel": 5,
+        "MinLevel": 2,
+        "QuestInfoID": 0,
+        "QuestSortID": 3526,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Missing Scout",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Inoculation"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Blood Elf Spy": {
+        "ID": 9311,
+        "QuestLevel": 5,
+        "MinLevel": 2,
+        "QuestInfoID": 0,
+        "QuestSortID": 3526,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Blood Elf Spy",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Blood Elves"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "The Emitter": {
+        "ID": 9312,
+        "QuestLevel": 5,
+        "MinLevel": 3,
+        "QuestInfoID": 0,
+        "QuestSortID": 3526,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Emitter",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Blood Elf Spy"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Travel to Azure Watch": {
+        "ID": 9313,
+        "QuestLevel": 5,
+        "MinLevel": 2,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Travel to Azure Watch",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Emitter"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Word from Azure Watch": {
+        "ID": 9314,
+        "QuestLevel": 5,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Word from Azure Watch",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Replenishing the Healing Crystals (1)": {
+        "ID": 9369,
+        "QuestLevel": 1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": 3526,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome"
+        ],
+        "LogTitle": "Replenishing the Healing Crystals",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Botanist Taerix": {
+        "ID": 9371,
+        "QuestLevel": 2,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": 3526,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Botanist Taerix",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Urgent Delivery!"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Urgent Delivery!": {
+        "ID": 9409,
+        "QuestLevel": 2,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": 3526,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Urgent Delivery!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Replenishing the Healing Crystals (Draenei) (1)"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Shaman Training": {
+        "ID": 9421,
+        "QuestLevel": 2,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -82,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "Shaman Training",
+        "AllowableClasses": [
+            "Shaman"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Replenishing the Healing Crystals (Draenei) (1)"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Call of Earth (Shaman) (2)": {
+        "ID": 9449,
+        "QuestLevel": -1,
+        "MinLevel": 4,
+        "QuestInfoID": 0,
+        "QuestSortID": -82,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Call of Earth",
+        "AllowableClasses": [
+            "Shaman"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Call of Earth (Shaman) (5)": {
+        "ID": 9450,
+        "QuestLevel": -1,
+        "MinLevel": 4,
+        "QuestInfoID": 0,
+        "QuestSortID": -82,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Call of Earth",
+        "AllowableClasses": [
+            "Shaman"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Call of Earth (Shaman) (2)"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Call of Earth (Shaman) (6)": {
+        "ID": 9451,
+        "QuestLevel": -1,
+        "MinLevel": 4,
+        "QuestInfoID": 0,
+        "QuestSortID": -82,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Call of Earth",
+        "AllowableClasses": [
+            "Shaman"
+        ],
+        "RewardSpell": 8073,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Call of Earth (Shaman) (5)"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Red Snapper - Very Tasty!": {
+        "ID": 9452,
+        "QuestLevel": 6,
+        "MinLevel": 4,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Red Snapper - Very Tasty!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Find Acteon!": {
+        "ID": 9453,
+        "QuestLevel": 6,
+        "MinLevel": 4,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Find Acteon!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Red Snapper - Very Tasty!"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "The Great Moongraze Hunt (1)": {
+        "ID": 9454,
+        "QuestLevel": 6,
+        "MinLevel": 4,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Great Moongraze Hunt",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Strange Findings": {
+        "ID": 9455,
+        "QuestLevel": 7,
+        "MinLevel": 5,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Strange Findings",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Nightstalker Clean Up, Isle 2...": {
+        "ID": 9456,
+        "QuestLevel": 8,
+        "MinLevel": 5,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Nightstalker Clean Up, Isle 2...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Strange Findings"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Call of Fire (Shaman) (11)": {
+        "ID": 9461,
+        "QuestLevel": -1,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -82,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Call of Fire",
+        "AllowableClasses": [
+            "Shaman"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Call of Fire (Shaman) (14)"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Medicinal Purpose": {
+        "ID": 9463,
+        "QuestLevel": 6,
+        "MinLevel": 4,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "Medicinal Purpose",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Call of Fire (Shaman) (6)": {
+        "ID": 9464,
+        "QuestLevel": -1,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -82,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Call of Fire",
+        "AllowableClasses": [
+            "Shaman"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Call of Fire (Shaman) (12)": {
+        "ID": 9465,
+        "QuestLevel": -1,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -82,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Call of Fire",
+        "AllowableClasses": [
+            "Shaman"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Call of Fire (Shaman) (6)"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Call of Fire (Shaman) (13)": {
+        "ID": 9467,
+        "QuestLevel": -1,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -82,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Call of Fire",
+        "AllowableClasses": [
+            "Shaman"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Call of Fire (Shaman) (12)"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Call of Fire (Shaman) (14)": {
+        "ID": 9468,
+        "QuestLevel": -1,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -82,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Call of Fire",
+        "AllowableClasses": [
+            "Shaman"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Call of Fire (Shaman) (13)"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "An Alternative Alternative": {
+        "ID": 9473,
+        "QuestLevel": 8,
+        "MinLevel": 5,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "An Alternative Alternative",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Medicinal Purpose"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Call of Water (Draenei) (1)": {
+        "ID": 9500,
+        "QuestLevel": -1,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -82,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "Call of Water",
+        "AllowableClasses": [
+            "Shaman"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 9500,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "The Prophecy of Velen": {
+        "ID": 9505,
+        "QuestLevel": 8,
+        "MinLevel": 5,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "The Prophecy of Velen",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "An Alternative Alternative"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "A Small Start": {
+        "ID": 9506,
+        "QuestLevel": 7,
+        "MinLevel": 5,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Small Start",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Cookie's Jumbo Gumbo": {
+        "ID": 9512,
+        "QuestLevel": 7,
+        "MinLevel": 5,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Cookie's Jumbo Gumbo",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle",
+            "Bloodmyst Isle"
+        ]
+    },
+    "Reclaiming the Ruins": {
+        "ID": 9513,
+        "QuestLevel": 8,
+        "MinLevel": 6,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Reclaiming the Ruins",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Rune Covered Tablet": {
+        "ID": 9514,
+        "QuestLevel": 8,
+        "MinLevel": 6,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Rune Covered Tablet",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle",
+            "Azuremyst Isle"
+        ]
+    },
+    "Warlord Sriss'tiz": {
+        "ID": 9515,
+        "QuestLevel": 10,
+        "MinLevel": 6,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Warlord Sriss'tiz",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Rune Covered Tablet"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Precious and Fragile Things Need Special Handling": {
+        "ID": 9523,
+        "QuestLevel": 8,
+        "MinLevel": 6,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Precious and Fragile Things Need Special Handling",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "All That Remains": {
+        "ID": 9527,
+        "QuestLevel": 10,
+        "MinLevel": 6,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "All That Remains",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Missing Fisherman"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "A Cry For Help": {
+        "ID": 9528,
+        "QuestLevel": 10,
+        "MinLevel": 6,
+        "QuestInfoID": 1,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Cry For Help",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "I've Got a Plant": {
+        "ID": 9530,
+        "QuestLevel": 9,
+        "MinLevel": 5,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "I've Got a Plant",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Small Start"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Tree's Company": {
+        "ID": 9531,
+        "QuestLevel": 9,
+        "MinLevel": 5,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Tree's Company",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "I've Got a Plant"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Show Gnomercy": {
+        "ID": 9537,
+        "QuestLevel": 9,
+        "MinLevel": 5,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Show Gnomercy",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Tree's Company"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Learning the Language": {
+        "ID": 9538,
+        "QuestLevel": 8,
+        "MinLevel": 8,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Learning the Language",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Totem of Coo": {
+        "ID": 9539,
+        "QuestLevel": 10,
+        "MinLevel": 8,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Totem of Coo",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Learning the Language"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Totem of Tikti": {
+        "ID": 9540,
+        "QuestLevel": 10,
+        "MinLevel": 8,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Totem of Tikti",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Totem of Coo"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Totem of Yor": {
+        "ID": 9541,
+        "QuestLevel": 10,
+        "MinLevel": 8,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Totem of Yor",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Totem of Tikti"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Totem of Vark": {
+        "ID": 9542,
+        "QuestLevel": 10,
+        "MinLevel": 8,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Totem of Vark",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Totem of Yor"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "The Prophecy of Akida": {
+        "ID": 9544,
+        "QuestLevel": 10,
+        "MinLevel": 8,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Prophecy of Akida",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Totem of Vark"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Call of Air (Draenei) (5)": {
+        "ID": 9553,
+        "QuestLevel": -1,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": -82,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "Call of Air",
+        "AllowableClasses": [
+            "Shaman"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Call of Air (Draenei) (3)"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Call of Air (Draenei) (6)": {
+        "ID": 9554,
+        "QuestLevel": -1,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": -82,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "Call of Air",
+        "AllowableClasses": [
+            "Shaman"
+        ],
+        "RewardSpell": 8385,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Call of Air (Draenei) (5)"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Stillpine Hold": {
+        "ID": 9559,
+        "QuestLevel": 10,
+        "MinLevel": 7,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Stillpine Hold",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Prophecy of Akida"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Beasts of the Apocalypse!": {
+        "ID": 9560,
+        "QuestLevel": 10,
+        "MinLevel": 7,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Beasts of the Apocalypse!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Stillpine Hold"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Murlocs... Why Here? Why Now?": {
+        "ID": 9562,
+        "QuestLevel": 10,
+        "MinLevel": 7,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Murlocs... Why Here? Why Now?",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Stillpine Hold"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Search Stillpine Hold": {
+        "ID": 9565,
+        "QuestLevel": 10,
+        "MinLevel": 7,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Search Stillpine Hold",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Stillpine Hold"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Blood Crystals": {
+        "ID": 9566,
+        "QuestLevel": 10,
+        "MinLevel": 7,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Blood Crystals",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Search Stillpine Hold"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "The Kurken is Lurkin'": {
+        "ID": 9570,
+        "QuestLevel": 12,
+        "MinLevel": 7,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Kurken is Lurkin'",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Search Stillpine Hold"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "The Kurken's Hide": {
+        "ID": 9571,
+        "QuestLevel": 10,
+        "MinLevel": 7,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Kurken's Hide",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Kurken is Lurkin'"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Chieftain Oomooroo": {
+        "ID": 9573,
+        "QuestLevel": 11,
+        "MinLevel": 7,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Chieftain Oomooroo",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Murlocs... Why Here? Why Now?"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Strength of One": {
+        "ID": 9582,
+        "QuestLevel": 10,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -81,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Strength of One",
+        "AllowableClasses": [
+            "Warrior"
+        ],
+        "RewardSpell": 8121,
+        "ExclusiveGroup": 1638,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Help Tavara": {
+        "ID": 9586,
+        "QuestLevel": 5,
+        "MinLevel": 5,
+        "QuestInfoID": 0,
+        "QuestSortID": -262,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Help Tavara",
+        "AllowableClasses": [
+            "Priest"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 5623,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Taming the Beast (Draenei) (1)": {
+        "ID": 9591,
+        "QuestLevel": -1,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -261,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "Taming the Beast",
+        "AllowableClasses": [
+            "Hunter"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Taming the Beast (Draenei) (2)": {
+        "ID": 9592,
+        "QuestLevel": -1,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -261,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "Taming the Beast",
+        "AllowableClasses": [
+            "Hunter"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Taming the Beast (Draenei) (1)"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Taming the Beast (Draenei) (3)": {
+        "ID": 9593,
+        "QuestLevel": -1,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -261,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "Taming the Beast",
+        "AllowableClasses": [
+            "Hunter"
+        ],
+        "RewardSpell": 1579,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Taming the Beast (Draenei) (2)"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Control": {
+        "ID": 9595,
+        "QuestLevel": 11,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -161,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Control",
+        "AllowableClasses": [
+            "Mage"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 1860,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Deliver Them From Evil...": {
+        "ID": 9602,
+        "QuestLevel": 9,
+        "MinLevel": 5,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Deliver Them From Evil...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Show Gnomercy"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "A Hearty Thanks!": {
+        "ID": 9612,
+        "QuestLevel": 8,
+        "MinLevel": 5,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "A Hearty Thanks!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Bandits!": {
+        "ID": 9616,
+        "QuestLevel": 7,
+        "MinLevel": 5,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Bandits!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Warn Your People": {
+        "ID": 9622,
+        "QuestLevel": 11,
+        "MinLevel": 7,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Warn Your People",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Kurken is Lurkin'"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Coming of Age": {
+        "ID": 9623,
+        "QuestLevel": 11,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Coming of Age",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "The Way to Auberdine": {
+        "ID": 9633,
+        "QuestLevel": 15,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Way to Auberdine",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Newfound Allies"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Beast Training (Draenei) (1)": {
+        "ID": 9675,
+        "QuestLevel": -1,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -261,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "Beast Training",
+        "AllowableClasses": [
+            "Hunter"
+        ],
+        "RewardSpell": 5300,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Taming the Beast (Draenei) (3)"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "The Bloodcurse Legacy (1)": {
+        "ID": 9751,
+        "QuestLevel": 18,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Bloodcurse Legacy",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 9672,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Seek Huntress Kella Nightbow": {
+        "ID": 9757,
+        "QuestLevel": -1,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -261,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "Seek Huntress Kella Nightbow",
+        "AllowableClasses": [
+            "Hunter"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Blood Elf Plans": {
+        "ID": 9798,
+        "QuestLevel": 5,
+        "MinLevel": 2,
+        "QuestInfoID": 0,
+        "QuestSortID": 3526,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Blood Elf Plans",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Botanical Legwork": {
+        "ID": 9799,
+        "QuestLevel": 3,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": 3526,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Botanical Legwork",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Volatile Mutations"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Volatile Mutations": {
+        "ID": 10302,
+        "QuestLevel": 2,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": 3526,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Volatile Mutations",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "The Blood Elves": {
+        "ID": 10303,
+        "QuestLevel": 4,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": 3526,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Blood Elves",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Missing Scout"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Vindicator Aldar": {
+        "ID": 10304,
+        "QuestLevel": 4,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": 3526,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Vindicator Aldar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Healing the Lake"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "The Great Moongraze Hunt (2)": {
+        "ID": 10324,
+        "QuestLevel": 8,
+        "MinLevel": 4,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Great Moongraze Hunt",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Great Moongraze Hunt (1)"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Behomat": {
+        "ID": 10350,
+        "QuestLevel": 10,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -81,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Behomat",
+        "AllowableClasses": [
+            "Warrior"
+        ],
+        "RewardSpell": 8121,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Strength of One"
+        ],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Jol": {
+        "ID": 10366,
+        "QuestLevel": -1,
+        "MinLevel": 12,
+        "QuestInfoID": 0,
+        "QuestSortID": -141,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "Jol",
+        "AllowableClasses": [
+            "Paladin"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "The Missing Fisherman": {
+        "ID": 10428,
+        "QuestLevel": 10,
+        "MinLevel": 8,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Missing Fisherman",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Stop the Fires! (1)": {
+        "ID": 11131,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Stop the Fires!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12135,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest"
+        ]
+    },
+    "Costumed Orphan Matron": {
+        "ID": 11356,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Costumed Orphan Matron",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Crystalsong Forest"
+        ]
+    },
+    "Fire Brigade Practice (1)": {
+        "ID": 11360,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Fire Brigade Practice",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 11360,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest"
+        ]
+    },
+    "Fire Brigade Practice (2)": {
+        "ID": 11439,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Fire Brigade Practice",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 11360,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest"
+        ]
+    },
+    "Fire Brigade Practice (3)": {
+        "ID": 11440,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Fire Brigade Practice",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 11360,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest"
+        ]
+    },
+    "Brewfest! (1)": {
+        "ID": 11441,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -370,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Brewfest!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 11441,
+        "seasonalEvent": "Brewfest",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Crystalsong Forest"
+        ]
+    },
+    "Playing with Fire (1)": {
+        "ID": 11882,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Playing with Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Teldrassil",
+            "Darkshore",
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Westfall",
+            "Redridge Mountains",
+            "Duskwood",
+            "Wetlands",
+            "Hillsbrad Foothills",
+            "The Hinterlands",
+            "Stranglethorn Vale",
+            "Western Plaguelands",
+            "Burning Steppes",
+            "Blasted Lands",
+            "Ashenvale",
+            "Tanaris",
+            "Winterspring",
+            "Dustwallow Marsh",
+            "Hellfire Peninsula",
+            "Zangarmarsh",
+            "Terokkar Forest",
+            "Terokkar Forest",
+            "Nagrand",
+            "Blade's Edge Mountains",
+            "Netherstorm",
+            "Shadowmoon Valley",
+            "Borean Tundra",
+            "The Storm Peaks"
+        ]
+    },
+    "The Master of Summer Lore": {
+        "ID": 11970,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Master of Summer Lore",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Teldrassil",
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Smash the Pumpkin (1)": {
+        "ID": 12133,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Smash the Pumpkin",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Durotar",
+            "Tirisfal Glades",
+            "Eversong Woods"
+        ]
+    },
+    "Let the Fires Come! (1)": {
+        "ID": 12135,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Let the Fires Come!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12135,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest"
+        ]
+    },
+    "Smash the Pumpkin (2)": {
+        "ID": 12155,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Smash the Pumpkin",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Durotar",
+            "Tirisfal Glades",
+            "Eversong Woods"
+        ]
+    },
+    "The Great Egg Hunt (2)": {
+        "ID": 13480,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -374,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Great Egg Hunt",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Noblegarden",
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Teldrassil",
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest"
+        ]
+    },
+    "A Tisket, a Tasket, a Noblegarden Basket (1)": {
+        "ID": 13502,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -374,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Tisket, a Tasket, a Noblegarden Basket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Noblegarden",
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Teldrassil",
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest"
+        ]
+    },
+    "Desecrate this Fire! (Azuremyst Isle - Horde)": {
+        "ID": 11735,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Honor the Flame (Azuremyst Isle - Alliance)": {
+        "ID": 11806,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    },
+    "Candy Bucket (Azuremyst Isle)": {
+        "ID": 12333,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle"
+        ]
+    }
+}

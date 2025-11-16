@@ -1,0 +1,2863 @@
+{
+    "Rescue OOX-22/FE!": {
+        "ID": 2767,
+        "QuestLevel": 45,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Rescue OOX-22/FE!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -648,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Find OOX-22/FE!"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "The Mark of Quality (1)": {
+        "ID": 2821,
+        "QuestLevel": 46,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Mark of Quality",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "The Mark of Quality (2)": {
+        "ID": 2822,
+        "QuestLevel": 46,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Mark of Quality",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "The Giant Guardian": {
+        "ID": 2844,
+        "QuestLevel": 49,
+        "MinLevel": 44,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Giant Guardian",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Wandering Shay": {
+        "ID": 2845,
+        "QuestLevel": 49,
+        "MinLevel": 44,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Wandering Shay",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Giant Guardian"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Wild Leather Armor (1)": {
+        "ID": 2847,
+        "QuestLevel": 45,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": -182,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Wild Leather Armor",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Leatherworking",
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Wild Leather Shoulders (1)": {
+        "ID": 2848,
+        "QuestLevel": 45,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": -182,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Wild Leather Shoulders",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -2848,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Leatherworking",
+        "requires": [
+            "Wild Leather Armor (1)"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Wild Leather Vest (1)": {
+        "ID": 2849,
+        "QuestLevel": 45,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": -182,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Wild Leather Vest",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -2848,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Leatherworking",
+        "requires": [
+            "Wild Leather Armor (1)"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Wild Leather Helmet (1)": {
+        "ID": 2850,
+        "QuestLevel": 45,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": -182,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Wild Leather Helmet",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -2848,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Leatherworking",
+        "requires": [
+            "Wild Leather Armor (1)"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Wild Leather Boots (1)": {
+        "ID": 2851,
+        "QuestLevel": 45,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": -182,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Wild Leather Boots",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -2851,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Leatherworking",
+        "requires": [
+            "Wild Leather Armor (1)"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Wild Leather Leggings (1)": {
+        "ID": 2852,
+        "QuestLevel": 45,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": -182,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Wild Leather Leggings",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -2851,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Leatherworking",
+        "requires": [
+            "Wild Leather Armor (1)"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Master of the Wild Leather (1)": {
+        "ID": 2853,
+        "QuestLevel": 45,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": -182,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Master of the Wild Leather",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Leatherworking",
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Wild Leather Armor (2)": {
+        "ID": 2854,
+        "QuestLevel": 45,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": -182,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Wild Leather Armor",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Leatherworking",
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Wild Leather Shoulders (2)": {
+        "ID": 2855,
+        "QuestLevel": 45,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": -182,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Wild Leather Shoulders",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -2855,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Leatherworking",
+        "requires": [
+            "Wild Leather Armor (2)"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Wild Leather Vest (2)": {
+        "ID": 2856,
+        "QuestLevel": 45,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": -182,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Wild Leather Vest",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -2855,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Leatherworking",
+        "requires": [
+            "Wild Leather Armor (2)"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Wild Leather Helmet (2)": {
+        "ID": 2857,
+        "QuestLevel": 45,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": -182,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Wild Leather Helmet",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -2855,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Leatherworking",
+        "requires": [
+            "Wild Leather Armor (2)"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Wild Leather Boots (2)": {
+        "ID": 2858,
+        "QuestLevel": 45,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": -182,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Wild Leather Boots",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -2855,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Leatherworking",
+        "requires": [
+            "Wild Leather Armor (2)"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Wild Leather Leggings (2)": {
+        "ID": 2859,
+        "QuestLevel": 45,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": -182,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Wild Leather Leggings",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -2855,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Leatherworking",
+        "requires": [
+            "Wild Leather Armor (2)"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Master of the Wild Leather (2)": {
+        "ID": 2860,
+        "QuestLevel": 45,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": -182,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Master of the Wild Leather",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Leatherworking",
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "War on the Woodpaw": {
+        "ID": 2862,
+        "QuestLevel": 42,
+        "MinLevel": 39,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "War on the Woodpaw",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Alpha Strike": {
+        "ID": 2863,
+        "QuestLevel": 43,
+        "MinLevel": 39,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Alpha Strike",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "War on the Woodpaw"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "The Ruins of Solarsal": {
+        "ID": 2866,
+        "QuestLevel": 43,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Ruins of Solarsal",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Return to Feathermoon Stronghold": {
+        "ID": 2867,
+        "QuestLevel": 43,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Return to Feathermoon Stronghold",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Ruins of Solarsal"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Against the Hatecrest (1)": {
+        "ID": 2869,
+        "QuestLevel": 43,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Against the Hatecrest",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Against the Hatecrest (2)"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Against Lord Shalzaru": {
+        "ID": 2870,
+        "QuestLevel": 45,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Against Lord Shalzaru",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Against the Hatecrest (1)"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Delivering the Relic": {
+        "ID": 2871,
+        "QuestLevel": 45,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Delivering the Relic",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Against Lord Shalzaru"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "The Stave of Equinex": {
+        "ID": 2879,
+        "QuestLevel": 50,
+        "MinLevel": 42,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Stave of Equinex",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to Troyas"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Woodpaw Investigation": {
+        "ID": 2902,
+        "QuestLevel": 43,
+        "MinLevel": 39,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Woodpaw Investigation",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Alpha Strike"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "The Battle Plans": {
+        "ID": 2903,
+        "QuestLevel": 43,
+        "MinLevel": 39,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Battle Plans",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Woodpaw Investigation"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "In Search of Knowledge": {
+        "ID": 2939,
+        "QuestLevel": 47,
+        "MinLevel": 42,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "In Search of Knowledge",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "The Morrow Stone": {
+        "ID": 2942,
+        "QuestLevel": 50,
+        "MinLevel": 42,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Morrow Stone",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Stave of Equinex"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Freedom for All Creatures": {
+        "ID": 2969,
+        "QuestLevel": 47,
+        "MinLevel": 38,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Freedom for All Creatures",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Doling Justice (1)": {
+        "ID": 2970,
+        "QuestLevel": 47,
+        "MinLevel": 38,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Doling Justice",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Freedom for All Creatures"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Doling Justice (2)": {
+        "ID": 2972,
+        "QuestLevel": 47,
+        "MinLevel": 38,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Doling Justice",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Doling Justice (1)"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "A New Cloak's Sheen": {
+        "ID": 2973,
+        "QuestLevel": 45,
+        "MinLevel": 38,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A New Cloak's Sheen",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "A Grim Discovery (1)": {
+        "ID": 2974,
+        "QuestLevel": 45,
+        "MinLevel": 38,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Grim Discovery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A New Cloak's Sheen"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "The Ogres of Feralas (1)": {
+        "ID": 2975,
+        "QuestLevel": 43,
+        "MinLevel": 38,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Ogres of Feralas",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "A Grim Discovery (2)": {
+        "ID": 2976,
+        "QuestLevel": 45,
+        "MinLevel": 37,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Grim Discovery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Grim Discovery (1)"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Dark Ceremony": {
+        "ID": 2979,
+        "QuestLevel": 46,
+        "MinLevel": 38,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Dark Ceremony",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Gordunni Scroll"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "The Ogres of Feralas (2)": {
+        "ID": 2980,
+        "QuestLevel": 44,
+        "MinLevel": 38,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Ogres of Feralas",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Ogres of Feralas (1)"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "The High Wilderness": {
+        "ID": 2982,
+        "QuestLevel": 44,
+        "MinLevel": 39,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The High Wilderness",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Gordunni Cobalt": {
+        "ID": 2987,
+        "QuestLevel": 43,
+        "MinLevel": 38,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Gordunni Cobalt",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "The Gordunni Orb": {
+        "ID": 3002,
+        "QuestLevel": 47,
+        "MinLevel": 38,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Gordunni Orb",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Dark Ceremony"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Dark Heart": {
+        "ID": 3062,
+        "QuestLevel": 50,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Dark Heart",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Vengeance on the Northspring": {
+        "ID": 3063,
+        "QuestLevel": 50,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Vengeance on the Northspring",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "A Strange Request": {
+        "ID": 3121,
+        "QuestLevel": 45,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Strange Request",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Return to Witch Doctor Uzer'i": {
+        "ID": 3122,
+        "QuestLevel": 45,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Return to Witch Doctor Uzer'i",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Strange Request"
+        ],
+        "zone": [
+            "Durotar",
+            "Feralas"
+        ]
+    },
+    "Testing the Vessel": {
+        "ID": 3123,
+        "QuestLevel": 47,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Testing the Vessel",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to Witch Doctor Uzer'i"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Hippogryph Muisek": {
+        "ID": 3124,
+        "QuestLevel": 47,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Hippogryph Muisek",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Testing the Vessel"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Faerie Dragon Muisek": {
+        "ID": 3125,
+        "QuestLevel": 45,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Faerie Dragon Muisek",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Hippogryph Muisek"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Treant Muisek": {
+        "ID": 3126,
+        "QuestLevel": 50,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Treant Muisek",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Faerie Dragon Muisek"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Mountain Giant Muisek": {
+        "ID": 3127,
+        "QuestLevel": 50,
+        "MinLevel": 40,
+        "QuestInfoID": 1,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Mountain Giant Muisek",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -3129,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Treant Muisek"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Natural Materials": {
+        "ID": 3128,
+        "QuestLevel": 50,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Natural Materials",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -3129,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Weapons of Spirit": {
+        "ID": 3129,
+        "QuestLevel": 50,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Weapons of Spirit",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Against the Hatecrest (2)": {
+        "ID": 3130,
+        "QuestLevel": 43,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Against the Hatecrest",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to Feathermoon Stronghold"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "The Sunken Temple (2)": {
+        "ID": 3445,
+        "QuestLevel": 51,
+        "MinLevel": 46,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Sunken Temple",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "To the Top": {
+        "ID": 3567,
+        "QuestLevel": 25,
+        "MinLevel": 25,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "To the Top",
+        "AllowableClasses": [],
+        "RewardSpell": 12242,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Jonespyre's Request (2)": {
+        "ID": 3788,
+        "QuestLevel": 50,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 1116,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Jonespyre's Request",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 3797,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "The Mystery of Morrowgrain": {
+        "ID": 3791,
+        "QuestLevel": 50,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 1116,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Mystery of Morrowgrain",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Morrowgrain to Feathermoon Stronghold": {
+        "ID": 3792,
+        "QuestLevel": 55,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 1116,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Morrowgrain to Feathermoon Stronghold",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Mystery of Morrowgrain"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "An Orphan Looking For a Home": {
+        "ID": 3841,
+        "QuestLevel": 47,
+        "MinLevel": 38,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "An Orphan Looking For a Home",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Doling Justice (2)"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "The Videre Elixir (1)": {
+        "ID": 4041,
+        "QuestLevel": 52,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Videre Elixir",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "The Strength of Corruption": {
+        "ID": 4120,
+        "QuestLevel": 52,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Strength of Corruption",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "The Missing Courier (1)": {
+        "ID": 4124,
+        "QuestLevel": 43,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Missing Courier",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "The Missing Courier (2)": {
+        "ID": 4125,
+        "QuestLevel": 43,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Missing Courier",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Missing Courier (1)"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Boat Wreckage": {
+        "ID": 4127,
+        "QuestLevel": 44,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Boat Wreckage",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Missing Courier (2)"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "The Knife Revealed": {
+        "ID": 4129,
+        "QuestLevel": 44,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Knife Revealed",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Boat Wreckage"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Psychometric Reading": {
+        "ID": 4130,
+        "QuestLevel": 44,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Psychometric Reading",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Knife Revealed"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "The Woodpaw Gnolls": {
+        "ID": 4131,
+        "QuestLevel": 44,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Woodpaw Gnolls",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Psychometric Reading"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "The Writhing Deep": {
+        "ID": 4135,
+        "QuestLevel": 46,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Writhing Deep",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Woodpaw Gnolls"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Freed from the Hive": {
+        "ID": 4265,
+        "QuestLevel": 46,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Freed from the Hive",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Writhing Deep"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "A Hero's Welcome": {
+        "ID": 4266,
+        "QuestLevel": 46,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Hero's Welcome",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Freed from the Hive"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Rise of the Silithid (3)": {
+        "ID": 4267,
+        "QuestLevel": 46,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Rise of the Silithid",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Hero's Welcome"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Tribal Leatherworking (1)": {
+        "ID": 5143,
+        "QuestLevel": 55,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": -182,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Tribal Leatherworking",
+        "AllowableClasses": [],
+        "RewardSpell": 10661,
+        "ExclusiveGroup": 5141,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Leatherworking",
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Mistress of Deception": {
+        "ID": 6568,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Mistress of Deception",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Champion of the Horde"
+        ],
+        "zone": [
+            "Stonetalon Mountains",
+            "Desolace",
+            "Feralas"
+        ]
+    },
+    "Zapped Giants": {
+        "ID": 7003,
+        "QuestLevel": 48,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Zapped Giants",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Fuel for the Zapping": {
+        "ID": 7721,
+        "QuestLevel": 48,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Fuel for the Zapping",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Again With the Zapped Giants": {
+        "ID": 7725,
+        "QuestLevel": 55,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Again With the Zapped Giants",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Zapped Giants"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Refuel for the Zapping": {
+        "ID": 7726,
+        "QuestLevel": 55,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Refuel for the Zapping",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Fuel for the Zapping"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Zukk'ash Infestation": {
+        "ID": 7730,
+        "QuestLevel": 45,
+        "MinLevel": 39,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Zukk'ash Infestation",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -7730,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Battle Plans"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Stinglasher": {
+        "ID": 7731,
+        "QuestLevel": 47,
+        "MinLevel": 39,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Stinglasher",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -7730,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Battle Plans"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Zukk'ash Report": {
+        "ID": 7732,
+        "QuestLevel": 48,
+        "MinLevel": 39,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Zukk'ash Report",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Improved Quality (1)": {
+        "ID": 7733,
+        "QuestLevel": 48,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Improved Quality",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Mark of Quality (1)"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Improved Quality (2)": {
+        "ID": 7734,
+        "QuestLevel": 48,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Improved Quality",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Mark of Quality (2)"
+        ],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Grimtotem the Elder": {
+        "ID": 8679,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Grimtotem the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Playing with Fire (2)": {
+        "ID": 11915,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Playing with Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Silverpine Forest",
+            "Eversong Woods",
+            "Ghostlands",
+            "Hillsbrad Foothills",
+            "Swamp of Sorrows",
+            "Stranglethorn Vale",
+            "Stonetalon Mountains",
+            "Ashenvale",
+            "Thousand Needles",
+            "Desolace",
+            "Tanaris",
+            "Feralas",
+            "Winterspring",
+            "Hellfire Peninsula",
+            "Zangarmarsh",
+            "Terokkar Forest",
+            "Terokkar Forest",
+            "Nagrand",
+            "Blade's Edge Mountains",
+            "Netherstorm",
+            "Shadowmoon Valley",
+            "Sholazar Basin"
+        ]
+    },
+    "Desecrate this Fire! (Feralas - Horde)": {
+        "ID": 11746,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Desecrate this Fire! (Feralas - Alliance)": {
+        "ID": 11773,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Honor the Flame (Feralas - Alliance)": {
+        "ID": 11817,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Honor the Flame (Feralas - Horde)": {
+        "ID": 11849,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Candy Bucket (Feralas, Feathermoon Stronghold)": {
+        "ID": 12350,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    },
+    "Candy Bucket (Feralas, Camp Mojache)": {
+        "ID": 12386,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Feralas"
+        ]
+    }
+}

@@ -1,0 +1,2429 @@
+{
+    "The Absent Minded Prospector (1)": {
+        "ID": 729,
+        "QuestLevel": 20,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Absent Minded Prospector",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "The Absent Minded Prospector (2)": {
+        "ID": 731,
+        "QuestLevel": 20,
+        "MinLevel": 15,
+        "QuestInfoID": 1,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Absent Minded Prospector",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Absent Minded Prospector (1)"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "The Absent Minded Prospector (3)": {
+        "ID": 741,
+        "QuestLevel": 20,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Absent Minded Prospector",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Absent Minded Prospector (2)"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "The Master's Glaive": {
+        "ID": 944,
+        "QuestLevel": 17,
+        "MinLevel": 12,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Master's Glaive",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Onu"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Therylune's Escape": {
+        "ID": 945,
+        "QuestLevel": 18,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Therylune's Escape",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Cave Mushrooms": {
+        "ID": 947,
+        "QuestLevel": 17,
+        "MinLevel": 12,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Cave Mushrooms",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Onu": {
+        "ID": 948,
+        "QuestLevel": 17,
+        "MinLevel": 12,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Onu",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Cave Mushrooms"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "The Twilight Camp": {
+        "ID": 949,
+        "QuestLevel": 17,
+        "MinLevel": 12,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Twilight Camp",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Master's Glaive"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Return to Onu": {
+        "ID": 950,
+        "QuestLevel": 17,
+        "MinLevel": 12,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Return to Onu",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Twilight Camp"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Mathystra Relics": {
+        "ID": 951,
+        "QuestLevel": 20,
+        "MinLevel": 12,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Mathystra Relics",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to Onu"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "The Fall of Ameth'Aran": {
+        "ID": 953,
+        "QuestLevel": 12,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Fall of Ameth'Aran",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Bashal'Aran (1)": {
+        "ID": 954,
+        "QuestLevel": 12,
+        "MinLevel": 7,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Bashal'Aran",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Bashal'Aran (2)": {
+        "ID": 955,
+        "QuestLevel": 12,
+        "MinLevel": 7,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Bashal'Aran",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Bashal'Aran (1)"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Bashal'Aran (3)": {
+        "ID": 956,
+        "QuestLevel": 13,
+        "MinLevel": 7,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Bashal'Aran",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Bashal'Aran (2)"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Bashal'Aran (4)": {
+        "ID": 957,
+        "QuestLevel": 13,
+        "MinLevel": 7,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Bashal'Aran",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Bashal'Aran (3)"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Tools of the Highborne": {
+        "ID": 958,
+        "QuestLevel": 12,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Tools of the Highborne",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Onu is meditating (1)": {
+        "ID": 960,
+        "QuestLevel": 1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Onu is meditating",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Onu is meditating (2)": {
+        "ID": 961,
+        "QuestLevel": 1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Onu is meditating",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "For Love Eternal": {
+        "ID": 963,
+        "QuestLevel": 16,
+        "MinLevel": 11,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "For Love Eternal",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "The Tower of Althalaxx (1)": {
+        "ID": 965,
+        "QuestLevel": 18,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Tower of Althalaxx",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "The Tower of Althalaxx (2)": {
+        "ID": 966,
+        "QuestLevel": 18,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Tower of Althalaxx",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Tower of Althalaxx (1)"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "The Tower of Althalaxx (3)": {
+        "ID": 967,
+        "QuestLevel": 18,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Tower of Althalaxx",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Tower of Althalaxx (2)"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "The Tower of Althalaxx (6)": {
+        "ID": 981,
+        "QuestLevel": 31,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Tower of Althalaxx",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Tower of Althalaxx (8)"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Deep Ocean, Vast Sea": {
+        "ID": 982,
+        "QuestLevel": 17,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Deep Ocean, Vast Sea",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Buzzbox 827": {
+        "ID": 983,
+        "QuestLevel": 10,
+        "MinLevel": 7,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Buzzbox 827",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "How Big a Threat? (1)": {
+        "ID": 984,
+        "QuestLevel": 14,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "How Big a Threat?",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "How Big a Threat? (2)": {
+        "ID": 985,
+        "QuestLevel": 14,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "How Big a Threat?",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "How Big a Threat? (1)"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "A Lost Master (1)": {
+        "ID": 986,
+        "QuestLevel": 20,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Lost Master",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "How Big a Threat? (2)"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Trek to Ashenvale": {
+        "ID": 990,
+        "QuestLevel": 19,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Trek to Ashenvale",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "A Lost Master (2)": {
+        "ID": 993,
+        "QuestLevel": 20,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Lost Master",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Lost Master (1)"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Escape Through Force": {
+        "ID": 994,
+        "QuestLevel": 22,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Escape Through Force",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 994,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Lost Master (2)"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Escape Through Stealth": {
+        "ID": 995,
+        "QuestLevel": 20,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Escape Through Stealth",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 994,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Lost Master (2)"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Buzzbox 411": {
+        "ID": 1001,
+        "QuestLevel": 12,
+        "MinLevel": 7,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Buzzbox 411",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Buzzbox 827"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Buzzbox 323": {
+        "ID": 1002,
+        "QuestLevel": 14,
+        "MinLevel": 7,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Buzzbox 323",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Buzzbox 411"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Buzzbox 525": {
+        "ID": 1003,
+        "QuestLevel": 16,
+        "MinLevel": 7,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Buzzbox 525",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Buzzbox 323"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Highperch Venom": {
+        "ID": 1135,
+        "QuestLevel": 30,
+        "MinLevel": 25,
+        "QuestInfoID": 0,
+        "QuestSortID": 15,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Highperch Venom",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Darkshore",
+            "Dustwallow Marsh"
+        ]
+    },
+    "Fruit of the Sea": {
+        "ID": 1138,
+        "QuestLevel": 17,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Fruit of the Sea",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "The Family and the Fishing Pole": {
+        "ID": 1141,
+        "QuestLevel": 14,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Family and the Fishing Pole",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "The Tower of Althalaxx (8)": {
+        "ID": 1143,
+        "QuestLevel": 31,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Tower of Althalaxx",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Tower of Althalaxx (9)"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Gaffer Jacks": {
+        "ID": 1579,
+        "QuestLevel": 12,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -101,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Gaffer Jacks",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Fishing",
+        "requires": [],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Electropellers": {
+        "ID": 1580,
+        "QuestLevel": 12,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -101,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Electropellers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Fishing",
+        "requires": [
+            "Gaffer Jacks"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Elanaria": {
+        "ID": 1684,
+        "QuestLevel": -1,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -81,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Elanaria",
+        "AllowableClasses": [
+            "Warrior"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 1638,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Teldrassil",
+            "Darkshore"
+        ]
+    },
+    "Gyromast's Revenge": {
+        "ID": 2078,
+        "QuestLevel": 20,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Gyromast's Revenge",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Gyromast's Retrieval"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Gyromast's Retrieval": {
+        "ID": 2098,
+        "QuestLevel": 20,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Gyromast's Retrieval",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Plagued Lands": {
+        "ID": 2118,
+        "QuestLevel": 14,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Plagued Lands",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Cleansing of the Infected": {
+        "ID": 2138,
+        "QuestLevel": 16,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Cleansing of the Infected",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Plagued Lands"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Tharnariun's Hope": {
+        "ID": 2139,
+        "QuestLevel": 18,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Tharnariun's Hope",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Cleansing of the Infected"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Easy Strider Living": {
+        "ID": 2178,
+        "QuestLevel": 12,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": -304,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Easy Strider Living",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Cooking",
+        "requires": [],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Washed Ashore (1)": {
+        "ID": 3524,
+        "QuestLevel": 13,
+        "MinLevel": 11,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Washed Ashore",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Washed Ashore (2)": {
+        "ID": 4681,
+        "QuestLevel": 14,
+        "MinLevel": 11,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Washed Ashore",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Washed Ashore (1)"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Beached Sea Turtle (1)": {
+        "ID": 4722,
+        "QuestLevel": 13,
+        "MinLevel": 11,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Beached Sea Turtle",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Washed Ashore (2)"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Beached Sea Creature (1)": {
+        "ID": 4723,
+        "QuestLevel": 13,
+        "MinLevel": 11,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Beached Sea Creature",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Washed Ashore (2)"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Beached Sea Turtle (2)": {
+        "ID": 4725,
+        "QuestLevel": 15,
+        "MinLevel": 12,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Beached Sea Turtle",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Washed Ashore (2)"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Beached Sea Turtle (3)": {
+        "ID": 4727,
+        "QuestLevel": 15,
+        "MinLevel": 12,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Beached Sea Turtle",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Washed Ashore (2)"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Beached Sea Creature (2)": {
+        "ID": 4728,
+        "QuestLevel": 14,
+        "MinLevel": 12,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Beached Sea Creature",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Washed Ashore (2)"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Beached Sea Creature (3)": {
+        "ID": 4730,
+        "QuestLevel": 16,
+        "MinLevel": 12,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Beached Sea Creature",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Washed Ashore (2)"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Beached Sea Turtle (4)": {
+        "ID": 4731,
+        "QuestLevel": 19,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Beached Sea Turtle",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Washed Ashore (2)"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Beached Sea Turtle (5)": {
+        "ID": 4732,
+        "QuestLevel": 19,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Beached Sea Turtle",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Washed Ashore (2)"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Beached Sea Creature (4)": {
+        "ID": 4733,
+        "QuestLevel": 19,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Beached Sea Creature",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Washed Ashore (2)"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "WANTED: Murkdeep!": {
+        "ID": 4740,
+        "QuestLevel": 18,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "WANTED: Murkdeep!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Thundris Windweaver": {
+        "ID": 4761,
+        "QuestLevel": 15,
+        "MinLevel": 11,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Thundris Windweaver",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "How Big a Threat? (1)"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "The Cliffspring River": {
+        "ID": 4762,
+        "QuestLevel": 15,
+        "MinLevel": 11,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Cliffspring River",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Thundris Windweaver"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "The Blackwood Corrupted": {
+        "ID": 4763,
+        "QuestLevel": 18,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Blackwood Corrupted",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Cliffspring River"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "The Red Crystal": {
+        "ID": 4811,
+        "QuestLevel": 14,
+        "MinLevel": 12,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Red Crystal",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "As Water Cascades": {
+        "ID": 4812,
+        "QuestLevel": 14,
+        "MinLevel": 12,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "As Water Cascades",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Red Crystal"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "The Fragments Within": {
+        "ID": 4813,
+        "QuestLevel": 14,
+        "MinLevel": 12,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Fragments Within",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "As Water Cascades"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "The Sleeper Has Awakened": {
+        "ID": 5321,
+        "QuestLevel": 20,
+        "MinLevel": 17,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Sleeper Has Awakened",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Darkshore",
+            "Ashenvale"
+        ]
+    },
+    "One Shot.  One Kill.": {
+        "ID": 5713,
+        "QuestLevel": 15,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "One Shot.  One Kill.",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Gathering the Cure (Druid) (1)": {
+        "ID": 6123,
+        "QuestLevel": -1,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Gathering the Cure",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Principal Source (Druid) (1)"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Curing the Sick (Druid) (1)": {
+        "ID": 6124,
+        "QuestLevel": -1,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Curing the Sick",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Gathering the Cure (Druid) (1)"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Return to Nessa": {
+        "ID": 6343,
+        "QuestLevel": 10,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 148,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Night Elf"
+        ],
+        "LogTitle": "Return to Nessa",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Flight to Auberdine"
+        ],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Starweave the Elder": {
+        "ID": 8721,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Starweave the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Onward to Ashenvale": {
+        "ID": 10752,
+        "QuestLevel": 20,
+        "MinLevel": 18,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Onward to Ashenvale",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Playing with Fire (1)": {
+        "ID": 11882,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Playing with Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Teldrassil",
+            "Darkshore",
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Westfall",
+            "Redridge Mountains",
+            "Duskwood",
+            "Wetlands",
+            "Hillsbrad Foothills",
+            "The Hinterlands",
+            "Stranglethorn Vale",
+            "Western Plaguelands",
+            "Burning Steppes",
+            "Blasted Lands",
+            "Ashenvale",
+            "Tanaris",
+            "Winterspring",
+            "Dustwallow Marsh",
+            "Hellfire Peninsula",
+            "Zangarmarsh",
+            "Terokkar Forest",
+            "Terokkar Forest",
+            "Nagrand",
+            "Blade's Edge Mountains",
+            "Netherstorm",
+            "Shadowmoon Valley",
+            "Borean Tundra",
+            "The Storm Peaks"
+        ]
+    },
+    "Sharing a Bountiful Feast (1)": {
+        "ID": 14064,
+        "QuestLevel": -1,
+        "MinLevel": 0,
+        "QuestInfoID": 0,
+        "QuestSortID": -375,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Sharing a Bountiful Feast",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Pilgrim's Bounty",
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pilgrim's Bounty (1)"
+        ],
+        "zone": [
+            "Teldrassil",
+            "Teldrassil",
+            "Darkshore",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Redridge Mountains",
+            "Western Plaguelands",
+            "Burning Steppes",
+            "Tanaris",
+            "Winterspring",
+            "Hellfire Peninsula",
+            "Sholazar Basin",
+            "Dragonblight",
+            "Howling Fjord",
+            "Grizzly Hills",
+            "The Storm Peaks"
+        ]
+    },
+    "Desecrate this Fire! (Darkshore - Horde)": {
+        "ID": 11740,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Honor the Flame (Darkshore - Alliance)": {
+        "ID": 11811,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Darkshore"
+        ]
+    },
+    "Candy Bucket (Darkshore)": {
+        "ID": 12338,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Darkshore"
+        ]
+    }
+}

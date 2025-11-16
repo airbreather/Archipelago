@@ -1,0 +1,5256 @@
+{
+    "Find Kurun!": {
+        "ID": 11981,
+        "QuestLevel": 75,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Find Kurun!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 11981,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Raining Down Destruction": {
+        "ID": 11982,
+        "QuestLevel": 75,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Raining Down Destruction",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Find Kurun!"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Filling the Cages": {
+        "ID": 11984,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Filling the Cages",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Into the Breach (2)": {
+        "ID": 11985,
+        "QuestLevel": 75,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Into the Breach",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Rallying the Troops"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "The Damaged Journal (1)": {
+        "ID": 11986,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Damaged Journal",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "The Runic Keystone": {
+        "ID": 11988,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Runic Keystone",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Damaged Journal (1)"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Truce?": {
+        "ID": 11989,
+        "QuestLevel": 73,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Truce?",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Filling the Cages"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Vial of Visions": {
+        "ID": 11990,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Vial of Visions",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Truce?"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Subject to Interpretation": {
+        "ID": 11991,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Subject to Interpretation",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Vial of Visions"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "The Runic Prophecies (1)": {
+        "ID": 11993,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Runic Prophecies",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Runic Keystone"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Softening the Blow": {
+        "ID": 11998,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Softening the Blow",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Brothers in Battle": {
+        "ID": 12002,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Brothers in Battle",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Softening the Blow"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Uncovering the Tunnels": {
+        "ID": 12003,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Uncovering the Tunnels",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Brothers in Battle"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Sacrifices Must be Made": {
+        "ID": 12007,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Sacrifices Must be Made",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Subject to Interpretation"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "The Fate of Orlond": {
+        "ID": 12010,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Fate of Orlond",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Uncovering the Tunnels"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Steady as a Rock?": {
+        "ID": 12014,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Steady as a Rock?",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Fate of Orlond"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "The Damaged Journal (2)": {
+        "ID": 12026,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Damaged Journal",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Mr. Floppy's Perilous Adventure": {
+        "ID": 12027,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Mr. Floppy's Perilous Adventure",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Seared Scourge (2)": {
+        "ID": 12029,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Seared Scourge",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Scourgekabob"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Seared Scourge (1)": {
+        "ID": 12038,
+        "QuestLevel": 72,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Seared Scourge",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Heart of the Ancients": {
+        "ID": 12042,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Heart of the Ancients",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Sacrifices Must be Made"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Deciphering the Journal": {
+        "ID": 12054,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Deciphering the Journal",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Damaged Journal (2)"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "The Runic Prophecies (2)": {
+        "ID": 12058,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Runic Prophecies",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12058,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Deciphering the Journal"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Voices From the Dust": {
+        "ID": 12068,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Voices From the Dust",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "My Heart is in Your Hands"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Rallying the Troops": {
+        "ID": 12070,
+        "QuestLevel": 75,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Rallying the Troops",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Raining Down Destruction"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Pounding the Iron": {
+        "ID": 12073,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Pounding the Iron",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12058,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Deciphering the Journal"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "An Expedient Ally": {
+        "ID": 12074,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "An Expedient Ally",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 11981,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Gavrock": {
+        "ID": 12081,
+        "QuestLevel": 75,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Gavrock",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Into the Breach (2)"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Dun-da-Dun-tah!": {
+        "ID": 12082,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Dun-da-Dun-tah!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Runes of Compulsion": {
+        "ID": 12093,
+        "QuestLevel": 75,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Runes of Compulsion",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Gavrock"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Latent Power": {
+        "ID": 12094,
+        "QuestLevel": 75,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Latent Power",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Runes of Compulsion"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Free at Last (2)": {
+        "ID": 12099,
+        "QuestLevel": 75,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Free at Last",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Latent Power"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Descent into Darkness": {
+        "ID": 12105,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Descent into Darkness",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Report to Gryan Stoutmantle... Again": {
+        "ID": 12109,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Report to Gryan Stoutmantle... Again",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Descent into Darkness"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Nice to Meat You": {
+        "ID": 12113,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Nice to Meat You",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Therapy": {
+        "ID": 12114,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Therapy",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "It Takes Guts....": {
+        "ID": 12116,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "It Takes Guts....",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Drak'aguul's Mallet": {
+        "ID": 12120,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Drak'aguul's Mallet",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "It Takes Guts...."
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "See You on the Other Side": {
+        "ID": 12121,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "See You on the Other Side",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Drak'aguul's Mallet"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Check Up on Raegar": {
+        "ID": 12128,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Check Up on Raegar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Steady as a Rock?"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "The Perfect Plan": {
+        "ID": 12129,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Perfect Plan",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Check Up on Raegar"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Why Fabricate When You Can Appropriate?": {
+        "ID": 12130,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Why Fabricate When You Can Appropriate?",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Perfect Plan"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "We Have the Power (1)": {
+        "ID": 12131,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "We Have the Power",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Why Fabricate When You Can Appropriate?"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Sasha's Hunt": {
+        "ID": 12134,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Sasha's Hunt",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Fate and Coincidence"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Chill Out, Mon": {
+        "ID": 12137,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Chill Out, Mon",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "See You on the Other Side"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "... Or Maybe We Don't (1)": {
+        "ID": 12138,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "... Or Maybe We Don't",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "We Have the Power (1)"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Jin'arrak's End": {
+        "ID": 12152,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Jin'arrak's End",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Chill Out, Mon"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "The Iron Thane and His Anvil": {
+        "ID": 12153,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Iron Thane and His Anvil",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "... Or Maybe We Don't (1)"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Blackout": {
+        "ID": 12154,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Blackout",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "... Or Maybe We Don't (1)"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Hollowstone Mine": {
+        "ID": 12158,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Hollowstone Mine",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Report to Gryan Stoutmantle... Again"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Souls at Unrest": {
+        "ID": 12159,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Souls at Unrest",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Hollowstone Mine"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "A Name from the Past": {
+        "ID": 12160,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Name from the Past",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Souls at Unrest"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Ruuna the Blind (1)": {
+        "ID": 12161,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Ruuna the Blind",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12161,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Hour of the Worg": {
+        "ID": 12164,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 1,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Hour of the Worg",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Sister's Pledge"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "An Intriguing Plan": {
+        "ID": 12165,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "An Intriguing Plan",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Unexpected 'Guest'"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Blackriver Brawl": {
+        "ID": 12170,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Blackriver Brawl",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Gray Worg Hides": {
+        "ID": 12175,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Gray Worg Hides",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "A Minor Substitution": {
+        "ID": 12176,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Minor Substitution",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Gray Worg Hides"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Jun'ik's Coverup": {
+        "ID": 12177,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Jun'ik's Coverup",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Minor Substitution"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Delivery to Krenna": {
+        "ID": 12178,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Delivery to Krenna",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12178,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Jun'ik's Coverup"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "The Captive Prospectors": {
+        "ID": 12180,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Captive Prospectors",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Runic Prophecies (1)"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Looking the Part": {
+        "ID": 12183,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Looking the Part",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Captive Prospectors"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Cultivating an Image (1)": {
+        "ID": 12184,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Cultivating an Image",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Looking the Part"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Put on Your Best Face for Loken": {
+        "ID": 12185,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Put on Your Best Face for Loken",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Cultivating an Image (1)"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Say Hello to My Little Friend": {
+        "ID": 12190,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Say Hello to My Little Friend",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Shimmercap Stew"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "The Unexpected 'Guest'": {
+        "ID": 12195,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Unexpected 'Guest'",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "From the Ground Up": {
+        "ID": 12196,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "From the Ground Up",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Unexpected 'Guest'"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "We Have the Power (2)": {
+        "ID": 12197,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "We Have the Power",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "From the Ground Up"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "... Or Maybe We Don't (2)": {
+        "ID": 12198,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "... Or Maybe We Don't",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "We Have the Power (2)"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Bringing Down the Iron Thane": {
+        "ID": 12199,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Bringing Down the Iron Thane",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "... Or Maybe We Don't (2)"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "The Overseer's Shadow": {
+        "ID": 12201,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Overseer's Shadow",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "In the Name of Loken"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Cultivating an Image (2)": {
+        "ID": 12202,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Cultivating an Image",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Overseer's Shadow"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Loken's Orders": {
+        "ID": 12203,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Loken's Orders",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Cultivating an Image (2)"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "In the Name of Loken": {
+        "ID": 12204,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "In the Name of Loken",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Vordrassil's Fall": {
+        "ID": 12207,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Vordrassil's Fall",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Delivery to Krenna",
+            "Attack on Silverbrook",
+            "Tactical Clemency"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Good Troll Hunting": {
+        "ID": 12208,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Good Troll Hunting",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12208,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Troll Season!": {
+        "ID": 12210,
+        "QuestLevel": 73,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Troll Season!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12210,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Replenishing the Storehouse": {
+        "ID": 12212,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Replenishing the Storehouse",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "The Darkness Beneath": {
+        "ID": 12213,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Darkness Beneath",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Delivery to Krenna",
+            "Attack on Silverbrook",
+            "Tactical Clemency"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Them or Us!": {
+        "ID": 12215,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Them or Us!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Take Their Rear!": {
+        "ID": 12216,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Take Their Rear!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Replenishing the Storehouse"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Eagle Eyes": {
+        "ID": 12217,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Eagle Eyes",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Them or Us!"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "The Failed World Tree": {
+        "ID": 12219,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Failed World Tree",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12219,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Swift Response"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "A Dark Influence": {
+        "ID": 12220,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Dark Influence",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12219,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Swift Response"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Secrets of the Flamebinders": {
+        "ID": 12222,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Secrets of the Flamebinders",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12222,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Tentative Pact"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Thinning the Ranks (2)": {
+        "ID": 12223,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Thinning the Ranks",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12222,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Tentative Pact"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Mmm... Amberseeds!": {
+        "ID": 12225,
+        "QuestLevel": 73,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Mmm... Amberseeds!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Just Passing Through": {
+        "ID": 12226,
+        "QuestLevel": 73,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Just Passing Through",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mmm... Amberseeds!"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Doing Your Duty": {
+        "ID": 12227,
+        "QuestLevel": 73,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Doing Your Duty",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Just Passing Through"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "A Possible Link (1)": {
+        "ID": 12229,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Possible Link",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "The Bear God's Offspring": {
+        "ID": 12231,
+        "QuestLevel": 75,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Bear God's Offspring",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Ursoc, the Bear God (1)": {
+        "ID": 12236,
+        "QuestLevel": 75,
+        "MinLevel": 72,
+        "QuestInfoID": 1,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Ursoc, the Bear God",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Destroy the Sapling": {
+        "ID": 12241,
+        "QuestLevel": 75,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Destroy the Sapling",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12241,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Vordrassil's Seeds (1)": {
+        "ID": 12242,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Vordrassil's Seeds",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12241,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Shredder Repair": {
+        "ID": 12244,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Shredder Repair",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "A Possible Link (2)": {
+        "ID": 12246,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Possible Link",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12246,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Children of Ursoc": {
+        "ID": 12247,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Children of Ursoc",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12246,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Vordrassil's Sapling": {
+        "ID": 12248,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Vordrassil's Sapling",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12248,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Ursoc, the Bear God (2)": {
+        "ID": 12249,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 1,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Ursoc, the Bear God",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Vordrassil's Seeds (2)": {
+        "ID": 12250,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Vordrassil's Seeds",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12248,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "The Thane of Voldrune (2)": {
+        "ID": 12255,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Thane of Voldrune",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Secrets of the Flamebinders",
+            "Thinning the Ranks (2)"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "The Flamebinders' Secrets": {
+        "ID": 12256,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Flamebinders' Secrets",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12256,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "A Show of Strength": {
+        "ID": 12257,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Show of Strength",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12256,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "The Thane of Voldrune (1)": {
+        "ID": 12259,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Thane of Voldrune",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Pieces Parts": {
+        "ID": 12268,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Pieces Parts",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Shred the Alliance": {
+        "ID": 12270,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Shred the Alliance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "A Bear of an Appetite": {
+        "ID": 12279,
+        "QuestLevel": 75,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Bear of an Appetite",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Making Repairs": {
+        "ID": 12280,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Making Repairs",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Keep 'Em on Their Heels": {
+        "ID": 12284,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Keep 'Em on Their Heels",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Overwhelmed!": {
+        "ID": 12288,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Overwhelmed!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Kick 'Em While They're Down": {
+        "ID": 12289,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Kick 'Em While They're Down",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Local Support": {
+        "ID": 12292,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Local Support",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Close the Deal": {
+        "ID": 12293,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Close the Deal",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Local Support"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "A Tentative Pact": {
+        "ID": 12294,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Tentative Pact",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Close the Deal"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "An Exercise in Diplomacy": {
+        "ID": 12295,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "An Exercise in Diplomacy",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Tentative Pact"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Life or Death": {
+        "ID": 12296,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Life or Death",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Northern Hospitality": {
+        "ID": 12299,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Northern Hospitality",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12299,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "An Exercise in Diplomacy"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Test of Mettle": {
+        "ID": 12300,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Test of Mettle",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Northern Hospitality",
+            "Wolfsbane Root"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Words of Warning": {
+        "ID": 12302,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Words of Warning",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Test of Mettle"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Wolfsbane Root": {
+        "ID": 12307,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Wolfsbane Root",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12299,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "An Exercise in Diplomacy"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Escape from Silverbrook (2)": {
+        "ID": 12308,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Escape from Silverbrook",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12308,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Words of Warning"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "A Swift Response": {
+        "ID": 12310,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Swift Response",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Escape from Silverbrook (2)"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Down With Captain Zorna!": {
+        "ID": 12314,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 1,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Down With Captain Zorna!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Crush Captain Brightwater!": {
+        "ID": 12315,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 1,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Crush Captain Brightwater!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Keep Them at Bay!": {
+        "ID": 12316,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Keep Them at Bay!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Keep Them at Bay": {
+        "ID": 12317,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Keep Them at Bay",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Smoke 'Em Out (1)": {
+        "ID": 12323,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Smoke 'Em Out",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Smoke 'Em Out (2)": {
+        "ID": 12324,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Smoke 'Em Out",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Out of Body Experience": {
+        "ID": 12327,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Out of Body Experience",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Ruuna's Request"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Ruuna's Request": {
+        "ID": 12328,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Ruuna's Request",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Fate and Coincidence": {
+        "ID": 12329,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Fate and Coincidence",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Out of Body Experience"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Anatoly Will Talk": {
+        "ID": 12330,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Anatoly Will Talk",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Fate and Coincidence"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "A Sister's Pledge": {
+        "ID": 12411,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Sister's Pledge",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Anatoly Will Talk"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "My Enemy's Friend": {
+        "ID": 12412,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "My Enemy's Friend",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Thane of Voldrune (1)"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Attack on Silverbrook": {
+        "ID": 12413,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Attack on Silverbrook",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12178,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "My Enemy's Friend"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Mounting Up": {
+        "ID": 12414,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Mounting Up",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "The Horse Hollerer": {
+        "ID": 12415,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Horse Hollerer",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Tactical Clemency": {
+        "ID": 12422,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Tactical Clemency",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12178,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Gorgonna"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Mikhail's Journal": {
+        "ID": 12423,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Mikhail's Journal",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Gorgonna": {
+        "ID": 12424,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Gorgonna",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mikhail's Journal"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Ruuna the Blind (2)": {
+        "ID": 12425,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Ruuna the Blind",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12161,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "The Conquest Pit: Bear Wrestling!": {
+        "ID": 12427,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 1,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Conquest Pit: Bear Wrestling!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "The Conquest Pit: Mad Furbolg Fighting": {
+        "ID": 12428,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 1,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Conquest Pit: Mad Furbolg Fighting",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Conquest Pit: Bear Wrestling!"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "The Conquest Pit: Blood and Metal": {
+        "ID": 12429,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 1,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Conquest Pit: Blood and Metal",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Conquest Pit: Mad Furbolg Fighting"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "The Conquest Pit: Death Is Likely": {
+        "ID": 12430,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 1,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Conquest Pit: Death Is Likely",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Conquest Pit: Blood and Metal"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "The Conquest Pit: Final Showdown": {
+        "ID": 12431,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 1,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Conquest Pit: Final Showdown",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Conquest Pit: Death Is Likely"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Riding the Red Rocket (1)": {
+        "ID": 12432,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Riding the Red Rocket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Seeking Solvent (1)": {
+        "ID": 12433,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Seeking Solvent",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Always Seeking Solvent (1)": {
+        "ID": 12434,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Always Seeking Solvent",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Seeking Solvent (1)"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Supplemental Income": {
+        "ID": 12436,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Supplemental Income",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Riding the Red Rocket (2)": {
+        "ID": 12437,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Riding the Red Rocket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Seeking Solvent (2)": {
+        "ID": 12443,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Seeking Solvent",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Always Seeking Solvent (2)": {
+        "ID": 12446,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Always Seeking Solvent",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Seeking Solvent (2)"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Onward to Camp Oneqwah": {
+        "ID": 12451,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Onward to Camp Oneqwah",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Eyes Above": {
+        "ID": 12453,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Eyes Above",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "The Conqueror's Task": {
+        "ID": 12468,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Conqueror's Task",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "To Conquest Hold, But Be Careful!"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Shimmercap Stew": {
+        "ID": 12483,
+        "QuestLevel": 75,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Shimmercap Stew",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Scourgekabob": {
+        "ID": 12484,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Scourgekabob",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Vial of Visions"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Shifting Priorities": {
+        "ID": 12763,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Shifting Priorities",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12789,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Reallocating Resources": {
+        "ID": 12770,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Reallocating Resources",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12789,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "The Magical Kingdom of Dalaran (1)": {
+        "ID": 12791,
+        "QuestLevel": 74,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 4395,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Magical Kingdom of Dalaran",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12796,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Borean Tundra",
+            "Dragonblight",
+            "Howling Fjord",
+            "Grizzly Hills"
+        ]
+    },
+    "The Magical Kingdom of Dalaran (2)": {
+        "ID": 12794,
+        "QuestLevel": 74,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 4395,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Magical Kingdom of Dalaran",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12796,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Borean Tundra",
+            "Dragonblight",
+            "Howling Fjord",
+            "Grizzly Hills"
+        ]
+    },
+    "My Heart is in Your Hands": {
+        "ID": 12802,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "My Heart is in Your Hands",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Heart of the Ancients"
+        ],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Candy Bucket (84)": {
+        "ID": 12945,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Candy Bucket (85)": {
+        "ID": 12946,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Candy Bucket (86)": {
+        "ID": 12947,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Beldak the Elder": {
+        "ID": 13013,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Beldak the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Lunaro the Elder": {
+        "ID": 13025,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Lunaro the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Whurain the Elder": {
+        "ID": 13030,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Whurain the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Sharing a Bountiful Feast (1)": {
+        "ID": 14064,
+        "QuestLevel": -1,
+        "MinLevel": 0,
+        "QuestInfoID": 0,
+        "QuestSortID": -375,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Sharing a Bountiful Feast",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Pilgrim's Bounty",
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pilgrim's Bounty (1)"
+        ],
+        "zone": [
+            "Teldrassil",
+            "Teldrassil",
+            "Darkshore",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Redridge Mountains",
+            "Western Plaguelands",
+            "Burning Steppes",
+            "Tanaris",
+            "Winterspring",
+            "Hellfire Peninsula",
+            "Sholazar Basin",
+            "Dragonblight",
+            "Howling Fjord",
+            "Grizzly Hills",
+            "The Storm Peaks"
+        ]
+    },
+    "Sharing a Bountiful Feast (2)": {
+        "ID": 14065,
+        "QuestLevel": -1,
+        "MinLevel": 0,
+        "QuestInfoID": 0,
+        "QuestSortID": -375,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Sharing a Bountiful Feast",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Pilgrim's Bounty",
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pilgrim's Bounty (2)"
+        ],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Hillsbrad Foothills",
+            "Burning Steppes",
+            "Stonetalon Mountains",
+            "Thousand Needles",
+            "Desolace",
+            "Tanaris",
+            "Dustwallow Marsh",
+            "Hellfire Peninsula",
+            "Borean Tundra",
+            "Sholazar Basin",
+            "Dragonblight",
+            "Howling Fjord",
+            "Grizzly Hills",
+            "Zul'Drak",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Candy Bucket (Grizzly Hills)": {
+        "ID": 12944,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Desecrate this Fire! (Grizzly Hills - Horde)": {
+        "ID": 13445,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Desecrate this Fire! (Grizzly Hills - Alliance)": {
+        "ID": 13454,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Honor the Flame (Grizzly Hills - Alliance)": {
+        "ID": 13489,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    },
+    "Honor the Flame (Grizzly Hills - Horde)": {
+        "ID": 13497,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Grizzly Hills"
+        ]
+    }
+}

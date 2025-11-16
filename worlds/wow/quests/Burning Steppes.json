@@ -1,0 +1,1058 @@
+{
+    "Krom'Grul": {
+        "ID": 3822,
+        "QuestLevel": 53,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 46,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Krom'Grul",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Dreadmaul Rock"
+        ],
+        "zone": [
+            "Burning Steppes"
+        ]
+    },
+    "Extinguish the Firegut": {
+        "ID": 3823,
+        "QuestLevel": 52,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 46,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Extinguish the Firegut",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Burning Steppes"
+        ]
+    },
+    "Gor'tesh the Brute Lord": {
+        "ID": 3824,
+        "QuestLevel": 53,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 46,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Gor'tesh the Brute Lord",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Extinguish the Firegut"
+        ],
+        "zone": [
+            "Burning Steppes"
+        ]
+    },
+    "Ogre Head On A Stick = Party": {
+        "ID": 3825,
+        "QuestLevel": 53,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 46,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Ogre Head On A Stick = Party",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Gor'tesh the Brute Lord"
+        ],
+        "zone": [
+            "Burning Steppes"
+        ]
+    },
+    "A Taste of Flame": {
+        "ID": 4022,
+        "QuestLevel": 54,
+        "MinLevel": 52,
+        "QuestInfoID": 0,
+        "QuestSortID": 46,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Taste of Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 4022,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Trinkets..."
+        ],
+        "zone": [
+            "Burning Steppes"
+        ]
+    },
+    "A Taste of Flame (1)": {
+        "ID": 4023,
+        "QuestLevel": 54,
+        "MinLevel": 52,
+        "QuestInfoID": 0,
+        "QuestSortID": 46,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Taste of Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 4022,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Burning Steppes"
+        ]
+    },
+    "Dragonkin Menace": {
+        "ID": 4182,
+        "QuestLevel": 54,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 46,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Dragonkin Menace",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Burning Steppes"
+        ]
+    },
+    "The True Masters (1)": {
+        "ID": 4183,
+        "QuestLevel": 54,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 46,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The True Masters",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Dragonkin Menace"
+        ],
+        "zone": [
+            "Burning Steppes"
+        ]
+    },
+    "The True Masters (6)": {
+        "ID": 4224,
+        "QuestLevel": 54,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 46,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The True Masters",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The True Masters (5)"
+        ],
+        "zone": [
+            "Burning Steppes"
+        ]
+    },
+    "FIFTY! YEP!": {
+        "ID": 4283,
+        "QuestLevel": 56,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 46,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "FIFTY! YEP!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Burning Steppes"
+        ]
+    },
+    "Tablet of the Seven": {
+        "ID": 4296,
+        "QuestLevel": 50,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 46,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Tablet of the Seven",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Burning Steppes"
+        ]
+    },
+    "Libram of Rumination": {
+        "ID": 4463,
+        "QuestLevel": 55,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 46,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Libram of Rumination",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Burning Steppes"
+        ]
+    },
+    "Libram of Constitution": {
+        "ID": 4481,
+        "QuestLevel": 55,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 46,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Libram of Constitution",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Burning Steppes"
+        ]
+    },
+    "Libram of Tenacity": {
+        "ID": 4482,
+        "QuestLevel": 55,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 46,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Libram of Tenacity",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Burning Steppes"
+        ]
+    },
+    "Libram of Resilience": {
+        "ID": 4483,
+        "QuestLevel": 55,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 46,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Libram of Resilience",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Burning Steppes"
+        ]
+    },
+    "Libram of Voracity": {
+        "ID": 4484,
+        "QuestLevel": 55,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 46,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Libram of Voracity",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Burning Steppes"
+        ]
+    },
+    "Broodling Essence": {
+        "ID": 4726,
+        "QuestLevel": 52,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 46,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Broodling Essence",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Burning Steppes"
+        ]
+    },
+    "Felnok Steelspring": {
+        "ID": 4808,
+        "QuestLevel": 54,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 46,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Felnok Steelspring",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Broodling Essence"
+        ],
+        "zone": [
+            "Burning Steppes"
+        ]
+    },
+    "Rage of Blood": {
+        "ID": 7563,
+        "QuestLevel": -1,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Orc",
+            "Undead",
+            "Gnome",
+            "Blood Elf"
+        ],
+        "LogTitle": "Rage of Blood",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mor'zul Bloodbringer"
+        ],
+        "zone": [
+            "Burning Steppes"
+        ]
+    },
+    "Wildeyes": {
+        "ID": 7564,
+        "QuestLevel": -1,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Orc",
+            "Undead",
+            "Gnome",
+            "Blood Elf"
+        ],
+        "LogTitle": "Wildeyes",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Rage of Blood"
+        ],
+        "zone": [
+            "Burning Steppes"
+        ]
+    },
+    "Lord Banehollow": {
+        "ID": 7623,
+        "QuestLevel": -1,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Orc",
+            "Undead",
+            "Gnome",
+            "Blood Elf"
+        ],
+        "LogTitle": "Lord Banehollow",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Wildeyes"
+        ],
+        "zone": [
+            "Burning Steppes"
+        ]
+    },
+    "Bell of Dethmoora": {
+        "ID": 7626,
+        "QuestLevel": -1,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Orc",
+            "Undead",
+            "Gnome",
+            "Blood Elf"
+        ],
+        "LogTitle": "Bell of Dethmoora",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -7626,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Wildeyes"
+        ],
+        "zone": [
+            "Burning Steppes"
+        ]
+    },
+    "Wheel of the Black March": {
+        "ID": 7627,
+        "QuestLevel": -1,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Orc",
+            "Undead",
+            "Gnome",
+            "Blood Elf"
+        ],
+        "LogTitle": "Wheel of the Black March",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -7626,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Wildeyes"
+        ],
+        "zone": [
+            "Burning Steppes"
+        ]
+    },
+    "Doomsday Candle": {
+        "ID": 7628,
+        "QuestLevel": -1,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Orc",
+            "Undead",
+            "Gnome",
+            "Blood Elf"
+        ],
+        "LogTitle": "Doomsday Candle",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -7626,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Wildeyes"
+        ],
+        "zone": [
+            "Burning Steppes"
+        ]
+    },
+    "Arcanite": {
+        "ID": 7630,
+        "QuestLevel": -1,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Orc",
+            "Undead",
+            "Gnome",
+            "Blood Elf"
+        ],
+        "LogTitle": "Arcanite",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -7625,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Burning Steppes"
+        ]
+    },
+    "Rumblerock the Elder": {
+        "ID": 8636,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Rumblerock the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Burning Steppes"
+        ]
+    },
+    "Dawnstrider the Elder": {
+        "ID": 8683,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Dawnstrider the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Burning Steppes"
+        ]
+    },
+    "Playing with Fire (1)": {
+        "ID": 11882,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Playing with Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Teldrassil",
+            "Darkshore",
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Westfall",
+            "Redridge Mountains",
+            "Duskwood",
+            "Wetlands",
+            "Hillsbrad Foothills",
+            "The Hinterlands",
+            "Stranglethorn Vale",
+            "Western Plaguelands",
+            "Burning Steppes",
+            "Blasted Lands",
+            "Ashenvale",
+            "Tanaris",
+            "Winterspring",
+            "Dustwallow Marsh",
+            "Hellfire Peninsula",
+            "Zangarmarsh",
+            "Terokkar Forest",
+            "Terokkar Forest",
+            "Nagrand",
+            "Blade's Edge Mountains",
+            "Netherstorm",
+            "Shadowmoon Valley",
+            "Borean Tundra",
+            "The Storm Peaks"
+        ]
+    },
+    "Sharing a Bountiful Feast (1)": {
+        "ID": 14064,
+        "QuestLevel": -1,
+        "MinLevel": 0,
+        "QuestInfoID": 0,
+        "QuestSortID": -375,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Sharing a Bountiful Feast",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Pilgrim's Bounty",
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pilgrim's Bounty (1)"
+        ],
+        "zone": [
+            "Teldrassil",
+            "Teldrassil",
+            "Darkshore",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Redridge Mountains",
+            "Western Plaguelands",
+            "Burning Steppes",
+            "Tanaris",
+            "Winterspring",
+            "Hellfire Peninsula",
+            "Sholazar Basin",
+            "Dragonblight",
+            "Howling Fjord",
+            "Grizzly Hills",
+            "The Storm Peaks"
+        ]
+    },
+    "Sharing a Bountiful Feast (2)": {
+        "ID": 14065,
+        "QuestLevel": -1,
+        "MinLevel": 0,
+        "QuestInfoID": 0,
+        "QuestSortID": -375,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Sharing a Bountiful Feast",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Pilgrim's Bounty",
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pilgrim's Bounty (2)"
+        ],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Hillsbrad Foothills",
+            "Burning Steppes",
+            "Stonetalon Mountains",
+            "Thousand Needles",
+            "Desolace",
+            "Tanaris",
+            "Dustwallow Marsh",
+            "Hellfire Peninsula",
+            "Borean Tundra",
+            "Sholazar Basin",
+            "Dragonblight",
+            "Howling Fjord",
+            "Grizzly Hills",
+            "Zul'Drak",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Desecrate this Fire! (Burning Steppes - Horde)": {
+        "ID": 11739,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Burning Steppes"
+        ]
+    },
+    "Desecrate this Fire! (Burning Steppes - Alliance)": {
+        "ID": 11768,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Burning Steppes"
+        ]
+    },
+    "Honor the Flame (Burning Steppes - Alliance)": {
+        "ID": 11810,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Burning Steppes"
+        ]
+    },
+    "Honor the Flame (Burning Steppes - Horde)": {
+        "ID": 11844,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Burning Steppes"
+        ]
+    }
+}

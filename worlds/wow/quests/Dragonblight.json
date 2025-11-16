@@ -1,0 +1,7338 @@
+{
+    "Let Nothing Go To Waste": {
+        "ID": 11958,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Let Nothing Go To Waste",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Slay Loguhn": {
+        "ID": 11959,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Slay Loguhn",
+        "AllowableClasses": [],
+        "RewardSpell": 46791,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Let Nothing Go To Waste"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Planning for the Future": {
+        "ID": 11960,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Planning for the Future",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "A Tauren Among Taunka": {
+        "ID": 11977,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Tauren Among Taunka",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Across Transborea"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Into the Fold": {
+        "ID": 11978,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Into the Fold",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Taunka and the Tauren": {
+        "ID": 11979,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Taunka and the Tauren",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Pride of the Horde": {
+        "ID": 11980,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Pride of the Horde",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Blood Oath of the Horde": {
+        "ID": 11983,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Blood Oath of the Horde",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Into the Fold"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Your Presence is Required at Stars' Rest": {
+        "ID": 11995,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Your Presence is Required at Stars' Rest",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 11995,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Your Presence is Required at Agmar's Hammer": {
+        "ID": 11996,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Your Presence is Required at Agmar's Hammer",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Rifle the Bodies (2)": {
+        "ID": 11999,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Rifle the Bodies",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Your Presence is Required at Agmar's Hammer"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Rifle the Bodies (1)": {
+        "ID": 12000,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Rifle the Bodies",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Prevent the Accord (1)": {
+        "ID": 12004,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Prevent the Accord",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Rifle the Bodies (1)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Prevent the Accord (2)": {
+        "ID": 12005,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Prevent the Accord",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Rifle the Bodies (2)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Avenge this Atrocity!": {
+        "ID": 12006,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Avenge this Atrocity!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Agmar's Hammer": {
+        "ID": 12008,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Agmar's Hammer",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Blood Oath of the Horde"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Tua'kea's Crab Traps": {
+        "ID": 12009,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Tua'kea's Crab Traps",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Slay Loguhn"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Signs of Big Watery Trouble": {
+        "ID": 12011,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Signs of Big Watery Trouble",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Slay Loguhn"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "End Arcanimus": {
+        "ID": 12013,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "End Arcanimus",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Avenge this Atrocity!"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Bait": {
+        "ID": 12016,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Bait",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Signs of Big Watery Trouble"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Meat on the Hook": {
+        "ID": 12017,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Meat on the Hook",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Bait"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Spiritual Insight": {
+        "ID": 12028,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Spiritual Insight",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Slay Loguhn"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Elder Mana'loa": {
+        "ID": 12030,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Elder Mana'loa",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Spiritual Insight"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Freedom for the Lingering": {
+        "ID": 12031,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Freedom for the Lingering",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Elder Mana'loa"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Conversing With the Depths": {
+        "ID": 12032,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Conversing With the Depths",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Freedom for the Lingering"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Message from the West": {
+        "ID": 12033,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Message from the West",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Victory Nears...": {
+        "ID": 12034,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Victory Nears...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "From the Depths of Azjol-Nerub": {
+        "ID": 12036,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "From the Depths of Azjol-Nerub",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Victory Nears..."
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Black Blood of Yogg-Saron": {
+        "ID": 12039,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Black Blood of Yogg-Saron",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "An Enemy in Arthas": {
+        "ID": 12040,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "An Enemy in Arthas",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Lost Empire": {
+        "ID": 12041,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Lost Empire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "An Enemy in Arthas"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Nozzlerust Defense": {
+        "ID": 12043,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Nozzlerust Defense",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Stocking Up": {
+        "ID": 12044,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Stocking Up",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to Sender"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Shaved Ice": {
+        "ID": 12045,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Shaved Ice",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Soft Packaging": {
+        "ID": 12046,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Soft Packaging",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Shaved Ice"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Something That Doesn't Melt": {
+        "ID": 12047,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Something That Doesn't Melt",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Soft Packaging"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Scourge Armaments": {
+        "ID": 12048,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Scourge Armaments",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Black Blood of Yogg-Saron"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Hard to Swallow": {
+        "ID": 12049,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Hard to Swallow",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Lumber Hack": {
+        "ID": 12050,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Lumber Hack",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Harp on This!": {
+        "ID": 12052,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Harp on This!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Might of the Horde": {
+        "ID": 12053,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Might of the Horde",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "From the Depths of Azjol-Nerub"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "A Strange Device (1)": {
+        "ID": 12055,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Strange Device",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Marked for Death: High Cultist Zangus": {
+        "ID": 12056,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Marked for Death: High Cultist Zangus",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Flesh-Bound Tome": {
+        "ID": 12057,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Flesh-Bound Tome",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "A Strange Device (2)": {
+        "ID": 12059,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Strange Device",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Projections and Plans (1)": {
+        "ID": 12060,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Projections and Plans",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Strange Device (1)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Projections and Plans (2)": {
+        "ID": 12061,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Projections and Plans",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Strange Device (2)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Strength of Icemist": {
+        "ID": 12063,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Strength of Icemist",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Chains of the Anub'ar": {
+        "ID": 12064,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Chains of the Anub'ar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Strength of Icemist"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Focus on the Beach (1)": {
+        "ID": 12065,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Focus on the Beach",
+        "AllowableClasses": [],
+        "RewardSpell": 47392,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Projections and Plans (1)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Focus on the Beach (2)": {
+        "ID": 12066,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Focus on the Beach",
+        "AllowableClasses": [],
+        "RewardSpell": 47392,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Projections and Plans (2)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "A Letter for Home (1)": {
+        "ID": 12067,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Letter for Home",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Return of the High Chief": {
+        "ID": 12069,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Return of the High Chief",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Chains of the Anub'ar"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Attack by Air!": {
+        "ID": 12071,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Attack by Air! ",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Might of the Horde"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Blightbeasts be Damned!": {
+        "ID": 12072,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Blightbeasts be Damned!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Attack by Air!"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Slim Pickings": {
+        "ID": 12075,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Slim Pickings",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Stiff Negotiations"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Messy Business": {
+        "ID": 12076,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Messy Business",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Slim Pickings"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Apply This Twice A Day": {
+        "ID": 12077,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Apply This Twice A Day",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Messy Business"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Worm Wrangler": {
+        "ID": 12078,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Worm Wrangler",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Stomping Grounds": {
+        "ID": 12079,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Stomping Grounds",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Really Big Worm": {
+        "ID": 12080,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 1,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Really Big Worm",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Atop the Woodlands (1)": {
+        "ID": 12083,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Atop the Woodlands",
+        "AllowableClasses": [],
+        "RewardSpell": 47614,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Focus on the Beach (1)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Atop the Woodlands (2)": {
+        "ID": 12084,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Atop the Woodlands",
+        "AllowableClasses": [],
+        "RewardSpell": 47614,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Focus on the Beach (2)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "A Letter for Home (2)": {
+        "ID": 12085,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Letter for Home",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Wanted: Magister Keldonus": {
+        "ID": 12089,
+        "QuestLevel": 74,
+        "MinLevel": 71,
+        "QuestInfoID": 1,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Wanted: Magister Keldonus",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Wanted: Gigantaur": {
+        "ID": 12090,
+        "QuestLevel": 74,
+        "MinLevel": 71,
+        "QuestInfoID": 1,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Wanted: Gigantaur",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Wanted: Dreadtalon": {
+        "ID": 12091,
+        "QuestLevel": 74,
+        "MinLevel": 71,
+        "QuestInfoID": 1,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Wanted: Dreadtalon",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Strengthen the Ancients (1)": {
+        "ID": 12092,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Strengthen the Ancients",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "To Dragon's Fall": {
+        "ID": 12095,
+        "QuestLevel": 75,
+        "MinLevel": 71,
+        "QuestInfoID": 1,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "To Dragon's Fall",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Strengthen the Ancients (2)": {
+        "ID": 12096,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Strengthen the Ancients",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Sarathstra, Scourge of the North": {
+        "ID": 12097,
+        "QuestLevel": 75,
+        "MinLevel": 71,
+        "QuestInfoID": 1,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Sarathstra, Scourge of the North",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "To Dragon's Fall"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Search Indu'le Village (1)": {
+        "ID": 12098,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Search Indu'le Village",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Atop the Woodlands (1)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Containing the Rot": {
+        "ID": 12100,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Containing the Rot",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Good Doctor...": {
+        "ID": 12101,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Good Doctor...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Containing the Rot"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "In Search of the Ruby Lilac": {
+        "ID": 12102,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "In Search of the Ruby Lilac",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Good Doctor..."
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Return to Soar": {
+        "ID": 12104,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Return to Soar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "In Search of the Ruby Lilac"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Search Indu'le Village (2)": {
+        "ID": 12106,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Search Indu'le Village",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Atop the Woodlands (2)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The End of the Line (1)": {
+        "ID": 12107,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The End of the Line",
+        "AllowableClasses": [],
+        "RewardSpell": 47637,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Search Indu'le Village (1)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The End of the Line (2)": {
+        "ID": 12110,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The End of the Line",
+        "AllowableClasses": [],
+        "RewardSpell": 47637,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Search Indu'le Village (2)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Where the Wild Things Roam": {
+        "ID": 12111,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Where the Wild Things Roam",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to Soar"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Stiff Negotiations": {
+        "ID": 12112,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Stiff Negotiations",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Koltira and the Language of Death": {
+        "ID": 12115,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Koltira and the Language of Death",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Flesh-Bound Tome"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Gaining an Audience (1)": {
+        "ID": 12119,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Gaining an Audience",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The End of the Line (1)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Gaining an Audience (2)": {
+        "ID": 12122,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Gaining an Audience",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The End of the Line (2)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Informing the Queen (1)": {
+        "ID": 12123,
+        "QuestLevel": 75,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Informing the Queen",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Steward of Wyrmrest Temple (1)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Informing the Queen (2)": {
+        "ID": 12124,
+        "QuestLevel": 75,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Informing the Queen",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Steward of Wyrmrest Temple (2)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "In Service of Blood": {
+        "ID": 12125,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "In Service of Blood",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12125,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Koltira and the Language of Death"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "In Service of the Unholy": {
+        "ID": 12126,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "In Service of the Unholy",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12125,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Koltira and the Language of Death"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "In Service of Frost": {
+        "ID": 12127,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "In Service of Frost",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12125,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Koltira and the Language of Death"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Power to Destroy": {
+        "ID": 12132,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Power to Destroy",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Translated Tome": {
+        "ID": 12136,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Translated Tome",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Power to Destroy"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "All Hail Roanauk!": {
+        "ID": 12140,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "All Hail Roanauk!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return of the High Chief"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Pest Control (1)": {
+        "ID": 12142,
+        "QuestLevel": 73,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Pest Control",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Canyon Chase (1)": {
+        "ID": 12143,
+        "QuestLevel": 73,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Canyon Chase",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pest Control (1)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Pest Control (2)": {
+        "ID": 12144,
+        "QuestLevel": 73,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Pest Control",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Canyon Chase (2)": {
+        "ID": 12145,
+        "QuestLevel": 73,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Canyon Chase",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pest Control (2)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Disturbing Implications (1)": {
+        "ID": 12146,
+        "QuestLevel": 73,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Disturbing Implications",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Disturbing Implications (2)": {
+        "ID": 12147,
+        "QuestLevel": 73,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Disturbing Implications",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "One of a Kind (2)": {
+        "ID": 12148,
+        "QuestLevel": 73,
+        "MinLevel": 72,
+        "QuestInfoID": 1,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "One of a Kind",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Mighty Magnataur": {
+        "ID": 12149,
+        "QuestLevel": 73,
+        "MinLevel": 72,
+        "QuestInfoID": 1,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Mighty Magnataur",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "One of a Kind (2)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Reclusive Runemaster": {
+        "ID": 12150,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 1,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Reclusive Runemaster",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mighty Magnataur"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Wanton Warlord": {
+        "ID": 12151,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 1,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Wanton Warlord",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Reclusive Runemaster"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Liquid Fire of Elune": {
+        "ID": 12166,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Liquid Fire of Elune",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Kill the Cultists": {
+        "ID": 12167,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Kill the Cultists",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Liquid Fire of Elune"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Favor of Zangus": {
+        "ID": 12168,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Favor of Zangus",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The High Cultist": {
+        "ID": 12169,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The High Cultist",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Favor of Zangus"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Of Traitors and Treason (1)": {
+        "ID": 12171,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Of Traitors and Treason",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12171,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Attunement to Dalaran (Mage) (1)": {
+        "ID": 12172,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": -161,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Attunement to Dalaran",
+        "AllowableClasses": [
+            "Mage"
+        ],
+        "RewardSpell": 3578,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Attunement to Dalaran (Mage) (2)": {
+        "ID": 12173,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": -161,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Attunement to Dalaran",
+        "AllowableClasses": [
+            "Mage"
+        ],
+        "RewardSpell": 3578,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "High Commander Halford Wyrmbane (1)": {
+        "ID": 12174,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "High Commander Halford Wyrmbane",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12174,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Of Traitors and Treason (1)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Forsaken Blight and You: How Not to Die": {
+        "ID": 12188,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Forsaken Blight and You: How Not to Die",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Imbeciles Abound!": {
+        "ID": 12189,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Imbeciles Abound!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Emerald Dragon Tears": {
+        "ID": 12200,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Emerald Dragon Tears",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Forsaken Blight and You: How Not to Die"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Wanted: The Scarlet Onslaught": {
+        "ID": 12205,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Wanted: The Scarlet Onslaught",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Blighted Last Rites": {
+        "ID": 12206,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Blighted Last Rites",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Materiel Plunder": {
+        "ID": 12209,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Materiel Plunder",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Let Them Not Rise!": {
+        "ID": 12211,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Let Them Not Rise!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Blighted Last Rites"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Fresh Remounts": {
+        "ID": 12214,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Fresh Remounts",
+        "AllowableClasses": [],
+        "RewardSpell": 48803,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Materiel Plunder"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Spread the Good Word": {
+        "ID": 12218,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Spread the Good Word",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Emerald Dragon Tears"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Forsaken Blight": {
+        "ID": 12221,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Forsaken Blight",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Spread the Good Word"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Kor'kron Vanguard!": {
+        "ID": 12224,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Kor'kron Vanguard!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Stealing from the Siegesmiths": {
+        "ID": 12230,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Stealing from the Siegesmiths",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Let Them Not Rise!"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Bombard the Ballistae": {
+        "ID": 12232,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Bombard the Ballistae",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Stealing from the Siegesmiths"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Need to Know": {
+        "ID": 12234,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Need to Know",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Stealing from the Siegesmiths"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Naxxramas and the Fall of Wintergarde": {
+        "ID": 12235,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Naxxramas and the Fall of Wintergarde",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Flight of the Wintergarde Defender": {
+        "ID": 12237,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Flight of the Wintergarde Defender",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Naxxramas and the Fall of Wintergarde"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Spy in New Hearthglen": {
+        "ID": 12239,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Spy in New Hearthglen",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Need to Know"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "A Means to an End": {
+        "ID": 12240,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Means to an End",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Stealing from the Siegesmiths"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Fire Upon the Waters": {
+        "ID": 12243,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Fire Upon the Waters",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Means to an End"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "No Mercy for the Captured": {
+        "ID": 12245,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "No Mercy for the Captured",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Return to the High Commander": {
+        "ID": 12251,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Return to the High Commander",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Flight of the Wintergarde Defender"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Torture the Torturer": {
+        "ID": 12252,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Torture the Torturer",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "No Mercy for the Captured"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Rescue from Town Square": {
+        "ID": 12253,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Rescue from Town Square",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to the High Commander"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Without a Prayer": {
+        "ID": 12254,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Without a Prayer",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Spy in New Hearthglen"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Fate of the Dead": {
+        "ID": 12258,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Fate of the Dead",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Perfect Dissemblance": {
+        "ID": 12260,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Perfect Dissemblance",
+        "AllowableClasses": [],
+        "RewardSpell": 48693,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Without a Prayer"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "No Place to Run": {
+        "ID": 12261,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "No Place to Run",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Obsidian Dragonshrine"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "No One to Save You": {
+        "ID": 12262,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "No One to Save You",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Obsidian Dragonshrine"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Best of Intentions": {
+        "ID": 12263,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Best of Intentions",
+        "AllowableClasses": [],
+        "RewardSpell": 48772,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "No Place to Run"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Culling the Damned": {
+        "ID": 12264,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Culling the Damned",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Best of Intentions"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Defiling the Defilers": {
+        "ID": 12265,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Defiling the Defilers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Best of Intentions"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Tales of Destruction": {
+        "ID": 12266,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Tales of Destruction",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Neltharion's Flame"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Neltharion's Flame": {
+        "ID": 12267,
+        "QuestLevel": 75,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Neltharion's Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Defiling the Defilers"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Not In Our Mine": {
+        "ID": 12269,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Not In Our Mine",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to the High Commander"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Rod of Compulsion": {
+        "ID": 12271,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Rod of Compulsion",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Bleeding Ore": {
+        "ID": 12272,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Bleeding Ore",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12272,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to the High Commander"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Denouncement": {
+        "ID": 12273,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Denouncement",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Rod of Compulsion"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "A Fall From Grace": {
+        "ID": 12274,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Fall From Grace",
+        "AllowableClasses": [],
+        "RewardSpell": 48765,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Perfect Dissemblance"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Demo-gnome": {
+        "ID": 12275,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Demo-gnome",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to the High Commander"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Search for Slinkin": {
+        "ID": 12276,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Search for Slinkin",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Demo-gnome"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Leave Nothing to Chance": {
+        "ID": 12277,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Leave Nothing to Chance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12272,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Search for Slinkin"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Understanding the Scourge War Machine": {
+        "ID": 12281,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Understanding the Scourge War Machine",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12281,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Imprints on the Past": {
+        "ID": 12282,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Imprints on the Past",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to the High Commander"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Truth Will Out": {
+        "ID": 12283,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Truth Will Out",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Fall From Grace"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Do Unto Others": {
+        "ID": 12285,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 1,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Do Unto Others",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Truth Will Out"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Orik Trueheart and the Forgotten Shore": {
+        "ID": 12287,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Orik Trueheart and the Forgotten Shore",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Imprints on the Past"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Murkweed Elixir": {
+        "ID": 12290,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Murkweed Elixir",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Orik Trueheart and the Forgotten Shore"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Forgotten Tale": {
+        "ID": 12291,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Forgotten Tale",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Murkweed Elixir"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Truth Shall Set Us Free": {
+        "ID": 12301,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Truth Shall Set Us Free",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Forgotten Tale"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Funding the War Effort": {
+        "ID": 12303,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Funding the War Effort",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Beachfront Property": {
+        "ID": 12304,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Beachfront Property",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Parting Thoughts": {
+        "ID": 12305,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Parting Thoughts",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Truth Shall Set Us Free"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Find Durkon!": {
+        "ID": 12309,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Find Durkon!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Rescue from Town Square"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Noble's Crypt": {
+        "ID": 12311,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Noble's Crypt",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Find Durkon!"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Secrets of the Scourge": {
+        "ID": 12312,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Secrets of the Scourge",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Mystery of the Tome": {
+        "ID": 12319,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Mystery of the Tome",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Secrets of the Scourge"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Understanding the Language of Death": {
+        "ID": 12320,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Understanding the Language of Death",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mystery of the Tome"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "A Righteous Sermon": {
+        "ID": 12321,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Righteous Sermon",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12281,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Understanding the Language of Death"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Into Hostile Territory": {
+        "ID": 12325,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Into Hostile Territory",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Steamtank Surprise": {
+        "ID": 12326,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Steamtank Surprise",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Into Hostile Territory"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Defending Wyrmrest Temple": {
+        "ID": 12372,
+        "QuestLevel": 74,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Defending Wyrmrest Temple",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Report to Lord Afrasastrasz"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Heated Battle (1)": {
+        "ID": 12416,
+        "QuestLevel": 74,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Heated Battle",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Report to the Ruby Dragonshrine (1)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Return to the Earth (1)": {
+        "ID": 12417,
+        "QuestLevel": 74,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Return to the Earth",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Heated Battle (1)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Through Fields of Flame (1)": {
+        "ID": 12418,
+        "QuestLevel": 75,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Through Fields of Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to the Earth (1)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Fate of the Ruby Dragonshrine": {
+        "ID": 12419,
+        "QuestLevel": 75,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Fate of the Ruby Dragonshrine",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Report to Lord Afrasastrasz": {
+        "ID": 12435,
+        "QuestLevel": 74,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Report to Lord Afrasastrasz",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Wanted: Kreug Oathbreaker": {
+        "ID": 12438,
+        "QuestLevel": 74,
+        "MinLevel": 71,
+        "QuestInfoID": 1,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Wanted: Kreug Oathbreaker",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to the High Commander"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "A Disturbance In The West": {
+        "ID": 12439,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Disturbance In The West",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "To Stars' Rest!": {
+        "ID": 12440,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "To Stars' Rest!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 11995,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Wanted: High Shaman Bloodpaw": {
+        "ID": 12441,
+        "QuestLevel": 74,
+        "MinLevel": 71,
+        "QuestInfoID": 1,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Wanted: High Shaman Bloodpaw",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to the High Commander"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Wanted: Onslaught Commander Iustus": {
+        "ID": 12442,
+        "QuestLevel": 74,
+        "MinLevel": 71,
+        "QuestInfoID": 1,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Wanted: Onslaught Commander Iustus",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to the High Commander"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Obsidian Dragonshrine": {
+        "ID": 12447,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Obsidian Dragonshrine",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Heated Battle (2)": {
+        "ID": 12448,
+        "QuestLevel": 74,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Heated Battle",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Report to the Ruby Dragonshrine (2)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Return to the Earth (2)": {
+        "ID": 12449,
+        "QuestLevel": 74,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Return to the Earth",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Heated Battle (2)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Through Fields of Flame (2)": {
+        "ID": 12450,
+        "QuestLevel": 75,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Through Fields of Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to the Earth (2)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Cycle of Life": {
+        "ID": 12454,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Cycle of Life",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Scattered To The Wind": {
+        "ID": 12455,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Scattered To The Wind",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Steamtank Surprise"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Plume of Alystros": {
+        "ID": 12456,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 1,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Plume of Alystros",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Cycle of Life"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Chain Gun And You": {
+        "ID": 12457,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Chain Gun And You",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Scattered To The Wind"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Seeds of the Lashers": {
+        "ID": 12458,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Seeds of the Lashers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "That Which Creates Can Also Destroy": {
+        "ID": 12459,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "That Which Creates Can Also Destroy",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Seeds of the Lashers"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Report to the Ruby Dragonshrine (1)": {
+        "ID": 12460,
+        "QuestLevel": 74,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Report to the Ruby Dragonshrine",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Speak with your Ambassador (1)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Report to the Ruby Dragonshrine (2)": {
+        "ID": 12461,
+        "QuestLevel": 74,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Report to the Ruby Dragonshrine",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Speak with your Ambassador (2)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Breaking Off A Piece": {
+        "ID": 12462,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Breaking Off A Piece",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Plunderbeard Must Be Found!": {
+        "ID": 12463,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Plunderbeard Must Be Found!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Chain Gun And You"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "My Old Enemy": {
+        "ID": 12464,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 1,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "My Old Enemy",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to the High Commander"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Plunderbeard's Journal": {
+        "ID": 12465,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Plunderbeard's Journal",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Plunderbeard Must Be Found!"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Chasing Icestorm: The 7th Legion Front": {
+        "ID": 12466,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Chasing Icestorm: The 7th Legion Front",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Plunderbeard's Journal"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Chasing Icestorm: Thel'zan's Phylactery": {
+        "ID": 12467,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Chasing Icestorm: Thel'zan's Phylactery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Chasing Icestorm: The 7th Legion Front"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Return to Sender": {
+        "ID": 12469,
+        "QuestLevel": 74,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Return to Sender",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Mystery of the Infinite": {
+        "ID": 12470,
+        "QuestLevel": 75,
+        "MinLevel": 72,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Mystery of the Infinite",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Finality": {
+        "ID": 12472,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Finality",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Chasing Icestorm: Thel'zan's Phylactery"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "An End And A Beginning": {
+        "ID": 12473,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "An End And A Beginning",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Finality"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "To Fordragon Hold!": {
+        "ID": 12474,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "To Fordragon Hold!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "An End And A Beginning"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "What Secrets Men Hide": {
+        "ID": 12475,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "What Secrets Men Hide",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Parting Thoughts"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Return of the Crusade?": {
+        "ID": 12476,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Return of the Crusade?",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Parting Thoughts"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Path of Redemption": {
+        "ID": 12477,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Path of Redemption",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Parting Thoughts"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Frostmourne Cavern": {
+        "ID": 12478,
+        "QuestLevel": 73,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Frostmourne Cavern",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "What Secrets Men Hide"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "To Conquest Hold, But Be Careful!": {
+        "ID": 12487,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "To Conquest Hold, But Be Careful!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The High Executor Needs You"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The High Executor Needs You": {
+        "ID": 12488,
+        "QuestLevel": 74,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The High Executor Needs You",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Audience With The Dragon Queen (1)": {
+        "ID": 12495,
+        "QuestLevel": 74,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Audience With The Dragon Queen",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "To Fordragon Hold!"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Audience With The Dragon Queen (2)": {
+        "ID": 12496,
+        "QuestLevel": 74,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Audience With The Dragon Queen",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Kor'kron Vanguard!"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Galakrond and the Scourge": {
+        "ID": 12497,
+        "QuestLevel": 74,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Galakrond and the Scourge",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "On Ruby Wings": {
+        "ID": 12498,
+        "QuestLevel": 74,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "On Ruby Wings",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Galakrond and the Scourge"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Return To Angrathar (1)": {
+        "ID": 12499,
+        "QuestLevel": 74,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Return To Angrathar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "On Ruby Wings"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Return To Angrathar (2)": {
+        "ID": 12500,
+        "QuestLevel": 74,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Return To Angrathar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "On Ruby Wings"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Hills Have Us": {
+        "ID": 12511,
+        "QuestLevel": 73,
+        "MinLevel": 73,
+        "QuestInfoID": 0,
+        "QuestSortID": 394,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Hills Have Us",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Call Of The Crusade": {
+        "ID": 12542,
+        "QuestLevel": 74,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Call Of The Crusade",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Cleansing Of Jintha'kalar": {
+        "ID": 12545,
+        "QuestLevel": 74,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Cleansing Of Jintha'kalar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Call Of The Crusade"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Speak with your Ambassador (1)": {
+        "ID": 12766,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Speak with your Ambassador",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Gaining an Audience (1)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Speak with your Ambassador (2)": {
+        "ID": 12767,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Speak with your Ambassador",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Gaining an Audience (2)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Steward of Wyrmrest Temple (1)": {
+        "ID": 12768,
+        "QuestLevel": 75,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Steward of Wyrmrest Temple",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Through Fields of Flame (1)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Steward of Wyrmrest Temple (2)": {
+        "ID": 12769,
+        "QuestLevel": 75,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Steward of Wyrmrest Temple",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Through Fields of Flame (2)"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Into the Breach!": {
+        "ID": 12789,
+        "QuestLevel": 75,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 66,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Into the Breach!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12789,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Cleansing Of Jintha'kalar"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Magical Kingdom of Dalaran (1)": {
+        "ID": 12791,
+        "QuestLevel": 74,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 4395,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Magical Kingdom of Dalaran",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12796,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Borean Tundra",
+            "Dragonblight",
+            "Howling Fjord",
+            "Grizzly Hills"
+        ]
+    },
+    "The Magical Kingdom of Dalaran (2)": {
+        "ID": 12794,
+        "QuestLevel": 74,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 4395,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Magical Kingdom of Dalaran",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12796,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Borean Tundra",
+            "Dragonblight",
+            "Howling Fjord",
+            "Grizzly Hills"
+        ]
+    },
+    "Morthie the Elder": {
+        "ID": 13014,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Morthie the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Thoim the Elder": {
+        "ID": 13019,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Thoim the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Skywarden the Elder": {
+        "ID": 13031,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Skywarden the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Dahlia's Tears": {
+        "ID": 13078,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Dahlia's Tears",
+        "AllowableClasses": [],
+        "RewardSpell": 60958,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Touch of an Aspect"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "The Boon of Alexstrasza": {
+        "ID": 13079,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 210,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Boon of Alexstrasza",
+        "AllowableClasses": [],
+        "RewardSpell": 57680,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Dahlia's Tears"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Darkness Stirs": {
+        "ID": 13242,
+        "QuestLevel": 74,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Darkness Stirs",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Mystery of the Infinite, Redux": {
+        "ID": 13343,
+        "QuestLevel": 80,
+        "MinLevel": 80,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Mystery of the Infinite, Redux",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mystery of the Infinite"
+        ],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Reborn From The Ashes": {
+        "ID": 13347,
+        "QuestLevel": 74,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Reborn From The Ashes",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Candy Bucket (94)": {
+        "ID": 13439,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Candy Bucket (97)": {
+        "ID": 13456,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Candy Bucket (98)": {
+        "ID": 13459,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Candy Bucket (108)": {
+        "ID": 13469,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Candy Bucket (109)": {
+        "ID": 13470,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Sharing a Bountiful Feast (1)": {
+        "ID": 14064,
+        "QuestLevel": -1,
+        "MinLevel": 0,
+        "QuestInfoID": 0,
+        "QuestSortID": -375,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Sharing a Bountiful Feast",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Pilgrim's Bounty",
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pilgrim's Bounty (1)"
+        ],
+        "zone": [
+            "Teldrassil",
+            "Teldrassil",
+            "Darkshore",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Redridge Mountains",
+            "Western Plaguelands",
+            "Burning Steppes",
+            "Tanaris",
+            "Winterspring",
+            "Hellfire Peninsula",
+            "Sholazar Basin",
+            "Dragonblight",
+            "Howling Fjord",
+            "Grizzly Hills",
+            "The Storm Peaks"
+        ]
+    },
+    "Sharing a Bountiful Feast (2)": {
+        "ID": 14065,
+        "QuestLevel": -1,
+        "MinLevel": 0,
+        "QuestInfoID": 0,
+        "QuestSortID": -375,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Sharing a Bountiful Feast",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Pilgrim's Bounty",
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pilgrim's Bounty (2)"
+        ],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Hillsbrad Foothills",
+            "Burning Steppes",
+            "Stonetalon Mountains",
+            "Thousand Needles",
+            "Desolace",
+            "Tanaris",
+            "Dustwallow Marsh",
+            "Hellfire Peninsula",
+            "Borean Tundra",
+            "Sholazar Basin",
+            "Dragonblight",
+            "Howling Fjord",
+            "Grizzly Hills",
+            "Zul'Drak",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Candy Bucket (Dragonblight)": {
+        "ID": 13438,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Desecrate this Fire! (Dragonblight - Horde)": {
+        "ID": 13443,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Desecrate this Fire! (Dragonblight - Alliance)": {
+        "ID": 13451,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Honor the Flame (Dragonblight - Alliance)": {
+        "ID": 13487,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    },
+    "Honor the Flame (Dragonblight - Horde)": {
+        "ID": 13495,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dragonblight"
+        ]
+    }
+}

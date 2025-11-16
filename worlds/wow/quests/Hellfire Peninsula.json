@@ -1,0 +1,5535 @@
+{
+    "The Great Fissure": {
+        "ID": 9340,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Great Fissure",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Preparing the Salve": {
+        "ID": 9345,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Preparing the Salve",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Ravager Egg Roundup": {
+        "ID": 9349,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Ravager Egg Roundup",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Voidwalkers Gone Wild (2)": {
+        "ID": 9351,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Voidwalkers Gone Wild",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "In Case of Emergency..."
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "A Job for an Intelligent Man": {
+        "ID": 9355,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Job for an Intelligent Man",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Path of Anguish"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Smooth as Butter": {
+        "ID": 9356,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Smooth as Butter",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Helboar, the Other White Meat"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Helboar, the Other White Meat": {
+        "ID": 9361,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Helboar, the Other White Meat",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Ravager Egg Roundup"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "In Need of Felblood": {
+        "ID": 9366,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "In Need of Felblood",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "The Cleansing Must Be Stopped": {
+        "ID": 9370,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Cleansing Must Be Stopped",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "In Need of Felblood"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Demonic Contamination": {
+        "ID": 9372,
+        "QuestLevel": 63,
+        "MinLevel": 61,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Demonic Contamination",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Missing Missive": {
+        "ID": 9373,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Missing Missive",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Arelion's Journal": {
+        "ID": 9374,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Arelion's Journal",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "The Road to Falcon Watch": {
+        "ID": 9375,
+        "QuestLevel": 63,
+        "MinLevel": 61,
+        "QuestInfoID": 1,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Road to Falcon Watch",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "A Pilgrim's Plight": {
+        "ID": 9376,
+        "QuestLevel": 63,
+        "MinLevel": 61,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Pilgrim's Plight",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Road to Falcon Watch"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Trueflight Arrows": {
+        "ID": 9381,
+        "QuestLevel": 63,
+        "MinLevel": 61,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Trueflight Arrows",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "An Ambitious Plan": {
+        "ID": 9383,
+        "QuestLevel": 63,
+        "MinLevel": 61,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "An Ambitious Plan",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Rampaging Ravagers": {
+        "ID": 9385,
+        "QuestLevel": 63,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Rampaging Ravagers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Source of the Corruption": {
+        "ID": 9387,
+        "QuestLevel": 63,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Source of the Corruption",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "In Search of Sedai": {
+        "ID": 9390,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "In Search of Sedai",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Marking the Path": {
+        "ID": 9391,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Marking the Path",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Great Fissure"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Magic of the Arakkoa": {
+        "ID": 9396,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Magic of the Arakkoa",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Birds of a Feather": {
+        "ID": 9397,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Birds of a Feather",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Deadly Predators": {
+        "ID": 9398,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Deadly Predators",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Cruel Taskmasters": {
+        "ID": 9399,
+        "QuestLevel": 63,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Cruel Taskmasters",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "The Assassin": {
+        "ID": 9400,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Assassin",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to Thrallmar"
+        ],
+        "zone": [
+            "Durotar",
+            "Hellfire Peninsula"
+        ]
+    },
+    "A Strange Weapon": {
+        "ID": 9401,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Strange Weapon",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Assassin"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "The Warchief's Mandate": {
+        "ID": 9405,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Warchief's Mandate",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Strange Weapon"
+        ],
+        "zone": [
+            "Durotar",
+            "Hellfire Peninsula"
+        ]
+    },
+    "The Mag'har": {
+        "ID": 9406,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Mag'har",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Spirit Guide"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "A Spirit Guide": {
+        "ID": 9410,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Spirit Guide",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Warchief's Mandate"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "The Arakkoa Threat": {
+        "ID": 9417,
+        "QuestLevel": 63,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Arakkoa Threat",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Longbeards"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Avruu's Orb": {
+        "ID": 9418,
+        "QuestLevel": 63,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Avruu's Orb",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "The Finest Down": {
+        "ID": 9420,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Finest Down",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Gaining Mirren's Trust"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Return to Obadei": {
+        "ID": 9423,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Return to Obadei",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "In Search of Sedai"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Makuru's Vengeance": {
+        "ID": 9424,
+        "QuestLevel": 63,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Makuru's Vengeance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to Obadei"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "The Pools of Aggonar": {
+        "ID": 9426,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Pools of Aggonar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Cleansing the Waters": {
+        "ID": 9427,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Cleansing the Waters",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Pools of Aggonar"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Sha'naar Relics": {
+        "ID": 9430,
+        "QuestLevel": 63,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Sha'naar Relics",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Atonement"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Messenger to Thrall": {
+        "ID": 9438,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Messenger to Thrall",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Mag'har"
+        ],
+        "zone": [
+            "Durotar",
+            "Hellfire Peninsula"
+        ]
+    },
+    "A Debilitating Sickness": {
+        "ID": 9442,
+        "QuestLevel": 63,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Debilitating Sickness",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Envoy to the Mag'har"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Administering the Salve": {
+        "ID": 9447,
+        "QuestLevel": 63,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Administering the Salve",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Debilitating Sickness"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Wanted: Blacktalon the Savage": {
+        "ID": 9466,
+        "QuestLevel": 63,
+        "MinLevel": 58,
+        "QuestInfoID": 1,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Wanted: Blacktalon the Savage",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Arelion's Mistress": {
+        "ID": 9472,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Arelion's Mistress",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Mistress Revealed"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Life's Finer Pleasures": {
+        "ID": 9483,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Life's Finer Pleasures",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "The Rock Flayer Matriarch": {
+        "ID": 9490,
+        "QuestLevel": 63,
+        "MinLevel": 60,
+        "QuestInfoID": 1,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Rock Flayer Matriarch",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Falcon Watch (1)": {
+        "ID": 9498,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll"
+        ],
+        "LogTitle": "Falcon Watch",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Falcon Watch (Blood Elf) (1)": {
+        "ID": 9499,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Falcon Watch",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Atonement": {
+        "ID": 9543,
+        "QuestLevel": 63,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Atonement",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Makuru's Vengeance"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "The Seer's Relic": {
+        "ID": 9545,
+        "QuestLevel": 63,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Seer's Relic",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Sha'naar Relics"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "The Longbeards": {
+        "ID": 9558,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Longbeards",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Gaining Mirren's Trust": {
+        "ID": 9563,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 946,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 3000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Gaining Mirren's Trust",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Return to the Marsh (1)": {
+        "ID": 9732,
+        "QuestLevel": 63,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Return to the Marsh",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Warning the Cenarion Circle (2)"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "The Cenarion Expedition": {
+        "ID": 9912,
+        "QuestLevel": 62,
+        "MinLevel": 61,
+        "QuestInfoID": 0,
+        "QuestSortID": 3521,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Cenarion Expedition",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "The Path of Glory": {
+        "ID": 10047,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Path of Glory",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Unyielding Souls": {
+        "ID": 10050,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Unyielding Souls",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Waste Not, Want Not": {
+        "ID": 10055,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Waste Not, Want Not",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Looking to the Leadership (1)": {
+        "ID": 10057,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Looking to the Leadership",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Unyielding Souls"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "An Old Gift": {
+        "ID": 10058,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "An Old Gift",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Laying Waste to the Unwanted": {
+        "ID": 10078,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Laying Waste to the Unwanted",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Waste Not, Want Not"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "When This Mine's a-Rockin' (3)": {
+        "ID": 10079,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "When This Mine's a-Rockin'",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Path of Anguish"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "I Work... For the Horde!": {
+        "ID": 10086,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "I Work... For the Horde!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Burn It Up... For the Horde!": {
+        "ID": 10087,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Burn It Up... For the Horde!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "I Work... For the Horde!"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "The Temple of Telhamat": {
+        "ID": 10093,
+        "QuestLevel": 63,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Temple of Telhamat",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Path of Glory"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "The Mastermind (1)": {
+        "ID": 10099,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Mastermind",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "When This Mine's a-Rockin' (3)"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Report to Zurai": {
+        "ID": 10103,
+        "QuestLevel": 61,
+        "MinLevel": 61,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Report to Zurai",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Arrival in Outland (1)": {
+        "ID": 10120,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Arrival in Outland",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Through the Dark Portal (1)"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Eradicate the Burning Legion": {
+        "ID": 10121,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Eradicate the Burning Legion",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Report to Nazgrel (1)"
+        ],
+        "zone": [
+            "Durotar",
+            "Hellfire Peninsula"
+        ]
+    },
+    "Felspark Ravine": {
+        "ID": 10123,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Felspark Ravine",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Eradicate the Burning Legion"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Forward Base: Reaver's Fall": {
+        "ID": 10124,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Forward Base: Reaver's Fall",
+        "AllowableClasses": [],
+        "RewardSpell": 35998,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Felspark Ravine"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Mission: Gateways Murketh and Shaadraz": {
+        "ID": 10129,
+        "QuestLevel": 62,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Mission: Gateways Murketh and Shaadraz",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Disrupt Their Reinforcements (2)"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Colossal Menace": {
+        "ID": 10132,
+        "QuestLevel": 63,
+        "MinLevel": 61,
+        "QuestInfoID": 1,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Colossal Menace",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Crimson Crystal Clue": {
+        "ID": 10134,
+        "QuestLevel": 63,
+        "MinLevel": 61,
+        "QuestInfoID": 1,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Crimson Crystal Clue",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Cruel's Intentions": {
+        "ID": 10136,
+        "QuestLevel": 63,
+        "MinLevel": 58,
+        "QuestInfoID": 1,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Cruel's Intentions",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Doorway to the Abyss"
+        ],
+        "zone": [
+            "Durotar",
+            "Hellfire Peninsula"
+        ]
+    },
+    "Journey to Honor Hold": {
+        "ID": 10140,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Journey to Honor Hold",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Arrival in Outland (2)"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "The Legion Reborn": {
+        "ID": 10141,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Legion Reborn",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "The Path of Anguish": {
+        "ID": 10142,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Path of Anguish",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Legion Reborn"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Expedition Point": {
+        "ID": 10143,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Expedition Point",
+        "AllowableClasses": [],
+        "RewardSpell": 35998,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Path of Anguish"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Disrupt Their Reinforcements (1)": {
+        "ID": 10144,
+        "QuestLevel": 62,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Disrupt Their Reinforcements",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Expedition Point"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Mission: The Murketh and Shaadraz Gateways": {
+        "ID": 10146,
+        "QuestLevel": 62,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Mission: The Murketh and Shaadraz Gateways",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Disrupt Their Reinforcements (1)"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Keep Thornfang Hill Clear!": {
+        "ID": 10159,
+        "QuestLevel": 63,
+        "MinLevel": 61,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Keep Thornfang Hill Clear!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Know your Enemy": {
+        "ID": 10160,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Know your Enemy",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "In Case of Emergency...": {
+        "ID": 10161,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "In Case of Emergency...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Mission: The Abyssal Shelf (1)": {
+        "ID": 10162,
+        "QuestLevel": 62,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Mission: The Abyssal Shelf",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mission: Gateways Murketh and Shaadraz"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Mission: The Abyssal Shelf (2)": {
+        "ID": 10163,
+        "QuestLevel": 62,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Mission: The Abyssal Shelf",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Wing Commander Gryphongar"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Disrupt Their Reinforcements (2)": {
+        "ID": 10208,
+        "QuestLevel": 62,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Disrupt Their Reinforcements",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Forward Base: Reaver's Fall"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Investigate the Crash": {
+        "ID": 10213,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Investigate the Crash",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Preparing the Salve"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Make Them Listen": {
+        "ID": 10220,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Make Them Listen",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Decipher the Tome": {
+        "ID": 10229,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Decipher the Tome",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "The Battle Horn": {
+        "ID": 10230,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Battle Horn",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Decipher the Tome"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Outland Sucks!": {
+        "ID": 10236,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Outland Sucks!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "How to Serve Goblins": {
+        "ID": 10238,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "How to Serve Goblins",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Outland Sucks!"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Spinebreaker Post": {
+        "ID": 10242,
+        "QuestLevel": 60,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Spinebreaker Post",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Apothecary Zelana"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Bloody Vengeance": {
+        "ID": 10250,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Bloody Vengeance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Battle Horn"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Force Commander Danath": {
+        "ID": 10254,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Force Commander Danath",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Journey to Honor Hold"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Testing the Antidote": {
+        "ID": 10255,
+        "QuestLevel": 63,
+        "MinLevel": 61,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Testing the Antidote",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Demonic Contamination"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Honor the Fallen": {
+        "ID": 10258,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Honor the Fallen",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Bloody Vengeance"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "The Warp Rifts": {
+        "ID": 10278,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Warp Rifts",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Arelion's Secret": {
+        "ID": 10286,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Arelion's Secret",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Arelion's Journal"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "The Mistress Revealed": {
+        "ID": 10287,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Mistress Revealed",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Arelion's Secret"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Arrival in Outland (2)": {
+        "ID": 10288,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Arrival in Outland",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Through the Dark Portal (3)"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Journey to Thrallmar": {
+        "ID": 10289,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Journey to Thrallmar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Arrival in Outland (1)"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Report to Nazgrel (1)": {
+        "ID": 10291,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Report to Nazgrel",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Journey to Thrallmar"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Void Ridge": {
+        "ID": 10294,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Void Ridge",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Warp Rifts"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "From the Abyss": {
+        "ID": 10295,
+        "QuestLevel": 63,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "From the Abyss",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Void Ridge"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Shatter Point": {
+        "ID": 10340,
+        "QuestLevel": 60,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Shatter Point",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mission: The Murketh and Shaadraz Gateways"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Wing Commander Gryphongar": {
+        "ID": 10344,
+        "QuestLevel": 60,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Wing Commander Gryphongar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Shatter Point"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Return to the Abyssal Shelf (1)": {
+        "ID": 10346,
+        "QuestLevel": 62,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Return to the Abyssal Shelf",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mission: The Abyssal Shelf (2)"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Return to the Abyssal Shelf (2)": {
+        "ID": 10347,
+        "QuestLevel": 62,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Return to the Abyssal Shelf",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mission: The Abyssal Shelf (1)"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "The Earthbinder": {
+        "ID": 10349,
+        "QuestLevel": 63,
+        "MinLevel": 61,
+        "QuestInfoID": 1,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Earthbinder",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Crimson Crystal Clue"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Natural Remedies": {
+        "ID": 10351,
+        "QuestLevel": 63,
+        "MinLevel": 61,
+        "QuestInfoID": 1,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Natural Remedies",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Earthbinder"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "A Traitor Among Us (1)": {
+        "ID": 10367,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Traitor Among Us",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Naladu"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "The Dreghood Elders": {
+        "ID": 10368,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Dreghood Elders",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Traitor Among Us (1)"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Arzeth's Demise": {
+        "ID": 10369,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Arzeth's Demise",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Dreghood Elders"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Go to the Front": {
+        "ID": 10382,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Go to the Front",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mission: The Abyssal Shelf (2)"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Return to Thrallmar": {
+        "ID": 10388,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Return to Thrallmar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mission: Gateways Murketh and Shaadraz"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "The Agony and the Darkness": {
+        "ID": 10389,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Agony and the Darkness",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Doorway to the Abyss"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Forge Camp: Mageddon": {
+        "ID": 10390,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Forge Camp: Mageddon",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to Thrallmar"
+        ],
+        "zone": [
+            "Durotar",
+            "Hellfire Peninsula"
+        ]
+    },
+    "Cannons of Rage": {
+        "ID": 10391,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Cannons of Rage",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Forge Camp: Mageddon"
+        ],
+        "zone": [
+            "Durotar",
+            "Hellfire Peninsula"
+        ]
+    },
+    "Doorway to the Abyss": {
+        "ID": 10392,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Doorway to the Abyss",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Cannons of Rage"
+        ],
+        "zone": [
+            "Durotar",
+            "Hellfire Peninsula"
+        ]
+    },
+    "Vile Plans": {
+        "ID": 10393,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Vile Plans",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Disruption - Forge Camp: Mageddon": {
+        "ID": 10394,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Disruption - Forge Camp: Mageddon",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Go to the Front"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "The Dark Missive": {
+        "ID": 10395,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Dark Missive",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Enemy of my Enemy...": {
+        "ID": 10396,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Enemy of my Enemy...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Disruption - Forge Camp: Mageddon"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Invasion Point: Annihilator": {
+        "ID": 10397,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Invasion Point: Annihilator",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Enemy of my Enemy..."
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "The Heart of Darkness": {
+        "ID": 10399,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Heart of Darkness",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Dark Missive"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Overlord": {
+        "ID": 10400,
+        "QuestLevel": 63,
+        "MinLevel": 58,
+        "QuestInfoID": 1,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Overlord",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Dark Missive"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Naladu": {
+        "ID": 10403,
+        "QuestLevel": 62,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Naladu",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Helping the Cenarion Post (1)": {
+        "ID": 10442,
+        "QuestLevel": 61,
+        "MinLevel": 61,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Helping the Cenarion Post",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Helping the Cenarion Post (2)": {
+        "ID": 10443,
+        "QuestLevel": 61,
+        "MinLevel": 61,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Helping the Cenarion Post",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Apothecary Zelana": {
+        "ID": 10449,
+        "QuestLevel": 60,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Apothecary Zelana",
+        "AllowableClasses": [],
+        "RewardSpell": 35998,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Bonechewer Blood"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Bonechewer Blood": {
+        "ID": 10450,
+        "QuestLevel": 60,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Bonechewer Blood",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Fel Orc Scavengers": {
+        "ID": 10482,
+        "QuestLevel": 58,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Fel Orc Scavengers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Ill Omens": {
+        "ID": 10483,
+        "QuestLevel": 58,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Ill Omens",
+        "AllowableClasses": [],
+        "RewardSpell": 35998,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Fel Orc Scavengers"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Cursed Talismans": {
+        "ID": 10484,
+        "QuestLevel": 58,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Cursed Talismans",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Ill Omens"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Warlord of the Bleeding Hollow": {
+        "ID": 10485,
+        "QuestLevel": 60,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Warlord of the Bleeding Hollow",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Cursed Talismans"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Boiling Blood": {
+        "ID": 10538,
+        "QuestLevel": 60,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Boiling Blood",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Spinebreaker Post"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Shizz Work": {
+        "ID": 10629,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Shizz Work",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "How to Serve Goblins"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Beneath Thrallmar": {
+        "ID": 10630,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Beneath Thrallmar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Shizz Work"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Entry Into the Citadel (1)": {
+        "ID": 10754,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Entry Into the Citadel",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Entry Into the Citadel (2)": {
+        "ID": 10755,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Entry Into the Citadel",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Grand Master Rohok": {
+        "ID": 10756,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Grand Master Rohok",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Entry Into the Citadel (2)"
+        ],
+        "zone": [
+            "Durotar",
+            "Hellfire Peninsula"
+        ]
+    },
+    "Rohok's Request": {
+        "ID": 10757,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Rohok's Request",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Grand Master Rohok"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Hotter than Hell (1)": {
+        "ID": 10758,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 1,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Hotter than Hell",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Rohok's Request"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Grand Master Dumphry": {
+        "ID": 10762,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Grand Master Dumphry",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Entry Into the Citadel (1)"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Dumphry's Request": {
+        "ID": 10763,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Dumphry's Request",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Grand Master Dumphry"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Hotter than Hell (2)": {
+        "ID": 10764,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 1,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Hotter than Hell",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Dumphry's Request"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Zeth'Gor Must Burn! (2)": {
+        "ID": 10792,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Zeth'Gor Must Burn!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Wanted: Worg Master Kruush"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Wanted: Worg Master Kruush": {
+        "ID": 10809,
+        "QuestLevel": 60,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Wanted: Worg Master Kruush",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "The Eyes of Grillok": {
+        "ID": 10813,
+        "QuestLevel": 62,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Eyes of Grillok",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Wanted: Worg Master Kruush"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Grillok Darkeye": {
+        "ID": 10834,
+        "QuestLevel": 62,
+        "MinLevel": 58,
+        "QuestInfoID": 1,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Grillok Darkeye",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Eyes of Grillok"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Apothecary Antonivich": {
+        "ID": 10835,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Apothecary Antonivich",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Boiling Blood"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "The Demoniac Scryer": {
+        "ID": 10838,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 1,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Demoniac Scryer",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Burden of Souls"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "A Burden of Souls": {
+        "ID": 10864,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Burden of Souls",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Apothecary Antonivich"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Report to Nazgrel (2)": {
+        "ID": 10875,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Report to Nazgrel",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Demoniac Scryer"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "The Foot of the Citadel": {
+        "ID": 10876,
+        "QuestLevel": 63,
+        "MinLevel": 58,
+        "QuestInfoID": 1,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Foot of the Citadel",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Report to Nazgrel (2)"
+        ],
+        "zone": [
+            "Durotar",
+            "Hellfire Peninsula"
+        ]
+    },
+    "Zeth'Gor Must Burn! (1)": {
+        "ID": 10895,
+        "QuestLevel": 60,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Zeth'Gor Must Burn!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Return to Honor Hold (2)": {
+        "ID": 10903,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Return to Honor Hold",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Warlord of the Bleeding Hollow"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Master of Potions (1)": {
+        "ID": 10905,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": -181,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Master of Potions",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 10905,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Alchemy",
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Master of Elixirs (1)": {
+        "ID": 10906,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": -181,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Master of Elixirs",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 10905,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Alchemy",
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Master of Transmutation (1)": {
+        "ID": 10907,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": -181,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Master of Transmutation",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 10905,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Alchemy",
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Fel Spirits": {
+        "ID": 10909,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Fel Spirits",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to Honor Hold (2)"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Digging for Prayer Beads": {
+        "ID": 10916,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Digging for Prayer Beads",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to Honor Hold (2)"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Fei Fei's Treat": {
+        "ID": 10919,
+        "QuestLevel": 61,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Fei Fei's Treat",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "The Exorcism of Colonel Jules": {
+        "ID": 10935,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Exorcism of Colonel Jules",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Fel Spirits"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Trollbane is Looking for You": {
+        "ID": 10936,
+        "QuestLevel": 61,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Trollbane is Looking for You",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Exorcism of Colonel Jules"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Drill the Drillmaster": {
+        "ID": 10937,
+        "QuestLevel": 62,
+        "MinLevel": 58,
+        "QuestInfoID": 1,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Drill the Drillmaster",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Trollbane is Looking for You"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Blood for Blood": {
+        "ID": 11515,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Blood for Blood",
+        "AllowableClasses": [],
+        "RewardSpell": 46251,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Missing Magistrix"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Blast the Gateway": {
+        "ID": 11516,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3483,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Blast the Gateway",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Missing Magistrix"
+        ],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Playing with Fire (1)": {
+        "ID": 11882,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Playing with Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Teldrassil",
+            "Darkshore",
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Westfall",
+            "Redridge Mountains",
+            "Duskwood",
+            "Wetlands",
+            "Hillsbrad Foothills",
+            "The Hinterlands",
+            "Stranglethorn Vale",
+            "Western Plaguelands",
+            "Burning Steppes",
+            "Blasted Lands",
+            "Ashenvale",
+            "Tanaris",
+            "Winterspring",
+            "Dustwallow Marsh",
+            "Hellfire Peninsula",
+            "Zangarmarsh",
+            "Terokkar Forest",
+            "Terokkar Forest",
+            "Nagrand",
+            "Blade's Edge Mountains",
+            "Netherstorm",
+            "Shadowmoon Valley",
+            "Borean Tundra",
+            "The Storm Peaks"
+        ]
+    },
+    "Playing with Fire (2)": {
+        "ID": 11915,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Playing with Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Silverpine Forest",
+            "Eversong Woods",
+            "Ghostlands",
+            "Hillsbrad Foothills",
+            "Swamp of Sorrows",
+            "Stranglethorn Vale",
+            "Stonetalon Mountains",
+            "Ashenvale",
+            "Thousand Needles",
+            "Desolace",
+            "Tanaris",
+            "Feralas",
+            "Winterspring",
+            "Hellfire Peninsula",
+            "Zangarmarsh",
+            "Terokkar Forest",
+            "Terokkar Forest",
+            "Nagrand",
+            "Blade's Edge Mountains",
+            "Netherstorm",
+            "Shadowmoon Valley",
+            "Sholazar Basin"
+        ]
+    },
+    "Sharing a Bountiful Feast (1)": {
+        "ID": 14064,
+        "QuestLevel": -1,
+        "MinLevel": 0,
+        "QuestInfoID": 0,
+        "QuestSortID": -375,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Sharing a Bountiful Feast",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Pilgrim's Bounty",
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pilgrim's Bounty (1)"
+        ],
+        "zone": [
+            "Teldrassil",
+            "Teldrassil",
+            "Darkshore",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Redridge Mountains",
+            "Western Plaguelands",
+            "Burning Steppes",
+            "Tanaris",
+            "Winterspring",
+            "Hellfire Peninsula",
+            "Sholazar Basin",
+            "Dragonblight",
+            "Howling Fjord",
+            "Grizzly Hills",
+            "The Storm Peaks"
+        ]
+    },
+    "Sharing a Bountiful Feast (2)": {
+        "ID": 14065,
+        "QuestLevel": -1,
+        "MinLevel": 0,
+        "QuestInfoID": 0,
+        "QuestSortID": -375,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Sharing a Bountiful Feast",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Pilgrim's Bounty",
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pilgrim's Bounty (2)"
+        ],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Hillsbrad Foothills",
+            "Burning Steppes",
+            "Stonetalon Mountains",
+            "Thousand Needles",
+            "Desolace",
+            "Tanaris",
+            "Dustwallow Marsh",
+            "Hellfire Peninsula",
+            "Borean Tundra",
+            "Sholazar Basin",
+            "Dragonblight",
+            "Howling Fjord",
+            "Grizzly Hills",
+            "Zul'Drak",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Desecrate this Fire! (Hellfire Peninsula - Horde)": {
+        "ID": 11747,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Desecrate this Fire! (Hellfire Peninsula - Alliance)": {
+        "ID": 11775,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Honor the Flame (Hellfire Peninsula - Alliance)": {
+        "ID": 11818,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Honor the Flame (Hellfire Peninsula - Horde)": {
+        "ID": 11851,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Candy Bucket (Hellfire Peninsula, Honor Hold)": {
+        "ID": 12352,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Candy Bucket (Hellfire Peninsula, Temple of Telhamat)": {
+        "ID": 12353,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Candy Bucket (Hellfire Peninsula, Thrallmar)": {
+        "ID": 12388,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    },
+    "Candy Bucket (Hellfire Peninsula, Falcon Watch)": {
+        "ID": 12389,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Hellfire Peninsula"
+        ]
+    }
+}

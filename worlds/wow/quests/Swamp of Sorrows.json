@@ -1,0 +1,1259 @@
+{
+    "Cortello's Riddle (2)": {
+        "ID": 625,
+        "QuestLevel": 43,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 33,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Cortello's Riddle",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Cortello's Riddle (1)"
+        ],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "Lack of Surplus (1)": {
+        "ID": 698,
+        "QuestLevel": 40,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 8,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Lack of Surplus",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "Lack of Surplus (2)": {
+        "ID": 699,
+        "QuestLevel": 42,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 8,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Lack of Surplus",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Lack of Surplus (1)"
+        ],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "Draenethyst Crystals": {
+        "ID": 1389,
+        "QuestLevel": 35,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 8,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Draenethyst Crystals",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "Noboru the Cudgel": {
+        "ID": 1392,
+        "QuestLevel": 39,
+        "MinLevel": 29,
+        "QuestInfoID": 0,
+        "QuestSortID": 8,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Noboru the Cudgel",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "Galen's Escape": {
+        "ID": 1393,
+        "QuestLevel": 38,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 8,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Galen's Escape",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "Encroaching Wildlife": {
+        "ID": 1396,
+        "QuestLevel": 37,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 8,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Encroaching Wildlife",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "Driftwood": {
+        "ID": 1398,
+        "QuestLevel": 42,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 8,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Driftwood",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Lost Caravan"
+        ],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "Neeka Bloodscar": {
+        "ID": 1418,
+        "QuestLevel": 35,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 8,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Neeka Bloodscar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "The Lost Caravan": {
+        "ID": 1421,
+        "QuestLevel": 35,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 8,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Lost Caravan",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Encroaching Wildlife"
+        ],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "Threat From the Sea (1)": {
+        "ID": 1422,
+        "QuestLevel": 45,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 8,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Threat From the Sea",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Lack of Surplus (2)"
+        ],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "Pool of Tears (1)": {
+        "ID": 1424,
+        "QuestLevel": 43,
+        "MinLevel": 38,
+        "QuestInfoID": 0,
+        "QuestSortID": 8,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Pool of Tears",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "Deliver the Shipment": {
+        "ID": 1425,
+        "QuestLevel": 42,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 8,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Deliver the Shipment",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Driftwood"
+        ],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "Threat From the Sea (2)": {
+        "ID": 1426,
+        "QuestLevel": 43,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 8,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Threat From the Sea",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Threat From the Sea (1)"
+        ],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "Threat From the Sea (3)": {
+        "ID": 1427,
+        "QuestLevel": 43,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 8,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Threat From the Sea",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Threat From the Sea (2)"
+        ],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "Continued Threat": {
+        "ID": 1428,
+        "QuestLevel": 45,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 8,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Continued Threat",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Threat From the Sea (3)"
+        ],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "The Atal'ai Exile": {
+        "ID": 1429,
+        "QuestLevel": 44,
+        "MinLevel": 38,
+        "QuestInfoID": 0,
+        "QuestSortID": 8,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Atal'ai Exile",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pool of Tears (1)"
+        ],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "Fresh Meat": {
+        "ID": 1430,
+        "QuestLevel": 44,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 8,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Fresh Meat",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "The Disgraced One": {
+        "ID": 2621,
+        "QuestLevel": 50,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 4,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Disgraced One",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Fall From Grace"
+        ],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "The Missing Orders": {
+        "ID": 2622,
+        "QuestLevel": 50,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 8,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Missing Orders",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Disgraced One"
+        ],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "The Swamp Talker": {
+        "ID": 2623,
+        "QuestLevel": 55,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 8,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Swamp Talker",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Missing Orders"
+        ],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "The Stones That Bind Us": {
+        "ID": 2681,
+        "QuestLevel": 57,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 4,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Stones That Bind Us",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Tale of Sorrow"
+        ],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "Heroes of Old (1)": {
+        "ID": 2701,
+        "QuestLevel": 57,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 4,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Heroes of Old",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Heroes of Old (2)"
+        ],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "Heroes of Old (2)": {
+        "ID": 2702,
+        "QuestLevel": 57,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 4,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Heroes of Old",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Stones That Bind Us"
+        ],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "Kirith": {
+        "ID": 2721,
+        "QuestLevel": 58,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 4,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Kirith",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Heroes of Old (1)"
+        ],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "The Demon Hunter": {
+        "ID": 2744,
+        "QuestLevel": 60,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 4,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Demon Hunter",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Cover of Darkness"
+        ],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "Fall From Grace": {
+        "ID": 2784,
+        "QuestLevel": 50,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 4,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Fall From Grace",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "A Tale of Sorrow": {
+        "ID": 2801,
+        "QuestLevel": 57,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 4,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Tale of Sorrow",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "In Eranikus' Own Words": {
+        "ID": 3512,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 8,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Orc",
+            "Dwarf",
+            "Night Elf",
+            "Undead",
+            "Tauren",
+            "Gnome",
+            "Troll",
+            "Blood Elf",
+            "Draenei"
+        ],
+        "LogTitle": "In Eranikus' Own Words",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Essence of Eranikus (2)"
+        ],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "Uniting the Shattered Amulet": {
+        "ID": 3627,
+        "QuestLevel": 60,
+        "MinLevel": 45,
+        "QuestInfoID": 1,
+        "QuestSortID": 4,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Uniting the Shattered Amulet",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to the Blasted Lands"
+        ],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "You Are Rakh'likh, Demon": {
+        "ID": 3628,
+        "QuestLevel": 60,
+        "MinLevel": 45,
+        "QuestInfoID": 1,
+        "QuestSortID": 4,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "You Are Rakh'likh, Demon",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Uniting the Shattered Amulet"
+        ],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "Warrior Kinship": {
+        "ID": 8423,
+        "QuestLevel": 52,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": -81,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Warrior Kinship",
+        "AllowableClasses": [
+            "Warrior"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "War on the Shadowsworn": {
+        "ID": 8424,
+        "QuestLevel": 52,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": -81,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "War on the Shadowsworn",
+        "AllowableClasses": [
+            "Warrior"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Warrior Kinship"
+        ],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "Little Morsels": {
+        "ID": 9440,
+        "QuestLevel": 38,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 8,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Little Morsels",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "Mercy for the Cursed": {
+        "ID": 9448,
+        "QuestLevel": 38,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 8,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Mercy for the Cursed",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "Help Watcher Biggs": {
+        "ID": 9609,
+        "QuestLevel": 37,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 8,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Help Watcher Biggs",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "Pool of Tears (2)": {
+        "ID": 9610,
+        "QuestLevel": 43,
+        "MinLevel": 38,
+        "QuestInfoID": 0,
+        "QuestSortID": 8,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Pool of Tears",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "Playing with Fire (2)": {
+        "ID": 11915,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Playing with Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Silverpine Forest",
+            "Eversong Woods",
+            "Ghostlands",
+            "Hillsbrad Foothills",
+            "Swamp of Sorrows",
+            "Stranglethorn Vale",
+            "Stonetalon Mountains",
+            "Ashenvale",
+            "Thousand Needles",
+            "Desolace",
+            "Tanaris",
+            "Feralas",
+            "Winterspring",
+            "Hellfire Peninsula",
+            "Zangarmarsh",
+            "Terokkar Forest",
+            "Terokkar Forest",
+            "Nagrand",
+            "Blade's Edge Mountains",
+            "Netherstorm",
+            "Shadowmoon Valley",
+            "Sholazar Basin"
+        ]
+    },
+    "Relic of the Earthen Ring (Shaman) (1)": {
+        "ID": 14100,
+        "QuestLevel": 30,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": -82,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Relic of the Earthen Ring",
+        "AllowableClasses": [
+            "Shaman"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Mulgore",
+            "Swamp of Sorrows"
+        ]
+    },
+    "Desecrate this Fire! (Swamp of Sorrows - Alliance)": {
+        "ID": 11781,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "Honor the Flame (Swamp of Sorrows - Horde)": {
+        "ID": 11857,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    },
+    "Candy Bucket (Swamp of Sorrows)": {
+        "ID": 12384,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Swamp of Sorrows"
+        ]
+    }
+}

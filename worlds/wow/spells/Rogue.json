@@ -1,0 +1,1192 @@
+{
+    "Stealth": {
+        "id": 1784,
+        "spell_icon_id": 250,
+        "money_cost": 10,
+        "Level": 1,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": true
+    },
+    "Pick Pocket": {
+        "id": 921,
+        "spell_icon_id": 227,
+        "money_cost": 100,
+        "Level": 4,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Backstab (Rank 1)": {
+        "id": 53,
+        "spell_icon_id": 243,
+        "money_cost": 100,
+        "Level": 4,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Gouge": {
+        "id": 1776,
+        "spell_icon_id": 245,
+        "money_cost": 100,
+        "Level": 6,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Sinister Strike (Rank 2)": {
+        "id": 1757,
+        "spell_icon_id": 130,
+        "money_cost": 100,
+        "Level": 6,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Eviscerate (Rank 2)": {
+        "id": 6760,
+        "spell_icon_id": 514,
+        "money_cost": 200,
+        "Level": 8,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Evasion (Rank 1)": {
+        "id": 5277,
+        "spell_icon_id": 178,
+        "money_cost": 200,
+        "Level": 8,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Sap (Rank 1)": {
+        "id": 6770,
+        "spell_icon_id": 249,
+        "money_cost": 300,
+        "Level": 10,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Slice and Dice (Rank 1)": {
+        "id": 5171,
+        "spell_icon_id": 515,
+        "money_cost": 300,
+        "Level": 10,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Sprint (Rank 1)": {
+        "id": 2983,
+        "spell_icon_id": 516,
+        "money_cost": 300,
+        "Level": 10,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Backstab (Rank 2)": {
+        "id": 2589,
+        "spell_icon_id": 243,
+        "money_cost": 800,
+        "Level": 12,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Kick": {
+        "id": 1766,
+        "spell_icon_id": 246,
+        "money_cost": 800,
+        "Level": 12,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Expose Armor": {
+        "id": 8647,
+        "spell_icon_id": 563,
+        "money_cost": 1200,
+        "Level": 14,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Sinister Strike (Rank 3)": {
+        "id": 1758,
+        "spell_icon_id": 130,
+        "money_cost": 1200,
+        "Level": 14,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Garrote (Rank 1)": {
+        "id": 703,
+        "spell_icon_id": 498,
+        "money_cost": 1200,
+        "Level": 14,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Eviscerate (Rank 3)": {
+        "id": 6761,
+        "spell_icon_id": 514,
+        "money_cost": 1800,
+        "Level": 16,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Feint (Rank 1)": {
+        "id": 1966,
+        "spell_icon_id": 539,
+        "money_cost": 1800,
+        "Level": 16,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Pick Lock": {
+        "id": 1804,
+        "spell_icon_id": 106,
+        "money_cost": 1800,
+        "Level": 16,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ambush (Rank 1)": {
+        "id": 8676,
+        "spell_icon_id": 856,
+        "money_cost": 2900,
+        "Level": 18,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Dismantle": {
+        "id": 51722,
+        "spell_icon_id": 2908,
+        "money_cost": 3000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Backstab (Rank 3)": {
+        "id": 2590,
+        "spell_icon_id": 243,
+        "money_cost": 3000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rupture (Rank 1)": {
+        "id": 1943,
+        "spell_icon_id": 500,
+        "money_cost": 3000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Garrote (Rank 2)": {
+        "id": 8631,
+        "spell_icon_id": 498,
+        "money_cost": 4000,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Vanish (Rank 1)": {
+        "id": 1856,
+        "spell_icon_id": 252,
+        "money_cost": 4000,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Sinister Strike (Rank 4)": {
+        "id": 1759,
+        "spell_icon_id": 130,
+        "money_cost": 4000,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Distract": {
+        "id": 1725,
+        "spell_icon_id": 1478,
+        "money_cost": 4000,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Eviscerate (Rank 4)": {
+        "id": 6762,
+        "spell_icon_id": 514,
+        "money_cost": 5000,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ambush (Rank 2)": {
+        "id": 8724,
+        "spell_icon_id": 856,
+        "money_cost": 6000,
+        "Level": 26,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Cheap Shot": {
+        "id": 1833,
+        "spell_icon_id": 244,
+        "money_cost": 6000,
+        "Level": 26,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rupture (Rank 2)": {
+        "id": 8639,
+        "spell_icon_id": 500,
+        "money_cost": 8000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Feint (Rank 2)": {
+        "id": 6768,
+        "spell_icon_id": 539,
+        "money_cost": 8000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Backstab (Rank 4)": {
+        "id": 2591,
+        "spell_icon_id": 243,
+        "money_cost": 8000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Sap (Rank 2)": {
+        "id": 2070,
+        "spell_icon_id": 249,
+        "money_cost": 8000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Garrote (Rank 3)": {
+        "id": 8632,
+        "spell_icon_id": 498,
+        "money_cost": 10000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Disarm Trap": {
+        "id": 1842,
+        "spell_icon_id": 228,
+        "money_cost": 10000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Sinister Strike (Rank 5)": {
+        "id": 1760,
+        "spell_icon_id": 130,
+        "money_cost": 10000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Kidney Shot (Rank 1)": {
+        "id": 408,
+        "spell_icon_id": 499,
+        "money_cost": 10000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Eviscerate (Rank 5)": {
+        "id": 8623,
+        "spell_icon_id": 514,
+        "money_cost": 12000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ambush (Rank 3)": {
+        "id": 8725,
+        "spell_icon_id": 856,
+        "money_cost": 14000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Sprint (Rank 2)": {
+        "id": 8696,
+        "spell_icon_id": 516,
+        "money_cost": 14000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blind": {
+        "id": 2094,
+        "spell_icon_id": 48,
+        "money_cost": 14000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Backstab (Rank 5)": {
+        "id": 8721,
+        "spell_icon_id": 243,
+        "money_cost": 16000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rupture (Rank 3)": {
+        "id": 8640,
+        "spell_icon_id": 500,
+        "money_cost": 16000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Garrote (Rank 4)": {
+        "id": 8633,
+        "spell_icon_id": 498,
+        "money_cost": 18000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Sinister Strike (Rank 6)": {
+        "id": 8621,
+        "spell_icon_id": 130,
+        "money_cost": 18000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Feint (Rank 3)": {
+        "id": 8637,
+        "spell_icon_id": 539,
+        "money_cost": 20000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Eviscerate (Rank 6)": {
+        "id": 8624,
+        "spell_icon_id": 514,
+        "money_cost": 20000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Safe Fall": {
+        "id": 1860,
+        "spell_icon_id": 1658,
+        "money_cost": 20000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ambush (Rank 4)": {
+        "id": 11267,
+        "spell_icon_id": 856,
+        "money_cost": 27000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Slice and Dice (Rank 2)": {
+        "id": 6774,
+        "spell_icon_id": 515,
+        "money_cost": 27000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Vanish (Rank 2)": {
+        "id": 1857,
+        "spell_icon_id": 252,
+        "money_cost": 27000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Backstab (Rank 6)": {
+        "id": 11279,
+        "spell_icon_id": 243,
+        "money_cost": 29000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rupture (Rank 4)": {
+        "id": 11273,
+        "spell_icon_id": 500,
+        "money_cost": 29000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hemorrhage (Rank 2)": {
+        "id": 17347,
+        "spell_icon_id": 153,
+        "money_cost": 384,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Sinister Strike (Rank 7)": {
+        "id": 11293,
+        "spell_icon_id": 130,
+        "money_cost": 31000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Garrote (Rank 5)": {
+        "id": 11289,
+        "spell_icon_id": 498,
+        "money_cost": 31000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Eviscerate (Rank 7)": {
+        "id": 11299,
+        "spell_icon_id": 514,
+        "money_cost": 33000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Sap (Rank 3)": {
+        "id": 11297,
+        "spell_icon_id": 249,
+        "money_cost": 33000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ambush (Rank 5)": {
+        "id": 11268,
+        "spell_icon_id": 856,
+        "money_cost": 35000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Evasion (Rank 2)": {
+        "id": 26669,
+        "spell_icon_id": 178,
+        "money_cost": 35000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mutilate (Rank 2)": {
+        "id": 34411,
+        "spell_icon_id": 2117,
+        "money_cost": 5500,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Kidney Shot (Rank 2)": {
+        "id": 8643,
+        "spell_icon_id": 499,
+        "money_cost": 35000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Feint (Rank 4)": {
+        "id": 11303,
+        "spell_icon_id": 539,
+        "money_cost": 46000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Backstab (Rank 7)": {
+        "id": 11280,
+        "spell_icon_id": 243,
+        "money_cost": 46000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rupture (Rank 5)": {
+        "id": 11274,
+        "spell_icon_id": 500,
+        "money_cost": 46000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Sinister Strike (Rank 8)": {
+        "id": 11294,
+        "spell_icon_id": 130,
+        "money_cost": 48000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Garrote (Rank 6)": {
+        "id": 11290,
+        "spell_icon_id": 498,
+        "money_cost": 48000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Eviscerate (Rank 8)": {
+        "id": 11300,
+        "spell_icon_id": 514,
+        "money_cost": 50000,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hemorrhage (Rank 3)": {
+        "id": 17348,
+        "spell_icon_id": 153,
+        "money_cost": 650,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Sprint (Rank 3)": {
+        "id": 11305,
+        "spell_icon_id": 516,
+        "money_cost": 52000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ambush (Rank 6)": {
+        "id": 11269,
+        "spell_icon_id": 856,
+        "money_cost": 52000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Backstab (Rank 8)": {
+        "id": 11281,
+        "spell_icon_id": 243,
+        "money_cost": 54000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rupture (Rank 6)": {
+        "id": 11275,
+        "spell_icon_id": 500,
+        "money_cost": 54000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Eviscerate (Rank 9)": {
+        "id": 31016,
+        "spell_icon_id": 514,
+        "money_cost": 65000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Feint (Rank 5)": {
+        "id": 25302,
+        "spell_icon_id": 539,
+        "money_cost": 50000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Backstab (Rank 9)": {
+        "id": 25300,
+        "spell_icon_id": 243,
+        "money_cost": 72000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mutilate (Rank 3)": {
+        "id": 34412,
+        "spell_icon_id": 2117,
+        "money_cost": 6500,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Garrote (Rank 7)": {
+        "id": 26839,
+        "spell_icon_id": 498,
+        "money_cost": 50000,
+        "Level": 61,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Vanish (Rank 3)": {
+        "id": 26889,
+        "spell_icon_id": 252,
+        "money_cost": 59000,
+        "Level": 62,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Sinister Strike (Rank 9)": {
+        "id": 26861,
+        "spell_icon_id": 130,
+        "money_cost": 50000,
+        "Level": 62,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Envenom (Rank 1)": {
+        "id": 32645,
+        "spell_icon_id": 2237,
+        "money_cost": 59000,
+        "Level": 62,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Feint (Rank 6)": {
+        "id": 27448,
+        "spell_icon_id": 539,
+        "money_cost": 72000,
+        "Level": 64,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Eviscerate (Rank 10)": {
+        "id": 26865,
+        "spell_icon_id": 514,
+        "money_cost": 140000,
+        "Level": 64,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Deadly Throw (Rank 1)": {
+        "id": 26679,
+        "spell_icon_id": 2097,
+        "money_cost": 72000,
+        "Level": 64,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Cloak of Shadows": {
+        "id": 31224,
+        "spell_icon_id": 1933,
+        "money_cost": 89000,
+        "Level": 66,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ambush (Rank 7)": {
+        "id": 27441,
+        "spell_icon_id": 856,
+        "money_cost": 80000,
+        "Level": 66,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rupture (Rank 7)": {
+        "id": 26867,
+        "spell_icon_id": 500,
+        "money_cost": 120000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Backstab (Rank 10)": {
+        "id": 26863,
+        "spell_icon_id": 243,
+        "money_cost": 110000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Envenom (Rank 2)": {
+        "id": 32684,
+        "spell_icon_id": 2237,
+        "money_cost": 100000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Garrote (Rank 8)": {
+        "id": 26884,
+        "spell_icon_id": 498,
+        "money_cost": 100000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hemorrhage (Rank 4)": {
+        "id": 26864,
+        "spell_icon_id": 153,
+        "money_cost": 2700,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Sinister Strike (Rank 10)": {
+        "id": 26862,
+        "spell_icon_id": 130,
+        "money_cost": 100000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mutilate (Rank 4)": {
+        "id": 34413,
+        "spell_icon_id": 2117,
+        "money_cost": 7500,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ambush (Rank 8)": {
+        "id": 48689,
+        "spell_icon_id": 856,
+        "money_cost": 140000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Deadly Throw (Rank 2)": {
+        "id": 48673,
+        "spell_icon_id": 2097,
+        "money_cost": 100000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shiv": {
+        "id": 5938,
+        "spell_icon_id": 1834,
+        "money_cost": 100000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Sap (Rank 4)": {
+        "id": 51724,
+        "spell_icon_id": 249,
+        "money_cost": 300000,
+        "Level": 71,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Feint (Rank 7)": {
+        "id": 48658,
+        "spell_icon_id": 539,
+        "money_cost": 300000,
+        "Level": 72,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Eviscerate (Rank 11)": {
+        "id": 48667,
+        "spell_icon_id": 514,
+        "money_cost": 300000,
+        "Level": 73,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Envenom (Rank 3)": {
+        "id": 57992,
+        "spell_icon_id": 2237,
+        "money_cost": 300000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rupture (Rank 8)": {
+        "id": 48671,
+        "spell_icon_id": 500,
+        "money_cost": 300000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Backstab (Rank 11)": {
+        "id": 48656,
+        "spell_icon_id": 243,
+        "money_cost": 300000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Tricks of the Trade": {
+        "id": 57934,
+        "spell_icon_id": 3413,
+        "money_cost": 300000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ambush (Rank 9)": {
+        "id": 48690,
+        "spell_icon_id": 856,
+        "money_cost": 300000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Garrote (Rank 9)": {
+        "id": 48675,
+        "spell_icon_id": 498,
+        "money_cost": 300000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mutilate (Rank 5)": {
+        "id": 48663,
+        "spell_icon_id": 2117,
+        "money_cost": 15000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Deadly Throw (Rank 3)": {
+        "id": 48674,
+        "spell_icon_id": 2097,
+        "money_cost": 300000,
+        "Level": 76,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Sinister Strike (Rank 11)": {
+        "id": 48637,
+        "spell_icon_id": 130,
+        "money_cost": 300000,
+        "Level": 76,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Feint (Rank 8)": {
+        "id": 48659,
+        "spell_icon_id": 539,
+        "money_cost": 300000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rupture (Rank 9)": {
+        "id": 48672,
+        "spell_icon_id": 500,
+        "money_cost": 300000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Eviscerate (Rank 12)": {
+        "id": 48668,
+        "spell_icon_id": 514,
+        "money_cost": 300000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Envenom (Rank 4)": {
+        "id": 57993,
+        "spell_icon_id": 2237,
+        "money_cost": 300000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fan of Knives": {
+        "id": 51723,
+        "spell_icon_id": 2904,
+        "money_cost": 300000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ambush (Rank 10)": {
+        "id": 48691,
+        "spell_icon_id": 856,
+        "money_cost": 300000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Garrote (Rank 10)": {
+        "id": 48676,
+        "spell_icon_id": 498,
+        "money_cost": 300000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mutilate (Rank 6)": {
+        "id": 48666,
+        "spell_icon_id": 2117,
+        "money_cost": 15000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hemorrhage (Rank 5)": {
+        "id": 48660,
+        "spell_icon_id": 153,
+        "money_cost": 15000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Backstab (Rank 12)": {
+        "id": 48657,
+        "spell_icon_id": 243,
+        "money_cost": 300000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Sinister Strike (Rank 12)": {
+        "id": 48638,
+        "spell_icon_id": 130,
+        "money_cost": 300000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    }
+}

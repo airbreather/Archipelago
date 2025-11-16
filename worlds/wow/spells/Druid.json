@@ -1,0 +1,2922 @@
+{
+    "Mark of the Wild (Rank 1)": {
+        "id": 1126,
+        "spell_icon_id": 123,
+        "money_cost": 10,
+        "Level": 1,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Moonfire (Rank 1)": {
+        "id": 8921,
+        "spell_icon_id": 225,
+        "money_cost": 100,
+        "Level": 4,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rejuvenation (Rank 1)": {
+        "id": 774,
+        "spell_icon_id": 64,
+        "money_cost": 100,
+        "Level": 4,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Wrath (Rank 2)": {
+        "id": 5177,
+        "spell_icon_id": 263,
+        "money_cost": 100,
+        "Level": 6,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Thorns (Rank 1)": {
+        "id": 467,
+        "spell_icon_id": 53,
+        "money_cost": 100,
+        "Level": 6,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Touch (Rank 2)": {
+        "id": 5186,
+        "spell_icon_id": 962,
+        "money_cost": 200,
+        "Level": 8,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Entangling Roots (Rank 1)": {
+        "id": 339,
+        "spell_icon_id": 20,
+        "money_cost": 200,
+        "Level": 8,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Nature's Grasp (Rank 1)": {
+        "id": 16689,
+        "spell_icon_id": 168,
+        "money_cost": 300,
+        "Level": 10,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Moonfire (Rank 2)": {
+        "id": 8924,
+        "spell_icon_id": 225,
+        "money_cost": 300,
+        "Level": 10,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mark of the Wild (Rank 2)": {
+        "id": 5232,
+        "spell_icon_id": 123,
+        "money_cost": 300,
+        "Level": 10,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rejuvenation (Rank 2)": {
+        "id": 1058,
+        "spell_icon_id": 64,
+        "money_cost": 300,
+        "Level": 10,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Demoralizing Roar (Rank 1)": {
+        "id": 99,
+        "spell_icon_id": 960,
+        "money_cost": 300,
+        "Level": 10,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Revive (Rank 1)": {
+        "id": 50769,
+        "spell_icon_id": 2256,
+        "money_cost": 800,
+        "Level": 12,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Regrowth (Rank 1)": {
+        "id": 8936,
+        "spell_icon_id": 197,
+        "money_cost": 800,
+        "Level": 12,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Enrage": {
+        "id": 5229,
+        "spell_icon_id": 961,
+        "money_cost": 800,
+        "Level": 12,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Bash (Rank 1)": {
+        "id": 5211,
+        "spell_icon_id": 473,
+        "money_cost": 900,
+        "Level": 14,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Touch (Rank 3)": {
+        "id": 5187,
+        "spell_icon_id": 962,
+        "money_cost": 900,
+        "Level": 14,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Wrath (Rank 3)": {
+        "id": 5178,
+        "spell_icon_id": 263,
+        "money_cost": 900,
+        "Level": 14,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Thorns (Rank 2)": {
+        "id": 782,
+        "spell_icon_id": 53,
+        "money_cost": 900,
+        "Level": 14,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Moonfire (Rank 3)": {
+        "id": 8925,
+        "spell_icon_id": 225,
+        "money_cost": 1800,
+        "Level": 16,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rejuvenation (Rank 3)": {
+        "id": 1430,
+        "spell_icon_id": 64,
+        "money_cost": 1800,
+        "Level": 16,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Aquatic Form": {
+        "id": 1066,
+        "spell_icon_id": 1475,
+        "money_cost": 900,
+        "Level": 16,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Travel Form": {
+        "id": 783,
+        "spell_icon_id": 1476,
+        "money_cost": 6000,
+        "Level": 16,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Swipe (Bear) (Rank 1)": {
+        "id": 779,
+        "spell_icon_id": 1562,
+        "money_cost": 1800,
+        "Level": 16,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Faerie Fire (Feral)": {
+        "id": 16857,
+        "spell_icon_id": 109,
+        "money_cost": 1900,
+        "Level": 18,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Nature's Grasp (Rank 2)": {
+        "id": 16810,
+        "spell_icon_id": 168,
+        "money_cost": 1900,
+        "Level": 18,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Regrowth (Rank 2)": {
+        "id": 8938,
+        "spell_icon_id": 197,
+        "money_cost": 1900,
+        "Level": 18,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Maul (Rank 2)": {
+        "id": 6808,
+        "spell_icon_id": 261,
+        "money_cost": 1900,
+        "Level": 18,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hibernate (Rank 1)": {
+        "id": 2637,
+        "spell_icon_id": 44,
+        "money_cost": 1900,
+        "Level": 18,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Entangling Roots (Rank 2)": {
+        "id": 1062,
+        "spell_icon_id": 20,
+        "money_cost": 1900,
+        "Level": 18,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Faerie Fire": {
+        "id": 770,
+        "spell_icon_id": 109,
+        "money_cost": 1900,
+        "Level": 18,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mark of the Wild (Rank 3)": {
+        "id": 6756,
+        "spell_icon_id": 123,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Prowl": {
+        "id": 5215,
+        "spell_icon_id": 103,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Touch (Rank 4)": {
+        "id": 5188,
+        "spell_icon_id": 962,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Starfire (Rank 1)": {
+        "id": 2912,
+        "spell_icon_id": 1485,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Demoralizing Roar (Rank 2)": {
+        "id": 1735,
+        "spell_icon_id": 960,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Claw (Rank 1)": {
+        "id": 1082,
+        "spell_icon_id": 262,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rip (Rank 1)": {
+        "id": 1079,
+        "spell_icon_id": 108,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Cat Form": {
+        "id": 768,
+        "spell_icon_id": 493,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": true
+    },
+    "Rebirth (Rank 1)": {
+        "id": 20484,
+        "spell_icon_id": 24,
+        "money_cost": 2000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Moonfire (Rank 4)": {
+        "id": 8926,
+        "spell_icon_id": 225,
+        "money_cost": 3000,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shred (Rank 1)": {
+        "id": 5221,
+        "spell_icon_id": 147,
+        "money_cost": 3000,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Wrath (Rank 4)": {
+        "id": 5179,
+        "spell_icon_id": 263,
+        "money_cost": 3000,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Soothe Animal (Rank 1)": {
+        "id": 2908,
+        "spell_icon_id": 454,
+        "money_cost": 3000,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rejuvenation (Rank 4)": {
+        "id": 2090,
+        "spell_icon_id": 64,
+        "money_cost": 3000,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Revive (Rank 2)": {
+        "id": 50768,
+        "spell_icon_id": 2256,
+        "money_cost": 4000,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Regrowth (Rank 3)": {
+        "id": 8939,
+        "spell_icon_id": 197,
+        "money_cost": 4000,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Tiger's Fury (Rank 1)": {
+        "id": 5217,
+        "spell_icon_id": 1181,
+        "money_cost": 4000,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Remove Curse": {
+        "id": 2782,
+        "spell_icon_id": 236,
+        "money_cost": 4000,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rake (Rank 1)": {
+        "id": 1822,
+        "spell_icon_id": 494,
+        "money_cost": 4000,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Thorns (Rank 3)": {
+        "id": 1075,
+        "spell_icon_id": 53,
+        "money_cost": 4000,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Swipe (Bear) (Rank 2)": {
+        "id": 780,
+        "spell_icon_id": 1562,
+        "money_cost": 4000,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Starfire (Rank 2)": {
+        "id": 8949,
+        "spell_icon_id": 1485,
+        "money_cost": 4500,
+        "Level": 26,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Maul (Rank 3)": {
+        "id": 6809,
+        "spell_icon_id": 261,
+        "money_cost": 4500,
+        "Level": 26,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Touch (Rank 5)": {
+        "id": 5189,
+        "spell_icon_id": 962,
+        "money_cost": 4500,
+        "Level": 26,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Abolish Poison": {
+        "id": 2893,
+        "spell_icon_id": 265,
+        "money_cost": 4500,
+        "Level": 26,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Dash (Rank 1)": {
+        "id": 1850,
+        "spell_icon_id": 959,
+        "money_cost": 4500,
+        "Level": 26,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Nature's Grasp (Rank 3)": {
+        "id": 16811,
+        "spell_icon_id": 168,
+        "money_cost": 5000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rip (Rank 2)": {
+        "id": 9492,
+        "spell_icon_id": 108,
+        "money_cost": 5000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Cower (Rank 1)": {
+        "id": 8998,
+        "spell_icon_id": 958,
+        "money_cost": 5000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Moonfire (Rank 5)": {
+        "id": 8927,
+        "spell_icon_id": 225,
+        "money_cost": 5000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Challenging Roar": {
+        "id": 5209,
+        "spell_icon_id": 957,
+        "money_cost": 5000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Entangling Roots (Rank 3)": {
+        "id": 5195,
+        "spell_icon_id": 20,
+        "money_cost": 5000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Claw (Rank 2)": {
+        "id": 3029,
+        "spell_icon_id": 262,
+        "money_cost": 5000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rejuvenation (Rank 5)": {
+        "id": 2091,
+        "spell_icon_id": 64,
+        "money_cost": 5000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Regrowth (Rank 4)": {
+        "id": 8940,
+        "spell_icon_id": 197,
+        "money_cost": 6000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shred (Rank 2)": {
+        "id": 6800,
+        "spell_icon_id": 147,
+        "money_cost": 6000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Bash (Rank 2)": {
+        "id": 6798,
+        "spell_icon_id": 473,
+        "money_cost": 6000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mark of the Wild (Rank 4)": {
+        "id": 5234,
+        "spell_icon_id": 123,
+        "money_cost": 6000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Wrath (Rank 5)": {
+        "id": 5180,
+        "spell_icon_id": 263,
+        "money_cost": 6000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Tranquility (Rank 1)": {
+        "id": 740,
+        "spell_icon_id": 100,
+        "money_cost": 6000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Insect Swarm (Rank 2)": {
+        "id": 24974,
+        "spell_icon_id": 1771,
+        "money_cost": 6000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rebirth (Rank 2)": {
+        "id": 20739,
+        "spell_icon_id": 24,
+        "money_cost": 6000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Demoralizing Roar (Rank 3)": {
+        "id": 9490,
+        "spell_icon_id": 960,
+        "money_cost": 8000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ravage (Rank 1)": {
+        "id": 6785,
+        "spell_icon_id": 1531,
+        "money_cost": 8000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Touch (Rank 6)": {
+        "id": 6778,
+        "spell_icon_id": 962,
+        "money_cost": 8000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ferocious Bite (Rank 1)": {
+        "id": 22568,
+        "spell_icon_id": 1680,
+        "money_cost": 8000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Maul (Rank 4)": {
+        "id": 8972,
+        "spell_icon_id": 261,
+        "money_cost": 10000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Starfire (Rank 3)": {
+        "id": 8950,
+        "spell_icon_id": 1485,
+        "money_cost": 10000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Moonfire (Rank 6)": {
+        "id": 8928,
+        "spell_icon_id": 225,
+        "money_cost": 10000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Thorns (Rank 4)": {
+        "id": 8914,
+        "spell_icon_id": 53,
+        "money_cost": 10000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rejuvenation (Rank 6)": {
+        "id": 3627,
+        "spell_icon_id": 64,
+        "money_cost": 10000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rake (Rank 2)": {
+        "id": 1823,
+        "spell_icon_id": 494,
+        "money_cost": 10000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Swipe (Bear) (Rank 3)": {
+        "id": 769,
+        "spell_icon_id": 1562,
+        "money_cost": 10000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Revive (Rank 3)": {
+        "id": 50767,
+        "spell_icon_id": 2256,
+        "money_cost": 11000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rip (Rank 3)": {
+        "id": 9493,
+        "spell_icon_id": 108,
+        "money_cost": 11000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Pounce (Rank 1)": {
+        "id": 9005,
+        "spell_icon_id": 495,
+        "money_cost": 11000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Regrowth (Rank 5)": {
+        "id": 8941,
+        "spell_icon_id": 197,
+        "money_cost": 11000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Tiger's Fury (Rank 2)": {
+        "id": 6793,
+        "spell_icon_id": 1181,
+        "money_cost": 11000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frenzied Regeneration": {
+        "id": 22842,
+        "spell_icon_id": 50,
+        "money_cost": 11000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Nature's Grasp (Rank 4)": {
+        "id": 16812,
+        "spell_icon_id": 168,
+        "money_cost": 12000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shred (Rank 3)": {
+        "id": 8992,
+        "spell_icon_id": 147,
+        "money_cost": 12000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Soothe Animal (Rank 2)": {
+        "id": 8955,
+        "spell_icon_id": 454,
+        "money_cost": 12000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Touch (Rank 7)": {
+        "id": 8903,
+        "spell_icon_id": 962,
+        "money_cost": 12000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Wrath (Rank 6)": {
+        "id": 6780,
+        "spell_icon_id": 263,
+        "money_cost": 12000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Claw (Rank 3)": {
+        "id": 5201,
+        "spell_icon_id": 262,
+        "money_cost": 12000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Entangling Roots (Rank 4)": {
+        "id": 5196,
+        "spell_icon_id": 20,
+        "money_cost": 12000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hibernate (Rank 2)": {
+        "id": 18657,
+        "spell_icon_id": 44,
+        "money_cost": 12000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hurricane (Rank 1)": {
+        "id": 16914,
+        "spell_icon_id": 220,
+        "money_cost": 14000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Innervate": {
+        "id": 29166,
+        "spell_icon_id": 62,
+        "money_cost": 14000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Dire Bear Form": {
+        "id": 9634,
+        "spell_icon_id": 107,
+        "money_cost": 14000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Cower (Rank 2)": {
+        "id": 9000,
+        "spell_icon_id": 958,
+        "money_cost": 14000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Moonfire (Rank 7)": {
+        "id": 8929,
+        "spell_icon_id": 225,
+        "money_cost": 14000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Tranquility (Rank 2)": {
+        "id": 8918,
+        "spell_icon_id": 100,
+        "money_cost": 14000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rejuvenation (Rank 7)": {
+        "id": 8910,
+        "spell_icon_id": 64,
+        "money_cost": 14000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mark of the Wild (Rank 5)": {
+        "id": 8907,
+        "spell_icon_id": 123,
+        "money_cost": 14000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Insect Swarm (Rank 3)": {
+        "id": 24975,
+        "spell_icon_id": 1771,
+        "money_cost": 14000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ferocious Bite (Rank 2)": {
+        "id": 22827,
+        "spell_icon_id": 1680,
+        "money_cost": 14000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rebirth (Rank 3)": {
+        "id": 20742,
+        "spell_icon_id": 24,
+        "money_cost": 14000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Regrowth (Rank 6)": {
+        "id": 9750,
+        "spell_icon_id": 197,
+        "money_cost": 16000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Demoralizing Roar (Rank 4)": {
+        "id": 9747,
+        "spell_icon_id": 960,
+        "money_cost": 16000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Maul (Rank 5)": {
+        "id": 9745,
+        "spell_icon_id": 261,
+        "money_cost": 16000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Starfire (Rank 4)": {
+        "id": 8951,
+        "spell_icon_id": 1485,
+        "money_cost": 16000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ravage (Rank 2)": {
+        "id": 6787,
+        "spell_icon_id": 1531,
+        "money_cost": 16000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Touch (Rank 8)": {
+        "id": 9758,
+        "spell_icon_id": 962,
+        "money_cost": 18000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Thorns (Rank 5)": {
+        "id": 9756,
+        "spell_icon_id": 53,
+        "money_cost": 18000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Swipe (Bear) (Rank 4)": {
+        "id": 9754,
+        "spell_icon_id": 1562,
+        "money_cost": 18000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rip (Rank 4)": {
+        "id": 9752,
+        "spell_icon_id": 108,
+        "money_cost": 18000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rake (Rank 3)": {
+        "id": 1824,
+        "spell_icon_id": 494,
+        "money_cost": 18000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Barkskin": {
+        "id": 22812,
+        "spell_icon_id": 689,
+        "money_cost": 18000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rejuvenation (Rank 8)": {
+        "id": 9839,
+        "spell_icon_id": 64,
+        "money_cost": 20000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Moonfire (Rank 8)": {
+        "id": 9833,
+        "spell_icon_id": 225,
+        "money_cost": 20000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shred (Rank 4)": {
+        "id": 9829,
+        "spell_icon_id": 147,
+        "money_cost": 20000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Pounce (Rank 2)": {
+        "id": 9823,
+        "spell_icon_id": 495,
+        "money_cost": 20000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Dash (Rank 2)": {
+        "id": 9821,
+        "spell_icon_id": 959,
+        "money_cost": 20000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Bash (Rank 3)": {
+        "id": 8983,
+        "spell_icon_id": 473,
+        "money_cost": 20000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Wrath (Rank 7)": {
+        "id": 8905,
+        "spell_icon_id": 263,
+        "money_cost": 20000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Nature's Grasp (Rank 5)": {
+        "id": 16813,
+        "spell_icon_id": 168,
+        "money_cost": 22000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Revive (Rank 4)": {
+        "id": 50766,
+        "spell_icon_id": 2256,
+        "money_cost": 22000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Regrowth (Rank 7)": {
+        "id": 9856,
+        "spell_icon_id": 197,
+        "money_cost": 22000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Entangling Roots (Rank 5)": {
+        "id": 9852,
+        "spell_icon_id": 20,
+        "money_cost": 22000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Claw (Rank 4)": {
+        "id": 9849,
+        "spell_icon_id": 262,
+        "money_cost": 22000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Tiger's Fury (Rank 3)": {
+        "id": 9845,
+        "spell_icon_id": 1181,
+        "money_cost": 22000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ferocious Bite (Rank 3)": {
+        "id": 22828,
+        "spell_icon_id": 1680,
+        "money_cost": 22000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hurricane (Rank 2)": {
+        "id": 17401,
+        "spell_icon_id": 220,
+        "money_cost": 23000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Touch (Rank 9)": {
+        "id": 9888,
+        "spell_icon_id": 962,
+        "money_cost": 23000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mark of the Wild (Rank 6)": {
+        "id": 9884,
+        "spell_icon_id": 123,
+        "money_cost": 23000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Maul (Rank 6)": {
+        "id": 9880,
+        "spell_icon_id": 261,
+        "money_cost": 23000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Starfire (Rank 5)": {
+        "id": 9875,
+        "spell_icon_id": 1485,
+        "money_cost": 23000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ravage (Rank 3)": {
+        "id": 9866,
+        "spell_icon_id": 1531,
+        "money_cost": 23000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Tranquility (Rank 3)": {
+        "id": 9862,
+        "spell_icon_id": 100,
+        "money_cost": 23000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Insect Swarm (Rank 4)": {
+        "id": 24976,
+        "spell_icon_id": 1771,
+        "money_cost": 12000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Gift of the Wild (Rank 1)": {
+        "id": 21849,
+        "spell_icon_id": 2435,
+        "money_cost": 23000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rebirth (Rank 4)": {
+        "id": 20747,
+        "spell_icon_id": 24,
+        "money_cost": 23000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Demoralizing Roar (Rank 5)": {
+        "id": 9898,
+        "spell_icon_id": 960,
+        "money_cost": 26000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rip (Rank 5)": {
+        "id": 9894,
+        "spell_icon_id": 108,
+        "money_cost": 26000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Cower (Rank 3)": {
+        "id": 9892,
+        "spell_icon_id": 958,
+        "money_cost": 26000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rejuvenation (Rank 9)": {
+        "id": 9840,
+        "spell_icon_id": 64,
+        "money_cost": 26000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Moonfire (Rank 9)": {
+        "id": 9834,
+        "spell_icon_id": 225,
+        "money_cost": 26000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Wrath (Rank 8)": {
+        "id": 9912,
+        "spell_icon_id": 263,
+        "money_cost": 28000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Thorns (Rank 6)": {
+        "id": 9910,
+        "spell_icon_id": 53,
+        "money_cost": 28000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Swipe (Bear) (Rank 5)": {
+        "id": 9908,
+        "spell_icon_id": 1562,
+        "money_cost": 28000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rake (Rank 4)": {
+        "id": 9904,
+        "spell_icon_id": 494,
+        "money_cost": 28000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Soothe Animal (Rank 3)": {
+        "id": 9901,
+        "spell_icon_id": 454,
+        "money_cost": 28000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Regrowth (Rank 8)": {
+        "id": 9857,
+        "spell_icon_id": 197,
+        "money_cost": 28000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shred (Rank 5)": {
+        "id": 9830,
+        "spell_icon_id": 147,
+        "money_cost": 28000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Touch (Rank 10)": {
+        "id": 9889,
+        "spell_icon_id": 962,
+        "money_cost": 30000,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Pounce (Rank 3)": {
+        "id": 9827,
+        "spell_icon_id": 495,
+        "money_cost": 30000,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ferocious Bite (Rank 4)": {
+        "id": 22829,
+        "spell_icon_id": 1680,
+        "money_cost": 30000,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Nature's Grasp (Rank 6)": {
+        "id": 17329,
+        "spell_icon_id": 168,
+        "money_cost": 32000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mangle (Bear) (Rank 2)": {
+        "id": 33986,
+        "spell_icon_id": 2312,
+        "money_cost": 1700,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mangle (Cat) (Rank 2)": {
+        "id": 33982,
+        "spell_icon_id": 2312,
+        "money_cost": 1700,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Maul (Rank 7)": {
+        "id": 9881,
+        "spell_icon_id": 261,
+        "money_cost": 32000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Starfire (Rank 6)": {
+        "id": 9876,
+        "spell_icon_id": 1485,
+        "money_cost": 32000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ravage (Rank 4)": {
+        "id": 9867,
+        "spell_icon_id": 1531,
+        "money_cost": 32000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Entangling Roots (Rank 6)": {
+        "id": 9853,
+        "spell_icon_id": 20,
+        "money_cost": 32000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Claw (Rank 5)": {
+        "id": 9850,
+        "spell_icon_id": 262,
+        "money_cost": 32000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rejuvenation (Rank 10)": {
+        "id": 9841,
+        "spell_icon_id": 64,
+        "money_cost": 32000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Moonfire (Rank 10)": {
+        "id": 9835,
+        "spell_icon_id": 225,
+        "money_cost": 32000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hibernate (Rank 3)": {
+        "id": 18658,
+        "spell_icon_id": 44,
+        "money_cost": 32000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hurricane (Rank 3)": {
+        "id": 17402,
+        "spell_icon_id": 220,
+        "money_cost": 34000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ferocious Bite (Rank 5)": {
+        "id": 31018,
+        "spell_icon_id": 1680,
+        "money_cost": 30000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rejuvenation (Rank 11)": {
+        "id": 25299,
+        "spell_icon_id": 64,
+        "money_cost": 34000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Starfire (Rank 7)": {
+        "id": 25298,
+        "spell_icon_id": 1485,
+        "money_cost": 34000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Touch (Rank 11)": {
+        "id": 25297,
+        "spell_icon_id": 962,
+        "money_cost": 34000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Typhoon (Rank 2)": {
+        "id": 53223,
+        "spell_icon_id": 2838,
+        "money_cost": 600,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Cower (Rank 4)": {
+        "id": 31709,
+        "spell_icon_id": 958,
+        "money_cost": 34000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Revive (Rank 5)": {
+        "id": 50765,
+        "spell_icon_id": 2256,
+        "money_cost": 34000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rip (Rank 6)": {
+        "id": 9896,
+        "spell_icon_id": 108,
+        "money_cost": 34000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mark of the Wild (Rank 7)": {
+        "id": 9885,
+        "spell_icon_id": 123,
+        "money_cost": 34000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Tranquility (Rank 4)": {
+        "id": 9863,
+        "spell_icon_id": 100,
+        "money_cost": 34000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Regrowth (Rank 9)": {
+        "id": 9858,
+        "spell_icon_id": 197,
+        "money_cost": 34000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Tiger's Fury (Rank 4)": {
+        "id": 9846,
+        "spell_icon_id": 1181,
+        "money_cost": 34000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Insect Swarm (Rank 5)": {
+        "id": 24977,
+        "spell_icon_id": 1771,
+        "money_cost": 34000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Gift of the Wild (Rank 2)": {
+        "id": 21850,
+        "spell_icon_id": 2435,
+        "money_cost": 34000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rebirth (Rank 5)": {
+        "id": 20748,
+        "spell_icon_id": 24,
+        "money_cost": 34000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shred (Rank 6)": {
+        "id": 27001,
+        "spell_icon_id": 147,
+        "money_cost": 39000,
+        "Level": 61,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Wrath (Rank 9)": {
+        "id": 26984,
+        "spell_icon_id": 263,
+        "money_cost": 39000,
+        "Level": 61,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Demoralizing Roar (Rank 6)": {
+        "id": 26998,
+        "spell_icon_id": 960,
+        "money_cost": 43000,
+        "Level": 62,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Touch (Rank 12)": {
+        "id": 26978,
+        "spell_icon_id": 962,
+        "money_cost": 43000,
+        "Level": 62,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Maim (Rank 1)": {
+        "id": 22570,
+        "spell_icon_id": 1681,
+        "money_cost": 43000,
+        "Level": 62,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Moonfire (Rank 11)": {
+        "id": 26987,
+        "spell_icon_id": 225,
+        "money_cost": 48000,
+        "Level": 63,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rejuvenation (Rank 12)": {
+        "id": 26981,
+        "spell_icon_id": 64,
+        "money_cost": 48000,
+        "Level": 63,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ferocious Bite (Rank 6)": {
+        "id": 24248,
+        "spell_icon_id": 1680,
+        "money_cost": 48000,
+        "Level": 63,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rake (Rank 5)": {
+        "id": 27003,
+        "spell_icon_id": 494,
+        "money_cost": 53000,
+        "Level": 64,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Swipe (Bear) (Rank 6)": {
+        "id": 26997,
+        "spell_icon_id": 1562,
+        "money_cost": 53000,
+        "Level": 64,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Thorns (Rank 7)": {
+        "id": 26992,
+        "spell_icon_id": 53,
+        "money_cost": 53000,
+        "Level": 64,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lifebloom (Rank 1)": {
+        "id": 33763,
+        "spell_icon_id": 2101,
+        "money_cost": 53000,
+        "Level": 64,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Regrowth (Rank 10)": {
+        "id": 26980,
+        "spell_icon_id": 197,
+        "money_cost": 59000,
+        "Level": 65,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Dash (Rank 3)": {
+        "id": 33357,
+        "spell_icon_id": 959,
+        "money_cost": 59000,
+        "Level": 65,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Pounce (Rank 4)": {
+        "id": 27006,
+        "spell_icon_id": 495,
+        "money_cost": 66000,
+        "Level": 66,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ravage (Rank 5)": {
+        "id": 27005,
+        "spell_icon_id": 1531,
+        "money_cost": 66000,
+        "Level": 66,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lacerate (Rank 1)": {
+        "id": 33745,
+        "spell_icon_id": 2246,
+        "money_cost": 66000,
+        "Level": 66,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rip (Rank 7)": {
+        "id": 27008,
+        "spell_icon_id": 108,
+        "money_cost": 73000,
+        "Level": 67,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Claw (Rank 6)": {
+        "id": 27000,
+        "spell_icon_id": 262,
+        "money_cost": 73000,
+        "Level": 67,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Maul (Rank 8)": {
+        "id": 26996,
+        "spell_icon_id": 261,
+        "money_cost": 73000,
+        "Level": 67,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Starfire (Rank 8)": {
+        "id": 26986,
+        "spell_icon_id": 1485,
+        "money_cost": 73000,
+        "Level": 67,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Nature's Grasp (Rank 7)": {
+        "id": 27009,
+        "spell_icon_id": 168,
+        "money_cost": 81000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Entangling Roots (Rank 7)": {
+        "id": 26989,
+        "spell_icon_id": 20,
+        "money_cost": 81000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mangle (Bear) (Rank 3)": {
+        "id": 33987,
+        "spell_icon_id": 2312,
+        "money_cost": 1900,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mangle (Cat) (Rank 3)": {
+        "id": 33983,
+        "spell_icon_id": 2312,
+        "money_cost": 1700,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Cower (Rank 5)": {
+        "id": 27004,
+        "spell_icon_id": 958,
+        "money_cost": 90000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rebirth (Rank 6)": {
+        "id": 26994,
+        "spell_icon_id": 24,
+        "money_cost": 90000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Wrath (Rank 10)": {
+        "id": 26985,
+        "spell_icon_id": 263,
+        "money_cost": 90000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rejuvenation (Rank 13)": {
+        "id": 26982,
+        "spell_icon_id": 64,
+        "money_cost": 90000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Touch (Rank 13)": {
+        "id": 26979,
+        "spell_icon_id": 962,
+        "money_cost": 90000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Revive (Rank 6)": {
+        "id": 50764,
+        "spell_icon_id": 2256,
+        "money_cost": 90000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Insect Swarm (Rank 6)": {
+        "id": 27013,
+        "spell_icon_id": 1771,
+        "money_cost": 200000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hurricane (Rank 4)": {
+        "id": 27012,
+        "spell_icon_id": 220,
+        "money_cost": 100000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shred (Rank 7)": {
+        "id": 27002,
+        "spell_icon_id": 147,
+        "money_cost": 100000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Soothe Animal (Rank 4)": {
+        "id": 26995,
+        "spell_icon_id": 454,
+        "money_cost": 100000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Gift of the Wild (Rank 3)": {
+        "id": 26991,
+        "spell_icon_id": 2435,
+        "money_cost": 100000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mark of the Wild (Rank 8)": {
+        "id": 26990,
+        "spell_icon_id": 123,
+        "money_cost": 100000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Moonfire (Rank 12)": {
+        "id": 26988,
+        "spell_icon_id": 225,
+        "money_cost": 100000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Tranquility (Rank 5)": {
+        "id": 26983,
+        "spell_icon_id": 100,
+        "money_cost": 100000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Wild Growth (Rank 2)": {
+        "id": 53248,
+        "spell_icon_id": 2864,
+        "money_cost": 1700,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Typhoon (Rank 3)": {
+        "id": 53225,
+        "spell_icon_id": 2838,
+        "money_cost": 1700,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Starfall (Rank 2)": {
+        "id": 53199,
+        "spell_icon_id": 2854,
+        "money_cost": 10000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Cyclone": {
+        "id": 33786,
+        "spell_icon_id": 174,
+        "money_cost": 100000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Tiger's Fury (Rank 5)": {
+        "id": 50212,
+        "spell_icon_id": 1181,
+        "money_cost": 200000,
+        "Level": 71,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rip (Rank 8)": {
+        "id": 49799,
+        "spell_icon_id": 108,
+        "money_cost": 200000,
+        "Level": 71,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Demoralizing Roar (Rank 7)": {
+        "id": 48559,
+        "spell_icon_id": 960,
+        "money_cost": 200000,
+        "Level": 71,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Regrowth (Rank 11)": {
+        "id": 48442,
+        "spell_icon_id": 197,
+        "money_cost": 200000,
+        "Level": 71,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Swipe (Cat) (Rank 1)": {
+        "id": 62078,
+        "spell_icon_id": 1562,
+        "money_cost": 200000,
+        "Level": 71,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ferocious Bite (Rank 7)": {
+        "id": 48576,
+        "spell_icon_id": 1680,
+        "money_cost": 200000,
+        "Level": 72,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rake (Rank 6)": {
+        "id": 48573,
+        "spell_icon_id": 494,
+        "money_cost": 200000,
+        "Level": 72,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Swipe (Bear) (Rank 7)": {
+        "id": 48561,
+        "spell_icon_id": 1562,
+        "money_cost": 200000,
+        "Level": 72,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Starfire (Rank 9)": {
+        "id": 48464,
+        "spell_icon_id": 1485,
+        "money_cost": 200000,
+        "Level": 72,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lifebloom (Rank 2)": {
+        "id": 48450,
+        "spell_icon_id": 2101,
+        "money_cost": 200000,
+        "Level": 72,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ravage (Rank 6)": {
+        "id": 48578,
+        "spell_icon_id": 1531,
+        "money_cost": 200000,
+        "Level": 73,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Claw (Rank 7)": {
+        "id": 48569,
+        "spell_icon_id": 262,
+        "money_cost": 200000,
+        "Level": 73,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lacerate (Rank 2)": {
+        "id": 48567,
+        "spell_icon_id": 2246,
+        "money_cost": 200000,
+        "Level": 73,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Maul (Rank 9)": {
+        "id": 48479,
+        "spell_icon_id": 261,
+        "money_cost": 200000,
+        "Level": 73,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Thorns (Rank 8)": {
+        "id": 53307,
+        "spell_icon_id": 53,
+        "money_cost": 200000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Maim (Rank 2)": {
+        "id": 49802,
+        "spell_icon_id": 1681,
+        "money_cost": 200000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Wrath (Rank 11)": {
+        "id": 48459,
+        "spell_icon_id": 263,
+        "money_cost": 200000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Touch (Rank 14)": {
+        "id": 48377,
+        "spell_icon_id": 962,
+        "money_cost": 200000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Wild Growth (Rank 3)": {
+        "id": 53249,
+        "spell_icon_id": 2864,
+        "money_cost": 10000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Typhoon (Rank 4)": {
+        "id": 53226,
+        "spell_icon_id": 2838,
+        "money_cost": 10000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Starfall (Rank 3)": {
+        "id": 53200,
+        "spell_icon_id": 2854,
+        "money_cost": 10000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Savage Roar (Rank 1)": {
+        "id": 52610,
+        "spell_icon_id": 2865,
+        "money_cost": 200000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shred (Rank 8)": {
+        "id": 48571,
+        "spell_icon_id": 147,
+        "money_cost": 200000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mangle (Cat) (Rank 4)": {
+        "id": 48565,
+        "spell_icon_id": 2312,
+        "money_cost": 10000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mangle (Bear) (Rank 4)": {
+        "id": 48563,
+        "spell_icon_id": 2312,
+        "money_cost": 10000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Moonfire (Rank 13)": {
+        "id": 48462,
+        "spell_icon_id": 225,
+        "money_cost": 200000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Tranquility (Rank 6)": {
+        "id": 48446,
+        "spell_icon_id": 100,
+        "money_cost": 200000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rejuvenation (Rank 14)": {
+        "id": 48440,
+        "spell_icon_id": 64,
+        "money_cost": 200000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Cower (Rank 6)": {
+        "id": 48575,
+        "spell_icon_id": 958,
+        "money_cost": 200000,
+        "Level": 76,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Pounce (Rank 5)": {
+        "id": 49803,
+        "spell_icon_id": 495,
+        "money_cost": 200000,
+        "Level": 77,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Swipe (Bear) (Rank 8)": {
+        "id": 48562,
+        "spell_icon_id": 1562,
+        "money_cost": 200000,
+        "Level": 77,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Demoralizing Roar (Rank 8)": {
+        "id": 48560,
+        "spell_icon_id": 960,
+        "money_cost": 200000,
+        "Level": 77,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Regrowth (Rank 12)": {
+        "id": 48443,
+        "spell_icon_id": 197,
+        "money_cost": 200000,
+        "Level": 77,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Nature's Grasp (Rank 8)": {
+        "id": 53312,
+        "spell_icon_id": 168,
+        "money_cost": 200000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Entangling Roots (Rank 8)": {
+        "id": 53308,
+        "spell_icon_id": 20,
+        "money_cost": 200000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ferocious Bite (Rank 8)": {
+        "id": 48577,
+        "spell_icon_id": 1680,
+        "money_cost": 200000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rake (Rank 7)": {
+        "id": 48574,
+        "spell_icon_id": 494,
+        "money_cost": 200000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Starfire (Rank 10)": {
+        "id": 48465,
+        "spell_icon_id": 1485,
+        "money_cost": 200000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Tiger's Fury (Rank 6)": {
+        "id": 50213,
+        "spell_icon_id": 1181,
+        "money_cost": 200000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ravage (Rank 7)": {
+        "id": 48579,
+        "spell_icon_id": 1531,
+        "money_cost": 200000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Claw (Rank 8)": {
+        "id": 48570,
+        "spell_icon_id": 262,
+        "money_cost": 200000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Maul (Rank 10)": {
+        "id": 48480,
+        "spell_icon_id": 261,
+        "money_cost": 200000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rebirth (Rank 7)": {
+        "id": 48477,
+        "spell_icon_id": 24,
+        "money_cost": 200000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Wrath (Rank 12)": {
+        "id": 48461,
+        "spell_icon_id": 263,
+        "money_cost": 200000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Touch (Rank 15)": {
+        "id": 48378,
+        "spell_icon_id": 962,
+        "money_cost": 200000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Wild Growth (Rank 4)": {
+        "id": 53251,
+        "spell_icon_id": 2864,
+        "money_cost": 10000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Starfall (Rank 4)": {
+        "id": 53201,
+        "spell_icon_id": 2854,
+        "money_cost": 10000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Typhoon (Rank 5)": {
+        "id": 61384,
+        "spell_icon_id": 2838,
+        "money_cost": 10000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Revive (Rank 7)": {
+        "id": 50763,
+        "spell_icon_id": 2256,
+        "money_cost": 200000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Nourish (Rank 1)": {
+        "id": 50464,
+        "spell_icon_id": 2863,
+        "money_cost": 200000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rip (Rank 9)": {
+        "id": 49800,
+        "spell_icon_id": 108,
+        "money_cost": 200000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shred (Rank 9)": {
+        "id": 48572,
+        "spell_icon_id": 147,
+        "money_cost": 200000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lacerate (Rank 3)": {
+        "id": 48568,
+        "spell_icon_id": 2246,
+        "money_cost": 200000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mangle (Cat) (Rank 5)": {
+        "id": 48566,
+        "spell_icon_id": 2312,
+        "money_cost": 10000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mangle (Bear) (Rank 5)": {
+        "id": 48564,
+        "spell_icon_id": 2312,
+        "money_cost": 10000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Gift of the Wild (Rank 4)": {
+        "id": 48470,
+        "spell_icon_id": 2435,
+        "money_cost": 200000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mark of the Wild (Rank 9)": {
+        "id": 48469,
+        "spell_icon_id": 123,
+        "money_cost": 200000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Insect Swarm (Rank 7)": {
+        "id": 48468,
+        "spell_icon_id": 1771,
+        "money_cost": 200000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hurricane (Rank 5)": {
+        "id": 48467,
+        "spell_icon_id": 220,
+        "money_cost": 200000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Moonfire (Rank 14)": {
+        "id": 48463,
+        "spell_icon_id": 225,
+        "money_cost": 200000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lifebloom (Rank 3)": {
+        "id": 48451,
+        "spell_icon_id": 2101,
+        "money_cost": 200000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Tranquility (Rank 7)": {
+        "id": 48447,
+        "spell_icon_id": 100,
+        "money_cost": 200000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rejuvenation (Rank 15)": {
+        "id": 48441,
+        "spell_icon_id": 64,
+        "money_cost": 200000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    }
+}

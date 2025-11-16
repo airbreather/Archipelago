@@ -1,0 +1,5015 @@
+{
+    "Reclaiming Sunstrider Isle": {
+        "ID": 8325,
+        "QuestLevel": 1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": 3431,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Reclaiming Sunstrider Isle",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Unfortunate Measures": {
+        "ID": 8326,
+        "QuestLevel": 3,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": 3431,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Unfortunate Measures",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Reclaiming Sunstrider Isle"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Report to Lanthan Perilon": {
+        "ID": 8327,
+        "QuestLevel": 3,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": 3431,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Report to Lanthan Perilon",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Unfortunate Measures"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Mage Training (Blood Elf) (1)": {
+        "ID": 8328,
+        "QuestLevel": 1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -161,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Mage Training",
+        "AllowableClasses": [
+            "Mage"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Reclaiming Sunstrider Isle"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Solanian's Belongings": {
+        "ID": 8330,
+        "QuestLevel": 4,
+        "MinLevel": 2,
+        "QuestInfoID": 0,
+        "QuestSortID": 3431,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Solanian's Belongings",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Aggression": {
+        "ID": 8334,
+        "QuestLevel": 4,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": 3431,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Aggression",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Report to Lanthan Perilon"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Felendren the Banished": {
+        "ID": 8335,
+        "QuestLevel": 5,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": 3431,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Felendren the Banished",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Aggression"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "A Fistful of Slivers": {
+        "ID": 8336,
+        "QuestLevel": 4,
+        "MinLevel": 2,
+        "QuestInfoID": 0,
+        "QuestSortID": 3431,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "A Fistful of Slivers",
+        "AllowableClasses": [],
+        "RewardSpell": 24829,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Tainted Arcane Sliver": {
+        "ID": 8338,
+        "QuestLevel": 4,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": 3431,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Tainted Arcane Sliver",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "The Shrine of Dath'Remar": {
+        "ID": 8345,
+        "QuestLevel": 4,
+        "MinLevel": 2,
+        "QuestInfoID": 0,
+        "QuestSortID": 3431,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "The Shrine of Dath'Remar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Thirst Unending": {
+        "ID": 8346,
+        "QuestLevel": 3,
+        "MinLevel": 2,
+        "QuestInfoID": 0,
+        "QuestSortID": 3431,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Thirst Unending",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Aiding the Outrunners": {
+        "ID": 8347,
+        "QuestLevel": 5,
+        "MinLevel": 4,
+        "QuestInfoID": 0,
+        "QuestSortID": 3431,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Aiding the Outrunners",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Felendren the Banished"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Completing the Delivery": {
+        "ID": 8350,
+        "QuestLevel": 5,
+        "MinLevel": 4,
+        "QuestInfoID": 0,
+        "QuestSortID": 3431,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Completing the Delivery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Package Recovery"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Unstable Mana Crystals": {
+        "ID": 8463,
+        "QuestLevel": 5,
+        "MinLevel": 4,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Unstable Mana Crystals",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Wanted: Thaelis the Hungerer": {
+        "ID": 8468,
+        "QuestLevel": 6,
+        "MinLevel": 4,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Wanted: Thaelis the Hungerer",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Major Malfunction": {
+        "ID": 8472,
+        "QuestLevel": 5,
+        "MinLevel": 4,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Major Malfunction",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "A Somber Task": {
+        "ID": 8473,
+        "QuestLevel": 9,
+        "MinLevel": 6,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Somber Task",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Scorched Grove"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Old Whitebark's Pendant": {
+        "ID": 8474,
+        "QuestLevel": 10,
+        "MinLevel": 7,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Old Whitebark's Pendant",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "The Dead Scar": {
+        "ID": 8475,
+        "QuestLevel": 6,
+        "MinLevel": 4,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Dead Scar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Amani Encroachment": {
+        "ID": 8476,
+        "QuestLevel": 10,
+        "MinLevel": 7,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Amani Encroachment",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Farstrider Retreat"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "The Spearcrafter's Hammer": {
+        "ID": 8477,
+        "QuestLevel": 10,
+        "MinLevel": 7,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Spearcrafter's Hammer",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Zul'Marosh": {
+        "ID": 8479,
+        "QuestLevel": 11,
+        "MinLevel": 8,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Zul'Marosh",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Lost Armaments": {
+        "ID": 8480,
+        "QuestLevel": 7,
+        "MinLevel": 5,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Lost Armaments",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Incriminating Documents": {
+        "ID": 8482,
+        "QuestLevel": 6,
+        "MinLevel": 4,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Incriminating Documents",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "The Dwarven Spy (2)": {
+        "ID": 8483,
+        "QuestLevel": 7,
+        "MinLevel": 4,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Dwarven Spy",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Incriminating Documents"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Arcane Instability": {
+        "ID": 8486,
+        "QuestLevel": 6,
+        "MinLevel": 4,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Arcane Instability",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Malfunction at the West Sanctum"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Corrupted Soil": {
+        "ID": 8487,
+        "QuestLevel": 9,
+        "MinLevel": 7,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Corrupted Soil",
+        "AllowableClasses": [],
+        "RewardSpell": 29535,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Wayward Apprentice"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Unexpected Results": {
+        "ID": 8488,
+        "QuestLevel": 9,
+        "MinLevel": 7,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Unexpected Results",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Corrupted Soil"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Powering our Defenses": {
+        "ID": 8490,
+        "QuestLevel": 10,
+        "MinLevel": 8,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Powering our Defenses",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Runewarden Deryan"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Pelt Collection": {
+        "ID": 8491,
+        "QuestLevel": 7,
+        "MinLevel": 4,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Pelt Collection",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Warlock Training": {
+        "ID": 8563,
+        "QuestLevel": 1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Warlock Training",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Reclaiming Sunstrider Isle"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Priest Training (Blood Elf) (1)": {
+        "ID": 8564,
+        "QuestLevel": 1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -262,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Priest Training",
+        "AllowableClasses": [
+            "Priest"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Reclaiming Sunstrider Isle"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Fish Heads, Fish Heads...": {
+        "ID": 8884,
+        "QuestLevel": 7,
+        "MinLevel": 5,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Fish Heads, Fish Heads...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "The Ring of Mmmrrrggglll": {
+        "ID": 8885,
+        "QuestLevel": 9,
+        "MinLevel": 5,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Ring of Mmmrrrggglll",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Fish Heads, Fish Heads..."
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Grimscale Pirates!": {
+        "ID": 8886,
+        "QuestLevel": 8,
+        "MinLevel": 5,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Grimscale Pirates!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Captain Kelisendra's Lost Rutters": {
+        "ID": 8887,
+        "QuestLevel": 8,
+        "MinLevel": 5,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Captain Kelisendra's Lost Rutters",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "The Magister's Apprentice": {
+        "ID": 8888,
+        "QuestLevel": 10,
+        "MinLevel": 8,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Magister's Apprentice",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Deactivating the Spire": {
+        "ID": 8889,
+        "QuestLevel": 10,
+        "MinLevel": 8,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Deactivating the Spire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Word from the Spire": {
+        "ID": 8890,
+        "QuestLevel": 10,
+        "MinLevel": 8,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Word from the Spire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Deactivating the Spire"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Abandoned Investigations": {
+        "ID": 8891,
+        "QuestLevel": 10,
+        "MinLevel": 8,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Abandoned Investigations",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Situation at Sunsail Anchorage": {
+        "ID": 8892,
+        "QuestLevel": 7,
+        "MinLevel": 5,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Situation at Sunsail Anchorage",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Fairbreeze Village"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Cleaning up the Grounds": {
+        "ID": 8894,
+        "QuestLevel": 10,
+        "MinLevel": 8,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Cleaning up the Grounds",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Where's Wyllithen?"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Delivery to the North Sanctum": {
+        "ID": 8895,
+        "QuestLevel": 6,
+        "MinLevel": 4,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Delivery to the North Sanctum",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Major Malfunction"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Roadside Ambush": {
+        "ID": 9035,
+        "QuestLevel": 6,
+        "MinLevel": 4,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Roadside Ambush",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Soaked Pages": {
+        "ID": 9062,
+        "QuestLevel": 6,
+        "MinLevel": 4,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Soaked Pages",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Taking the Fall": {
+        "ID": 9064,
+        "QuestLevel": 6,
+        "MinLevel": 4,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Taking the Fall",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Soaked Pages"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Swift Discipline": {
+        "ID": 9066,
+        "QuestLevel": 6,
+        "MinLevel": 4,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Swift Discipline",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Taking the Fall"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "The Party Never Ends": {
+        "ID": 9067,
+        "QuestLevel": 9,
+        "MinLevel": 7,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Party Never Ends",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Saltheril's Haven"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Wretched Ringleader": {
+        "ID": 9076,
+        "QuestLevel": 8,
+        "MinLevel": 5,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Wretched Ringleader",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Lost Armaments"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Malfunction at the West Sanctum": {
+        "ID": 9119,
+        "QuestLevel": 5,
+        "MinLevel": 4,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Malfunction at the West Sanctum",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Delivery to the North Sanctum"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Skymistress Gloaming": {
+        "ID": 9134,
+        "QuestLevel": 10,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Skymistress Gloaming",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Fly to Silvermoon City"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Return to Quartermaster Lymel": {
+        "ID": 9135,
+        "QuestLevel": 10,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Return to Quartermaster Lymel",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Skymistress Gloaming"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Missing in the Ghostlands": {
+        "ID": 9144,
+        "QuestLevel": 10,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Missing in the Ghostlands",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "The Fallen Courier": {
+        "ID": 9147,
+        "QuestLevel": 10,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Fallen Courier",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Missing in the Ghostlands"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Delivery to Tranquillien": {
+        "ID": 9148,
+        "QuestLevel": 10,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 3433,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Delivery to Tranquillien",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Fallen Courier"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Defending Fairbreeze Village": {
+        "ID": 9252,
+        "QuestLevel": 9,
+        "MinLevel": 7,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Defending Fairbreeze Village",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Runewarden Deryan": {
+        "ID": 9253,
+        "QuestLevel": 10,
+        "MinLevel": 8,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Runewarden Deryan",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Defending Fairbreeze Village"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "The Wayward Apprentice": {
+        "ID": 9254,
+        "QuestLevel": 9,
+        "MinLevel": 7,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Wayward Apprentice",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Research Notes": {
+        "ID": 9255,
+        "QuestLevel": 9,
+        "MinLevel": 7,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Research Notes",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Unexpected Results"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Fairbreeze Village": {
+        "ID": 9256,
+        "QuestLevel": 7,
+        "MinLevel": 6,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Fairbreeze Village",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Dwarven Spy (2)"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "The Scorched Grove": {
+        "ID": 9258,
+        "QuestLevel": 10,
+        "MinLevel": 8,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Scorched Grove",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Darnassian Intrusions": {
+        "ID": 9352,
+        "QuestLevel": 6,
+        "MinLevel": 4,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Darnassian Intrusions",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Unstable Mana Crystals"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Ranger Sareyn": {
+        "ID": 9358,
+        "QuestLevel": 9,
+        "MinLevel": 8,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Ranger Sareyn",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Farstrider Retreat": {
+        "ID": 9359,
+        "QuestLevel": 10,
+        "MinLevel": 8,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Farstrider Retreat",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Situation at Sunsail Anchorage"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Amani Invasion": {
+        "ID": 9360,
+        "QuestLevel": 11,
+        "MinLevel": 8,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Amani Invasion",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Warning Fairbreeze Village": {
+        "ID": 9363,
+        "QuestLevel": 11,
+        "MinLevel": 8,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Warning Fairbreeze Village",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Amani Invasion"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "The Festival of Fire (2)": {
+        "ID": 9368,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Festival of Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Terokkar Forest"
+        ]
+    },
+    "Flickering Flames in Kalimdor": {
+        "ID": 9388,
+        "QuestLevel": 25,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Flickering Flames in Kalimdor",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Teldrassil",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Durotar",
+            "Mulgore",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Terokkar Forest"
+        ]
+    },
+    "Flickering Flames in the Eastern Kingdoms": {
+        "ID": 9389,
+        "QuestLevel": 25,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Flickering Flames in the Eastern Kingdoms",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Teldrassil",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Durotar",
+            "Mulgore",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Terokkar Forest"
+        ]
+    },
+    "Rogue Training": {
+        "ID": 9392,
+        "QuestLevel": 1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -162,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Rogue Training",
+        "AllowableClasses": [
+            "Rogue"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Reclaiming Sunstrider Isle"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Hunter Training (Blood Elf) (1)": {
+        "ID": 9393,
+        "QuestLevel": 1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -261,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Hunter Training",
+        "AllowableClasses": [
+            "Hunter"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Reclaiming Sunstrider Isle"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Where's Wyllithen?": {
+        "ID": 9394,
+        "QuestLevel": 10,
+        "MinLevel": 8,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Where's Wyllithen?",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Saltheril's Haven": {
+        "ID": 9395,
+        "QuestLevel": 9,
+        "MinLevel": 8,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Saltheril's Haven",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Fetch!": {
+        "ID": 9402,
+        "QuestLevel": 10,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -161,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Fetch!",
+        "AllowableClasses": [
+            "Mage"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 1881,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "The Purest Water": {
+        "ID": 9403,
+        "QuestLevel": 10,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -161,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Purest Water",
+        "AllowableClasses": [
+            "Mage"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Fetch!"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Recently Living": {
+        "ID": 9404,
+        "QuestLevel": 10,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -161,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Recently Living",
+        "AllowableClasses": [
+            "Mage"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Purest Water"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Taming the Beast (Blood Elf) (1)": {
+        "ID": 9484,
+        "QuestLevel": -1,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -261,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Taming the Beast",
+        "AllowableClasses": [
+            "Hunter"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Taming the Beast (Blood Elf) (2)": {
+        "ID": 9485,
+        "QuestLevel": -1,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -261,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Taming the Beast",
+        "AllowableClasses": [
+            "Hunter"
+        ],
+        "RewardSpell": 1579,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Taming the Beast (Blood Elf) (3)"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Taming the Beast (Blood Elf) (3)": {
+        "ID": 9486,
+        "QuestLevel": -1,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -261,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Taming the Beast",
+        "AllowableClasses": [
+            "Hunter"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Taming the Beast (Blood Elf) (1)"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Cleansing the Scar": {
+        "ID": 9489,
+        "QuestLevel": 5,
+        "MinLevel": 5,
+        "QuestInfoID": 0,
+        "QuestSortID": -262,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Cleansing the Scar",
+        "AllowableClasses": [
+            "Priest"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 5649,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "The Stone": {
+        "ID": 9529,
+        "QuestLevel": -1,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "The Stone",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Find Keltus Darkleaf": {
+        "ID": 9532,
+        "QuestLevel": 10,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -162,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Find Keltus Darkleaf",
+        "AllowableClasses": [
+            "Rogue"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 1859,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "To The Bulwark": {
+        "ID": 9601,
+        "QuestLevel": 52,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": -141,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "To The Bulwark",
+        "AllowableClasses": [
+            "Paladin"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Tirisfal Glades",
+            "Eversong Woods"
+        ]
+    },
+    "Seek the Farstriders": {
+        "ID": 9617,
+        "QuestLevel": -1,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -261,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Seek the Farstriders",
+        "AllowableClasses": [
+            "Hunter"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 9617,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods",
+            "Eversong Woods"
+        ]
+    },
+    "Envoy to the Horde (Blood Elf) (1)": {
+        "ID": 9621,
+        "QuestLevel": 21,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 1497,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Envoy to the Horde",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Hero of the Sin'dorei"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Beast Training (Blood Elf) (1)": {
+        "ID": 9673,
+        "QuestLevel": -1,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -261,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Beast Training",
+        "AllowableClasses": [
+            "Hunter"
+        ],
+        "RewardSpell": 5300,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Taming the Beast (Blood Elf) (2)"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Paladin Training (Blood Elf) (1)": {
+        "ID": 9676,
+        "QuestLevel": 1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -141,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Paladin Training",
+        "AllowableClasses": [
+            "Paladin"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Reclaiming Sunstrider Isle"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Summons from Knight-Lord Bloodvalor": {
+        "ID": 9677,
+        "QuestLevel": -1,
+        "MinLevel": 12,
+        "QuestInfoID": 0,
+        "QuestSortID": -141,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Summons from Knight-Lord Bloodvalor",
+        "AllowableClasses": [
+            "Paladin"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "The First Trial": {
+        "ID": 9678,
+        "QuestLevel": -1,
+        "MinLevel": 12,
+        "QuestInfoID": 0,
+        "QuestSortID": -141,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "The First Trial",
+        "AllowableClasses": [
+            "Paladin"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "A Study in Power": {
+        "ID": 9681,
+        "QuestLevel": -1,
+        "MinLevel": 12,
+        "QuestInfoID": 0,
+        "QuestSortID": -141,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "A Study in Power",
+        "AllowableClasses": [
+            "Paladin"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The First Trial"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Claiming the Light": {
+        "ID": 9684,
+        "QuestLevel": -1,
+        "MinLevel": 12,
+        "QuestInfoID": 0,
+        "QuestSortID": -141,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Claiming the Light",
+        "AllowableClasses": [
+            "Paladin"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Study in Power"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Redeeming the Dead": {
+        "ID": 9685,
+        "QuestLevel": -1,
+        "MinLevel": 12,
+        "QuestInfoID": 0,
+        "QuestSortID": -141,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Redeeming the Dead",
+        "AllowableClasses": [
+            "Paladin"
+        ],
+        "RewardSpell": 7329,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Claiming the Light"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "The Second Trial (Blood Elf) (2)": {
+        "ID": 9686,
+        "QuestLevel": -1,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -141,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "The Second Trial",
+        "AllowableClasses": [
+            "Paladin"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Second Trial (Blood Elf) (1)"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "The Second Trial (Blood Elf) (1)": {
+        "ID": 9690,
+        "QuestLevel": -1,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -141,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "The Second Trial",
+        "AllowableClasses": [
+            "Paladin"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Return to Silvermoon (Blood Elf) (1)": {
+        "ID": 9691,
+        "QuestLevel": -1,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -141,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Return to Silvermoon",
+        "AllowableClasses": [
+            "Paladin"
+        ],
+        "RewardSpell": 5503,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Second Trial (Blood Elf) (2)"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Slain by the Wretched": {
+        "ID": 9704,
+        "QuestLevel": 5,
+        "MinLevel": 4,
+        "QuestInfoID": 0,
+        "QuestSortID": 3431,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Slain by the Wretched",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Aiding the Outrunners"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Package Recovery": {
+        "ID": 9705,
+        "QuestLevel": 5,
+        "MinLevel": 4,
+        "QuestInfoID": 0,
+        "QuestSortID": 3431,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Package Recovery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Slain by the Wretched"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Forging the Weapon": {
+        "ID": 9707,
+        "QuestLevel": 23,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -141,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Forging the Weapon",
+        "AllowableClasses": [
+            "Paladin"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Path of the Adept"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "The Blood-Tempered Ranseur": {
+        "ID": 9710,
+        "QuestLevel": 23,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -141,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "The Blood-Tempered Ranseur",
+        "AllowableClasses": [
+            "Paladin"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Forging the Weapon"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "A Summons from Lord Solanar": {
+        "ID": 9721,
+        "QuestLevel": -1,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": -141,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "A Summons from Lord Solanar",
+        "AllowableClasses": [
+            "Paladin"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "The Master's Path": {
+        "ID": 9722,
+        "QuestLevel": -1,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": -141,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "The Master's Path",
+        "AllowableClasses": [
+            "Paladin"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Summons from Lord Solanar"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "A Demonstration of Loyalty": {
+        "ID": 9725,
+        "QuestLevel": -1,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": -141,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Demonstration of Loyalty",
+        "AllowableClasses": [
+            "Paladin"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Gesture of Commitment"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Envoy to the Horde (1)": {
+        "ID": 9812,
+        "QuestLevel": 21,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 1497,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll"
+        ],
+        "LogTitle": "Envoy to the Horde",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Friend of the Sin'dorei"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Well Watcher Solanian (Blood Elf) (1)": {
+        "ID": 10068,
+        "QuestLevel": 2,
+        "MinLevel": 2,
+        "QuestInfoID": 0,
+        "QuestSortID": 3431,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Well Watcher Solanian",
+        "AllowableClasses": [
+            "Mage"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mage Training (Blood Elf) (1)"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Well Watcher Solanian (Blood Elf) (2)": {
+        "ID": 10069,
+        "QuestLevel": 2,
+        "MinLevel": 2,
+        "QuestInfoID": 0,
+        "QuestSortID": 3431,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Well Watcher Solanian",
+        "AllowableClasses": [
+            "Paladin"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Paladin Training (Blood Elf) (1)"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Well Watcher Solanian (Blood Elf) (3)": {
+        "ID": 10070,
+        "QuestLevel": 2,
+        "MinLevel": 2,
+        "QuestInfoID": 0,
+        "QuestSortID": 3431,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Well Watcher Solanian",
+        "AllowableClasses": [
+            "Hunter"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Hunter Training (Blood Elf) (1)"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Well Watcher Solanian (Blood Elf) (4)": {
+        "ID": 10071,
+        "QuestLevel": 2,
+        "MinLevel": 2,
+        "QuestInfoID": 0,
+        "QuestSortID": 3431,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Well Watcher Solanian",
+        "AllowableClasses": [
+            "Rogue"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Rogue Training"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Well Watcher Solanian (Blood Elf) (5)": {
+        "ID": 10072,
+        "QuestLevel": 2,
+        "MinLevel": 2,
+        "QuestInfoID": 0,
+        "QuestSortID": 3431,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Well Watcher Solanian",
+        "AllowableClasses": [
+            "Priest"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Priest Training (Blood Elf) (1)"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Well Watcher Solanian (Blood Elf) (6)": {
+        "ID": 10073,
+        "QuestLevel": 2,
+        "MinLevel": 2,
+        "QuestInfoID": 0,
+        "QuestSortID": 3431,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Well Watcher Solanian",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Warlock Training"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Whitebark's Memory": {
+        "ID": 10166,
+        "QuestLevel": 10,
+        "MinLevel": 7,
+        "QuestInfoID": 0,
+        "QuestSortID": 3430,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Whitebark's Memory",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Old Whitebark's Pendant"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "A Donation of Wool (10)": {
+        "ID": 10359,
+        "QuestLevel": 60,
+        "MinLevel": 12,
+        "QuestInfoID": 0,
+        "QuestSortID": 3487,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Donation of Wool",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "A Donation of Silk (10)": {
+        "ID": 10360,
+        "QuestLevel": 60,
+        "MinLevel": 26,
+        "QuestInfoID": 0,
+        "QuestSortID": 3487,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Donation of Silk",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "A Donation of Mageweave (10)": {
+        "ID": 10361,
+        "QuestLevel": 60,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 3487,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Donation of Mageweave",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "A Donation of Runecloth (10)": {
+        "ID": 10362,
+        "QuestLevel": 60,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 3487,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Donation of Runecloth",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Additional Runecloth (10)": {
+        "ID": 10363,
+        "QuestLevel": 60,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 3487,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Additional Runecloth",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Donation of Runecloth (10)"
+        ],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "A Discreet Inquiry": {
+        "ID": 10372,
+        "QuestLevel": 16,
+        "MinLevel": 16,
+        "QuestInfoID": 0,
+        "QuestSortID": -162,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Discreet Inquiry",
+        "AllowableClasses": [
+            "Rogue"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 2379,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "A Call to Arms: The Plaguelands! (8)": {
+        "ID": 10374,
+        "QuestLevel": 50,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Call to Arms: The Plaguelands!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 5093,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Carendin Summons": {
+        "ID": 10605,
+        "QuestLevel": -1,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Carendin Summons",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Return to Carendin Halgar": {
+        "ID": 10789,
+        "QuestLevel": -1,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Undead"
+        ],
+        "LogTitle": "Return to Carendin Halgar",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 1478,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Eversong Woods"
+        ]
+    },
+    "Rogues of the Shattered Hand": {
+        "ID": 10794,
+        "QuestLevel": 24,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -162,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Rogues of the Shattered Hand",
+        "AllowableClasses": [
+            "Rogue"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Stop the Fires! (2)": {
+        "ID": 11219,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Stop the Fires!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12139,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Tirisfal Glades",
+            "Eversong Woods"
+        ]
+    },
+    "Masked Orphan Matron": {
+        "ID": 11357,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Masked Orphan Matron",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Crystalsong Forest"
+        ]
+    },
+    "Fire Training (1)": {
+        "ID": 11361,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Fire Training",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 11361,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Tirisfal Glades",
+            "Eversong Woods"
+        ]
+    },
+    "Brewfest! (2)": {
+        "ID": 11446,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -370,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Brewfest!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 11446,
+        "seasonalEvent": "Brewfest",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "The Barrens",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Fire Training (2)": {
+        "ID": 11449,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Fire Training",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 11361,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Tirisfal Glades",
+            "Eversong Woods"
+        ]
+    },
+    "Fire Training (3)": {
+        "ID": 11450,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Fire Training",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 11361,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Tirisfal Glades",
+            "Eversong Woods"
+        ]
+    },
+    "Unusual Activity": {
+        "ID": 11886,
+        "QuestLevel": -1,
+        "MinLevel": 16,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Unusual Activity",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Teldrassil",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Durotar",
+            "Mulgore",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Terokkar Forest"
+        ]
+    },
+    "Playing with Fire (2)": {
+        "ID": 11915,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Playing with Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Silverpine Forest",
+            "Eversong Woods",
+            "Ghostlands",
+            "Hillsbrad Foothills",
+            "Swamp of Sorrows",
+            "Stranglethorn Vale",
+            "Stonetalon Mountains",
+            "Ashenvale",
+            "Thousand Needles",
+            "Desolace",
+            "Tanaris",
+            "Feralas",
+            "Winterspring",
+            "Hellfire Peninsula",
+            "Zangarmarsh",
+            "Terokkar Forest",
+            "Terokkar Forest",
+            "Nagrand",
+            "Blade's Edge Mountains",
+            "Netherstorm",
+            "Shadowmoon Valley",
+            "Sholazar Basin"
+        ]
+    },
+    "Striking Back (1)": {
+        "ID": 11917,
+        "QuestLevel": 22,
+        "MinLevel": 16,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Striking Back",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Inform the Elder"
+        ],
+        "zone": [
+            "Teldrassil",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Durotar",
+            "Mulgore",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Terokkar Forest"
+        ]
+    },
+    "Torch Tossing (2)": {
+        "ID": 11922,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Torch Tossing",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "Tirisfal Glades",
+            "Eversong Woods"
+        ]
+    },
+    "Torch Catching (2)": {
+        "ID": 11923,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Torch Catching",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Torch Tossing (2)"
+        ],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "Tirisfal Glades",
+            "Eversong Woods"
+        ]
+    },
+    "More Torch Catching (2)": {
+        "ID": 11925,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "More Torch Catching",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Torch Catching (2)"
+        ],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "Tirisfal Glades",
+            "Eversong Woods"
+        ]
+    },
+    "More Torch Tossing (2)": {
+        "ID": 11926,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "More Torch Tossing",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Torch Tossing (2)"
+        ],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "Tirisfal Glades",
+            "Eversong Woods"
+        ]
+    },
+    "Striking Back (2)": {
+        "ID": 11947,
+        "QuestLevel": 32,
+        "MinLevel": 29,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Striking Back",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Inform the Elder"
+        ],
+        "zone": [
+            "Teldrassil",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Durotar",
+            "Mulgore",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Terokkar Forest"
+        ]
+    },
+    "Striking Back (3)": {
+        "ID": 11948,
+        "QuestLevel": 43,
+        "MinLevel": 39,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Striking Back",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Inform the Elder"
+        ],
+        "zone": [
+            "Teldrassil",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Durotar",
+            "Mulgore",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Terokkar Forest"
+        ]
+    },
+    "Striking Back (4)": {
+        "ID": 11952,
+        "QuestLevel": 51,
+        "MinLevel": 49,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Striking Back",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Inform the Elder"
+        ],
+        "zone": [
+            "Teldrassil",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Durotar",
+            "Mulgore",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Terokkar Forest"
+        ]
+    },
+    "Striking Back (5)": {
+        "ID": 11953,
+        "QuestLevel": 60,
+        "MinLevel": 56,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Striking Back",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Inform the Elder"
+        ],
+        "zone": [
+            "Teldrassil",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Durotar",
+            "Mulgore",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Terokkar Forest"
+        ]
+    },
+    "Striking Back (6)": {
+        "ID": 11954,
+        "QuestLevel": 67,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Striking Back",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Inform the Elder"
+        ],
+        "zone": [
+            "Teldrassil",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Durotar",
+            "Mulgore",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Terokkar Forest"
+        ]
+    },
+    "Incense for the Festival Scorchlings": {
+        "ID": 11966,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Incense for the Festival Scorchlings",
+        "AllowableClasses": [],
+        "RewardSpell": 47107,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Terokkar Forest"
+        ]
+    },
+    "The Spinner of Summer Tales": {
+        "ID": 11971,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Spinner of Summer Tales",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Smash the Pumpkin (1)": {
+        "ID": 12133,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Smash the Pumpkin",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Durotar",
+            "Tirisfal Glades",
+            "Eversong Woods"
+        ]
+    },
+    "Let the Fires Come! (2)": {
+        "ID": 12139,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Let the Fires Come!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12139,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Tirisfal Glades",
+            "Eversong Woods"
+        ]
+    },
+    "Smash the Pumpkin (2)": {
+        "ID": 12155,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Smash the Pumpkin",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Durotar",
+            "Tirisfal Glades",
+            "Eversong Woods"
+        ]
+    },
+    "Desperate Research (Undead) (1)": {
+        "ID": 12752,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Undead"
+        ],
+        "LogTitle": "Desperate Research",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Desperate Research (Blood Elf) (1)": {
+        "ID": 12782,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Desperate Research",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Desperate Research (Tauren) (1)": {
+        "ID": 12784,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Tauren"
+        ],
+        "LogTitle": "Desperate Research",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Desperate Research (Orc) (1)": {
+        "ID": 12811,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc"
+        ],
+        "LogTitle": "Desperate Research",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "The Great Egg Hunt (1)": {
+        "ID": 13479,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -374,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Great Egg Hunt",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Noblegarden",
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "Tirisfal Glades",
+            "Eversong Woods"
+        ]
+    },
+    "Spring Gatherers": {
+        "ID": 13483,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -374,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Spring Gatherers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Noblegarden",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Crystalsong Forest"
+        ]
+    },
+    "A Tisket, a Tasket, a Noblegarden Basket (2)": {
+        "ID": 13503,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -374,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Tisket, a Tasket, a Noblegarden Basket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Noblegarden",
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "Tirisfal Glades",
+            "Eversong Woods"
+        ]
+    },
+    "Sharing a Bountiful Feast (2)": {
+        "ID": 14065,
+        "QuestLevel": -1,
+        "MinLevel": 0,
+        "QuestInfoID": 0,
+        "QuestSortID": -375,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Sharing a Bountiful Feast",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Pilgrim's Bounty",
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pilgrim's Bounty (2)"
+        ],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Hillsbrad Foothills",
+            "Burning Steppes",
+            "Stonetalon Mountains",
+            "Thousand Needles",
+            "Desolace",
+            "Tanaris",
+            "Dustwallow Marsh",
+            "Hellfire Peninsula",
+            "Borean Tundra",
+            "Sholazar Basin",
+            "Dragonblight",
+            "Howling Fjord",
+            "Grizzly Hills",
+            "Zul'Drak",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "A Gift for the Regent Lord of Quel'Thalas": {
+        "ID": 24615,
+        "QuestLevel": -1,
+        "MinLevel": 0,
+        "QuestInfoID": 0,
+        "QuestSortID": -376,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Gift for the Regent Lord of Quel'Thalas",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Love is in the Air",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "A Perfect Puff of Perfume": {
+        "ID": 24629,
+        "QuestLevel": -1,
+        "MinLevel": 0,
+        "QuestInfoID": 0,
+        "QuestSortID": -376,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Perfect Puff of Perfume",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Love is in the Air",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Teldrassil",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Durotar",
+            "Mulgore",
+            "Tirisfal Glades",
+            "Eversong Woods"
+        ]
+    },
+    "A Cloudlet of Classy Cologne": {
+        "ID": 24635,
+        "QuestLevel": -1,
+        "MinLevel": 0,
+        "QuestInfoID": 0,
+        "QuestSortID": -376,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Cloudlet of Classy Cologne",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Love is in the Air",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Teldrassil",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Durotar",
+            "Mulgore",
+            "Tirisfal Glades",
+            "Eversong Woods"
+        ]
+    },
+    "Bonbon Blitz": {
+        "ID": 24636,
+        "QuestLevel": -1,
+        "MinLevel": 0,
+        "QuestInfoID": 0,
+        "QuestSortID": -376,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Bonbon Blitz",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Love is in the Air",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Teldrassil",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Durotar",
+            "Mulgore",
+            "Tirisfal Glades",
+            "Eversong Woods"
+        ]
+    },
+    "Desecrate this Fire! (Eversong Woods - Alliance)": {
+        "ID": 11772,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Honor the Flame (Eversong Woods - Horde)": {
+        "ID": 11848,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Candy Bucket (Eversong Woods, Falconcrest Square)": {
+        "ID": 12364,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Candy Bucket (Eversong Woods, Fairbreeze Village)": {
+        "ID": 12365,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Candy Bucket (Silvermoon City, the Royal Exchange)": {
+        "ID": 12369,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    },
+    "Candy Bucket (Silvermoon City, the Bazaar)": {
+        "ID": 12370,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Eversong Woods"
+        ]
+    }
+}

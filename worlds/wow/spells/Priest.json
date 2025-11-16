@@ -1,0 +1,2402 @@
+{
+    "Power Word: Fortitude (Rank 1)": {
+        "id": 1243,
+        "spell_icon_id": 685,
+        "money_cost": 10,
+        "Level": 1,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lesser Heal (Rank 2)": {
+        "id": 2052,
+        "spell_icon_id": 682,
+        "money_cost": 100,
+        "Level": 4,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Word: Pain (Rank 1)": {
+        "id": 589,
+        "spell_icon_id": 234,
+        "money_cost": 100,
+        "Level": 4,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Smite (Rank 2)": {
+        "id": 591,
+        "spell_icon_id": 237,
+        "money_cost": 100,
+        "Level": 6,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Power Word: Shield (Rank 1)": {
+        "id": 17,
+        "spell_icon_id": 566,
+        "money_cost": 100,
+        "Level": 6,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fade": {
+        "id": 586,
+        "spell_icon_id": 331,
+        "money_cost": 200,
+        "Level": 8,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Renew (Rank 1)": {
+        "id": 139,
+        "spell_icon_id": 321,
+        "money_cost": 200,
+        "Level": 8,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mind Blast (Rank 1)": {
+        "id": 8092,
+        "spell_icon_id": 95,
+        "money_cost": 300,
+        "Level": 10,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lesser Heal (Rank 3)": {
+        "id": 2053,
+        "spell_icon_id": 682,
+        "money_cost": 300,
+        "Level": 10,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Resurrection (Rank 1)": {
+        "id": 2006,
+        "spell_icon_id": 121,
+        "money_cost": 300,
+        "Level": 10,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Word: Pain (Rank 2)": {
+        "id": 594,
+        "spell_icon_id": 234,
+        "money_cost": 300,
+        "Level": 10,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Power Word: Fortitude (Rank 2)": {
+        "id": 1244,
+        "spell_icon_id": 685,
+        "money_cost": 800,
+        "Level": 12,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Power Word: Shield (Rank 2)": {
+        "id": 592,
+        "spell_icon_id": 566,
+        "money_cost": 800,
+        "Level": 12,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Inner Fire (Rank 1)": {
+        "id": 588,
+        "spell_icon_id": 51,
+        "money_cost": 800,
+        "Level": 12,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Psychic Scream (Rank 1)": {
+        "id": 8122,
+        "spell_icon_id": 1488,
+        "money_cost": 1200,
+        "Level": 14,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Renew (Rank 2)": {
+        "id": 6074,
+        "spell_icon_id": 321,
+        "money_cost": 1200,
+        "Level": 14,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Smite (Rank 3)": {
+        "id": 598,
+        "spell_icon_id": 237,
+        "money_cost": 1200,
+        "Level": 14,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Cure Disease": {
+        "id": 528,
+        "spell_icon_id": 330,
+        "money_cost": 1200,
+        "Level": 14,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mind Blast (Rank 2)": {
+        "id": 8102,
+        "spell_icon_id": 95,
+        "money_cost": 1600,
+        "Level": 16,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Heal (Rank 1)": {
+        "id": 2054,
+        "spell_icon_id": 104,
+        "money_cost": 1600,
+        "Level": 16,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Word: Pain (Rank 3)": {
+        "id": 970,
+        "spell_icon_id": 234,
+        "money_cost": 2000,
+        "Level": 18,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Power Word: Shield (Rank 3)": {
+        "id": 600,
+        "spell_icon_id": 566,
+        "money_cost": 2000,
+        "Level": 18,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Dispel Magic (Rank 1)": {
+        "id": 527,
+        "spell_icon_id": 74,
+        "money_cost": 2000,
+        "Level": 18,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Nova (Rank 1)": {
+        "id": 15237,
+        "spell_icon_id": 1874,
+        "money_cost": 3000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Fire (Rank 1)": {
+        "id": 14914,
+        "spell_icon_id": 156,
+        "money_cost": 3000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shackle Undead (Rank 1)": {
+        "id": 9484,
+        "spell_icon_id": 27,
+        "money_cost": 3000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Inner Fire (Rank 2)": {
+        "id": 7128,
+        "spell_icon_id": 51,
+        "money_cost": 3000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fear Ward": {
+        "id": 6346,
+        "spell_icon_id": 158,
+        "money_cost": 800,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Renew (Rank 3)": {
+        "id": 6075,
+        "spell_icon_id": 321,
+        "money_cost": 3000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Devouring Plague (Rank 1)": {
+        "id": 2944,
+        "spell_icon_id": 3789,
+        "money_cost": 3000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flash Heal (Rank 1)": {
+        "id": 2061,
+        "spell_icon_id": 242,
+        "money_cost": 3000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mind Soothe": {
+        "id": 453,
+        "spell_icon_id": 1487,
+        "money_cost": 3000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mind Blast (Rank 3)": {
+        "id": 8103,
+        "spell_icon_id": 95,
+        "money_cost": 4000,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mind Vision (Rank 1)": {
+        "id": 2096,
+        "spell_icon_id": 502,
+        "money_cost": 4000,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Heal (Rank 2)": {
+        "id": 2055,
+        "spell_icon_id": 104,
+        "money_cost": 4000,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Resurrection (Rank 2)": {
+        "id": 2010,
+        "spell_icon_id": 121,
+        "money_cost": 4000,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Smite (Rank 4)": {
+        "id": 984,
+        "spell_icon_id": 237,
+        "money_cost": 4000,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Fire (Rank 2)": {
+        "id": 15262,
+        "spell_icon_id": 156,
+        "money_cost": 5000,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mana Burn": {
+        "id": 8129,
+        "spell_icon_id": 212,
+        "money_cost": 5000,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Power Word: Shield (Rank 4)": {
+        "id": 3747,
+        "spell_icon_id": 566,
+        "money_cost": 5000,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Power Word: Fortitude (Rank 3)": {
+        "id": 1245,
+        "spell_icon_id": 685,
+        "money_cost": 5000,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flash Heal (Rank 2)": {
+        "id": 9472,
+        "spell_icon_id": 242,
+        "money_cost": 6000,
+        "Level": 26,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Renew (Rank 4)": {
+        "id": 6076,
+        "spell_icon_id": 321,
+        "money_cost": 6000,
+        "Level": 26,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Word: Pain (Rank 4)": {
+        "id": 992,
+        "spell_icon_id": 234,
+        "money_cost": 6000,
+        "Level": 26,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Desperate Prayer (Rank 2)": {
+        "id": 19238,
+        "spell_icon_id": 73,
+        "money_cost": 60,
+        "Level": 26,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mind Flay (Rank 2)": {
+        "id": 17311,
+        "spell_icon_id": 548,
+        "money_cost": 400,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Nova (Rank 2)": {
+        "id": 15430,
+        "spell_icon_id": 1874,
+        "money_cost": 8000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Psychic Scream (Rank 2)": {
+        "id": 8124,
+        "spell_icon_id": 1488,
+        "money_cost": 8000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mind Blast (Rank 4)": {
+        "id": 8104,
+        "spell_icon_id": 95,
+        "money_cost": 8000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Heal (Rank 3)": {
+        "id": 6063,
+        "spell_icon_id": 684,
+        "money_cost": 8000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Devouring Plague (Rank 2)": {
+        "id": 19276,
+        "spell_icon_id": 3789,
+        "money_cost": 8000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Fire (Rank 3)": {
+        "id": 15263,
+        "spell_icon_id": 156,
+        "money_cost": 10000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Divine Spirit (Rank 1)": {
+        "id": 14752,
+        "spell_icon_id": 1879,
+        "money_cost": 600,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Power Word: Shield (Rank 5)": {
+        "id": 6065,
+        "spell_icon_id": 566,
+        "money_cost": 10000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Smite (Rank 5)": {
+        "id": 1004,
+        "spell_icon_id": 237,
+        "money_cost": 10000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Protection (Rank 1)": {
+        "id": 976,
+        "spell_icon_id": 207,
+        "money_cost": 10000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mind Control": {
+        "id": 605,
+        "spell_icon_id": 235,
+        "money_cost": 10000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Inner Fire (Rank 3)": {
+        "id": 602,
+        "spell_icon_id": 51,
+        "money_cost": 10000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Prayer of Healing (Rank 1)": {
+        "id": 596,
+        "spell_icon_id": 540,
+        "money_cost": 10000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flash Heal (Rank 3)": {
+        "id": 9473,
+        "spell_icon_id": 242,
+        "money_cost": 11000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Renew (Rank 5)": {
+        "id": 6077,
+        "spell_icon_id": 321,
+        "money_cost": 11000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Abolish Disease": {
+        "id": 552,
+        "spell_icon_id": 264,
+        "money_cost": 11000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Resurrection (Rank 3)": {
+        "id": 10880,
+        "spell_icon_id": 121,
+        "money_cost": 12000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mind Blast (Rank 5)": {
+        "id": 8105,
+        "spell_icon_id": 95,
+        "money_cost": 12000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Heal (Rank 4)": {
+        "id": 6064,
+        "spell_icon_id": 684,
+        "money_cost": 12000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Word: Pain (Rank 5)": {
+        "id": 2767,
+        "spell_icon_id": 234,
+        "money_cost": 12000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Levitate": {
+        "id": 1706,
+        "spell_icon_id": 79,
+        "money_cost": 12000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Desperate Prayer (Rank 3)": {
+        "id": 19240,
+        "spell_icon_id": 73,
+        "money_cost": 300,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mind Flay (Rank 3)": {
+        "id": 17312,
+        "spell_icon_id": 548,
+        "money_cost": 700,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Nova (Rank 3)": {
+        "id": 15431,
+        "spell_icon_id": 1874,
+        "money_cost": 14000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Fire (Rank 4)": {
+        "id": 15264,
+        "spell_icon_id": 156,
+        "money_cost": 14000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Power Word: Shield (Rank 6)": {
+        "id": 6066,
+        "spell_icon_id": 566,
+        "money_cost": 14000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Power Word: Fortitude (Rank 4)": {
+        "id": 2791,
+        "spell_icon_id": 685,
+        "money_cost": 14000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Dispel Magic (Rank 2)": {
+        "id": 988,
+        "spell_icon_id": 74,
+        "money_cost": 14000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Devouring Plague (Rank 3)": {
+        "id": 19277,
+        "spell_icon_id": 3789,
+        "money_cost": 14000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flash Heal (Rank 4)": {
+        "id": 9474,
+        "spell_icon_id": 242,
+        "money_cost": 16000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Renew (Rank 6)": {
+        "id": 6078,
+        "spell_icon_id": 321,
+        "money_cost": 16000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Smite (Rank 6)": {
+        "id": 6060,
+        "spell_icon_id": 237,
+        "money_cost": 16000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Divine Spirit (Rank 2)": {
+        "id": 14818,
+        "spell_icon_id": 1879,
+        "money_cost": 900,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shackle Undead (Rank 2)": {
+        "id": 9485,
+        "spell_icon_id": 27,
+        "money_cost": 18000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mind Blast (Rank 6)": {
+        "id": 8106,
+        "spell_icon_id": 95,
+        "money_cost": 18000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Greater Heal (Rank 1)": {
+        "id": 2060,
+        "spell_icon_id": 241,
+        "money_cost": 18000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Inner Fire (Rank 4)": {
+        "id": 1006,
+        "spell_icon_id": 51,
+        "money_cost": 18000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Prayer of Healing (Rank 2)": {
+        "id": 996,
+        "spell_icon_id": 540,
+        "money_cost": 18000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Fire (Rank 5)": {
+        "id": 15265,
+        "spell_icon_id": 156,
+        "money_cost": 22000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Protection (Rank 2)": {
+        "id": 10957,
+        "spell_icon_id": 207,
+        "money_cost": 22000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Power Word: Shield (Rank 7)": {
+        "id": 10898,
+        "spell_icon_id": 566,
+        "money_cost": 22000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Word: Pain (Rank 6)": {
+        "id": 10892,
+        "spell_icon_id": 234,
+        "money_cost": 22000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Psychic Scream (Rank 3)": {
+        "id": 10888,
+        "spell_icon_id": 1488,
+        "money_cost": 22000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Desperate Prayer (Rank 4)": {
+        "id": 19241,
+        "spell_icon_id": 73,
+        "money_cost": 600,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mind Flay (Rank 4)": {
+        "id": 17313,
+        "spell_icon_id": 548,
+        "money_cost": 1200,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Renew (Rank 7)": {
+        "id": 10927,
+        "spell_icon_id": 321,
+        "money_cost": 24000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flash Heal (Rank 5)": {
+        "id": 10915,
+        "spell_icon_id": 242,
+        "money_cost": 24000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mind Vision (Rank 2)": {
+        "id": 10909,
+        "spell_icon_id": 502,
+        "money_cost": 24000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Nova (Rank 4)": {
+        "id": 27799,
+        "spell_icon_id": 1874,
+        "money_cost": 24000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Devouring Plague (Rank 4)": {
+        "id": 19278,
+        "spell_icon_id": 3789,
+        "money_cost": 24000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Greater Heal (Rank 2)": {
+        "id": 10963,
+        "spell_icon_id": 241,
+        "money_cost": 26000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mind Blast (Rank 7)": {
+        "id": 10945,
+        "spell_icon_id": 95,
+        "money_cost": 26000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Smite (Rank 7)": {
+        "id": 10933,
+        "spell_icon_id": 237,
+        "money_cost": 26000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Resurrection (Rank 4)": {
+        "id": 10881,
+        "spell_icon_id": 121,
+        "money_cost": 26000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Fire (Rank 6)": {
+        "id": 15266,
+        "spell_icon_id": 156,
+        "money_cost": 28000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Power Word: Fortitude (Rank 5)": {
+        "id": 10937,
+        "spell_icon_id": 685,
+        "money_cost": 28000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Power Word: Shield (Rank 8)": {
+        "id": 10899,
+        "spell_icon_id": 566,
+        "money_cost": 28000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Prayer of Fortitude (Rank 1)": {
+        "id": 21562,
+        "spell_icon_id": 1669,
+        "money_cost": 28000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Divine Spirit (Rank 3)": {
+        "id": 14819,
+        "spell_icon_id": 1879,
+        "money_cost": 1500,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Prayer of Healing (Rank 3)": {
+        "id": 10960,
+        "spell_icon_id": 540,
+        "money_cost": 30000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Inner Fire (Rank 5)": {
+        "id": 10951,
+        "spell_icon_id": 51,
+        "money_cost": 30000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Renew (Rank 8)": {
+        "id": 10928,
+        "spell_icon_id": 321,
+        "money_cost": 30000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flash Heal (Rank 6)": {
+        "id": 10916,
+        "spell_icon_id": 242,
+        "money_cost": 30000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Word: Pain (Rank 7)": {
+        "id": 10893,
+        "spell_icon_id": 234,
+        "money_cost": 30000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lightwell (Rank 2)": {
+        "id": 27870,
+        "spell_icon_id": 1878,
+        "money_cost": 1200,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Desperate Prayer (Rank 5)": {
+        "id": 19242,
+        "spell_icon_id": 73,
+        "money_cost": 1100,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mind Flay (Rank 5)": {
+        "id": 17314,
+        "spell_icon_id": 548,
+        "money_cost": 1900,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Greater Heal (Rank 3)": {
+        "id": 10964,
+        "spell_icon_id": 241,
+        "money_cost": 38000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mind Blast (Rank 8)": {
+        "id": 10946,
+        "spell_icon_id": 95,
+        "money_cost": 38000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Nova (Rank 5)": {
+        "id": 27800,
+        "spell_icon_id": 1874,
+        "money_cost": 38000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Devouring Plague (Rank 5)": {
+        "id": 19279,
+        "spell_icon_id": 3789,
+        "money_cost": 38000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Fire (Rank 7)": {
+        "id": 15267,
+        "spell_icon_id": 156,
+        "money_cost": 40000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Smite (Rank 8)": {
+        "id": 10934,
+        "spell_icon_id": 237,
+        "money_cost": 40000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Power Word: Shield (Rank 9)": {
+        "id": 10900,
+        "spell_icon_id": 566,
+        "money_cost": 40000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Protection (Rank 3)": {
+        "id": 10958,
+        "spell_icon_id": 207,
+        "money_cost": 42000,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Renew (Rank 9)": {
+        "id": 10929,
+        "spell_icon_id": 321,
+        "money_cost": 42000,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flash Heal (Rank 7)": {
+        "id": 10917,
+        "spell_icon_id": 242,
+        "money_cost": 42000,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Psychic Scream (Rank 4)": {
+        "id": 10890,
+        "spell_icon_id": 1488,
+        "money_cost": 42000,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Prayer of Shadow Protection (Rank 1)": {
+        "id": 27683,
+        "spell_icon_id": 1869,
+        "money_cost": 42000,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Circle of Healing (Rank 2)": {
+        "id": 34863,
+        "spell_icon_id": 2214,
+        "money_cost": 2100,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Greater Heal (Rank 4)": {
+        "id": 10965,
+        "spell_icon_id": 241,
+        "money_cost": 44000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mind Blast (Rank 9)": {
+        "id": 10947,
+        "spell_icon_id": 95,
+        "money_cost": 44000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Word: Pain (Rank 8)": {
+        "id": 10894,
+        "spell_icon_id": 234,
+        "money_cost": 44000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Resurrection (Rank 5)": {
+        "id": 20770,
+        "spell_icon_id": 121,
+        "money_cost": 44000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Desperate Prayer (Rank 6)": {
+        "id": 19243,
+        "spell_icon_id": 73,
+        "money_cost": 1500,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Fire (Rank 8)": {
+        "id": 15261,
+        "spell_icon_id": 156,
+        "money_cost": 46000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Prayer of Healing (Rank 4)": {
+        "id": 10961,
+        "spell_icon_id": 540,
+        "money_cost": 46000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shackle Undead (Rank 3)": {
+        "id": 10955,
+        "spell_icon_id": 27,
+        "money_cost": 46000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Inner Fire (Rank 6)": {
+        "id": 10952,
+        "spell_icon_id": 51,
+        "money_cost": 46000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Power Word: Fortitude (Rank 6)": {
+        "id": 10938,
+        "spell_icon_id": 685,
+        "money_cost": 46000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Power Word: Shield (Rank 10)": {
+        "id": 10901,
+        "spell_icon_id": 566,
+        "money_cost": 46000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lightwell (Rank 3)": {
+        "id": 27871,
+        "spell_icon_id": 1878,
+        "money_cost": 1500,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Divine Spirit (Rank 4)": {
+        "id": 27841,
+        "spell_icon_id": 1879,
+        "money_cost": 2300,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Nova (Rank 6)": {
+        "id": 27801,
+        "spell_icon_id": 1874,
+        "money_cost": 46000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Prayer of Spirit (Rank 1)": {
+        "id": 27681,
+        "spell_icon_id": 1870,
+        "money_cost": 2300,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Prayer of Healing (Rank 5)": {
+        "id": 25316,
+        "spell_icon_id": 540,
+        "money_cost": 6500,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Renew (Rank 10)": {
+        "id": 25315,
+        "spell_icon_id": 321,
+        "money_cost": 6500,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Greater Heal (Rank 5)": {
+        "id": 25314,
+        "spell_icon_id": 241,
+        "money_cost": 65000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Vampiric Touch (Rank 2)": {
+        "id": 34916,
+        "spell_icon_id": 2213,
+        "money_cost": 2300,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Circle of Healing (Rank 3)": {
+        "id": 34864,
+        "spell_icon_id": 2214,
+        "money_cost": 2300,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Prayer of Fortitude (Rank 2)": {
+        "id": 21564,
+        "spell_icon_id": 1669,
+        "money_cost": 46000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Devouring Plague (Rank 6)": {
+        "id": 19280,
+        "spell_icon_id": 3789,
+        "money_cost": 46000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mind Flay (Rank 6)": {
+        "id": 18807,
+        "spell_icon_id": 548,
+        "money_cost": 2300,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Smite (Rank 9)": {
+        "id": 25363,
+        "spell_icon_id": 237,
+        "money_cost": 53000,
+        "Level": 61,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flash Heal (Rank 8)": {
+        "id": 25233,
+        "spell_icon_id": 242,
+        "money_cost": 53000,
+        "Level": 61,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Word: Death (Rank 1)": {
+        "id": 32379,
+        "spell_icon_id": 1980,
+        "money_cost": 59000,
+        "Level": 62,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mind Blast (Rank 10)": {
+        "id": 25372,
+        "spell_icon_id": 95,
+        "money_cost": 65000,
+        "Level": 63,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Greater Heal (Rank 6)": {
+        "id": 25210,
+        "spell_icon_id": 241,
+        "money_cost": 65000,
+        "Level": 63,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Binding Heal (Rank 1)": {
+        "id": 32546,
+        "spell_icon_id": 2266,
+        "money_cost": 72000,
+        "Level": 64,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Word: Pain (Rank 9)": {
+        "id": 25367,
+        "spell_icon_id": 234,
+        "money_cost": 80000,
+        "Level": 65,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Circle of Healing (Rank 4)": {
+        "id": 34865,
+        "spell_icon_id": 2214,
+        "money_cost": 4000,
+        "Level": 65,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Renew (Rank 11)": {
+        "id": 25221,
+        "spell_icon_id": 321,
+        "money_cost": 80000,
+        "Level": 65,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Power Word: Shield (Rank 11)": {
+        "id": 25217,
+        "spell_icon_id": 566,
+        "money_cost": 80000,
+        "Level": 65,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Desperate Prayer (Rank 7)": {
+        "id": 25437,
+        "spell_icon_id": 73,
+        "money_cost": 2200,
+        "Level": 66,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Fire (Rank 9)": {
+        "id": 25384,
+        "spell_icon_id": 156,
+        "money_cost": 65000,
+        "Level": 66,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadowfiend": {
+        "id": 34433,
+        "spell_icon_id": 2296,
+        "money_cost": 89000,
+        "Level": 66,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flash Heal (Rank 9)": {
+        "id": 25235,
+        "spell_icon_id": 242,
+        "money_cost": 99000,
+        "Level": 67,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Devouring Plague (Rank 7)": {
+        "id": 25467,
+        "spell_icon_id": 3789,
+        "money_cost": 110000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Resurrection (Rank 6)": {
+        "id": 25435,
+        "spell_icon_id": 121,
+        "money_cost": 110000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Protection (Rank 4)": {
+        "id": 25433,
+        "spell_icon_id": 207,
+        "money_cost": 110000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mind Flay (Rank 7)": {
+        "id": 25387,
+        "spell_icon_id": 548,
+        "money_cost": 6500,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Nova (Rank 7)": {
+        "id": 25331,
+        "spell_icon_id": 1874,
+        "money_cost": 110000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Prayer of Healing (Rank 6)": {
+        "id": 25308,
+        "spell_icon_id": 540,
+        "money_cost": 110000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Prayer of Mending (Rank 1)": {
+        "id": 33076,
+        "spell_icon_id": 2219,
+        "money_cost": 110000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Greater Heal (Rank 7)": {
+        "id": 25213,
+        "spell_icon_id": 241,
+        "money_cost": 110000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Inner Fire (Rank 7)": {
+        "id": 25431,
+        "spell_icon_id": 51,
+        "money_cost": 65000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mind Blast (Rank 11)": {
+        "id": 25375,
+        "spell_icon_id": 95,
+        "money_cost": 65000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Smite (Rank 10)": {
+        "id": 25364,
+        "spell_icon_id": 237,
+        "money_cost": 65000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lightwell (Rank 4)": {
+        "id": 28275,
+        "spell_icon_id": 1878,
+        "money_cost": 1500,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Prayer of Fortitude (Rank 3)": {
+        "id": 25392,
+        "spell_icon_id": 1669,
+        "money_cost": 100000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Power Word: Fortitude (Rank 7)": {
+        "id": 25389,
+        "spell_icon_id": 685,
+        "money_cost": 65000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Word: Pain (Rank 10)": {
+        "id": 25368,
+        "spell_icon_id": 234,
+        "money_cost": 140000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Divine Spirit (Rank 5)": {
+        "id": 25312,
+        "spell_icon_id": 1879,
+        "money_cost": 2300,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Penance (Rank 2)": {
+        "id": 53005,
+        "spell_icon_id": 2818,
+        "money_cost": 5000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Prayer of Shadow Protection (Rank 2)": {
+        "id": 39374,
+        "spell_icon_id": 1869,
+        "money_cost": 100000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Vampiric Touch (Rank 3)": {
+        "id": 34917,
+        "spell_icon_id": 2213,
+        "money_cost": 2300,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Circle of Healing (Rank 5)": {
+        "id": 34866,
+        "spell_icon_id": 2214,
+        "money_cost": 7000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Prayer of Spirit (Rank 2)": {
+        "id": 32999,
+        "spell_icon_id": 1870,
+        "money_cost": 3400,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Word: Death (Rank 2)": {
+        "id": 32996,
+        "spell_icon_id": 1980,
+        "money_cost": 110000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mass Dispel": {
+        "id": 32375,
+        "spell_icon_id": 2267,
+        "money_cost": 110000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Renew (Rank 12)": {
+        "id": 25222,
+        "spell_icon_id": 321,
+        "money_cost": 140000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Power Word: Shield (Rank 12)": {
+        "id": 25218,
+        "spell_icon_id": 566,
+        "money_cost": 140000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Inner Fire (Rank 8)": {
+        "id": 48040,
+        "spell_icon_id": 51,
+        "money_cost": 180000,
+        "Level": 71,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Fire (Rank 10)": {
+        "id": 48134,
+        "spell_icon_id": 156,
+        "money_cost": 180000,
+        "Level": 72,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Binding Heal (Rank 2)": {
+        "id": 48119,
+        "spell_icon_id": 2266,
+        "money_cost": 180000,
+        "Level": 72,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Devouring Plague (Rank 8)": {
+        "id": 48299,
+        "spell_icon_id": 3789,
+        "money_cost": 180000,
+        "Level": 73,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Desperate Prayer (Rank 8)": {
+        "id": 48172,
+        "spell_icon_id": 73,
+        "money_cost": 3250,
+        "Level": 73,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flash Heal (Rank 10)": {
+        "id": 48070,
+        "spell_icon_id": 242,
+        "money_cost": 180000,
+        "Level": 73,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Greater Heal (Rank 8)": {
+        "id": 48062,
+        "spell_icon_id": 241,
+        "money_cost": 180000,
+        "Level": 73,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mind Flay (Rank 8)": {
+        "id": 48155,
+        "spell_icon_id": 548,
+        "money_cost": 9000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mind Blast (Rank 12)": {
+        "id": 48126,
+        "spell_icon_id": 95,
+        "money_cost": 180000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Smite (Rank 11)": {
+        "id": 48122,
+        "spell_icon_id": 237,
+        "money_cost": 180000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Prayer of Mending (Rank 2)": {
+        "id": 48112,
+        "spell_icon_id": 2219,
+        "money_cost": 100000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Penance (Rank 3)": {
+        "id": 53006,
+        "spell_icon_id": 2818,
+        "money_cost": 9000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Vampiric Touch (Rank 4)": {
+        "id": 48159,
+        "spell_icon_id": 2213,
+        "money_cost": 9000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Word: Death (Rank 3)": {
+        "id": 48157,
+        "spell_icon_id": 1980,
+        "money_cost": 180000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Word: Pain (Rank 11)": {
+        "id": 48124,
+        "spell_icon_id": 234,
+        "money_cost": 180000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Circle of Healing (Rank 6)": {
+        "id": 48088,
+        "spell_icon_id": 2214,
+        "money_cost": 9000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lightwell (Rank 5)": {
+        "id": 48086,
+        "spell_icon_id": 1878,
+        "money_cost": 9000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Nova (Rank 8)": {
+        "id": 48077,
+        "spell_icon_id": 1874,
+        "money_cost": 180000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Renew (Rank 13)": {
+        "id": 48067,
+        "spell_icon_id": 321,
+        "money_cost": 180000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Power Word: Shield (Rank 13)": {
+        "id": 48065,
+        "spell_icon_id": 566,
+        "money_cost": 180000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mind Sear (Rank 1)": {
+        "id": 48045,
+        "spell_icon_id": 2895,
+        "money_cost": 10000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Protection (Rank 5)": {
+        "id": 48169,
+        "spell_icon_id": 207,
+        "money_cost": 180000,
+        "Level": 76,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Prayer of Healing (Rank 7)": {
+        "id": 48072,
+        "spell_icon_id": 540,
+        "money_cost": 180000,
+        "Level": 76,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Prayer of Shadow Protection (Rank 3)": {
+        "id": 48170,
+        "spell_icon_id": 1869,
+        "money_cost": 180000,
+        "Level": 77,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Inner Fire (Rank 9)": {
+        "id": 48168,
+        "spell_icon_id": 51,
+        "money_cost": 180000,
+        "Level": 77,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Resurrection (Rank 7)": {
+        "id": 48171,
+        "spell_icon_id": 121,
+        "money_cost": 180000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Fire (Rank 11)": {
+        "id": 48135,
+        "spell_icon_id": 156,
+        "money_cost": 180000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Binding Heal (Rank 3)": {
+        "id": 48120,
+        "spell_icon_id": 2266,
+        "money_cost": 180000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Greater Heal (Rank 9)": {
+        "id": 48063,
+        "spell_icon_id": 241,
+        "money_cost": 180000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Devouring Plague (Rank 9)": {
+        "id": 48300,
+        "spell_icon_id": 3789,
+        "money_cost": 180000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mind Blast (Rank 13)": {
+        "id": 48127,
+        "spell_icon_id": 95,
+        "money_cost": 180000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Smite (Rank 12)": {
+        "id": 48123,
+        "spell_icon_id": 237,
+        "money_cost": 180000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Prayer of Mending (Rank 3)": {
+        "id": 48113,
+        "spell_icon_id": 2219,
+        "money_cost": 180000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flash Heal (Rank 11)": {
+        "id": 48071,
+        "spell_icon_id": 242,
+        "money_cost": 180000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mind Sear (Rank 2)": {
+        "id": 53023,
+        "spell_icon_id": 2895,
+        "money_cost": 100000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Penance (Rank 4)": {
+        "id": 53007,
+        "spell_icon_id": 2818,
+        "money_cost": 9000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Desperate Prayer (Rank 9)": {
+        "id": 48173,
+        "spell_icon_id": 73,
+        "money_cost": 9000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Prayer of Fortitude (Rank 4)": {
+        "id": 48162,
+        "spell_icon_id": 1669,
+        "money_cost": 180000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Power Word: Fortitude (Rank 8)": {
+        "id": 48161,
+        "spell_icon_id": 685,
+        "money_cost": 180000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Vampiric Touch (Rank 5)": {
+        "id": 48160,
+        "spell_icon_id": 2213,
+        "money_cost": 9000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Word: Death (Rank 4)": {
+        "id": 48158,
+        "spell_icon_id": 1980,
+        "money_cost": 180000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mind Flay (Rank 9)": {
+        "id": 48156,
+        "spell_icon_id": 548,
+        "money_cost": 9000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shadow Word: Pain (Rank 12)": {
+        "id": 48125,
+        "spell_icon_id": 234,
+        "money_cost": 180000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Circle of Healing (Rank 7)": {
+        "id": 48089,
+        "spell_icon_id": 2214,
+        "money_cost": 9000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lightwell (Rank 6)": {
+        "id": 48087,
+        "spell_icon_id": 1878,
+        "money_cost": 9000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Holy Nova (Rank 9)": {
+        "id": 48078,
+        "spell_icon_id": 1874,
+        "money_cost": 180000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Prayer of Spirit (Rank 3)": {
+        "id": 48074,
+        "spell_icon_id": 1870,
+        "money_cost": 9000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Divine Spirit (Rank 6)": {
+        "id": 48073,
+        "spell_icon_id": 1879,
+        "money_cost": 9000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Renew (Rank 14)": {
+        "id": 48068,
+        "spell_icon_id": 321,
+        "money_cost": 180000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Power Word: Shield (Rank 14)": {
+        "id": 48066,
+        "spell_icon_id": 566,
+        "money_cost": 180000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hymn of Hope": {
+        "id": 64901,
+        "spell_icon_id": 2218,
+        "money_cost": 65000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Divine Hymn (Rank 1)": {
+        "id": 64843,
+        "spell_icon_id": 3209,
+        "money_cost": 180000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    }
+}

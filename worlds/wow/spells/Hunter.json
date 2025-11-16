@@ -1,0 +1,1702 @@
+{
+    "Feed Pet": {
+        "id": 6991,
+        "spell_icon_id": 534,
+        "money_cost": 0,
+        "Level": 0,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": true
+    },
+    "Dismiss Pet": {
+        "id": 2641,
+        "spell_icon_id": 67,
+        "money_cost": 0,
+        "Level": 0,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": true
+    },
+    "Tame Beast": {
+        "id": 1515,
+        "spell_icon_id": 255,
+        "money_cost": 0,
+        "Level": 0,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": true
+    },
+    "Call Pet": {
+        "id": 883,
+        "spell_icon_id": 455,
+        "money_cost": 0,
+        "Level": 0,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": true
+    },
+    "Track Beasts": {
+        "id": 1494,
+        "spell_icon_id": 179,
+        "money_cost": 10,
+        "Level": 2,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Aspect of the Monkey": {
+        "id": 13163,
+        "spell_icon_id": 1549,
+        "money_cost": 100,
+        "Level": 4,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Serpent Sting (Rank 1)": {
+        "id": 1978,
+        "spell_icon_id": 536,
+        "money_cost": 100,
+        "Level": 4,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Shot (Rank 1)": {
+        "id": 3044,
+        "spell_icon_id": 218,
+        "money_cost": 100,
+        "Level": 6,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hunter's Mark (Rank 1)": {
+        "id": 1130,
+        "spell_icon_id": 538,
+        "money_cost": 100,
+        "Level": 6,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Raptor Strike (Rank 2)": {
+        "id": 14260,
+        "spell_icon_id": 26,
+        "money_cost": 200,
+        "Level": 8,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Concussive Shot": {
+        "id": 5116,
+        "spell_icon_id": 15,
+        "money_cost": 200,
+        "Level": 8,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Serpent Sting (Rank 2)": {
+        "id": 13549,
+        "spell_icon_id": 536,
+        "money_cost": 400,
+        "Level": 10,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Aspect of the Hawk (Rank 1)": {
+        "id": 13165,
+        "spell_icon_id": 112,
+        "money_cost": 400,
+        "Level": 10,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Track Humanoids": {
+        "id": 19883,
+        "spell_icon_id": 316,
+        "money_cost": 400,
+        "Level": 10,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Shot (Rank 2)": {
+        "id": 14281,
+        "spell_icon_id": 218,
+        "money_cost": 600,
+        "Level": 12,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Wing Clip": {
+        "id": 2974,
+        "spell_icon_id": 517,
+        "money_cost": 600,
+        "Level": 12,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mend Pet (Rank 1)": {
+        "id": 136,
+        "spell_icon_id": 267,
+        "money_cost": 600,
+        "Level": 12,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Distracting Shot (Rank 1)": {
+        "id": 20736,
+        "spell_icon_id": 1499,
+        "money_cost": 600,
+        "Level": 12,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Scare Beast (Rank 1)": {
+        "id": 1513,
+        "spell_icon_id": 958,
+        "money_cost": 1200,
+        "Level": 14,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Eyes of the Beast": {
+        "id": 1002,
+        "spell_icon_id": 49,
+        "money_cost": 1200,
+        "Level": 14,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Raptor Strike (Rank 3)": {
+        "id": 14261,
+        "spell_icon_id": 26,
+        "money_cost": 1800,
+        "Level": 16,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Immolation Trap (Rank 1)": {
+        "id": 13795,
+        "spell_icon_id": 678,
+        "money_cost": 1800,
+        "Level": 16,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Aspect of the Cheetah": {
+        "id": 5118,
+        "spell_icon_id": 1181,
+        "money_cost": 2200,
+        "Level": 16,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mongoose Bite (Rank 1)": {
+        "id": 1495,
+        "spell_icon_id": 257,
+        "money_cost": 1800,
+        "Level": 16,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Aspect of the Hawk (Rank 2)": {
+        "id": 14318,
+        "spell_icon_id": 112,
+        "money_cost": 2000,
+        "Level": 18,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Serpent Sting (Rank 3)": {
+        "id": 13550,
+        "spell_icon_id": 536,
+        "money_cost": 2000,
+        "Level": 18,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Multi-Shot (Rank 1)": {
+        "id": 2643,
+        "spell_icon_id": 85,
+        "money_cost": 2000,
+        "Level": 18,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Track Undead": {
+        "id": 19884,
+        "spell_icon_id": 170,
+        "money_cost": 2000,
+        "Level": 18,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Shot (Rank 3)": {
+        "id": 14282,
+        "spell_icon_id": 218,
+        "money_cost": 2200,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Aspect of the Viper": {
+        "id": 34074,
+        "spell_icon_id": 2227,
+        "money_cost": 2200,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mend Pet (Rank 2)": {
+        "id": 3111,
+        "spell_icon_id": 267,
+        "money_cost": 2200,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Freezing Trap (Rank 1)": {
+        "id": 1499,
+        "spell_icon_id": 180,
+        "money_cost": 2200,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Disengage": {
+        "id": 781,
+        "spell_icon_id": 539,
+        "money_cost": 2200,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hunter's Mark (Rank 2)": {
+        "id": 14323,
+        "spell_icon_id": 538,
+        "money_cost": 6000,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Scorpid Sting": {
+        "id": 3043,
+        "spell_icon_id": 256,
+        "money_cost": 6000,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Raptor Strike (Rank 4)": {
+        "id": 14262,
+        "spell_icon_id": 26,
+        "money_cost": 7000,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Immolation Trap (Rank 2)": {
+        "id": 14302,
+        "spell_icon_id": 678,
+        "money_cost": 7000,
+        "Level": 26,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Serpent Sting (Rank 4)": {
+        "id": 13551,
+        "spell_icon_id": 536,
+        "money_cost": 7000,
+        "Level": 26,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rapid Fire": {
+        "id": 3045,
+        "spell_icon_id": 537,
+        "money_cost": 7000,
+        "Level": 26,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Track Elementals": {
+        "id": 19880,
+        "spell_icon_id": 94,
+        "money_cost": 7000,
+        "Level": 26,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Aspect of the Hawk (Rank 3)": {
+        "id": 14319,
+        "spell_icon_id": 112,
+        "money_cost": 8000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Shot (Rank 4)": {
+        "id": 14283,
+        "spell_icon_id": 218,
+        "money_cost": 8000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Trap": {
+        "id": 13809,
+        "spell_icon_id": 56,
+        "money_cost": 8000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mend Pet (Rank 3)": {
+        "id": 3661,
+        "spell_icon_id": 267,
+        "money_cost": 8000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Aimed Shot (Rank 2)": {
+        "id": 20900,
+        "spell_icon_id": 1629,
+        "money_cost": 400,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Scare Beast (Rank 2)": {
+        "id": 14326,
+        "spell_icon_id": 958,
+        "money_cost": 8000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Multi-Shot (Rank 2)": {
+        "id": 14288,
+        "spell_icon_id": 85,
+        "money_cost": 8000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mongoose Bite (Rank 2)": {
+        "id": 14269,
+        "spell_icon_id": 257,
+        "money_cost": 8000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Aspect of the Beast": {
+        "id": 13161,
+        "spell_icon_id": 1510,
+        "money_cost": 8000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Feign Death": {
+        "id": 5384,
+        "spell_icon_id": 857,
+        "money_cost": 8000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Raptor Strike (Rank 5)": {
+        "id": 14263,
+        "spell_icon_id": 26,
+        "money_cost": 10000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flare": {
+        "id": 1543,
+        "spell_icon_id": 136,
+        "money_cost": 10000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Track Demons": {
+        "id": 19878,
+        "spell_icon_id": 214,
+        "money_cost": 10000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Explosive Trap (Rank 1)": {
+        "id": 13813,
+        "spell_icon_id": 37,
+        "money_cost": 12000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Serpent Sting (Rank 5)": {
+        "id": 13552,
+        "spell_icon_id": 536,
+        "money_cost": 12000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Immolation Trap (Rank 3)": {
+        "id": 14303,
+        "spell_icon_id": 678,
+        "money_cost": 14000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Shot (Rank 5)": {
+        "id": 14284,
+        "spell_icon_id": 218,
+        "money_cost": 14000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mend Pet (Rank 4)": {
+        "id": 3662,
+        "spell_icon_id": 267,
+        "money_cost": 14000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Viper Sting": {
+        "id": 3034,
+        "spell_icon_id": 253,
+        "money_cost": 14000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Aimed Shot (Rank 3)": {
+        "id": 20901,
+        "spell_icon_id": 1629,
+        "money_cost": 700,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Aspect of the Hawk (Rank 4)": {
+        "id": 14320,
+        "spell_icon_id": 112,
+        "money_cost": 16000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hunter's Mark (Rank 3)": {
+        "id": 14324,
+        "spell_icon_id": 538,
+        "money_cost": 18000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Freezing Trap (Rank 2)": {
+        "id": 14310,
+        "spell_icon_id": 180,
+        "money_cost": 18000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Raptor Strike (Rank 6)": {
+        "id": 14264,
+        "spell_icon_id": 26,
+        "money_cost": 18000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Aspect of the Pack": {
+        "id": 13159,
+        "spell_icon_id": 916,
+        "money_cost": 18000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Volley (Rank 1)": {
+        "id": 1510,
+        "spell_icon_id": 126,
+        "money_cost": 18000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Track Giants": {
+        "id": 19882,
+        "spell_icon_id": 84,
+        "money_cost": 18000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Multi-Shot (Rank 3)": {
+        "id": 14289,
+        "spell_icon_id": 85,
+        "money_cost": 24000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Serpent Sting (Rank 6)": {
+        "id": 13553,
+        "spell_icon_id": 536,
+        "money_cost": 24000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Counterattack (Rank 2)": {
+        "id": 20909,
+        "spell_icon_id": 278,
+        "money_cost": 1200,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Explosive Trap (Rank 2)": {
+        "id": 14316,
+        "spell_icon_id": 37,
+        "money_cost": 26000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Shot (Rank 6)": {
+        "id": 14285,
+        "spell_icon_id": 218,
+        "money_cost": 26000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mongoose Bite (Rank 3)": {
+        "id": 14270,
+        "spell_icon_id": 257,
+        "money_cost": 26000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mend Pet (Rank 5)": {
+        "id": 13542,
+        "spell_icon_id": 267,
+        "money_cost": 26000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Aimed Shot (Rank 4)": {
+        "id": 20902,
+        "spell_icon_id": 1629,
+        "money_cost": 1300,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Scare Beast (Rank 3)": {
+        "id": 14327,
+        "spell_icon_id": 958,
+        "money_cost": 28000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Immolation Trap (Rank 4)": {
+        "id": 14304,
+        "spell_icon_id": 678,
+        "money_cost": 28000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Aspect of the Wild (Rank 1)": {
+        "id": 20043,
+        "spell_icon_id": 266,
+        "money_cost": 28000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Aspect of the Hawk (Rank 5)": {
+        "id": 14321,
+        "spell_icon_id": 112,
+        "money_cost": 32000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Raptor Strike (Rank 7)": {
+        "id": 14265,
+        "spell_icon_id": 26,
+        "money_cost": 32000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Volley (Rank 2)": {
+        "id": 14294,
+        "spell_icon_id": 126,
+        "money_cost": 36000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Serpent Sting (Rank 7)": {
+        "id": 13554,
+        "spell_icon_id": 536,
+        "money_cost": 36000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Steady Shot (Rank 1)": {
+        "id": 56641,
+        "spell_icon_id": 2228,
+        "money_cost": 36000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Wyvern Sting (Rank 2)": {
+        "id": 24132,
+        "spell_icon_id": 1721,
+        "money_cost": 1800,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Track Dragonkin": {
+        "id": 19879,
+        "spell_icon_id": 1548,
+        "money_cost": 36000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Shot (Rank 7)": {
+        "id": 14286,
+        "spell_icon_id": 218,
+        "money_cost": 40000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mend Pet (Rank 6)": {
+        "id": 13543,
+        "spell_icon_id": 267,
+        "money_cost": 40000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Aimed Shot (Rank 5)": {
+        "id": 20903,
+        "spell_icon_id": 1629,
+        "money_cost": 2000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Explosive Trap (Rank 3)": {
+        "id": 14317,
+        "spell_icon_id": 37,
+        "money_cost": 42000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Multi-Shot (Rank 4)": {
+        "id": 14290,
+        "spell_icon_id": 85,
+        "money_cost": 42000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Counterattack (Rank 3)": {
+        "id": 20910,
+        "spell_icon_id": 278,
+        "money_cost": 2100,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Immolation Trap (Rank 5)": {
+        "id": 14305,
+        "spell_icon_id": 678,
+        "money_cost": 46000,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Raptor Strike (Rank 8)": {
+        "id": 14266,
+        "spell_icon_id": 26,
+        "money_cost": 46000,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Aspect of the Wild (Rank 2)": {
+        "id": 20190,
+        "spell_icon_id": 266,
+        "money_cost": 46000,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Black Arrow (Rank 2)": {
+        "id": 63668,
+        "spell_icon_id": 1939,
+        "money_cost": 1800,
+        "Level": 57,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hunter's Mark (Rank 4)": {
+        "id": 14325,
+        "spell_icon_id": 538,
+        "money_cost": 48000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Aspect of the Hawk (Rank 6)": {
+        "id": 14322,
+        "spell_icon_id": 112,
+        "money_cost": 48000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Volley (Rank 3)": {
+        "id": 14295,
+        "spell_icon_id": 126,
+        "money_cost": 48000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mongoose Bite (Rank 4)": {
+        "id": 14271,
+        "spell_icon_id": 257,
+        "money_cost": 48000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Serpent Sting (Rank 8)": {
+        "id": 13555,
+        "spell_icon_id": 536,
+        "money_cost": 48000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Freezing Trap (Rank 3)": {
+        "id": 14311,
+        "spell_icon_id": 180,
+        "money_cost": 50000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Shot (Rank 8)": {
+        "id": 14287,
+        "spell_icon_id": 218,
+        "money_cost": 50000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mend Pet (Rank 7)": {
+        "id": 13544,
+        "spell_icon_id": 267,
+        "money_cost": 50000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Aspect of the Hawk (Rank 7)": {
+        "id": 25296,
+        "spell_icon_id": 112,
+        "money_cost": 50000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Serpent Sting (Rank 9)": {
+        "id": 25295,
+        "spell_icon_id": 536,
+        "money_cost": 50000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Multi-Shot (Rank 5)": {
+        "id": 25294,
+        "spell_icon_id": 85,
+        "money_cost": 50000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Wyvern Sting (Rank 3)": {
+        "id": 24133,
+        "spell_icon_id": 1721,
+        "money_cost": 2500,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Aimed Shot (Rank 6)": {
+        "id": 20904,
+        "spell_icon_id": 1629,
+        "money_cost": 2500,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Tranquilizing Shot": {
+        "id": 19801,
+        "spell_icon_id": 155,
+        "money_cost": 50000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Deterrence": {
+        "id": 19263,
+        "spell_icon_id": 83,
+        "money_cost": 2200,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Explosive Trap (Rank 4)": {
+        "id": 27025,
+        "spell_icon_id": 37,
+        "money_cost": 68000,
+        "Level": 61,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Steady Shot (Rank 2)": {
+        "id": 34120,
+        "spell_icon_id": 2228,
+        "money_cost": 70000,
+        "Level": 62,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Raptor Strike (Rank 9)": {
+        "id": 27014,
+        "spell_icon_id": 26,
+        "money_cost": 87000,
+        "Level": 63,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Black Arrow (Rank 3)": {
+        "id": 63669,
+        "spell_icon_id": 1939,
+        "money_cost": 7000,
+        "Level": 63,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Immolation Trap (Rank 6)": {
+        "id": 27023,
+        "spell_icon_id": 678,
+        "money_cost": 110000,
+        "Level": 65,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Counterattack (Rank 4)": {
+        "id": 27067,
+        "spell_icon_id": 278,
+        "money_cost": 2500,
+        "Level": 66,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Kill Command": {
+        "id": 34026,
+        "spell_icon_id": 2226,
+        "money_cost": 120000,
+        "Level": 66,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Volley (Rank 4)": {
+        "id": 27022,
+        "spell_icon_id": 126,
+        "money_cost": 140000,
+        "Level": 67,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Multi-Shot (Rank 6)": {
+        "id": 27021,
+        "spell_icon_id": 85,
+        "money_cost": 140000,
+        "Level": 67,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Serpent Sting (Rank 10)": {
+        "id": 27016,
+        "spell_icon_id": 536,
+        "money_cost": 140000,
+        "Level": 67,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mend Pet (Rank 8)": {
+        "id": 27046,
+        "spell_icon_id": 267,
+        "money_cost": 150000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Aspect of the Wild (Rank 3)": {
+        "id": 27045,
+        "spell_icon_id": 266,
+        "money_cost": 150000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Aspect of the Hawk (Rank 8)": {
+        "id": 27044,
+        "spell_icon_id": 112,
+        "money_cost": 150000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Snake Trap": {
+        "id": 34600,
+        "spell_icon_id": 2295,
+        "money_cost": 150000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Shot (Rank 9)": {
+        "id": 27019,
+        "spell_icon_id": 218,
+        "money_cost": 170000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Black Arrow (Rank 4)": {
+        "id": 63670,
+        "spell_icon_id": 1939,
+        "money_cost": 10000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mongoose Bite (Rank 5)": {
+        "id": 36916,
+        "spell_icon_id": 257,
+        "money_cost": 300000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Wyvern Sting (Rank 4)": {
+        "id": 27068,
+        "spell_icon_id": 1721,
+        "money_cost": 5000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Aimed Shot (Rank 7)": {
+        "id": 27065,
+        "spell_icon_id": 1629,
+        "money_cost": 10000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Explosive Shot (Rank 2)": {
+        "id": 60051,
+        "spell_icon_id": 3407,
+        "money_cost": 400,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Misdirection": {
+        "id": 34477,
+        "spell_icon_id": 2231,
+        "money_cost": 190000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Kill Shot (Rank 1)": {
+        "id": 53351,
+        "spell_icon_id": 3676,
+        "money_cost": 300000,
+        "Level": 71,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Explosive Trap (Rank 5)": {
+        "id": 49066,
+        "spell_icon_id": 37,
+        "money_cost": 300000,
+        "Level": 71,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Steady Shot (Rank 3)": {
+        "id": 49051,
+        "spell_icon_id": 2228,
+        "money_cost": 300000,
+        "Level": 71,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Raptor Strike (Rank 10)": {
+        "id": 48995,
+        "spell_icon_id": 26,
+        "money_cost": 300000,
+        "Level": 71,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Immolation Trap (Rank 7)": {
+        "id": 49055,
+        "spell_icon_id": 678,
+        "money_cost": 300000,
+        "Level": 72,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Counterattack (Rank 5)": {
+        "id": 48998,
+        "spell_icon_id": 278,
+        "money_cost": 15000,
+        "Level": 72,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Shot (Rank 10)": {
+        "id": 49044,
+        "spell_icon_id": 218,
+        "money_cost": 300000,
+        "Level": 73,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Serpent Sting (Rank 11)": {
+        "id": 49000,
+        "spell_icon_id": 536,
+        "money_cost": 300000,
+        "Level": 73,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Volley (Rank 5)": {
+        "id": 58431,
+        "spell_icon_id": 126,
+        "money_cost": 300000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Multi-Shot (Rank 7)": {
+        "id": 49047,
+        "spell_icon_id": 85,
+        "money_cost": 300000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mend Pet (Rank 9)": {
+        "id": 48989,
+        "spell_icon_id": 267,
+        "money_cost": 300000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Aspect of the Dragonhawk (Rank 1)": {
+        "id": 61846,
+        "spell_icon_id": 2328,
+        "money_cost": 300000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Kill Shot (Rank 2)": {
+        "id": 61005,
+        "spell_icon_id": 3676,
+        "money_cost": 300000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Master's Call": {
+        "id": 53271,
+        "spell_icon_id": 3486,
+        "money_cost": 10000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Explosive Shot (Rank 3)": {
+        "id": 60052,
+        "spell_icon_id": 3407,
+        "money_cost": 400,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Aimed Shot (Rank 8)": {
+        "id": 49049,
+        "spell_icon_id": 1629,
+        "money_cost": 10000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Wyvern Sting (Rank 5)": {
+        "id": 49011,
+        "spell_icon_id": 1721,
+        "money_cost": 100000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Black Arrow (Rank 5)": {
+        "id": 63671,
+        "spell_icon_id": 1939,
+        "money_cost": 10000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hunter's Mark (Rank 5)": {
+        "id": 53338,
+        "spell_icon_id": 538,
+        "money_cost": 10000,
+        "Level": 76,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Aspect of the Wild (Rank 4)": {
+        "id": 49071,
+        "spell_icon_id": 266,
+        "money_cost": 300000,
+        "Level": 76,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Explosive Trap (Rank 6)": {
+        "id": 49067,
+        "spell_icon_id": 37,
+        "money_cost": 300000,
+        "Level": 77,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Steady Shot (Rank 4)": {
+        "id": 49052,
+        "spell_icon_id": 2228,
+        "money_cost": 300000,
+        "Level": 77,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Raptor Strike (Rank 11)": {
+        "id": 48996,
+        "spell_icon_id": 26,
+        "money_cost": 300000,
+        "Level": 77,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Immolation Trap (Rank 8)": {
+        "id": 49056,
+        "spell_icon_id": 678,
+        "money_cost": 300000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Counterattack (Rank 6)": {
+        "id": 48999,
+        "spell_icon_id": 278,
+        "money_cost": 15000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Arcane Shot (Rank 11)": {
+        "id": 49045,
+        "spell_icon_id": 218,
+        "money_cost": 300000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Serpent Sting (Rank 12)": {
+        "id": 49001,
+        "spell_icon_id": 536,
+        "money_cost": 300000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Kill Shot (Rank 3)": {
+        "id": 61006,
+        "spell_icon_id": 3676,
+        "money_cost": 300000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mongoose Bite (Rank 6)": {
+        "id": 53339,
+        "spell_icon_id": 257,
+        "money_cost": 300000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Freezing Arrow (Rank 1)": {
+        "id": 60192,
+        "spell_icon_id": 189,
+        "money_cost": 100000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Explosive Shot (Rank 4)": {
+        "id": 60053,
+        "spell_icon_id": 3407,
+        "money_cost": 100000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Volley (Rank 6)": {
+        "id": 58434,
+        "spell_icon_id": 126,
+        "money_cost": 300000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Aimed Shot (Rank 9)": {
+        "id": 49050,
+        "spell_icon_id": 1629,
+        "money_cost": 10000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Multi-Shot (Rank 8)": {
+        "id": 49048,
+        "spell_icon_id": 85,
+        "money_cost": 300000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Wyvern Sting (Rank 6)": {
+        "id": 49012,
+        "spell_icon_id": 1721,
+        "money_cost": 100000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mend Pet (Rank 10)": {
+        "id": 48990,
+        "spell_icon_id": 267,
+        "money_cost": 300000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Black Arrow (Rank 6)": {
+        "id": 63672,
+        "spell_icon_id": 1939,
+        "money_cost": 10000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Call Stabled Pet": {
+        "id": 62757,
+        "spell_icon_id": 1522,
+        "money_cost": 300000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Aspect of the Dragonhawk (Rank 2)": {
+        "id": 61847,
+        "spell_icon_id": 2328,
+        "money_cost": 300000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    }
+}

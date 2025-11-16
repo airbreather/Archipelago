@@ -1,0 +1,2401 @@
+{
+    "Call of Water (Draenei) (4)": {
+        "ID": 9503,
+        "QuestLevel": -1,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -82,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "Call of Water",
+        "AllowableClasses": [
+            "Shaman"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Call of Water (Draenei) (2)"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Call of Water (Draenei) (5)": {
+        "ID": 9504,
+        "QuestLevel": -1,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -82,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "Call of Water",
+        "AllowableClasses": [
+            "Shaman"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Call of Water (Draenei) (4)"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Call of Water (Draenei) (6)": {
+        "ID": 9508,
+        "QuestLevel": -1,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -82,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "Call of Water",
+        "AllowableClasses": [
+            "Shaman"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Call of Water (Draenei) (5)"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Call of Water (Draenei) (7)": {
+        "ID": 9509,
+        "QuestLevel": -1,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -82,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "Call of Water",
+        "AllowableClasses": [
+            "Shaman"
+        ],
+        "RewardSpell": 5396,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Call of Water (Draenei) (6)"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Cookie's Jumbo Gumbo": {
+        "ID": 9512,
+        "QuestLevel": 7,
+        "MinLevel": 5,
+        "QuestInfoID": 0,
+        "QuestSortID": 3524,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Cookie's Jumbo Gumbo",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Azuremyst Isle",
+            "Bloodmyst Isle"
+        ]
+    },
+    "Pilfered Equipment": {
+        "ID": 9548,
+        "QuestLevel": 17,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Pilfered Equipment",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Artifacts of the Blacksilt": {
+        "ID": 9549,
+        "QuestLevel": 17,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Artifacts of the Blacksilt",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pilfered Equipment"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "A Map to Where?": {
+        "ID": 9550,
+        "QuestLevel": 16,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Map to Where?",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Artifacts of the Blacksilt"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Call of Fire (Shaman) (15)": {
+        "ID": 9555,
+        "QuestLevel": -1,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -82,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Call of Fire",
+        "AllowableClasses": [
+            "Shaman"
+        ],
+        "RewardSpell": 2075,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Call of Fire (Shaman) (11)"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Deciphering the Book": {
+        "ID": 9557,
+        "QuestLevel": 16,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Deciphering the Book",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Map to Where?"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Nolkai's Words": {
+        "ID": 9561,
+        "QuestLevel": 16,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Nolkai's Words",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Deciphering the Book"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Know Thine Enemy": {
+        "ID": 9567,
+        "QuestLevel": 14,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Know Thine Enemy",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Containing the Threat": {
+        "ID": 9569,
+        "QuestLevel": 18,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Containing the Threat",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Know Thine Enemy"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Victims of Corruption": {
+        "ID": 9574,
+        "QuestLevel": 14,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Victims of Corruption",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Catch and Release"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Searching for Galaen": {
+        "ID": 9578,
+        "QuestLevel": 18,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Searching for Galaen",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Galaen's Fate": {
+        "ID": 9579,
+        "QuestLevel": 18,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Galaen's Fate",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Searching for Galaen"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "The Bear Necessities": {
+        "ID": 9580,
+        "QuestLevel": 16,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Bear Necessities",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Learning from the Crystals": {
+        "ID": 9581,
+        "QuestLevel": 11,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Learning from the Crystals",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "The Second Sample": {
+        "ID": 9584,
+        "QuestLevel": 14,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Second Sample",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Salvaging the Data"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "The Final Sample": {
+        "ID": 9585,
+        "QuestLevel": 18,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Final Sample",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Second Sample"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Signs of the Legion": {
+        "ID": 9594,
+        "QuestLevel": 14,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Signs of the Legion",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Beds, Bandages, and Beyond": {
+        "ID": 9603,
+        "QuestLevel": 10,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "Beds, Bandages, and Beyond",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "On the Wings of a Hippogryph": {
+        "ID": 9604,
+        "QuestLevel": 10,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "On the Wings of a Hippogryph",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Beds, Bandages, and Beyond"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "The Missing Survey Team": {
+        "ID": 9620,
+        "QuestLevel": 14,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Missing Survey Team",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Learning from the Crystals"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "A Favorite Treat": {
+        "ID": 9624,
+        "QuestLevel": 12,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Favorite Treat",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Salvaging the Data": {
+        "ID": 9628,
+        "QuestLevel": 14,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Salvaging the Data",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Missing Survey Team"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Catch and Release": {
+        "ID": 9629,
+        "QuestLevel": 13,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Catch and Release",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Newfound Allies": {
+        "ID": 9632,
+        "QuestLevel": 15,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Newfound Allies",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Alien Predators": {
+        "ID": 9634,
+        "QuestLevel": 11,
+        "MinLevel": 8,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Alien Predators",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Elekks Are Serious Business"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Irradiated Crystal Shards": {
+        "ID": 9641,
+        "QuestLevel": 15,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Irradiated Crystal Shards",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "More Irradiated Crystal Shards": {
+        "ID": 9642,
+        "QuestLevel": 15,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "More Irradiated Crystal Shards",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Irradiated Crystal Shards"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Constrictor Vines": {
+        "ID": 9643,
+        "QuestLevel": 15,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Constrictor Vines",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "WANTED: Deathclaw": {
+        "ID": 9646,
+        "QuestLevel": 17,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "WANTED: Deathclaw",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Culling the Flutterers": {
+        "ID": 9647,
+        "QuestLevel": 16,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Culling the Flutterers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Constrictor Vines"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Mac'Aree Mushroom Menagerie": {
+        "ID": 9648,
+        "QuestLevel": 14,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Mac'Aree Mushroom Menagerie",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Ysera's Tears": {
+        "ID": 9649,
+        "QuestLevel": 18,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Ysera's Tears",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mac'Aree Mushroom Menagerie"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "The Kessel Run": {
+        "ID": 9663,
+        "QuestLevel": 12,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Kessel Run",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Declaration of Power": {
+        "ID": 9666,
+        "QuestLevel": 13,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Declaration of Power",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Kessel Run"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Saving Princess Stillpine": {
+        "ID": 9667,
+        "QuestLevel": 13,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Saving Princess Stillpine",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Learning the Language"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Report to Exarch Admetius": {
+        "ID": 9668,
+        "QuestLevel": 13,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Report to Exarch Admetius",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Declaration of Power"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "The Missing Expedition": {
+        "ID": 9669,
+        "QuestLevel": 19,
+        "MinLevel": 16,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Missing Expedition",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "They're Alive! Maybe... (1)": {
+        "ID": 9670,
+        "QuestLevel": 19,
+        "MinLevel": 16,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "They're Alive! Maybe...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Urgent Delivery": {
+        "ID": 9671,
+        "QuestLevel": 18,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Urgent Delivery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Deliver Them From Evil..."
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "The Bloodcurse Legacy (2)": {
+        "ID": 9672,
+        "QuestLevel": 18,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Bloodcurse Legacy",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 9672,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Urgent Delivery"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "The Bloodcursed Naga": {
+        "ID": 9674,
+        "QuestLevel": 18,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Bloodcursed Naga",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "The Hopeless Ones...": {
+        "ID": 9682,
+        "QuestLevel": 18,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Hopeless Ones...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Bloodcursed Naga"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Ending the Bloodcurse": {
+        "ID": 9683,
+        "QuestLevel": 19,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Ending the Bloodcurse",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Hopeless Ones..."
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Restoring Sanctity": {
+        "ID": 9687,
+        "QuestLevel": 18,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Restoring Sanctity",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Into the Dream": {
+        "ID": 9688,
+        "QuestLevel": 19,
+        "MinLevel": 16,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Into the Dream",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Restoring Sanctity"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Razormaw": {
+        "ID": 9689,
+        "QuestLevel": 21,
+        "MinLevel": 19,
+        "QuestInfoID": 1,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Razormaw",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Into the Dream"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "What Argus Means to Me": {
+        "ID": 9693,
+        "QuestLevel": 15,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "What Argus Means to Me",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Blood Watch": {
+        "ID": 9694,
+        "QuestLevel": 15,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Blood Watch",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "What Argus Means to Me"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Translations...": {
+        "ID": 9696,
+        "QuestLevel": 16,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Translations...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Intercepting the Message"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Audience with the Prophet": {
+        "ID": 9698,
+        "QuestLevel": 16,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Audience with the Prophet",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Translations..."
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Truth or Fiction": {
+        "ID": 9699,
+        "QuestLevel": 16,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Truth or Fiction",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Audience with the Prophet"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "I Shoot Magic Into the Darkness": {
+        "ID": 9700,
+        "QuestLevel": 16,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "I Shoot Magic Into the Darkness",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Truth or Fiction"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "The Cryo-Core": {
+        "ID": 9703,
+        "QuestLevel": 17,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Cryo-Core",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "I Shoot Magic Into the Darkness"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Galaen's Journal - The Fate of Vindicator Saruan": {
+        "ID": 9706,
+        "QuestLevel": 18,
+        "MinLevel": 15,
+        "QuestInfoID": 1,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Galaen's Journal - The Fate of Vindicator Saruan",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Searching for Galaen"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Matis the Cruel": {
+        "ID": 9711,
+        "QuestLevel": 18,
+        "MinLevel": 15,
+        "QuestInfoID": 1,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Matis the Cruel",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Galaen's Journal - The Fate of Vindicator Saruan"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "The Sun Gate": {
+        "ID": 9740,
+        "QuestLevel": 18,
+        "MinLevel": 16,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Sun Gate",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Limits of Physical Exhaustion"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Critters of the Void": {
+        "ID": 9741,
+        "QuestLevel": 18,
+        "MinLevel": 16,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Critters of the Void",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Limits of Physical Exhaustion": {
+        "ID": 9746,
+        "QuestLevel": 18,
+        "MinLevel": 16,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Limits of Physical Exhaustion",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Don't Drink the Water"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Don't Drink the Water": {
+        "ID": 9748,
+        "QuestLevel": 18,
+        "MinLevel": 16,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Don't Drink the Water",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Cryo-Core"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "What We Know...": {
+        "ID": 9753,
+        "QuestLevel": 20,
+        "MinLevel": 18,
+        "QuestInfoID": 1,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "What We Know...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Sun Gate"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "What We Don't Know...": {
+        "ID": 9756,
+        "QuestLevel": 20,
+        "MinLevel": 18,
+        "QuestInfoID": 1,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "What We Don't Know...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "What We Know..."
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Ending Their World": {
+        "ID": 9759,
+        "QuestLevel": 20,
+        "MinLevel": 18,
+        "QuestInfoID": 1,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "Ending Their World",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "What We Don't Know..."
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Vindicator's Rest": {
+        "ID": 9760,
+        "QuestLevel": 20,
+        "MinLevel": 18,
+        "QuestInfoID": 1,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "Vindicator's Rest",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "What We Don't Know..."
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Clearing the Way (Draenei) (1)": {
+        "ID": 9761,
+        "QuestLevel": 20,
+        "MinLevel": 18,
+        "QuestInfoID": 1,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "Clearing the Way",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Vindicator's Rest"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "The Unwritten Prophecy": {
+        "ID": 9762,
+        "QuestLevel": 20,
+        "MinLevel": 18,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "The Unwritten Prophecy",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Ending Their World"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Intercepting the Message": {
+        "ID": 9779,
+        "QuestLevel": 16,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Intercepting the Message",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Blood Watch"
+        ],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Explorers' League, Is That Something for Gnomes?": {
+        "ID": 10063,
+        "QuestLevel": 17,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Explorers' League, Is That Something for Gnomes?",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Talk to the Hand": {
+        "ID": 10064,
+        "QuestLevel": 18,
+        "MinLevel": 16,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Talk to the Hand",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Cutting a Path": {
+        "ID": 10065,
+        "QuestLevel": 17,
+        "MinLevel": 16,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Cutting a Path",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Oh, the Tangled Webs They Weave": {
+        "ID": 10066,
+        "QuestLevel": 18,
+        "MinLevel": 16,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Oh, the Tangled Webs They Weave",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Fouled Water Spirits": {
+        "ID": 10067,
+        "QuestLevel": 19,
+        "MinLevel": 16,
+        "QuestInfoID": 0,
+        "QuestSortID": 3525,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Fouled Water Spirits",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Desecrate this Fire! (Bloodmyst Isle - Horde)": {
+        "ID": 11738,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Honor the Flame (Bloodmyst Isle - Alliance)": {
+        "ID": 11809,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    },
+    "Candy Bucket (Bloodmyst Isle)": {
+        "ID": 12341,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Bloodmyst Isle"
+        ]
+    }
+}

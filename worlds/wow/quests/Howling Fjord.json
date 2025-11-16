@@ -1,0 +1,6982 @@
+{
+    "Break the Blockade": {
+        "ID": 11153,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Break the Blockade",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Scare the Guano Out of Them!": {
+        "ID": 11154,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Scare the Guano Out of Them!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Shoveltusk Soup Again?": {
+        "ID": 11155,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Shoveltusk Soup Again?",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Clutches of Evil": {
+        "ID": 11157,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Clutches of Evil",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The New Plague": {
+        "ID": 11167,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The New Plague",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Spiking the Mix": {
+        "ID": 11168,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Spiking the Mix",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The New Plague"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Test at Sea": {
+        "ID": 11170,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Test at Sea",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Spiking the Mix"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "My Daughter": {
+        "ID": 11175,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "My Daughter",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Leader of the Deranged"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "See to the Operations": {
+        "ID": 11176,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "See to the Operations",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Leader of the Deranged"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Root Causes": {
+        "ID": 11182,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Root Causes",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Mage-Lieutenant Malister": {
+        "ID": 11187,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Mage-Lieutenant Malister",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Clutches of Evil"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Two Wrongs...": {
+        "ID": 11188,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Two Wrongs...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mage-Lieutenant Malister"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "One Size Does Not Fit All": {
+        "ID": 11190,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "One Size Does Not Fit All",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Report to Scout Knowles": {
+        "ID": 11199,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Report to Scout Knowles",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Two Wrongs..."
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Mission: Eternal Flame": {
+        "ID": 11202,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Mission: Eternal Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Report to Scout Knowles"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Danger! Explosives!": {
+        "ID": 11218,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Danger! Explosives!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Two Wrongs..."
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Reports from the Field": {
+        "ID": 11221,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Reports from the Field",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "War is Hell"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Send Them Packing": {
+        "ID": 11224,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Send Them Packing",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Two Wrongs..."
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Let Them Eat Crow": {
+        "ID": 11227,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Let Them Eat Crow",
+        "AllowableClasses": [],
+        "RewardSpell": 43511,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Hell Has Frozen Over...": {
+        "ID": 11228,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Hell Has Frozen Over...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Windrunner Fleet": {
+        "ID": 11229,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Windrunner Fleet",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Reports from the Field"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Ambushed!": {
+        "ID": 11230,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Ambushed!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Windrunner Fleet"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Of Keys and Cages (1)": {
+        "ID": 11231,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Of Keys and Cages",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "All Hail the Conqueror of Skorn!"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Guide Our Sights": {
+        "ID": 11232,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Guide Our Sights",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Ambushed!"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Landing the Killing Blow": {
+        "ID": 11233,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Landing the Killing Blow",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Guide Our Sights"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Report to Anselm": {
+        "ID": 11234,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Report to Anselm",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Landing the Killing Blow"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Dealing With Gjalerbron (1)": {
+        "ID": 11235,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Dealing With Gjalerbron",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "All Hail the Conqueror of Skorn!"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Necro Overlord Mezhen (1)": {
+        "ID": 11236,
+        "QuestLevel": 72,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Necro Overlord Mezhen",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Dealing With Gjalerbron (1)"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Frost Wyrm and its Master (1)": {
+        "ID": 11238,
+        "QuestLevel": 72,
+        "MinLevel": 68,
+        "QuestInfoID": 1,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Frost Wyrm and its Master",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Gjalerbron Attack Plans (1)"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "In Service to the Light": {
+        "ID": 11239,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "In Service to the Light",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Of Keys and Cages (1)"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Leader of the Deranged": {
+        "ID": 11240,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Leader of the Deranged",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Danger! Explosives!"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Trail of Fire": {
+        "ID": 11241,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Trail of Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "If Valgarde Falls...": {
+        "ID": 11243,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "If Valgarde Falls...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Hell Has Frozen Over..."
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Rescuing the Rescuers": {
+        "ID": 11244,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Rescuing the Rescuers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "If Valgarde Falls..."
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Operation: Skornful Wrath": {
+        "ID": 11248,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Operation: Skornful Wrath",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mission: Plague This!"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Stop the Ascension! (1)": {
+        "ID": 11249,
+        "QuestLevel": 72,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Stop the Ascension!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Operation: Skornful Wrath"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Fresh Legs": {
+        "ID": 11251,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Fresh Legs",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Rescuing the Rescuers"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Sniff Out the Enemy": {
+        "ID": 11253,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Sniff Out the Enemy",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Let Them Eat Crow"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Dragonskin Map": {
+        "ID": 11254,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Dragonskin Map",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Sniff Out the Enemy"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Prisoners of Wyrmskull": {
+        "ID": 11255,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Prisoners of Wyrmskull",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Rescuing the Rescuers"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Skorn Must Fall!": {
+        "ID": 11256,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Skorn Must Fall!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mimicking Nature's Call"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Stop the Ascension! (2)": {
+        "ID": 11260,
+        "QuestLevel": 72,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Stop the Ascension!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Skorn Must Fall!"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Dealing With Gjalerbron (2)": {
+        "ID": 11263,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Dealing With Gjalerbron",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Conqueror of Skorn!"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Necro Overlord Mezhen (2)": {
+        "ID": 11264,
+        "QuestLevel": 72,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Necro Overlord Mezhen",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Dealing With Gjalerbron (2)"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Of Keys and Cages (2)": {
+        "ID": 11265,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Of Keys and Cages",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Stop the Ascension! (2)"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Frost Wyrm and its Master (2)": {
+        "ID": 11267,
+        "QuestLevel": 72,
+        "MinLevel": 68,
+        "QuestInfoID": 1,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Frost Wyrm and its Master",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Gjalerbron Attack Plans (2)"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Walking Dead": {
+        "ID": 11268,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Walking Dead",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Of Keys and Cages (2)"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Down to the Wire": {
+        "ID": 11269,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Down to the Wire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "All Hail the Conqueror of Skorn!"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "War is Hell": {
+        "ID": 11270,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "War is Hell",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Hasty Preparations": {
+        "ID": 11271,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Hasty Preparations",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Human League": {
+        "ID": 11273,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Human League",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Rescuing the Rescuers"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Zedd's Probably Dead": {
+        "ID": 11274,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Zedd's Probably Dead",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Human League"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Making the Horn": {
+        "ID": 11275,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Making the Horn",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "And Then There Were Two...": {
+        "ID": 11276,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "And Then There Were Two...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Zedd's Probably Dead"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Depths of Depravity": {
+        "ID": 11277,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Depths of Depravity",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "And Then There Were Two..."
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Return to Valgarde": {
+        "ID": 11278,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Return to Valgarde",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Stunning Defeat at the Ring"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Green Eggs and Whelps": {
+        "ID": 11279,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Green Eggs and Whelps",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Draconis Gastritis": {
+        "ID": 11280,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Draconis Gastritis",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Green Eggs and Whelps"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Mimicking Nature's Call": {
+        "ID": 11281,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Mimicking Nature's Call",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Making the Horn"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "A Lesson in Fear": {
+        "ID": 11282,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Lesson in Fear",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Offensive Begins"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Baleheim Bodycount": {
+        "ID": 11283,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Baleheim Bodycount",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -11283,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Lesson in Fear"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Yeti Next Door": {
+        "ID": 11284,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Yeti Next Door",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Baleheim Must Burn!": {
+        "ID": 11285,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Baleheim Must Burn!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -11283,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Lesson in Fear"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Artifacts of Steel Gate": {
+        "ID": 11286,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Artifacts of Steel Gate",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Find Sage Mistwalker"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Find Sage Mistwalker": {
+        "ID": 11287,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Find Sage Mistwalker",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Conqueror of Skorn!"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Shining Light": {
+        "ID": 11288,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Shining Light",
+        "AllowableClasses": [],
+        "RewardSpell": 43236,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Rescuing the Rescuers"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Guided by Honor": {
+        "ID": 11289,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Guided by Honor",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Shining Light"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Dragonflayer Battle Plans": {
+        "ID": 11290,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Dragonflayer Battle Plans",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Prisoners of Wyrmskull"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "To Westguard Keep!": {
+        "ID": 11291,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "To Westguard Keep!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Dragonflayer Battle Plans"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Preying Upon the Weak": {
+        "ID": 11292,
+        "QuestLevel": 70,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Preying Upon the Weak",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Everything Must Be Ready"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Offensive Begins": {
+        "ID": 11295,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Offensive Begins",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Dragonskin Map"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Rivenwood Captives": {
+        "ID": 11296,
+        "QuestLevel": 72,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Rivenwood Captives",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Keeping Watch on the Interlopers": {
+        "ID": 11297,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Keeping Watch on the Interlopers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Suppressing the Elements"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "What's in That Brew?": {
+        "ID": 11298,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "What's in That Brew?",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Keeping Watch on the Interlopers"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Ring of Judgement": {
+        "ID": 11299,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Ring of Judgement",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Depths of Depravity"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Stunning Defeat at the Ring": {
+        "ID": 11300,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Stunning Defeat at the Ring",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Ring of Judgement"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Brains! Brains! Brains!": {
+        "ID": 11301,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Brains! Brains! Brains!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Enigmatic Frost Nymphs": {
+        "ID": 11302,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Enigmatic Frost Nymphs",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 11312,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Yeti Next Door"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Ambush": {
+        "ID": 11303,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Ambush",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "New Agamand": {
+        "ID": 11304,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "New Agamand",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Test at Sea"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "A Tailor-Made Formula": {
+        "ID": 11305,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Tailor-Made Formula",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "New Agamand"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Apply Heat and Stir": {
+        "ID": 11306,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Apply Heat and Stir",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Tailor-Made Formula"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Field Test": {
+        "ID": 11307,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Field Test",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Apply Heat and Stir"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Time for Cleanup": {
+        "ID": 11308,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Time for Cleanup",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Field Test"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Parts for the Job": {
+        "ID": 11309,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Parts for the Job",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Time for Cleanup"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Warning: Some Assembly Required": {
+        "ID": 11310,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Warning: Some Assembly Required",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Parts for the Job"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Suppressing the Elements": {
+        "ID": 11311,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Suppressing the Elements",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Making the Horn"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Frozen Glade": {
+        "ID": 11312,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Frozen Glade",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 11312,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Spirits of the Ice": {
+        "ID": 11313,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Spirits of the Ice",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Fallen Sisters": {
+        "ID": 11314,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Fallen Sisters",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Spirits of the Ice"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Wild Vines": {
+        "ID": 11315,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Wild Vines",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Spirits of the Ice"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Spawn of the Twisted Glade": {
+        "ID": 11316,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Spawn of the Twisted Glade",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Fallen Sisters"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Cleansing (2)": {
+        "ID": 11317,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Cleansing",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Artifacts of Steel Gate"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Seeds of the Blacksouled Keepers": {
+        "ID": 11319,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Seeds of the Blacksouled Keepers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Wild Vines"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Cleansing (1)": {
+        "ID": 11322,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Cleansing",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "In Worg's Clothing (1)": {
+        "ID": 11323,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "In Worg's Clothing",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Cleansing (2)"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Alpha Worg (1)": {
+        "ID": 11324,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Alpha Worg",
+        "AllowableClasses": [],
+        "RewardSpell": 50104,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Eyes of the Eagle (2)"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "In Worg's Clothing (2)": {
+        "ID": 11325,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "In Worg's Clothing",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Cleansing (1)"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Alpha Worg (2)": {
+        "ID": 11326,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Alpha Worg",
+        "AllowableClasses": [],
+        "RewardSpell": 50104,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Eyes of the Eagle (1)"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Mission: Package Retrieval": {
+        "ID": 11327,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Mission: Package Retrieval",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mission: Eternal Flame"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Mission: Forsaken Intel": {
+        "ID": 11328,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Mission: Forsaken Intel",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mission: Package Retrieval"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "I'll Try Anything!": {
+        "ID": 11329,
+        "QuestLevel": 70,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "I'll Try Anything!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "All Hail the Conqueror of Skorn!"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Absholutely... Thish Will Work!": {
+        "ID": 11330,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Absholutely... Thish Will Work!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mission: Forsaken Intel"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "You Tell Him ...Hic!": {
+        "ID": 11331,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "You Tell Him ...Hic!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Absholutely... Thish Will Work!"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Mission: Plague This!": {
+        "ID": 11332,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Mission: Plague This!",
+        "AllowableClasses": [],
+        "RewardSpell": 43459,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "You Tell Him ...Hic!"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Into the World of Spirits": {
+        "ID": 11333,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Into the World of Spirits",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Rescuing the Rescuers"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Echo of Ymiron": {
+        "ID": 11343,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Echo of Ymiron",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Into the World of Spirits"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Anguish of Nifflevar": {
+        "ID": 11344,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Anguish of Nifflevar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Echo of Ymiron"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Book of Runes (1)": {
+        "ID": 11346,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Book of Runes",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Yeti Next Door"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Rune of Command (1)": {
+        "ID": 11348,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Rune of Command",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mastering the Runes (1)"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Mastering the Runes (1)": {
+        "ID": 11349,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Mastering the Runes",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Book of Runes (1)"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Book of Runes (2)": {
+        "ID": 11350,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Book of Runes",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Making the Horn"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Mastering the Runes (2)": {
+        "ID": 11351,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Mastering the Runes",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Book of Runes (2)"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Rune of Command (2)": {
+        "ID": 11352,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Rune of Command",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mastering the Runes (2)"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "March of the Giants (1)": {
+        "ID": 11355,
+        "QuestLevel": 72,
+        "MinLevel": 69,
+        "QuestInfoID": 1,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "March of the Giants",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Yeti Next Door"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Lodestone (1)": {
+        "ID": 11358,
+        "QuestLevel": 72,
+        "MinLevel": 69,
+        "QuestInfoID": 1,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Lodestone",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "March of the Giants (1)"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Demolishing Megalith (1)": {
+        "ID": 11359,
+        "QuestLevel": 72,
+        "MinLevel": 69,
+        "QuestInfoID": 1,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Demolishing Megalith",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Lodestone (1)"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "March of the Giants (2)": {
+        "ID": 11365,
+        "QuestLevel": 72,
+        "MinLevel": 69,
+        "QuestInfoID": 1,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "March of the Giants",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Making the Horn"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Lodestone (2)": {
+        "ID": 11366,
+        "QuestLevel": 72,
+        "MinLevel": 69,
+        "QuestInfoID": 1,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Lodestone",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "March of the Giants (2)"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Demolishing Megalith (2)": {
+        "ID": 11367,
+        "QuestLevel": 72,
+        "MinLevel": 69,
+        "QuestInfoID": 1,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Demolishing Megalith",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Lodestone (2)"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "I've Got a Flying Machine!": {
+        "ID": 11390,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "I've Got a Flying Machine!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "See to the Operations"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Steel Gate Patrol": {
+        "ID": 11391,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Steel Gate Patrol",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "I've Got a Flying Machine!"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Where is Explorer Jaren?": {
+        "ID": 11393,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Where is Explorer Jaren?",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "And You Thought Murlocs Smelled Bad! (1)": {
+        "ID": 11394,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "And You Thought Murlocs Smelled Bad!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "It's a Scourge Device (1)": {
+        "ID": 11395,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "It's a Scourge Device",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Bring Down Those Shields (1)": {
+        "ID": 11396,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Bring Down Those Shields",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "It's a Scourge Device (1)"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "And You Thought Murlocs Smelled Bad! (2)": {
+        "ID": 11397,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "And You Thought Murlocs Smelled Bad!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "It's a Scourge Device (2)": {
+        "ID": 11398,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "It's a Scourge Device",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Bring Down Those Shields (2)": {
+        "ID": 11399,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Bring Down Those Shields",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "It's a Scourge Device (2)"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Everything Must Be Ready": {
+        "ID": 11406,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Everything Must Be Ready",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "All Hail the Conqueror of Skorn!"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The One That Got Away (2)": {
+        "ID": 11410,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The One That Got Away",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "I'll Try Anything!"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Camp Winterhoof": {
+        "ID": 11411,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Camp Winterhoof",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 11411,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Brother Betrayers (1)": {
+        "ID": 11414,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Brother Betrayers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "In Worg's Clothing (2)"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Brother Betrayers (2)": {
+        "ID": 11415,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Brother Betrayers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "In Worg's Clothing (1)"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Eyes of the Eagle (1)": {
+        "ID": 11416,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Eyes of the Eagle",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Brother Betrayers (1)"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Eyes of the Eagle (2)": {
+        "ID": 11417,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Eyes of the Eagle",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Brother Betrayers (2)"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "We Call Him Steelfeather": {
+        "ID": 11418,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "We Call Him Steelfeather",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Down to the Wire"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Path to Payback": {
+        "ID": 11420,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Path to Payback",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Rescuing the Rescuers"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "It Goes to 11...": {
+        "ID": 11421,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "It Goes to 11...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Harpoon Master Yavus"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Trident of the Son": {
+        "ID": 11422,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Trident of the Son",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Enemy's Legacy": {
+        "ID": 11423,
+        "QuestLevel": 71,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Enemy's Legacy",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Shield Hill": {
+        "ID": 11424,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Shield Hill",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Locating the Mechanism": {
+        "ID": 11426,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Locating the Mechanism",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Path to Payback"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Meet Lieutenant Icehammer...": {
+        "ID": 11427,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Meet Lieutenant Icehammer...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Locating the Mechanism"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Keeper Witherleaf": {
+        "ID": 11428,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Keeper Witherleaf",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Spawn of the Twisted Glade"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Drop It then Rock It!": {
+        "ID": 11429,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Drop It then Rock It!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Meet Lieutenant Icehammer..."
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Harpoon Master Yavus": {
+        "ID": 11430,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Harpoon Master Yavus",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Drop It then Rock It!"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Sleeping Giants (1)": {
+        "ID": 11432,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Sleeping Giants",
+        "AllowableClasses": [],
+        "RewardSpell": 44275,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "In Service to the Light"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Sleeping Giants (2)": {
+        "ID": 11433,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Sleeping Giants",
+        "AllowableClasses": [],
+        "RewardSpell": 44275,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Of Keys and Cages (2)"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Forgotten Treasure": {
+        "ID": 11434,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Forgotten Treasure",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Street Cred"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Let's Go Surfing Now": {
+        "ID": 11436,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Let's Go Surfing Now",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "It Goes to 11..."
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Daggercap Divin'": {
+        "ID": 11443,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Daggercap Divin'",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Explorers' League Outpost": {
+        "ID": 11448,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Explorers' League Outpost",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to Valgarde"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Slumbering King (1)": {
+        "ID": 11452,
+        "QuestLevel": 72,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Slumbering King",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Dealing With Gjalerbron (1)"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Slumbering King (2)": {
+        "ID": 11453,
+        "QuestLevel": 72,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Slumbering King",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Dealing With Gjalerbron (2)"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Fragrance of Money": {
+        "ID": 11455,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Fragrance of Money",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Forgotten Treasure"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Feeding the Survivors": {
+        "ID": 11456,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Feeding the Survivors",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Arming Kamagua": {
+        "ID": 11457,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Arming Kamagua",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Feeding the Survivors"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Avenge Iskaal": {
+        "ID": 11458,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Avenge Iskaal",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Arming Kamagua"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Zeh'gehn Sez": {
+        "ID": 11459,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Zeh'gehn Sez",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Traitor Among Us (2)"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Trust is Earned": {
+        "ID": 11460,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Trust is Earned",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to Valgarde"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Gambling Debt": {
+        "ID": 11464,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Gambling Debt",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Forgotten Treasure"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Ransacked Caravan": {
+        "ID": 11465,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Ransacked Caravan",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Trust is Earned"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Jack Likes His Drink": {
+        "ID": 11466,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Jack Likes His Drink",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Gambling Debt"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Dead Man's Debt": {
+        "ID": 11467,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Dead Man's Debt",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Jack Likes His Drink"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Falcon Versus Hawk": {
+        "ID": 11468,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Falcon Versus Hawk",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Ransacked Caravan"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Swabbin' Soap": {
+        "ID": 11469,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Swabbin' Soap",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Street Cred"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "There Exists No Honor Among Birds": {
+        "ID": 11470,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "There Exists No Honor Among Birds",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Falcon Versus Hawk"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Jig is Up": {
+        "ID": 11471,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 1,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Jig is Up",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Meet Number Two"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Way to His Heart...": {
+        "ID": 11472,
+        "QuestLevel": -1,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Way to His Heart...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Swabbin' Soap"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "A Traitor Among Us (2)": {
+        "ID": 11473,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Traitor Among Us",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Fragrance of Money"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Problems on the High Bluff": {
+        "ID": 11474,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Problems on the High Bluff",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Explorers' League Outpost"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Tools to Get the Job Done": {
+        "ID": 11475,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Tools to Get the Job Done",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Problems on the High Bluff"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "A Carver and a Croaker": {
+        "ID": 11476,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Carver and a Croaker",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Zeh'gehn Sez"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Out of My Element?": {
+        "ID": 11477,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Out of My Element?",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to Valgarde"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Crowleg Dan": {
+        "ID": 11479,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Crowleg Dan",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Carver and a Croaker"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Meet Number Two": {
+        "ID": 11480,
+        "QuestLevel": 71,
+        "MinLevel": 69,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Meet Number Two",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Crowleg Dan"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "We Can Rebuild It": {
+        "ID": 11483,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "We Can Rebuild It",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -11483,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Tools to Get the Job Done"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "We Have the Technology": {
+        "ID": 11484,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "We Have the Technology",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -11483,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Tools to Get the Job Done"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Iron Rune Constructs and You: Rocket Jumping": {
+        "ID": 11485,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Iron Rune Constructs and You: Rocket Jumping",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Iron Rune Constructs and You: Collecting Data": {
+        "ID": 11489,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Iron Rune Constructs and You: Collecting Data",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Iron Rune Constructs and You: Rocket Jumping"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Iron Rune Constructs and You: The Bluff": {
+        "ID": 11491,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Iron Rune Constructs and You: The Bluff",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Iron Rune Constructs and You: Collecting Data"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Lightning Infused Relics": {
+        "ID": 11494,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Lightning Infused Relics",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -11494,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Iron Rune Constructs and You: The Bluff"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Delicate Sound of Thunder": {
+        "ID": 11495,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Delicate Sound of Thunder",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -11494,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Iron Rune Constructs and You: The Bluff"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "News From the East": {
+        "ID": 11501,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "News From the East",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Dead Rise!": {
+        "ID": 11504,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Dead Rise!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Elder Atuik and Kamagua": {
+        "ID": 11507,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Elder Atuik and Kamagua",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Dead Rise!"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Grezzix Spindlesnap": {
+        "ID": 11508,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Grezzix Spindlesnap",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Elder Atuik and Kamagua"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Street Cred": {
+        "ID": 11509,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Street Cred",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Grezzix Spindlesnap"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Scoodles": {
+        "ID": 11510,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Scoodles",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Street Cred"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Staff of Storm's Fury": {
+        "ID": 11511,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Staff of Storm's Fury",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -11511,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Scoodles"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Frozen Heart of Isuldof": {
+        "ID": 11512,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Frozen Heart of Isuldof",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -11511,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Scoodles"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Lost Shield of the Aesirites": {
+        "ID": 11519,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Lost Shield of the Aesirites",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Scoodles"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Mutiny on the Mercy": {
+        "ID": 11527,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Mutiny on the Mercy",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Lost Shield of the Aesirites"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Sorlof's Booty": {
+        "ID": 11529,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Sorlof's Booty",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mutiny on the Mercy"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Shield of the Aesirites": {
+        "ID": 11530,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Shield of the Aesirites",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -11511,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Sorlof's Booty"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Ancient Armor of the Kvaldir": {
+        "ID": 11567,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Ancient Armor of the Kvaldir",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -11511,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Scoodles"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "A Return to Resting": {
+        "ID": 11568,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Return to Resting",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Return to Atuik": {
+        "ID": 11572,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Return to Atuik",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Return to Resting"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Orfus of Kamagua": {
+        "ID": 11573,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Orfus of Kamagua",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Travel to Moa'ki Harbor (2)": {
+        "ID": 12118,
+        "QuestLevel": 72,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Travel to Moa'ki Harbor",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12117,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Avenge Iskaal"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Give it a Name": {
+        "ID": 12181,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Give it a Name",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "To Venomspite!": {
+        "ID": 12182,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "To Venomspite!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Give it a Name"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Of Traitors and Treason (2)": {
+        "ID": 12297,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Of Traitors and Treason",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12171,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "High Commander Halford Wyrmbane (2)": {
+        "ID": 12298,
+        "QuestLevel": 72,
+        "MinLevel": 71,
+        "QuestInfoID": 0,
+        "QuestSortID": 65,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "High Commander Halford Wyrmbane",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12174,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Of Traitors and Treason (2)"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Adding Injury to Insult": {
+        "ID": 12481,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Adding Injury to Insult",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Ambush"
+        ],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Against Nifflevar": {
+        "ID": 12482,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Against Nifflevar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Help for Camp Winterhoof": {
+        "ID": 12566,
+        "QuestLevel": 71,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 495,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Help for Camp Winterhoof",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 11411,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "The Magical Kingdom of Dalaran (1)": {
+        "ID": 12791,
+        "QuestLevel": 74,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 4395,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Magical Kingdom of Dalaran",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12796,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Borean Tundra",
+            "Dragonblight",
+            "Howling Fjord",
+            "Grizzly Hills"
+        ]
+    },
+    "The Magical Kingdom of Dalaran (2)": {
+        "ID": 12794,
+        "QuestLevel": 74,
+        "MinLevel": 74,
+        "QuestInfoID": 0,
+        "QuestSortID": 4395,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Magical Kingdom of Dalaran",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12796,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Borean Tundra",
+            "Dragonblight",
+            "Howling Fjord",
+            "Grizzly Hills"
+        ]
+    },
+    "Gem Perfection (1)": {
+        "ID": 12918,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -373,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Gem Perfection",
+        "AllowableClasses": [],
+        "RewardSpell": 55790,
+        "ExclusiveGroup": 12918,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Jewelcrafting",
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Gem Perfection (2)": {
+        "ID": 12952,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -373,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Gem Perfection",
+        "AllowableClasses": [],
+        "RewardSpell": 55790,
+        "ExclusiveGroup": 12952,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Jewelcrafting",
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Northern Cooking (1)": {
+        "ID": 13087,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -304,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Northern Cooking",
+        "AllowableClasses": [],
+        "RewardSpell": 57582,
+        "ExclusiveGroup": 13087,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Cooking",
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Northern Cooking (3)": {
+        "ID": 13089,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -304,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Northern Cooking",
+        "AllowableClasses": [],
+        "RewardSpell": 57582,
+        "ExclusiveGroup": 13089,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Cooking",
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Cloth Scavenging (2)": {
+        "ID": 13268,
+        "QuestLevel": -1,
+        "MinLevel": 0,
+        "QuestInfoID": 0,
+        "QuestSortID": -264,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Cloth Scavenging",
+        "AllowableClasses": [],
+        "RewardSpell": 59423,
+        "ExclusiveGroup": 13265,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Tailoring",
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Cloth Scavenging (3)": {
+        "ID": 13269,
+        "QuestLevel": -1,
+        "MinLevel": 0,
+        "QuestInfoID": 0,
+        "QuestSortID": -264,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Cloth Scavenging",
+        "AllowableClasses": [],
+        "RewardSpell": 59423,
+        "ExclusiveGroup": 13265,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Tailoring",
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Candy Bucket (89)": {
+        "ID": 13434,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Candy Bucket (90)": {
+        "ID": 13435,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Candy Bucket (96)": {
+        "ID": 13452,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Candy Bucket (103)": {
+        "ID": 13464,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Candy Bucket (104)": {
+        "ID": 13465,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Candy Bucket (105)": {
+        "ID": 13466,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Sharing a Bountiful Feast (1)": {
+        "ID": 14064,
+        "QuestLevel": -1,
+        "MinLevel": 0,
+        "QuestInfoID": 0,
+        "QuestSortID": -375,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Sharing a Bountiful Feast",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Pilgrim's Bounty",
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pilgrim's Bounty (1)"
+        ],
+        "zone": [
+            "Teldrassil",
+            "Teldrassil",
+            "Darkshore",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Redridge Mountains",
+            "Western Plaguelands",
+            "Burning Steppes",
+            "Tanaris",
+            "Winterspring",
+            "Hellfire Peninsula",
+            "Sholazar Basin",
+            "Dragonblight",
+            "Howling Fjord",
+            "Grizzly Hills",
+            "The Storm Peaks"
+        ]
+    },
+    "Sharing a Bountiful Feast (2)": {
+        "ID": 14065,
+        "QuestLevel": -1,
+        "MinLevel": 0,
+        "QuestInfoID": 0,
+        "QuestSortID": -375,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Sharing a Bountiful Feast",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Pilgrim's Bounty",
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pilgrim's Bounty (2)"
+        ],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Hillsbrad Foothills",
+            "Burning Steppes",
+            "Stonetalon Mountains",
+            "Thousand Needles",
+            "Desolace",
+            "Tanaris",
+            "Dustwallow Marsh",
+            "Hellfire Peninsula",
+            "Borean Tundra",
+            "Sholazar Basin",
+            "Dragonblight",
+            "Howling Fjord",
+            "Grizzly Hills",
+            "Zul'Drak",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Candy Bucket (Howling Fjord)": {
+        "ID": 13433,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Desecrate this Fire! (Howling Fjord - Horde)": {
+        "ID": 13444,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Desecrate this Fire! (Howling Fjord - Alliance)": {
+        "ID": 13453,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Honor the Flame (Howling Fjord - Alliance)": {
+        "ID": 13488,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    },
+    "Honor the Flame (Howling Fjord - Horde)": {
+        "ID": 13496,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Howling Fjord"
+        ]
+    }
+}

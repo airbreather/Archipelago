@@ -1,0 +1,997 @@
+{
+    "Trial of the Lake (Tauren) (1)": {
+        "ID": 28,
+        "QuestLevel": -1,
+        "MinLevel": 16,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Tauren"
+        ],
+        "LogTitle": "Trial of the Lake",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Lesson to Learn (Tauren) (1)"
+        ],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "Trial of the Lake (Night Elf) (1)": {
+        "ID": 29,
+        "QuestLevel": -1,
+        "MinLevel": 16,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Night Elf"
+        ],
+        "LogTitle": "Trial of the Lake",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Lesson to Learn (Night Elf) (1)"
+        ],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "Trial of the Sea Lion (Tauren) (1)": {
+        "ID": 30,
+        "QuestLevel": -1,
+        "MinLevel": 16,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Tauren"
+        ],
+        "LogTitle": "Trial of the Sea Lion",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Trial of the Lake (Tauren) (1)"
+        ],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "Aquatic Form (Tauren) (1)": {
+        "ID": 31,
+        "QuestLevel": -1,
+        "MinLevel": 16,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Tauren"
+        ],
+        "LogTitle": "Aquatic Form",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 1446,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Trial of the Sea Lion (Tauren) (1)"
+        ],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "Trial of the Sea Lion (Night Elf) (1)": {
+        "ID": 272,
+        "QuestLevel": -1,
+        "MinLevel": 16,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Night Elf"
+        ],
+        "LogTitle": "Trial of the Sea Lion",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Trial of the Lake (Night Elf) (1)"
+        ],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "Wasteland": {
+        "ID": 1124,
+        "QuestLevel": 55,
+        "MinLevel": 54,
+        "QuestInfoID": 0,
+        "QuestSortID": 493,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Wasteland",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "Under the Chitin Was...": {
+        "ID": 1185,
+        "QuestLevel": 57,
+        "MinLevel": 54,
+        "QuestInfoID": 0,
+        "QuestSortID": 493,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Under the Chitin Was...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Uncovering Past Secrets"
+        ],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "Aquatic Form (Night Elf) (1)": {
+        "ID": 5061,
+        "QuestLevel": -1,
+        "MinLevel": 16,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Night Elf"
+        ],
+        "LogTitle": "Aquatic Form",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 1446,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Trial of the Sea Lion (Night Elf) (1)"
+        ],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "A Reliquary of Purity": {
+        "ID": 5527,
+        "QuestLevel": 60,
+        "MinLevel": 56,
+        "QuestInfoID": 0,
+        "QuestSortID": 493,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Reliquary of Purity",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "Great Bear Spirit (Night Elf) (1)": {
+        "ID": 5929,
+        "QuestLevel": -1,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Night Elf"
+        ],
+        "LogTitle": "Great Bear Spirit",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Moonglade (Night Elf) (1)"
+        ],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "Great Bear Spirit (Tauren) (1)": {
+        "ID": 5930,
+        "QuestLevel": -1,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Tauren"
+        ],
+        "LogTitle": "Great Bear Spirit",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Moonglade (Tauren) (1)"
+        ],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "Back to Darnassus": {
+        "ID": 5931,
+        "QuestLevel": -1,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Night Elf"
+        ],
+        "LogTitle": "Back to Darnassus",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Great Bear Spirit (Night Elf) (1)"
+        ],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "Back to Thunder Bluff": {
+        "ID": 5932,
+        "QuestLevel": -1,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Tauren"
+        ],
+        "LogTitle": "Back to Thunder Bluff",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Great Bear Spirit (Tauren) (1)"
+        ],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "The Principal Source (Druid) (1)": {
+        "ID": 6122,
+        "QuestLevel": -1,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Principal Source",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Lessons Anew (Druid) (1)"
+        ],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "Power over Poison (Druid) (1)": {
+        "ID": 6125,
+        "QuestLevel": -1,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Power over Poison",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 8947,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Curing the Sick (Druid) (1)"
+        ],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "The Principal Source (Druid) (2)": {
+        "ID": 6127,
+        "QuestLevel": -1,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Principal Source",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Lessons Anew (Druid) (2)"
+        ],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "Power over Poison (Druid) (2)": {
+        "ID": 6130,
+        "QuestLevel": -1,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Power over Poison",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 8947,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Curing the Sick (Druid) (2)"
+        ],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "Uncovering Past Secrets": {
+        "ID": 6845,
+        "QuestLevel": 57,
+        "MinLevel": 54,
+        "QuestInfoID": 0,
+        "QuestSortID": 493,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Uncovering Past Secrets",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Umber, Archivist"
+        ],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "The Champion Returns": {
+        "ID": 8741,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 493,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Champion Returns",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -8729,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Nightmare Manifests"
+        ],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "Elune's Candle": {
+        "ID": 8862,
+        "QuestLevel": -1,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Elune's Candle",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "Festival Dumplings": {
+        "ID": 8863,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Festival Dumplings",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "Festive Lunar Dresses": {
+        "ID": 8864,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Festive Lunar Dresses",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "Festive Lunar Pant Suits": {
+        "ID": 8865,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Festive Lunar Pant Suits",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "Small Rockets": {
+        "ID": 8876,
+        "QuestLevel": -1,
+        "MinLevel": 25,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Small Rockets",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "Firework Launcher": {
+        "ID": 8877,
+        "QuestLevel": -1,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Firework Launcher",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "Festive Recipes": {
+        "ID": 8878,
+        "QuestLevel": -1,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Festive Recipes",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "Large Rockets": {
+        "ID": 8879,
+        "QuestLevel": -1,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Large Rockets",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "Cluster Rockets": {
+        "ID": 8880,
+        "QuestLevel": -1,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Cluster Rockets",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "Large Cluster Rockets": {
+        "ID": 8881,
+        "QuestLevel": -1,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Large Cluster Rockets",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "Cluster Launcher": {
+        "ID": 8882,
+        "QuestLevel": -1,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Cluster Launcher",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "Torwa Pathfinder": {
+        "ID": 9063,
+        "QuestLevel": 52,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Torwa Pathfinder",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Teldrassil",
+            "Elwynn Forest",
+            "Mulgore",
+            "Moonglade"
+        ]
+    },
+    "Morthis Whisperwing": {
+        "ID": 10955,
+        "QuestLevel": -1,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Morthis Whisperwing",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "No Mere Dream": {
+        "ID": 10965,
+        "QuestLevel": -1,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "No Mere Dream",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Waking the Sleeper"
+        ],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "Return to Morthis Whisperwing": {
+        "ID": 10978,
+        "QuestLevel": -1,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Return to Morthis Whisperwing",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "No Mere Dream"
+        ],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "Hope Within the Emerald Nightmare": {
+        "ID": 13074,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 210,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Hope Within the Emerald Nightmare",
+        "AllowableClasses": [],
+        "RewardSpell": 60957,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Keeper's Favor"
+        ],
+        "zone": [
+            "Moonglade"
+        ]
+    },
+    "The Boon of Remulos": {
+        "ID": 13075,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 210,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Boon of Remulos",
+        "AllowableClasses": [],
+        "RewardSpell": 57678,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Hope Within the Emerald Nightmare"
+        ],
+        "zone": [
+            "Moonglade"
+        ]
+    }
+}

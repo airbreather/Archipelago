@@ -1,0 +1,5624 @@
+{
+    "Call of Water (Shaman) (8)": {
+        "ID": 63,
+        "QuestLevel": -1,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -82,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Call of Water",
+        "AllowableClasses": [
+            "Shaman"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Call of Water (Shaman) (11)"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Call of Water (Shaman) (11)": {
+        "ID": 220,
+        "QuestLevel": -1,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -82,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Call of Water",
+        "AllowableClasses": [
+            "Shaman"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Call of Water (Shaman) (12)"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Chen's Empty Keg (2)": {
+        "ID": 821,
+        "QuestLevel": 15,
+        "MinLevel": 11,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Chen's Empty Keg",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Chen's Empty Keg (1)"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Chen's Empty Keg (3)": {
+        "ID": 822,
+        "QuestLevel": 24,
+        "MinLevel": 11,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Chen's Empty Keg",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Chen's Empty Keg (2)"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Crossroads Conscription": {
+        "ID": 842,
+        "QuestLevel": 12,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 14,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Crossroads Conscription",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Conscript of the Horde"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Gann's Reclamation": {
+        "ID": 843,
+        "QuestLevel": 23,
+        "MinLevel": 17,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Gann's Reclamation",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Plainstrider Menace": {
+        "ID": 844,
+        "QuestLevel": 12,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Plainstrider Menace",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "The Zhevra": {
+        "ID": 845,
+        "QuestLevel": 13,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Zhevra",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Plainstrider Menace"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Revenge of Gann (1)": {
+        "ID": 846,
+        "QuestLevel": 26,
+        "MinLevel": 17,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Revenge of Gann",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Gann's Reclamation"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Fungal Spores": {
+        "ID": 848,
+        "QuestLevel": 15,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Fungal Spores",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Revenge of Gann (2)": {
+        "ID": 849,
+        "QuestLevel": 26,
+        "MinLevel": 17,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Revenge of Gann",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Revenge of Gann (1)"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Kolkar Leaders": {
+        "ID": 850,
+        "QuestLevel": 16,
+        "MinLevel": 11,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Kolkar Leaders",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Verog the Dervish": {
+        "ID": 851,
+        "QuestLevel": 18,
+        "MinLevel": 11,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Verog the Dervish",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Kolkar Leaders"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Hezrul Bloodmark": {
+        "ID": 852,
+        "QuestLevel": 19,
+        "MinLevel": 11,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Hezrul Bloodmark",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Verog the Dervish"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Apothecary Zamah": {
+        "ID": 853,
+        "QuestLevel": 15,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Apothecary Zamah",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Fungal Spores"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Journey to the Crossroads": {
+        "ID": 854,
+        "QuestLevel": 12,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 215,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Tauren"
+        ],
+        "LogTitle": "Journey to the Crossroads",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Centaur Bracers": {
+        "ID": 855,
+        "QuestLevel": 14,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Centaur Bracers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "The Tear of the Moons": {
+        "ID": 857,
+        "QuestLevel": 30,
+        "MinLevel": 22,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Tear of the Moons",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Ignition": {
+        "ID": 858,
+        "QuestLevel": 18,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Ignition",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Dig Rat Stew": {
+        "ID": 862,
+        "QuestLevel": 23,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": -304,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Dig Rat Stew",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Cooking",
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "The Escape (2)": {
+        "ID": 863,
+        "QuestLevel": 18,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Escape",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Ignition"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Raptor Horns": {
+        "ID": 865,
+        "QuestLevel": 18,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Raptor Horns",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Root Samples": {
+        "ID": 866,
+        "QuestLevel": 16,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": -24,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Root Samples",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Herbalism",
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Harpy Raiders": {
+        "ID": 867,
+        "QuestLevel": 15,
+        "MinLevel": 12,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Harpy Raiders",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Egg Hunt": {
+        "ID": 868,
+        "QuestLevel": 22,
+        "MinLevel": 17,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Egg Hunt",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Raptor Thieves": {
+        "ID": 869,
+        "QuestLevel": 13,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Raptor Thieves",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "The Forgotten Pools": {
+        "ID": 870,
+        "QuestLevel": 13,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Forgotten Pools",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Disrupt the Attacks": {
+        "ID": 871,
+        "QuestLevel": 12,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Disrupt the Attacks",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "The Disruption Ends": {
+        "ID": 872,
+        "QuestLevel": 15,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Disruption Ends",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Disrupt the Attacks"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Isha Awak": {
+        "ID": 873,
+        "QuestLevel": 27,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Isha Awak",
+        "AllowableClasses": [],
+        "RewardSpell": 5325,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mahren Skyseer"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Mahren Skyseer": {
+        "ID": 874,
+        "QuestLevel": 27,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Mahren Skyseer",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Cry of the Thunderhawk"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Harpy Lieutenants": {
+        "ID": 875,
+        "QuestLevel": 16,
+        "MinLevel": 12,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Harpy Lieutenants",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Harpy Raiders"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Serena Bloodfeather": {
+        "ID": 876,
+        "QuestLevel": 20,
+        "MinLevel": 12,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Serena Bloodfeather",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Harpy Lieutenants"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "The Stagnant Oasis": {
+        "ID": 877,
+        "QuestLevel": 16,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Stagnant Oasis",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Forgotten Pools"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Tribes at War": {
+        "ID": 878,
+        "QuestLevel": 21,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Tribes at War",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Betrayal from Within (1)": {
+        "ID": 879,
+        "QuestLevel": 25,
+        "MinLevel": 17,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Betrayal from Within",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Blood Shards of Agamaggan"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Altered Beings": {
+        "ID": 880,
+        "QuestLevel": 16,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Altered Beings",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Stagnant Oasis"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Echeyakee": {
+        "ID": 881,
+        "QuestLevel": 16,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Echeyakee",
+        "AllowableClasses": [],
+        "RewardSpell": 5320,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Prowlers of the Barrens"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Ishamuhale": {
+        "ID": 882,
+        "QuestLevel": 19,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Ishamuhale",
+        "AllowableClasses": [],
+        "RewardSpell": 5321,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Jorn Skyseer"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Southsea Freebooters": {
+        "ID": 887,
+        "QuestLevel": 14,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Southsea Freebooters",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Stolen Booty": {
+        "ID": 888,
+        "QuestLevel": 16,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Stolen Booty",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Missing Shipment (2)"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Spirit of the Wind": {
+        "ID": 889,
+        "QuestLevel": 20,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Spirit of the Wind",
+        "AllowableClasses": [],
+        "RewardSpell": 16618,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Blood Shards of Agamaggan"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "The Missing Shipment (1)": {
+        "ID": 890,
+        "QuestLevel": 14,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Missing Shipment",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Southsea Freebooters"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "The Guns of Northwatch": {
+        "ID": 891,
+        "QuestLevel": 20,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Guns of Northwatch",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "The Missing Shipment (2)": {
+        "ID": 892,
+        "QuestLevel": 14,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Missing Shipment",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Missing Shipment (1)"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Weapons of Choice": {
+        "ID": 893,
+        "QuestLevel": 24,
+        "MinLevel": 17,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Weapons of Choice",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Samophlange (1)": {
+        "ID": 894,
+        "QuestLevel": 14,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Samophlange",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "WANTED: Baron Longshore": {
+        "ID": 895,
+        "QuestLevel": 16,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "WANTED: Baron Longshore",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Miner's Fortune": {
+        "ID": 896,
+        "QuestLevel": 18,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Miner's Fortune",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Free From the Hold": {
+        "ID": 898,
+        "QuestLevel": 20,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Free From the Hold",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Consumed by Hatred": {
+        "ID": 899,
+        "QuestLevel": 20,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Consumed by Hatred",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Samophlange (2)": {
+        "ID": 900,
+        "QuestLevel": 14,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Samophlange",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Samophlange (1)"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Samophlange (3)": {
+        "ID": 901,
+        "QuestLevel": 14,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Samophlange",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Samophlange (2)"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Samophlange (4)": {
+        "ID": 902,
+        "QuestLevel": 16,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Samophlange",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Samophlange (3)"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Prowlers of the Barrens": {
+        "ID": 903,
+        "QuestLevel": 15,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Prowlers of the Barrens",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Zhevra"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "The Angry Scytheclaws": {
+        "ID": 905,
+        "QuestLevel": 17,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Angry Scytheclaws",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Echeyakee"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Betrayal from Within (2)": {
+        "ID": 906,
+        "QuestLevel": 25,
+        "MinLevel": 17,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Betrayal from Within",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Betrayal from Within (1)"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Enraged Thunder Lizards": {
+        "ID": 907,
+        "QuestLevel": 18,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Enraged Thunder Lizards",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Ishamuhale"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Cry of the Thunderhawk": {
+        "ID": 913,
+        "QuestLevel": 20,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Cry of the Thunderhawk",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Enraged Thunder Lizards"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "The Demon Seed": {
+        "ID": 924,
+        "QuestLevel": 14,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 14,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Demon Seed",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Ak'Zeloth"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Flawed Power Stone": {
+        "ID": 926,
+        "QuestLevel": 14,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": 14,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Flawed Power Stone",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Water Sapta": {
+        "ID": 972,
+        "QuestLevel": -1,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -82,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Water Sapta",
+        "AllowableClasses": [
+            "Shaman"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Call of Water (Shaman) (11)"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Passage to Booty Bay": {
+        "ID": 1040,
+        "QuestLevel": 30,
+        "MinLevel": 25,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Passage to Booty Bay",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Barrens Port"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Letter to Jin'Zil": {
+        "ID": 1060,
+        "QuestLevel": 20,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Letter to Jin'Zil",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Serena Bloodfeather"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Goblin Invaders": {
+        "ID": 1062,
+        "QuestLevel": 19,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 406,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Goblin Invaders",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "The Elder Crone": {
+        "ID": 1063,
+        "QuestLevel": 18,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 406,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Elder Crone",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Goblin Invaders"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Shredding Machines": {
+        "ID": 1068,
+        "QuestLevel": 23,
+        "MinLevel": 13,
+        "QuestInfoID": 0,
+        "QuestSortID": 406,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Shredding Machines",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Goblin Invaders"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Deepmoss Spider Eggs": {
+        "ID": 1069,
+        "QuestLevel": 20,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Deepmoss Spider Eggs",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Further Instructions (2)": {
+        "ID": 1095,
+        "QuestLevel": 27,
+        "MinLevel": 16,
+        "QuestInfoID": 0,
+        "QuestSortID": 406,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Further Instructions",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Further Instructions (1)"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Parts for Kravel": {
+        "ID": 1112,
+        "QuestLevel": 36,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 400,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Parts for Kravel",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Wharfmaster Dizzywig (1)"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Melor Sends Word": {
+        "ID": 1130,
+        "QuestLevel": 30,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": 1638,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Melor Sends Word",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "The Swarm Grows (1)": {
+        "ID": 1145,
+        "QuestLevel": 33,
+        "MinLevel": 29,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Swarm Grows",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "A New Ore Sample": {
+        "ID": 1153,
+        "QuestLevel": 29,
+        "MinLevel": 25,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A New Ore Sample",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Weapons of Choice"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Goblin Sponsorship (2)": {
+        "ID": 1180,
+        "QuestLevel": 37,
+        "MinLevel": 29,
+        "QuestInfoID": 0,
+        "QuestSortID": 400,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Goblin Sponsorship",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Goblin Sponsorship (1)"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Parts of the Swarm (2)": {
+        "ID": 1184,
+        "QuestLevel": 35,
+        "MinLevel": 28,
+        "QuestInfoID": 0,
+        "QuestSortID": 400,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Parts of the Swarm",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Parts of the Swarm (1)"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "The Kolkar of Desolace": {
+        "ID": 1362,
+        "QuestLevel": 32,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 405,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Kolkar of Desolace",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Ziz Fizziks": {
+        "ID": 1483,
+        "QuestLevel": 21,
+        "MinLevel": 16,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Ziz Fizziks",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Wharfmaster Dizzywig (2)": {
+        "ID": 1492,
+        "QuestLevel": 11,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Wharfmaster Dizzywig",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Path of Defense": {
+        "ID": 1498,
+        "QuestLevel": -1,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -81,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Path of Defense",
+        "AllowableClasses": [
+            "Warrior"
+        ],
+        "RewardSpell": 8121,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Veteran Uzzek"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Thun'grim Firegaze": {
+        "ID": 1502,
+        "QuestLevel": 10,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -81,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Thun'grim Firegaze",
+        "AllowableClasses": [
+            "Warrior"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Path of Defense"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Forged Steel": {
+        "ID": 1503,
+        "QuestLevel": 10,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -81,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Forged Steel",
+        "AllowableClasses": [
+            "Warrior"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Thun'grim Firegaze"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "News of Dogran (Warlock) (2)": {
+        "ID": 1510,
+        "QuestLevel": -1,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "News of Dogran",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "News of Dogran (Warlock) (1)"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Love's Gift": {
+        "ID": 1512,
+        "QuestLevel": -1,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Love's Gift",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Dogran's Captivity"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Dogran's Captivity": {
+        "ID": 1515,
+        "QuestLevel": -1,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Dogran's Captivity",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Ken'zigla's Draught"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Call of Fire (Shaman) (3)": {
+        "ID": 1524,
+        "QuestLevel": -1,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -82,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Call of Fire",
+        "AllowableClasses": [
+            "Shaman"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Call of Water (Shaman) (1)": {
+        "ID": 1530,
+        "QuestLevel": -1,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -82,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Call of Water",
+        "AllowableClasses": [
+            "Shaman"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Call of Water (Shaman) (12)": {
+        "ID": 1534,
+        "QuestLevel": -1,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -82,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Call of Water",
+        "AllowableClasses": [
+            "Shaman"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Call of Water (Shaman) (14)"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Call of Water (Shaman) (13)": {
+        "ID": 1535,
+        "QuestLevel": -1,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -82,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Call of Water",
+        "AllowableClasses": [
+            "Shaman"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Call of Water (Shaman) (1)"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Call of Water (Shaman) (14)": {
+        "ID": 1536,
+        "QuestLevel": -1,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -82,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Call of Water",
+        "AllowableClasses": [
+            "Shaman"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Call of Water (Shaman) (13)"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "The Affray": {
+        "ID": 1719,
+        "QuestLevel": -1,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": -81,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Affray",
+        "AllowableClasses": [
+            "Warrior"
+        ],
+        "RewardSpell": 8616,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Islander"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Heartswood": {
+        "ID": 1738,
+        "QuestLevel": -1,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Heartswood",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Devourer of Souls (Warlock) (3)"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Tome of the Cabal (Warlock) (2)": {
+        "ID": 1758,
+        "QuestLevel": -1,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Tome of the Cabal",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Seeking Strahad (Warlock) (1)"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "The Windwatcher": {
+        "ID": 1791,
+        "QuestLevel": 30,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": -81,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Windwatcher",
+        "AllowableClasses": [
+            "Warrior"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Affray"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "The Binding (Warlock) (1)": {
+        "ID": 1795,
+        "QuestLevel": -1,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Binding",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 1373,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Components for the Enchanted Gold Bloodrobe (Warlock) (1)": {
+        "ID": 1796,
+        "QuestLevel": 31,
+        "MinLevel": 31,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Components for the Enchanted Gold Bloodrobe",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Fragments of the Orb of Orahil": {
+        "ID": 1799,
+        "QuestLevel": 40,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Fragments of the Orb of Orahil",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Tome of the Cabal (Warlock) (1)": {
+        "ID": 1801,
+        "QuestLevel": -1,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Tome of the Cabal",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Trial at the Field of Giants": {
+        "ID": 1824,
+        "QuestLevel": 20,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -81,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Trial at the Field of Giants",
+        "AllowableClasses": [
+            "Warrior"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Speak with Ruga"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Speak with Thun'grim": {
+        "ID": 1825,
+        "QuestLevel": 20,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -81,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Speak with Thun'grim",
+        "AllowableClasses": [
+            "Warrior"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Trial at the Field of Giants"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Brutal Armor": {
+        "ID": 1838,
+        "QuestLevel": 30,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -81,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Brutal Armor",
+        "AllowableClasses": [
+            "Warrior"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Speak with Thun'grim"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Ula'elek and the Brutal Gauntlets": {
+        "ID": 1839,
+        "QuestLevel": 30,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -81,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Ula'elek and the Brutal Gauntlets",
+        "AllowableClasses": [
+            "Warrior"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Brutal Armor"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Orm Stonehoof and the Brutal Helm": {
+        "ID": 1840,
+        "QuestLevel": 30,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -81,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Orm Stonehoof and the Brutal Helm",
+        "AllowableClasses": [
+            "Warrior"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Brutal Armor"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Velora Nitely and the Brutal Legguards": {
+        "ID": 1841,
+        "QuestLevel": 30,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -81,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Velora Nitely and the Brutal Legguards",
+        "AllowableClasses": [
+            "Warrior"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Brutal Armor"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Brutal Hauberk": {
+        "ID": 1848,
+        "QuestLevel": 30,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -81,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Brutal Hauberk",
+        "AllowableClasses": [
+            "Warrior"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Brutal Armor"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Nether-lace Garment": {
+        "ID": 1946,
+        "QuestLevel": 26,
+        "MinLevel": 26,
+        "QuestInfoID": 0,
+        "QuestSortID": -161,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Nether-lace Garment",
+        "AllowableClasses": [
+            "Mage"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Laughing Sisters"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Plundering the Plunderers": {
+        "ID": 2381,
+        "QuestLevel": 18,
+        "MinLevel": 16,
+        "QuestInfoID": 0,
+        "QuestSortID": -162,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Plundering the Plunderers",
+        "AllowableClasses": [
+            "Rogue"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Wrenix of Ratchet"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Mission: Possible But Not Probable": {
+        "ID": 2478,
+        "QuestLevel": -1,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": -162,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Mission: Possible But Not Probable",
+        "AllowableClasses": [
+            "Rogue"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Deep Cover"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Jorn Skyseer": {
+        "ID": 3261,
+        "QuestLevel": 18,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Jorn Skyseer",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Angry Scytheclaws"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Stolen Silver": {
+        "ID": 3281,
+        "QuestLevel": 18,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Stolen Silver",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Raptor Thieves"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Mura Runetotem": {
+        "ID": 3301,
+        "QuestLevel": 15,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Mura Runetotem",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Altered Beings"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "In Nightmares (1)": {
+        "ID": 3369,
+        "QuestLevel": 25,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "In Nightmares",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Glowing Shard (2)"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "In Nightmares (2)": {
+        "ID": 3370,
+        "QuestLevel": 25,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "In Nightmares",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Glowing Shard (2)"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Horde Presence": {
+        "ID": 3514,
+        "QuestLevel": 29,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Horde Presence",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Runed Scroll"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Goblin Engineering (3)": {
+        "ID": 3633,
+        "QuestLevel": -1,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -201,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Goblin Engineering",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 3526,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Engineering",
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Gnome Engineering (3)": {
+        "ID": 3634,
+        "QuestLevel": -1,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -201,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Gnome Engineering",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 3526,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Engineering",
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Gnome Engineering (5)": {
+        "ID": 3637,
+        "QuestLevel": -1,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": -201,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Gnome Engineering",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 3526,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Engineering",
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "CLUCK!": {
+        "ID": 3861,
+        "QuestLevel": 1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "CLUCK!",
+        "AllowableClasses": [],
+        "RewardSpell": 13563,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Elwynn Forest",
+            "Westfall",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Redridge Mountains",
+            "Duskwood",
+            "Hillsbrad Foothills",
+            "Dustwallow Marsh"
+        ]
+    },
+    "Wenikee Boltbucket": {
+        "ID": 3921,
+        "QuestLevel": 14,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Wenikee Boltbucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Samophlange (4)"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Nugget Slugs": {
+        "ID": 3922,
+        "QuestLevel": 15,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Nugget Slugs",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Wenikee Boltbucket"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Rilli Greasygob": {
+        "ID": 3923,
+        "QuestLevel": 18,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Rilli Greasygob",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Nugget Slugs"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Counterattack!": {
+        "ID": 4021,
+        "QuestLevel": 20,
+        "MinLevel": 11,
+        "QuestInfoID": 1,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Counterattack!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Hezrul Bloodmark"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Summon Felsteed (Warlock) (5)": {
+        "ID": 4490,
+        "QuestLevel": -1,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Summon Felsteed",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 5785,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Volcanic Activity": {
+        "ID": 4502,
+        "QuestLevel": 55,
+        "MinLevel": 49,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Volcanic Activity",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Components for the Enchanted Gold Bloodrobe (Warlock) (2)": {
+        "ID": 4781,
+        "QuestLevel": 34,
+        "MinLevel": 31,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Components for the Enchanted Gold Bloodrobe",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Components for the Enchanted Gold Bloodrobe (Warlock) (1)"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Components for the Enchanted Gold Bloodrobe (Warlock) (4)": {
+        "ID": 4783,
+        "QuestLevel": 37,
+        "MinLevel": 31,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Components for the Enchanted Gold Bloodrobe",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Components for the Enchanted Gold Bloodrobe (Warlock) (3)"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Components for the Enchanted Gold Bloodrobe (Warlock) (5)": {
+        "ID": 4784,
+        "QuestLevel": 37,
+        "MinLevel": 31,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Components for the Enchanted Gold Bloodrobe",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Components for the Enchanted Gold Bloodrobe (Warlock) (4)"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "The Completed Robe": {
+        "ID": 4786,
+        "QuestLevel": 38,
+        "MinLevel": 31,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Completed Robe",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Components for the Enchanted Gold Bloodrobe (Warlock) (5)"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Lost in Battle": {
+        "ID": 4921,
+        "QuestLevel": 20,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Lost in Battle",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Shard of a Felhound": {
+        "ID": 4962,
+        "QuestLevel": 40,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Shard of a Felhound",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 4962,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Shard of an Infernal": {
+        "ID": 4963,
+        "QuestLevel": 40,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Shard of an Infernal",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 4962,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "The Completed Orb of Dar'Orahil": {
+        "ID": 4964,
+        "QuestLevel": 40,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Completed Orb of Dar'Orahil",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 4964,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Returning the Cleansed Orb"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "The Completed Orb of Noh'Orahil": {
+        "ID": 4975,
+        "QuestLevel": 40,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Completed Orb of Noh'Orahil",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 4964,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Returning the Cleansed Orb"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Supplies for the Crossroads": {
+        "ID": 5041,
+        "QuestLevel": 14,
+        "MinLevel": 9,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Supplies for the Crossroads",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Agamaggan's Strength": {
+        "ID": 5042,
+        "QuestLevel": 20,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Agamaggan's Strength",
+        "AllowableClasses": [],
+        "RewardSpell": 16612,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Blood Shards of Agamaggan"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Agamaggan's Agility": {
+        "ID": 5043,
+        "QuestLevel": 20,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Agamaggan's Agility",
+        "AllowableClasses": [],
+        "RewardSpell": 17013,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Blood Shards of Agamaggan"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Wisdom of Agamaggan": {
+        "ID": 5044,
+        "QuestLevel": 20,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Wisdom of Agamaggan",
+        "AllowableClasses": [],
+        "RewardSpell": 7764,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Blood Shards of Agamaggan"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Rising Spirit": {
+        "ID": 5045,
+        "QuestLevel": 20,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Rising Spirit",
+        "AllowableClasses": [],
+        "RewardSpell": 10767,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Blood Shards of Agamaggan"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Razorhide": {
+        "ID": 5046,
+        "QuestLevel": 20,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Razorhide",
+        "AllowableClasses": [],
+        "RewardSpell": 16610,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Blood Shards of Agamaggan"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Blood Shards of Agamaggan": {
+        "ID": 5052,
+        "QuestLevel": 21,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Blood Shards of Agamaggan",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Tribes at War"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Cleansed Water Returns to Felwood": {
+        "ID": 5159,
+        "QuestLevel": 54,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Cleansed Water Returns to Felwood",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Seeking Spiritual Aid"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Gathering the Cure (Druid) (2)": {
+        "ID": 6128,
+        "QuestLevel": -1,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Gathering the Cure",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Principal Source (Druid) (2)"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Curing the Sick (Druid) (2)": {
+        "ID": 6129,
+        "QuestLevel": -1,
+        "MinLevel": 14,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Curing the Sick",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Gathering the Cure (Druid) (2)"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "A Bundle of Hides": {
+        "ID": 6361,
+        "QuestLevel": 10,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Tauren"
+        ],
+        "LogTitle": "A Bundle of Hides",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Ride to Thunder Bluff": {
+        "ID": 6362,
+        "QuestLevel": 10,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Tauren"
+        ],
+        "LogTitle": "Ride to Thunder Bluff",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Bundle of Hides"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Meats to Orgrimmar": {
+        "ID": 6365,
+        "QuestLevel": 10,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Troll"
+        ],
+        "LogTitle": "Meats to Orgrimmar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "The Ashenvale Hunt (4)": {
+        "ID": 6382,
+        "QuestLevel": 20,
+        "MinLevel": 20,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Ashenvale Hunt",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 235,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Ride to Orgrimmar": {
+        "ID": 6384,
+        "QuestLevel": 10,
+        "MinLevel": 10,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Troll"
+        ],
+        "LogTitle": "Ride to Orgrimmar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Meats to Orgrimmar"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Kaya's Alive": {
+        "ID": 6401,
+        "QuestLevel": 18,
+        "MinLevel": 12,
+        "QuestInfoID": 0,
+        "QuestSortID": 406,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Kaya's Alive",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Protect Kaya"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Report to Kadrak (1)": {
+        "ID": 6541,
+        "QuestLevel": 19,
+        "MinLevel": 17,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Report to Kadrak",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 6541,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "The Warsong Reports": {
+        "ID": 6543,
+        "QuestLevel": 19,
+        "MinLevel": 17,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Warsong Reports",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Avenge My Village": {
+        "ID": 6548,
+        "QuestLevel": 18,
+        "MinLevel": 12,
+        "QuestInfoID": 0,
+        "QuestSortID": 406,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Avenge My Village",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Kill Grundig Darkcloud": {
+        "ID": 6629,
+        "QuestLevel": 18,
+        "MinLevel": 12,
+        "QuestInfoID": 0,
+        "QuestSortID": 406,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Kill Grundig Darkcloud",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Avenge My Village"
+        ],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Outrider Basic Care Package": {
+        "ID": 7866,
+        "QuestLevel": 34,
+        "MinLevel": 25,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Outrider Basic Care Package",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 7866,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Outrider Standard Care Package": {
+        "ID": 7867,
+        "QuestLevel": 44,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Outrider Standard Care Package",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 7866,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Outrider Advanced Care Package": {
+        "ID": 7868,
+        "QuestLevel": 70,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 331,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Outrider Advanced Care Package",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 7866,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Windtotem the Elder": {
+        "ID": 8680,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Windtotem the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "High Mountain the Elder": {
+        "ID": 8686,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "High Mountain the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Moonwarden the Elder": {
+        "ID": 8717,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Moonwarden the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Mending Old Wounds": {
+        "ID": 9267,
+        "QuestLevel": -1,
+        "MinLevel": 15,
+        "QuestInfoID": 0,
+        "QuestSortID": 17,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Mending Old Wounds",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Brewfest! (2)": {
+        "ID": 11446,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -370,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Brewfest!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 11446,
+        "seasonalEvent": "Brewfest",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "The Barrens",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Playing with Fire (2)": {
+        "ID": 11915,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Playing with Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Silverpine Forest",
+            "Eversong Woods",
+            "Ghostlands",
+            "Hillsbrad Foothills",
+            "Swamp of Sorrows",
+            "Stranglethorn Vale",
+            "Stonetalon Mountains",
+            "Ashenvale",
+            "Thousand Needles",
+            "Desolace",
+            "Tanaris",
+            "Feralas",
+            "Winterspring",
+            "Hellfire Peninsula",
+            "Zangarmarsh",
+            "Terokkar Forest",
+            "Terokkar Forest",
+            "Nagrand",
+            "Blade's Edge Mountains",
+            "Netherstorm",
+            "Shadowmoon Valley",
+            "Sholazar Basin"
+        ]
+    },
+    "The Master of Summer Lore": {
+        "ID": 11970,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Master of Summer Lore",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Teldrassil",
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "The Spinner of Summer Tales": {
+        "ID": 11971,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Spinner of Summer Tales",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Desperate Research (Undead) (1)": {
+        "ID": 12752,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Undead"
+        ],
+        "LogTitle": "Desperate Research",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "A Desperate Alliance (Dwarf) (1)": {
+        "ID": 12753,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Dwarf"
+        ],
+        "LogTitle": "A Desperate Alliance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dun Morogh",
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "A Desperate Alliance (Night Elf) (1)": {
+        "ID": 12772,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Night Elf"
+        ],
+        "LogTitle": "A Desperate Alliance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "A Desperate Alliance (Human) (1)": {
+        "ID": 12775,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human"
+        ],
+        "LogTitle": "A Desperate Alliance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "A Desperate Alliance (Draenei) (1)": {
+        "ID": 12777,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "A Desperate Alliance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dun Morogh",
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Desperate Research (Blood Elf) (1)": {
+        "ID": 12782,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Desperate Research",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Desperate Research (Troll) (1)": {
+        "ID": 12783,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Troll"
+        ],
+        "LogTitle": "Desperate Research",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks"
+        ]
+    },
+    "Desperate Research (Tauren) (1)": {
+        "ID": 12784,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Tauren"
+        ],
+        "LogTitle": "Desperate Research",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "A Desperate Alliance (Gnome) (1)": {
+        "ID": 12808,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Gnome"
+        ],
+        "LogTitle": "A Desperate Alliance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dun Morogh",
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Desperate Research (Orc) (1)": {
+        "ID": 12811,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc"
+        ],
+        "LogTitle": "Desperate Research",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Spring Collectors": {
+        "ID": 13484,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -374,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Spring Collectors",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Noblegarden",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Pilgrim's Bounty (1)": {
+        "ID": 14022,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -375,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Pilgrim's Bounty",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Pilgrim's Bounty",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Pilgrim's Bounty (2)": {
+        "ID": 14036,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -375,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Pilgrim's Bounty",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Pilgrim's Bounty",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks"
+        ]
+    },
+    "Sharing a Bountiful Feast (2)": {
+        "ID": 14065,
+        "QuestLevel": -1,
+        "MinLevel": 0,
+        "QuestInfoID": 0,
+        "QuestSortID": -375,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Sharing a Bountiful Feast",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Pilgrim's Bounty",
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pilgrim's Bounty (2)"
+        ],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Hillsbrad Foothills",
+            "Burning Steppes",
+            "Stonetalon Mountains",
+            "Thousand Needles",
+            "Desolace",
+            "Tanaris",
+            "Dustwallow Marsh",
+            "Hellfire Peninsula",
+            "Borean Tundra",
+            "Sholazar Basin",
+            "Dragonblight",
+            "Howling Fjord",
+            "Grizzly Hills",
+            "Zul'Drak",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Desecrate this Fire! (The Barrens - Alliance)": {
+        "ID": 11783,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Honor the Flame (The Barrens - Horde)": {
+        "ID": 11859,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Candy Bucket (The Barrens, The Crossroads)": {
+        "ID": 12374,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Candy Bucket (The Barrens, Camp Taurajo)": {
+        "ID": 12375,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    },
+    "Candy Bucket (The Barrens, Ratchet)": {
+        "ID": 12396,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Barrens"
+        ]
+    }
+}

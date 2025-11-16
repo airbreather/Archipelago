@@ -1,0 +1,1758 @@
+{
+    "The Thandol Span (2)": {
+        "ID": 632,
+        "QuestLevel": 31,
+        "MinLevel": 28,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Thandol Span",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Thandol Span (1)"
+        ],
+        "zone": [
+            "Wetlands",
+            "Arathi Highlands"
+        ]
+    },
+    "Sully Balloo's Letter": {
+        "ID": 637,
+        "QuestLevel": 30,
+        "MinLevel": 25,
+        "QuestInfoID": 0,
+        "QuestSortID": 1537,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Sully Balloo's Letter",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Sigil of Strom": {
+        "ID": 639,
+        "QuestLevel": 37,
+        "MinLevel": 32,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Sigil of Strom",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Trollbane"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "The Broken Sigil": {
+        "ID": 640,
+        "QuestLevel": 40,
+        "MinLevel": 32,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Broken Sigil",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Sigil of Strom"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Sigil of Thoradin": {
+        "ID": 641,
+        "QuestLevel": 40,
+        "MinLevel": 32,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Sigil of Thoradin",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Broken Sigil"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "The Princess Trapped": {
+        "ID": 642,
+        "QuestLevel": 37,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Princess Trapped",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Sigil of Arathor": {
+        "ID": 643,
+        "QuestLevel": 41,
+        "MinLevel": 32,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Sigil of Arathor",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Sigil of Thoradin"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Sigil of Trollbane": {
+        "ID": 644,
+        "QuestLevel": 42,
+        "MinLevel": 32,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Sigil of Trollbane",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Sigil of Arathor"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Trol'kalar (1)": {
+        "ID": 645,
+        "QuestLevel": 42,
+        "MinLevel": 32,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Trol'kalar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Sigil of Trollbane"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Trol'kalar (2)": {
+        "ID": 646,
+        "QuestLevel": 42,
+        "MinLevel": 32,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Trol'kalar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Trol'kalar (1)"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "MacKreel's Moonshine": {
+        "ID": 647,
+        "QuestLevel": 30,
+        "MinLevel": 28,
+        "QuestInfoID": 0,
+        "QuestSortID": 11,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "MacKreel's Moonshine",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Stones of Binding": {
+        "ID": 651,
+        "QuestLevel": 38,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Stones of Binding",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Princess Trapped"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Breaking the Keystone": {
+        "ID": 652,
+        "QuestLevel": 42,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Breaking the Keystone",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Stones of Binding"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Myzrael's Allies (1)": {
+        "ID": 653,
+        "QuestLevel": 40,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Myzrael's Allies",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Breaking the Keystone"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Hammerfall": {
+        "ID": 655,
+        "QuestLevel": 34,
+        "MinLevel": 29,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Hammerfall",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Hints of a New Plague? (2)": {
+        "ID": 657,
+        "QuestLevel": 36,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 267,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Hints of a New Plague?",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Hints of a New Plague? (3)"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Hints of a New Plague? (3)": {
+        "ID": 658,
+        "QuestLevel": 36,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 267,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Hints of a New Plague?",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Hints of a New Plague? (1)"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Hints of a New Plague? (4)": {
+        "ID": 660,
+        "QuestLevel": 37,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 267,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Hints of a New Plague?",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Hints of a New Plague? (2)"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Hints of a New Plague? (5)": {
+        "ID": 661,
+        "QuestLevel": 37,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 267,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Hints of a New Plague?",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Hints of a New Plague? (4)"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Deep Sea Salvage": {
+        "ID": 662,
+        "QuestLevel": 40,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Deep Sea Salvage",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Land Ho!"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Land Ho!": {
+        "ID": 663,
+        "QuestLevel": 35,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Land Ho!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Drowned Sorrows": {
+        "ID": 664,
+        "QuestLevel": 40,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Drowned Sorrows",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Land Ho!"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Sunken Treasure (1)": {
+        "ID": 665,
+        "QuestLevel": 40,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Sunken Treasure",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Land Ho!"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Sunken Treasure (2)": {
+        "ID": 666,
+        "QuestLevel": 40,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Sunken Treasure",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Sunken Treasure (1)"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Death From Below": {
+        "ID": 667,
+        "QuestLevel": 44,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Death From Below",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Sunken Treasure (5)"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Sunken Treasure (3)": {
+        "ID": 668,
+        "QuestLevel": 40,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Sunken Treasure",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Sunken Treasure (2)"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Sunken Treasure (4)": {
+        "ID": 669,
+        "QuestLevel": 40,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Sunken Treasure",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Sunken Treasure (3)"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Foul Magics (1)": {
+        "ID": 671,
+        "QuestLevel": 33,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Foul Magics",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Raising Spirits (1)": {
+        "ID": 672,
+        "QuestLevel": 34,
+        "MinLevel": 29,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Raising Spirits",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Hammerfall"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Foul Magics (2)": {
+        "ID": 673,
+        "QuestLevel": 40,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Foul Magics",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Foul Magics (1)"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Raising Spirits (2)": {
+        "ID": 674,
+        "QuestLevel": 34,
+        "MinLevel": 29,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Raising Spirits",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Raising Spirits (1)"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Raising Spirits (3)": {
+        "ID": 675,
+        "QuestLevel": 34,
+        "MinLevel": 29,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Raising Spirits",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Raising Spirits (2)"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Call to Arms (1)": {
+        "ID": 677,
+        "QuestLevel": 32,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Call to Arms",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Hammer May Fall"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Call to Arms (2)": {
+        "ID": 678,
+        "QuestLevel": 38,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Call to Arms",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Call to Arms (1)"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Call to Arms (3)": {
+        "ID": 679,
+        "QuestLevel": 40,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Call to Arms",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Call to Arms (2)"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "The Real Threat": {
+        "ID": 680,
+        "QuestLevel": 40,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Real Threat",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Northfold Manor": {
+        "ID": 681,
+        "QuestLevel": 31,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Northfold Manor",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Stromgarde Badges": {
+        "ID": 682,
+        "QuestLevel": 37,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Stromgarde Badges",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Northfold Manor"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Wanted!  Marez Cowl": {
+        "ID": 684,
+        "QuestLevel": 39,
+        "MinLevel": 29,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Wanted!  Marez Cowl",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Wanted!  Otto and Falconcrest": {
+        "ID": 685,
+        "QuestLevel": 40,
+        "MinLevel": 29,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Wanted!  Otto and Falconcrest",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Theldurin the Lost": {
+        "ID": 687,
+        "QuestLevel": 40,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Theldurin the Lost",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dun Morogh",
+            "Arathi Highlands"
+        ]
+    },
+    "Myzrael's Allies (2)": {
+        "ID": 688,
+        "QuestLevel": 40,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Myzrael's Allies",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Breaking the Keystone"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Worth Its Weight in Gold": {
+        "ID": 691,
+        "QuestLevel": 36,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Worth Its Weight in Gold",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Wand over Fist": {
+        "ID": 693,
+        "QuestLevel": 39,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Wand over Fist",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Worth Its Weight in Gold"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Trelane's Defenses": {
+        "ID": 694,
+        "QuestLevel": 39,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Trelane's Defenses",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Wand over Fist"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "An Apprentice's Enchantment": {
+        "ID": 695,
+        "QuestLevel": 39,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "An Apprentice's Enchantment",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Trelane's Defenses"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Attack on the Tower": {
+        "ID": 696,
+        "QuestLevel": 39,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Attack on the Tower",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "An Apprentice's Enchantment"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Malin's Request (2)": {
+        "ID": 697,
+        "QuestLevel": 39,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Malin's Request",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Attack on the Tower"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Guile of the Raptor (1)": {
+        "ID": 701,
+        "QuestLevel": 37,
+        "MinLevel": 29,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Guile of the Raptor",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Raising Spirits (3)"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Guile of the Raptor (2)": {
+        "ID": 702,
+        "QuestLevel": 37,
+        "MinLevel": 29,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Guile of the Raptor",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Guile of the Raptor (1)"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Guile of the Raptor (3)": {
+        "ID": 847,
+        "QuestLevel": 37,
+        "MinLevel": 29,
+        "QuestInfoID": 0,
+        "QuestSortID": 45,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Guile of the Raptor",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Guile of the Raptor (2)"
+        ],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Elemental Leatherworking (2)": {
+        "ID": 5146,
+        "QuestLevel": 55,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": -182,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Elemental Leatherworking",
+        "AllowableClasses": [],
+        "RewardSpell": 10659,
+        "ExclusiveGroup": 5145,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Leatherworking",
+        "requires": [],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Triage (1)": {
+        "ID": 6622,
+        "QuestLevel": -1,
+        "MinLevel": 35,
+        "QuestInfoID": 0,
+        "QuestSortID": -324,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Triage",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "First Aid",
+        "requires": [],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Desecrate this Fire! (Arathi Highlands - Horde)": {
+        "ID": 11732,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Desecrate this Fire! (Arathi Highlands - Alliance)": {
+        "ID": 11764,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Honor the Flame (Arathi Highlands - Alliance)": {
+        "ID": 11804,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Honor the Flame (Arathi Highlands - Horde)": {
+        "ID": 11840,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    },
+    "Candy Bucket (Arathi Highlands)": {
+        "ID": 12380,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Arathi Highlands"
+        ]
+    }
+}

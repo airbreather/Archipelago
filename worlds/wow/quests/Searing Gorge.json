@@ -1,0 +1,900 @@
+{
+    "Suntara Stones (1)": {
+        "ID": 3367,
+        "QuestLevel": 46,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 51,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Suntara Stones",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "Suntara Stones (2)": {
+        "ID": 3368,
+        "QuestLevel": 46,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 51,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Suntara Stones",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Suntara Stones (1)"
+        ],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "Release Them": {
+        "ID": 3372,
+        "QuestLevel": 46,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 51,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Release Them",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Dwarven Justice"
+        ],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "Prayer to Elune (1)": {
+        "ID": 3377,
+        "QuestLevel": 50,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 51,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Prayer to Elune",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "Prayer to Elune (2)": {
+        "ID": 3378,
+        "QuestLevel": 50,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 51,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Prayer to Elune",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Prayer to Elune (1)"
+        ],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "Shadoweaver": {
+        "ID": 3379,
+        "QuestLevel": 50,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": -264,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Shadoweaver",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Tailoring",
+        "requires": [],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "The Undermarket (1)": {
+        "ID": 3385,
+        "QuestLevel": 50,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": -264,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Undermarket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Tailoring",
+        "requires": [
+            "Shadoweaver"
+        ],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "The Undermarket (2)": {
+        "ID": 3402,
+        "QuestLevel": 50,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": -264,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Undermarket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Tailoring",
+        "requires": [
+            "The Undermarket (1)"
+        ],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "Divine Retribution": {
+        "ID": 3441,
+        "QuestLevel": 48,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 51,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Divine Retribution",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "The Flawless Flame": {
+        "ID": 3442,
+        "QuestLevel": 48,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 51,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Flawless Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Divine Retribution"
+        ],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "Forging the Shaft": {
+        "ID": 3443,
+        "QuestLevel": 48,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 51,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Forging the Shaft",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Flawless Flame"
+        ],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "The Flame's Casing": {
+        "ID": 3452,
+        "QuestLevel": 50,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 51,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Flame's Casing",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Forging the Shaft"
+        ],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "The Torch of Retribution (1)": {
+        "ID": 3453,
+        "QuestLevel": 50,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 51,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Torch of Retribution",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Flame's Casing"
+        ],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "The Torch of Retribution (2)": {
+        "ID": 3454,
+        "QuestLevel": 50,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 51,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Torch of Retribution",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Torch of Retribution (1)"
+        ],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "Squire Maltrake": {
+        "ID": 3462,
+        "QuestLevel": 50,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 51,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Squire Maltrake",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Torch of Retribution (2)"
+        ],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "Set Them Ablaze!": {
+        "ID": 3463,
+        "QuestLevel": 52,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 51,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Set Them Ablaze!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Squire Maltrake"
+        ],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "Trinkets...": {
+        "ID": 3481,
+        "QuestLevel": 50,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 51,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Trinkets...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Set Them Ablaze!"
+        ],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "Rise, Obsidion!": {
+        "ID": 3566,
+        "QuestLevel": 46,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": 51,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Rise, Obsidion!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Release Them"
+        ],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "Caught!": {
+        "ID": 4449,
+        "QuestLevel": 45,
+        "MinLevel": 43,
+        "QuestInfoID": 0,
+        "QuestSortID": 51,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Caught!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "Ledger from Tanaris": {
+        "ID": 4450,
+        "QuestLevel": 46,
+        "MinLevel": 43,
+        "QuestInfoID": 0,
+        "QuestSortID": 51,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Ledger from Tanaris",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Caught!"
+        ],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "Elemental Leatherworking (1)": {
+        "ID": 5144,
+        "QuestLevel": 55,
+        "MinLevel": 40,
+        "QuestInfoID": 0,
+        "QuestSortID": -182,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Elemental Leatherworking",
+        "AllowableClasses": [],
+        "RewardSpell": 10659,
+        "ExclusiveGroup": 5141,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Leatherworking",
+        "requires": [],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "WANTED: Overseer Maltorius": {
+        "ID": 7701,
+        "QuestLevel": 50,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 51,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "WANTED: Overseer Maltorius",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "Kill 'Em With Sleep Deprivation": {
+        "ID": 7702,
+        "QuestLevel": 49,
+        "MinLevel": 30,
+        "QuestInfoID": 0,
+        "QuestSortID": 51,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Kill 'Em With Sleep Deprivation",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "Look at the Size of It!": {
+        "ID": 7704,
+        "QuestLevel": 50,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 51,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Look at the Size of It!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "What the Flux?": {
+        "ID": 7722,
+        "QuestLevel": 50,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 51,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "What the Flux?",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "Curse These Fat Fingers": {
+        "ID": 7723,
+        "QuestLevel": 49,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 51,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Curse These Fat Fingers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "Fiery Menace!": {
+        "ID": 7724,
+        "QuestLevel": 49,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 51,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Fiery Menace!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "Incendosaurs? Whateverosaur is More Like It": {
+        "ID": 7727,
+        "QuestLevel": 49,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 51,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Incendosaurs? Whateverosaur is More Like It",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "STOLEN: Smithing Tuyere and Lookout's Spyglass": {
+        "ID": 7728,
+        "QuestLevel": 48,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 51,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "STOLEN: Smithing Tuyere and Lookout's Spyglass",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "JOB OPPORTUNITY: Culling the Competition": {
+        "ID": 7729,
+        "QuestLevel": 48,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 51,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "JOB OPPORTUNITY: Culling the Competition",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "Restoring Fiery Flux Supplies via Kingsblood": {
+        "ID": 7736,
+        "QuestLevel": 60,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 51,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Restoring Fiery Flux Supplies via Kingsblood",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "What the Flux?"
+        ],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "Restoring Fiery Flux Supplies via Iron": {
+        "ID": 8241,
+        "QuestLevel": 60,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 51,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Restoring Fiery Flux Supplies via Iron",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "What the Flux?"
+        ],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "Restoring Fiery Flux Supplies via Heavy Leather": {
+        "ID": 8242,
+        "QuestLevel": 60,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 51,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Restoring Fiery Flux Supplies via Heavy Leather",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "What the Flux?"
+        ],
+        "zone": [
+            "Searing Gorge"
+        ]
+    },
+    "Ironband the Elder": {
+        "ID": 8651,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Ironband the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Searing Gorge"
+        ]
+    }
+}

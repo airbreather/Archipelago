@@ -1,0 +1,1302 @@
+{
+    "Battle Shout (Rank 1)": {
+        "id": 6673,
+        "spell_icon_id": 456,
+        "money_cost": 10,
+        "Level": 1,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rend (Rank 1)": {
+        "id": 772,
+        "spell_icon_id": 245,
+        "money_cost": 100,
+        "Level": 4,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Charge (Rank 1)": {
+        "id": 100,
+        "spell_icon_id": 457,
+        "money_cost": 100,
+        "Level": 4,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Victory Rush": {
+        "id": 34428,
+        "spell_icon_id": 2053,
+        "money_cost": 100,
+        "Level": 6,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Thunder Clap (Rank 1)": {
+        "id": 6343,
+        "spell_icon_id": 199,
+        "money_cost": 100,
+        "Level": 6,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hamstring": {
+        "id": 1715,
+        "spell_icon_id": 23,
+        "money_cost": 200,
+        "Level": 8,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Heroic Strike (Rank 2)": {
+        "id": 284,
+        "spell_icon_id": 856,
+        "money_cost": 200,
+        "Level": 8,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rend (Rank 2)": {
+        "id": 6546,
+        "spell_icon_id": 245,
+        "money_cost": 600,
+        "Level": 10,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Bloodrage": {
+        "id": 2687,
+        "spell_icon_id": 86,
+        "money_cost": 600,
+        "Level": 10,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Overpower": {
+        "id": 7384,
+        "spell_icon_id": 26,
+        "money_cost": 1000,
+        "Level": 12,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Battle Shout (Rank 2)": {
+        "id": 5242,
+        "spell_icon_id": 456,
+        "money_cost": 1000,
+        "Level": 12,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shield Bash": {
+        "id": 72,
+        "spell_icon_id": 280,
+        "money_cost": 1000,
+        "Level": 12,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Revenge (Rank 1)": {
+        "id": 6572,
+        "spell_icon_id": 562,
+        "money_cost": 1500,
+        "Level": 14,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Demoralizing Shout (Rank 1)": {
+        "id": 1160,
+        "spell_icon_id": 282,
+        "money_cost": 1500,
+        "Level": 14,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shield Block": {
+        "id": 2565,
+        "spell_icon_id": 28,
+        "money_cost": 2000,
+        "Level": 16,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mocking Blow": {
+        "id": 694,
+        "spell_icon_id": 1477,
+        "money_cost": 2000,
+        "Level": 16,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Heroic Strike (Rank 3)": {
+        "id": 285,
+        "spell_icon_id": 856,
+        "money_cost": 2000,
+        "Level": 16,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Thunder Clap (Rank 2)": {
+        "id": 8198,
+        "spell_icon_id": 199,
+        "money_cost": 3000,
+        "Level": 18,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Disarm": {
+        "id": 676,
+        "spell_icon_id": 560,
+        "money_cost": 3000,
+        "Level": 18,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Stance Mastery": {
+        "id": 12678,
+        "spell_icon_id": 139,
+        "money_cost": 4000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rend (Rank 3)": {
+        "id": 6547,
+        "spell_icon_id": 245,
+        "money_cost": 4000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Cleave (Rank 1)": {
+        "id": 845,
+        "spell_icon_id": 277,
+        "money_cost": 4000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Retaliation": {
+        "id": 20230,
+        "spell_icon_id": 278,
+        "money_cost": 4000,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Battle Shout (Rank 3)": {
+        "id": 6192,
+        "spell_icon_id": 456,
+        "money_cost": 6000,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Intimidating Shout": {
+        "id": 5246,
+        "spell_icon_id": 148,
+        "money_cost": 6000,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Revenge (Rank 2)": {
+        "id": 6574,
+        "spell_icon_id": 562,
+        "money_cost": 8000,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Demoralizing Shout (Rank 2)": {
+        "id": 6190,
+        "spell_icon_id": 282,
+        "money_cost": 8000,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Execute (Rank 1)": {
+        "id": 5308,
+        "spell_icon_id": 1648,
+        "money_cost": 8000,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Heroic Strike (Rank 4)": {
+        "id": 1608,
+        "spell_icon_id": 856,
+        "money_cost": 8000,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Charge (Rank 2)": {
+        "id": 6178,
+        "spell_icon_id": 457,
+        "money_cost": 10000,
+        "Level": 26,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Challenging Shout": {
+        "id": 1161,
+        "spell_icon_id": 50,
+        "money_cost": 10000,
+        "Level": 26,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Thunder Clap (Rank 3)": {
+        "id": 8204,
+        "spell_icon_id": 199,
+        "money_cost": 11000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shield Wall": {
+        "id": 871,
+        "spell_icon_id": 281,
+        "money_cost": 11000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Cleave (Rank 2)": {
+        "id": 7369,
+        "spell_icon_id": 277,
+        "money_cost": 12000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rend (Rank 4)": {
+        "id": 6548,
+        "spell_icon_id": 245,
+        "money_cost": 12000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Slam (Rank 1)": {
+        "id": 1464,
+        "spell_icon_id": 559,
+        "money_cost": 12000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Intercept": {
+        "id": 20252,
+        "spell_icon_id": 516,
+        "money_cost": 12000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Heroic Strike (Rank 5)": {
+        "id": 11564,
+        "spell_icon_id": 856,
+        "money_cost": 14000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Battle Shout (Rank 4)": {
+        "id": 11549,
+        "spell_icon_id": 456,
+        "money_cost": 14000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Execute (Rank 2)": {
+        "id": 20658,
+        "spell_icon_id": 1648,
+        "money_cost": 14000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Berserker Rage": {
+        "id": 18499,
+        "spell_icon_id": 1465,
+        "money_cost": 14000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Demoralizing Shout (Rank 3)": {
+        "id": 11554,
+        "spell_icon_id": 282,
+        "money_cost": 16000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Revenge (Rank 3)": {
+        "id": 7379,
+        "spell_icon_id": 562,
+        "money_cost": 16000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Whirlwind": {
+        "id": 1680,
+        "spell_icon_id": 83,
+        "money_cost": 18000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Slam (Rank 2)": {
+        "id": 8820,
+        "spell_icon_id": 559,
+        "money_cost": 20000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Thunder Clap (Rank 4)": {
+        "id": 8205,
+        "spell_icon_id": 199,
+        "money_cost": 20000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Pummel": {
+        "id": 6552,
+        "spell_icon_id": 756,
+        "money_cost": 20000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Cleave (Rank 3)": {
+        "id": 11608,
+        "spell_icon_id": 277,
+        "money_cost": 22000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rend (Rank 5)": {
+        "id": 11572,
+        "spell_icon_id": 245,
+        "money_cost": 22000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Heroic Strike (Rank 6)": {
+        "id": 11565,
+        "spell_icon_id": 856,
+        "money_cost": 22000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shield Slam (Rank 1)": {
+        "id": 23922,
+        "spell_icon_id": 413,
+        "money_cost": 22000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Execute (Rank 3)": {
+        "id": 20660,
+        "spell_icon_id": 1648,
+        "money_cost": 22000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Battle Shout (Rank 5)": {
+        "id": 11550,
+        "spell_icon_id": 456,
+        "money_cost": 32000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Revenge (Rank 4)": {
+        "id": 11600,
+        "spell_icon_id": 562,
+        "money_cost": 34000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Demoralizing Shout (Rank 4)": {
+        "id": 11555,
+        "spell_icon_id": 282,
+        "money_cost": 34000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Slam (Rank 3)": {
+        "id": 11604,
+        "spell_icon_id": 559,
+        "money_cost": 36000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Charge (Rank 3)": {
+        "id": 11578,
+        "spell_icon_id": 457,
+        "money_cost": 36000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Thunder Clap (Rank 5)": {
+        "id": 11580,
+        "spell_icon_id": 199,
+        "money_cost": 40000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Heroic Strike (Rank 7)": {
+        "id": 11566,
+        "spell_icon_id": 856,
+        "money_cost": 40000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shield Slam (Rank 2)": {
+        "id": 23923,
+        "spell_icon_id": 413,
+        "money_cost": 40000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mortal Strike (Rank 2)": {
+        "id": 21551,
+        "spell_icon_id": 564,
+        "money_cost": 2000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Execute (Rank 4)": {
+        "id": 20661,
+        "spell_icon_id": 1648,
+        "money_cost": 40000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Cleave (Rank 4)": {
+        "id": 11609,
+        "spell_icon_id": 277,
+        "money_cost": 42000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rend (Rank 6)": {
+        "id": 11573,
+        "spell_icon_id": 245,
+        "money_cost": 42000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Recklessness": {
+        "id": 1719,
+        "spell_icon_id": 138,
+        "money_cost": 42000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Battle Shout (Rank 6)": {
+        "id": 11551,
+        "spell_icon_id": 456,
+        "money_cost": 54000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Slam (Rank 4)": {
+        "id": 11605,
+        "spell_icon_id": 559,
+        "money_cost": 56000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Revenge (Rank 5)": {
+        "id": 11601,
+        "spell_icon_id": 562,
+        "money_cost": 56000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Demoralizing Shout (Rank 5)": {
+        "id": 11556,
+        "spell_icon_id": 282,
+        "money_cost": 56000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shield Slam (Rank 3)": {
+        "id": 23924,
+        "spell_icon_id": 413,
+        "money_cost": 56000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mortal Strike (Rank 3)": {
+        "id": 21552,
+        "spell_icon_id": 564,
+        "money_cost": 2800,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Heroic Strike (Rank 8)": {
+        "id": 11567,
+        "spell_icon_id": 856,
+        "money_cost": 58000,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Execute (Rank 5)": {
+        "id": 20662,
+        "spell_icon_id": 1648,
+        "money_cost": 58000,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Thunder Clap (Rank 6)": {
+        "id": 11581,
+        "spell_icon_id": 199,
+        "money_cost": 60000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rend (Rank 7)": {
+        "id": 11574,
+        "spell_icon_id": 245,
+        "money_cost": 62000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Devastate (Rank 2)": {
+        "id": 30016,
+        "spell_icon_id": 1508,
+        "money_cost": 3100,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Battle Shout (Rank 7)": {
+        "id": 25289,
+        "spell_icon_id": 456,
+        "money_cost": 65000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Revenge (Rank 6)": {
+        "id": 25288,
+        "spell_icon_id": 562,
+        "money_cost": 60000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Heroic Strike (Rank 9)": {
+        "id": 25286,
+        "spell_icon_id": 856,
+        "money_cost": 60000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shield Slam (Rank 4)": {
+        "id": 23925,
+        "spell_icon_id": 413,
+        "money_cost": 62000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mortal Strike (Rank 4)": {
+        "id": 21553,
+        "spell_icon_id": 564,
+        "money_cost": 3100,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Cleave (Rank 5)": {
+        "id": 20569,
+        "spell_icon_id": 277,
+        "money_cost": 62000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Slam (Rank 5)": {
+        "id": 25241,
+        "spell_icon_id": 559,
+        "money_cost": 65000,
+        "Level": 61,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Demoralizing Shout (Rank 6)": {
+        "id": 25202,
+        "spell_icon_id": 282,
+        "money_cost": 65000,
+        "Level": 62,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Revenge (Rank 7)": {
+        "id": 25269,
+        "spell_icon_id": 562,
+        "money_cost": 65000,
+        "Level": 63,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Spell Reflection": {
+        "id": 23920,
+        "spell_icon_id": 1935,
+        "money_cost": 65000,
+        "Level": 64,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Execute (Rank 6)": {
+        "id": 25234,
+        "spell_icon_id": 1648,
+        "money_cost": 65000,
+        "Level": 65,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Heroic Strike (Rank 10)": {
+        "id": 29707,
+        "spell_icon_id": 856,
+        "money_cost": 65000,
+        "Level": 66,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shield Slam (Rank 5)": {
+        "id": 25258,
+        "spell_icon_id": 413,
+        "money_cost": 65000,
+        "Level": 66,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mortal Strike (Rank 5)": {
+        "id": 25248,
+        "spell_icon_id": 564,
+        "money_cost": 3250,
+        "Level": 66,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Thunder Clap (Rank 7)": {
+        "id": 25264,
+        "spell_icon_id": 199,
+        "money_cost": 65000,
+        "Level": 67,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Cleave (Rank 6)": {
+        "id": 25231,
+        "spell_icon_id": 277,
+        "money_cost": 65000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Commanding Shout (Rank 1)": {
+        "id": 469,
+        "spell_icon_id": 1934,
+        "money_cost": 65000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rend (Rank 8)": {
+        "id": 25208,
+        "spell_icon_id": 245,
+        "money_cost": 65000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Slam (Rank 6)": {
+        "id": 25242,
+        "spell_icon_id": 559,
+        "money_cost": 71000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Battle Shout (Rank 8)": {
+        "id": 2048,
+        "spell_icon_id": 456,
+        "money_cost": 71000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Revenge (Rank 8)": {
+        "id": 30357,
+        "spell_icon_id": 562,
+        "money_cost": 260000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shield Slam (Rank 6)": {
+        "id": 30356,
+        "spell_icon_id": 413,
+        "money_cost": 71000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mortal Strike (Rank 6)": {
+        "id": 30330,
+        "spell_icon_id": 564,
+        "money_cost": 3500,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Heroic Strike (Rank 11)": {
+        "id": 30324,
+        "spell_icon_id": 856,
+        "money_cost": 100000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Devastate (Rank 3)": {
+        "id": 30022,
+        "spell_icon_id": 1508,
+        "money_cost": 3250,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Execute (Rank 7)": {
+        "id": 25236,
+        "spell_icon_id": 1648,
+        "money_cost": 71000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Intervene": {
+        "id": 3411,
+        "spell_icon_id": 2205,
+        "money_cost": 65000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Demoralizing Shout (Rank 7)": {
+        "id": 25203,
+        "spell_icon_id": 282,
+        "money_cost": 71000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rend (Rank 9)": {
+        "id": 46845,
+        "spell_icon_id": 245,
+        "money_cost": 260000,
+        "Level": 71,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shattering Throw": {
+        "id": 64382,
+        "spell_icon_id": 3998,
+        "money_cost": 260000,
+        "Level": 71,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Cleave (Rank 7)": {
+        "id": 47519,
+        "spell_icon_id": 277,
+        "money_cost": 260000,
+        "Level": 72,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Heroic Strike (Rank 12)": {
+        "id": 47449,
+        "spell_icon_id": 856,
+        "money_cost": 260000,
+        "Level": 72,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Thunder Clap (Rank 8)": {
+        "id": 47501,
+        "spell_icon_id": 199,
+        "money_cost": 260000,
+        "Level": 73,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Execute (Rank 8)": {
+        "id": 47470,
+        "spell_icon_id": 1648,
+        "money_cost": 260000,
+        "Level": 73,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Slam (Rank 7)": {
+        "id": 47474,
+        "spell_icon_id": 559,
+        "money_cost": 260000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Commanding Shout (Rank 2)": {
+        "id": 47439,
+        "spell_icon_id": 1934,
+        "money_cost": 100000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Enraged Regeneration": {
+        "id": 55694,
+        "spell_icon_id": 2008,
+        "money_cost": 100000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Devastate (Rank 4)": {
+        "id": 47497,
+        "spell_icon_id": 1508,
+        "money_cost": 5000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shield Slam (Rank 7)": {
+        "id": 47487,
+        "spell_icon_id": 413,
+        "money_cost": 260000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mortal Strike (Rank 7)": {
+        "id": 47485,
+        "spell_icon_id": 564,
+        "money_cost": 13000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rend (Rank 10)": {
+        "id": 47465,
+        "spell_icon_id": 245,
+        "money_cost": 260000,
+        "Level": 76,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Heroic Strike (Rank 13)": {
+        "id": 47450,
+        "spell_icon_id": 856,
+        "money_cost": 260000,
+        "Level": 76,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Cleave (Rank 8)": {
+        "id": 47520,
+        "spell_icon_id": 277,
+        "money_cost": 260000,
+        "Level": 77,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Thunder Clap (Rank 9)": {
+        "id": 47502,
+        "spell_icon_id": 199,
+        "money_cost": 26000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Battle Shout (Rank 9)": {
+        "id": 47436,
+        "spell_icon_id": 456,
+        "money_cost": 260000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Slam (Rank 8)": {
+        "id": 47475,
+        "spell_icon_id": 559,
+        "money_cost": 260000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Demoralizing Shout (Rank 8)": {
+        "id": 47437,
+        "spell_icon_id": 282,
+        "money_cost": 260000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Revenge (Rank 9)": {
+        "id": 57823,
+        "spell_icon_id": 562,
+        "money_cost": 260000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Heroic Throw": {
+        "id": 57755,
+        "spell_icon_id": 3182,
+        "money_cost": 100000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Devastate (Rank 5)": {
+        "id": 47498,
+        "spell_icon_id": 1508,
+        "money_cost": 5000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Shield Slam (Rank 8)": {
+        "id": 47488,
+        "spell_icon_id": 413,
+        "money_cost": 260000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mortal Strike (Rank 8)": {
+        "id": 47486,
+        "spell_icon_id": 564,
+        "money_cost": 13000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Execute (Rank 9)": {
+        "id": 47471,
+        "spell_icon_id": 1648,
+        "money_cost": 260000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Commanding Shout (Rank 3)": {
+        "id": 47440,
+        "spell_icon_id": 1934,
+        "money_cost": 260000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    }
+}

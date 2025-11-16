@@ -1,0 +1,3941 @@
+{
+    "Clefthoof Mastery (1)": {
+        "ID": 9789,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Clefthoof Mastery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "A Rare Bean": {
+        "ID": 9800,
+        "QuestLevel": 65,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Rare Bean",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Agitated Spirits of Skysong": {
+        "ID": 9804,
+        "QuestLevel": 65,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Agitated Spirits of Skysong",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Rare Bean"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Blessing of Incineratus": {
+        "ID": 9805,
+        "QuestLevel": 65,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Blessing of Incineratus",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Agitated Spirits of Skysong"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "The Spirit Polluted": {
+        "ID": 9810,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Spirit Polluted",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Blessing of Incineratus"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Muck Diving": {
+        "ID": 9815,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Muck Diving",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "The Underneath": {
+        "ID": 9818,
+        "QuestLevel": 65,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Underneath",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "The Tortured Earth": {
+        "ID": 9819,
+        "QuestLevel": 65,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Tortured Earth",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Underneath"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Eating Damnation": {
+        "ID": 9821,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Eating Damnation",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Tortured Earth"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Shattering the Veil": {
+        "ID": 9849,
+        "QuestLevel": 67,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Shattering the Veil",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Eating Damnation"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Clefthoof Mastery (2)": {
+        "ID": 9850,
+        "QuestLevel": 67,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Clefthoof Mastery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Clefthoof Mastery (1)"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Clefthoof Mastery (3)": {
+        "ID": 9851,
+        "QuestLevel": 67,
+        "MinLevel": 64,
+        "QuestInfoID": 1,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Clefthoof Mastery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -9851,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Clefthoof Mastery (2)"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "The Ultimate Bloodsport": {
+        "ID": 9852,
+        "QuestLevel": 68,
+        "MinLevel": 64,
+        "QuestInfoID": 1,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Ultimate Bloodsport",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Clefthoof Mastery (3)",
+            "Windroc Mastery (3)",
+            "Talbuk Mastery (3)"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Gurok the Usurper": {
+        "ID": 9853,
+        "QuestLevel": 67,
+        "MinLevel": 64,
+        "QuestInfoID": 1,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Gurok the Usurper",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Shattering the Veil"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Windroc Mastery (1)": {
+        "ID": 9854,
+        "QuestLevel": 65,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Windroc Mastery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Windroc Mastery (2)": {
+        "ID": 9855,
+        "QuestLevel": 67,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Windroc Mastery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Windroc Mastery (1)"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Windroc Mastery (3)": {
+        "ID": 9856,
+        "QuestLevel": 67,
+        "MinLevel": 64,
+        "QuestInfoID": 1,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Windroc Mastery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -9851,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Windroc Mastery (2)"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Talbuk Mastery (1)": {
+        "ID": 9857,
+        "QuestLevel": 65,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Talbuk Mastery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Talbuk Mastery (2)": {
+        "ID": 9858,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Talbuk Mastery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Talbuk Mastery (1)"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Talbuk Mastery (3)": {
+        "ID": 9859,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 1,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Talbuk Mastery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -9851,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Talbuk Mastery (2)"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "The Howling Wind": {
+        "ID": 9861,
+        "QuestLevel": 67,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Howling Wind",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Murkblood Corrupters": {
+        "ID": 9862,
+        "QuestLevel": 67,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Murkblood Corrupters",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Howling Wind"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Vile Idolatry": {
+        "ID": 9863,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Vile Idolatry",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "The Missing War Party": {
+        "ID": 9864,
+        "QuestLevel": 67,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Missing War Party",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Once Were Warriors": {
+        "ID": 9865,
+        "QuestLevel": 67,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Once Were Warriors",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Missing War Party"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "He Will Walk The Earth...": {
+        "ID": 9866,
+        "QuestLevel": 67,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "He Will Walk The Earth...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Once Were Warriors"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Murkblood Leaders...": {
+        "ID": 9867,
+        "QuestLevel": 67,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Murkblood Leaders...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "The Totem of Kar'dash (1)": {
+        "ID": 9868,
+        "QuestLevel": 67,
+        "MinLevel": 64,
+        "QuestInfoID": 1,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Totem of Kar'dash",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -9868,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "The Throne of the Elements (1)": {
+        "ID": 9869,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Throne of the Elements",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "The Throne of the Elements (2)": {
+        "ID": 9870,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Throne of the Elements",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Murkblood Invaders (1)": {
+        "ID": 9871,
+        "QuestLevel": 67,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 978,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Murkblood Invaders",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Murkblood Invaders (2)": {
+        "ID": 9872,
+        "QuestLevel": 67,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 941,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Murkblood Invaders",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Ortor My Old Friend...": {
+        "ID": 9873,
+        "QuestLevel": 67,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Ortor My Old Friend...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Murkblood Invaders (1)"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Stopping the Spread": {
+        "ID": 9874,
+        "QuestLevel": 67,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Stopping the Spread",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Solving the Problem": {
+        "ID": 9878,
+        "QuestLevel": 67,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Solving the Problem",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "The Totem of Kar'dash (2)": {
+        "ID": 9879,
+        "QuestLevel": 67,
+        "MinLevel": 64,
+        "QuestInfoID": 1,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Totem of Kar'dash",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Stealing from Thieves": {
+        "ID": 9882,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Stealing from Thieves",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "More Crystal Fragments": {
+        "ID": 9883,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "More Crystal Fragments",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Stealing from Thieves"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Membership Benefits (1)": {
+        "ID": 9884,
+        "QuestLevel": 70,
+        "MinLevel": 63,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Membership Benefits",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 9884,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Membership Benefits (2)": {
+        "ID": 9885,
+        "QuestLevel": 70,
+        "MinLevel": 63,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Membership Benefits",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 9884,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Membership Benefits (3)": {
+        "ID": 9886,
+        "QuestLevel": 70,
+        "MinLevel": 63,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Membership Benefits",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 9884,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Membership Benefits (4)": {
+        "ID": 9887,
+        "QuestLevel": 70,
+        "MinLevel": 63,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Membership Benefits",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 9884,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "The Impotent Leader": {
+        "ID": 9888,
+        "QuestLevel": 65,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3519,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Impotent Leader",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "More Obsidian Warbeads": {
+        "ID": 9892,
+        "QuestLevel": 67,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "More Obsidian Warbeads",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Obsidian Warbeads (1)"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Obsidian Warbeads (1)": {
+        "ID": 9893,
+        "QuestLevel": 67,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Obsidian Warbeads",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "I'm Saved!": {
+        "ID": 9897,
+        "QuestLevel": 65,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "I'm Saved!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Gava'xi": {
+        "ID": 9900,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Gava'xi",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Message in a Battle": {
+        "ID": 9906,
+        "QuestLevel": 65,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Message in a Battle",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Because Kilrath is a Coward"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "An Audacious Advance": {
+        "ID": 9907,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "An Audacious Advance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Message in a Battle"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Standards and Practices": {
+        "ID": 9910,
+        "QuestLevel": 65,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Standards and Practices",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Because Kilrath is a Coward"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "The Consortium Needs You!": {
+        "ID": 9913,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Consortium Needs You!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "A Head Full of Ivory": {
+        "ID": 9914,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Head Full of Ivory",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "More Heads Full of Ivory": {
+        "ID": 9915,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "More Heads Full of Ivory",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Head Full of Ivory"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Bleeding Hollow Supply Crates": {
+        "ID": 9916,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Bleeding Hollow Supply Crates",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Standards and Practices"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Do My Eyes Deceive Me": {
+        "ID": 9917,
+        "QuestLevel": 65,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Do My Eyes Deceive Me",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Not On My Watch!": {
+        "ID": 9918,
+        "QuestLevel": 65,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Not On My Watch!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Do My Eyes Deceive Me"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Mo'mor the Breaker": {
+        "ID": 9920,
+        "QuestLevel": 65,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Mo'mor the Breaker",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Not On My Watch!"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "The Ruins of Burning Blade": {
+        "ID": 9921,
+        "QuestLevel": 65,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Ruins of Burning Blade",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mo'mor the Breaker"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "The Twin Clefts of Nagrand": {
+        "ID": 9922,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Twin Clefts of Nagrand",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Ruins of Burning Blade"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "HELP!": {
+        "ID": 9923,
+        "QuestLevel": 65,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "HELP!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Corki's Gone Missing Again!": {
+        "ID": 9924,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Corki's Gone Missing Again!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "HELP!"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Matters of Security": {
+        "ID": 9925,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Matters of Security",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Ruthless Cunning": {
+        "ID": 9927,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Ruthless Cunning",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -9927,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Diplomatic Measures (2)"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Armaments for Deception": {
+        "ID": 9928,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Armaments for Deception",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -9927,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Diplomatic Measures (1)"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Returning the Favor": {
+        "ID": 9931,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Returning the Favor",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -9931,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Ruthless Cunning",
+            "Armaments for Deception"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Body of Evidence": {
+        "ID": 9932,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Body of Evidence",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -9931,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Ruthless Cunning",
+            "Armaments for Deception"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Message to Telaar": {
+        "ID": 9933,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Message to Telaar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Returning the Favor",
+            "Body of Evidence"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Message to Garadar": {
+        "ID": 9934,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Message to Garadar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -9868,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Returning the Favor",
+            "Body of Evidence"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Wanted: Giselda the Crone (1)": {
+        "ID": 9935,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Wanted: Giselda the Crone",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -9935,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Wanted: Giselda the Crone (2)": {
+        "ID": 9936,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Wanted: Giselda the Crone",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -9936,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Wanted: Durn the Hungerer (1)": {
+        "ID": 9937,
+        "QuestLevel": 67,
+        "MinLevel": 66,
+        "QuestInfoID": 1,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Wanted: Durn the Hungerer",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Wanted: Durn the Hungerer (2)": {
+        "ID": 9938,
+        "QuestLevel": 67,
+        "MinLevel": 66,
+        "QuestInfoID": 1,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Wanted: Durn the Hungerer",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Wanted: Zorbo the Advisor (1)": {
+        "ID": 9939,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Wanted: Zorbo the Advisor",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -9935,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Wanted: Zorbo the Advisor (2)": {
+        "ID": 9940,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Wanted: Zorbo the Advisor",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -9936,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Missing Mag'hari Procession": {
+        "ID": 9944,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Missing Mag'hari Procession",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "War on the Warmaul": {
+        "ID": 9945,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "War on the Warmaul",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Missing Mag'hari Procession"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Cho'war the Pillager (1)": {
+        "ID": 9946,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 1,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Cho'war the Pillager",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "War on the Warmaul"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Finding the Survivors": {
+        "ID": 9948,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Finding the Survivors",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Corki's Ransom": {
+        "ID": 9954,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 1,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Corki's Ransom",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Corki's Gone Missing Again!"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Cho'war the Pillager (2)": {
+        "ID": 9955,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 1,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Cho'war the Pillager",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Corki's Ransom"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "The Ravaged Caravan (2)": {
+        "ID": 9956,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Ravaged Caravan",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "The Ring of Blood: Brokentoe": {
+        "ID": 9962,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 1,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Ring of Blood: Brokentoe",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "The Ring of Blood: The Blue Brothers": {
+        "ID": 9967,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 1,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Ring of Blood: The Blue Brothers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Ring of Blood: Brokentoe"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "The Ring of Blood: Rokdar the Sundered Lord": {
+        "ID": 9970,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 1,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Ring of Blood: Rokdar the Sundered Lord",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Ring of Blood: The Blue Brothers"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "The Ring of Blood: Skra'gath": {
+        "ID": 9972,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 1,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Ring of Blood: Skra'gath",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Ring of Blood: Rokdar the Sundered Lord"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "The Ring of Blood: The Warmaul Champion": {
+        "ID": 9973,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 1,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Ring of Blood: The Warmaul Champion",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Ring of Blood: Skra'gath"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "The Ring of Blood: The Final Challenge": {
+        "ID": 9977,
+        "QuestLevel": 68,
+        "MinLevel": 65,
+        "QuestInfoID": 1,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Ring of Blood: The Final Challenge",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Ring of Blood: The Warmaul Champion"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "He Called Himself Altruis... (1)": {
+        "ID": 9982,
+        "QuestLevel": 68,
+        "MinLevel": 66,
+        "QuestInfoID": 1,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "He Called Himself Altruis...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "He Called Himself Altruis... (2)": {
+        "ID": 9983,
+        "QuestLevel": 68,
+        "MinLevel": 66,
+        "QuestInfoID": 1,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "He Called Himself Altruis...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Survey the Land": {
+        "ID": 9991,
+        "QuestLevel": 68,
+        "MinLevel": 66,
+        "QuestInfoID": 1,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Survey the Land",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Buying Time": {
+        "ID": 9999,
+        "QuestLevel": 68,
+        "MinLevel": 66,
+        "QuestInfoID": 1,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Buying Time",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Survey the Land"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "The Master Planner": {
+        "ID": 10001,
+        "QuestLevel": 68,
+        "MinLevel": 66,
+        "QuestInfoID": 1,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Master Planner",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Buying Time"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Patience and Understanding": {
+        "ID": 10004,
+        "QuestLevel": 68,
+        "MinLevel": 66,
+        "QuestInfoID": 1,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Patience and Understanding",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Master Planner"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Forge Camp: Annihilated": {
+        "ID": 10011,
+        "QuestLevel": 68,
+        "MinLevel": 66,
+        "QuestInfoID": 1,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Forge Camp: Annihilated",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -9868,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "It's Just That Easy?"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "A Visit With the Greatmother": {
+        "ID": 10044,
+        "QuestLevel": 68,
+        "MinLevel": 66,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Visit With the Greatmother",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Totem of Kar'dash (1)",
+            "Message to Garadar",
+            "Forge Camp: Annihilated"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Material Components": {
+        "ID": 10045,
+        "QuestLevel": 68,
+        "MinLevel": 66,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Material Components",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Visit With the Greatmother"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "To Meet Mother Kashur": {
+        "ID": 10081,
+        "QuestLevel": 68,
+        "MinLevel": 66,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "To Meet Mother Kashur",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Material Components"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "The Agitated Ancestors": {
+        "ID": 10082,
+        "QuestLevel": 68,
+        "MinLevel": 66,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Agitated Ancestors",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "To Meet Mother Kashur"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "A Visit With The Ancestors": {
+        "ID": 10085,
+        "QuestLevel": 68,
+        "MinLevel": 66,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Visit With The Ancestors",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Agitated Ancestors"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "When Spirits Speak": {
+        "ID": 10101,
+        "QuestLevel": 68,
+        "MinLevel": 66,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "When Spirits Speak",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Visit With The Ancestors"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "A Secret Revealed": {
+        "ID": 10102,
+        "QuestLevel": 68,
+        "MinLevel": 66,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Secret Revealed",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "When Spirits Speak"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Diplomatic Measures (1)": {
+        "ID": 10107,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Diplomatic Measures",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "An Audacious Advance"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Diplomatic Measures (2)": {
+        "ID": 10108,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Diplomatic Measures",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Twin Clefts of Nagrand"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "I Must Have Them!": {
+        "ID": 10109,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "I Must Have Them!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Bring Me The Egg!": {
+        "ID": 10111,
+        "QuestLevel": 66,
+        "MinLevel": 64,
+        "QuestInfoID": 1,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Bring Me The Egg!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "I Must Have Them!"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "The Nesingwary Safari (1)": {
+        "ID": 10113,
+        "QuestLevel": 65,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Nesingwary Safari",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "The Nesingwary Safari (2)": {
+        "ID": 10114,
+        "QuestLevel": 65,
+        "MinLevel": 64,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Nesingwary Safari",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Return to the Greatmother": {
+        "ID": 10170,
+        "QuestLevel": 68,
+        "MinLevel": 66,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Return to the Greatmother",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "What the Soul Sees"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "The Inconsolable Chieftain": {
+        "ID": 10171,
+        "QuestLevel": 68,
+        "MinLevel": 66,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Inconsolable Chieftain",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to the Greatmother"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "There Is No Hope": {
+        "ID": 10172,
+        "QuestLevel": 68,
+        "MinLevel": 66,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "There Is No Hope",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Inconsolable Chieftain"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Thrall, Son of Durotan": {
+        "ID": 10175,
+        "QuestLevel": 68,
+        "MinLevel": 66,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Thrall, Son of Durotan",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "There Is No Hope"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Vision of the Dead": {
+        "ID": 10252,
+        "QuestLevel": 67,
+        "MinLevel": 64,
+        "QuestInfoID": 1,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Vision of the Dead",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Master's Grand Design?"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Levixus the Soul Caller": {
+        "ID": 10253,
+        "QuestLevel": 67,
+        "MinLevel": 64,
+        "QuestInfoID": 1,
+        "QuestSortID": 3688,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Levixus the Soul Caller",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Vision of the Dead"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Fierce Enemies": {
+        "ID": 10476,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Fierce Enemies",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "More Warbeads": {
+        "ID": 10477,
+        "QuestLevel": 68,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "More Warbeads",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Fierce Enemies"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "More Warbeads!": {
+        "ID": 10478,
+        "QuestLevel": 68,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "More Warbeads!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Proving Your Strength"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Proving Your Strength": {
+        "ID": 10479,
+        "QuestLevel": 67,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Proving Your Strength",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Against the Legion (1)": {
+        "ID": 10641,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Against the Legion",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -10641,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Illidan's Pupil": {
+        "ID": 10646,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Illidan's Pupil",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Return to the Aldor": {
+        "ID": 10650,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Return to the Aldor",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Book of Fel Names"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Against the Illidari": {
+        "ID": 10668,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Against the Illidari",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -10641,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Against All Odds": {
+        "ID": 10669,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Against All Odds",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -10641,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Return to the Scryers": {
+        "ID": 10691,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3520,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Return to the Scryers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Book of Fel Names"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "To Catch A Sparrowhawk": {
+        "ID": 10987,
+        "QuestLevel": -1,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "To Catch A Sparrowhawk",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Eyes in the Sky"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "The Raven Stones": {
+        "ID": 10988,
+        "QuestLevel": -1,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Raven Stones",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "To Catch A Sparrowhawk"
+        ],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "A Strange Vision": {
+        "ID": 11037,
+        "QuestLevel": 67,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Strange Vision",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 10183,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "A Mystifying Vision": {
+        "ID": 11042,
+        "QuestLevel": 67,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Mystifying Vision",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 10183,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Visions of Destruction": {
+        "ID": 11044,
+        "QuestLevel": 67,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Visions of Destruction",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Kroghan's Report": {
+        "ID": 11048,
+        "QuestLevel": 67,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3518,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Kroghan's Report",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Playing with Fire (1)": {
+        "ID": 11882,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Playing with Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Teldrassil",
+            "Darkshore",
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Westfall",
+            "Redridge Mountains",
+            "Duskwood",
+            "Wetlands",
+            "Hillsbrad Foothills",
+            "The Hinterlands",
+            "Stranglethorn Vale",
+            "Western Plaguelands",
+            "Burning Steppes",
+            "Blasted Lands",
+            "Ashenvale",
+            "Tanaris",
+            "Winterspring",
+            "Dustwallow Marsh",
+            "Hellfire Peninsula",
+            "Zangarmarsh",
+            "Terokkar Forest",
+            "Terokkar Forest",
+            "Nagrand",
+            "Blade's Edge Mountains",
+            "Netherstorm",
+            "Shadowmoon Valley",
+            "Borean Tundra",
+            "The Storm Peaks"
+        ]
+    },
+    "Playing with Fire (2)": {
+        "ID": 11915,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Playing with Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Silverpine Forest",
+            "Eversong Woods",
+            "Ghostlands",
+            "Hillsbrad Foothills",
+            "Swamp of Sorrows",
+            "Stranglethorn Vale",
+            "Stonetalon Mountains",
+            "Ashenvale",
+            "Thousand Needles",
+            "Desolace",
+            "Tanaris",
+            "Feralas",
+            "Winterspring",
+            "Hellfire Peninsula",
+            "Zangarmarsh",
+            "Terokkar Forest",
+            "Terokkar Forest",
+            "Nagrand",
+            "Blade's Edge Mountains",
+            "Netherstorm",
+            "Shadowmoon Valley",
+            "Sholazar Basin"
+        ]
+    },
+    "Desecrate this Fire! (Nagrand - Horde)": {
+        "ID": 11750,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Desecrate this Fire! (Nagrand - Alliance)": {
+        "ID": 11778,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Honor the Flame (Nagrand - Alliance)": {
+        "ID": 11821,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Honor the Flame (Nagrand - Horde)": {
+        "ID": 11854,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Candy Bucket (Nagrand, Telaar)": {
+        "ID": 12357,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    },
+    "Candy Bucket (Nagrand, Garadar)": {
+        "ID": 12392,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Nagrand"
+        ]
+    }
+}

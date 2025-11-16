@@ -1,0 +1,742 @@
+{
+    "Death Gate": {
+        "id": 50977,
+        "spell_icon_id": 1493,
+        "money_cost": 0,
+        "Level": 0,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Raise Dead": {
+        "id": 46584,
+        "spell_icon_id": 221,
+        "money_cost": 5600,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Pestilence": {
+        "id": 50842,
+        "spell_icon_id": 97,
+        "money_cost": 5600,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Death Strike (Rank 1)": {
+        "id": 49998,
+        "spell_icon_id": 2751,
+        "money_cost": 5600,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Presence": {
+        "id": 48263,
+        "spell_icon_id": 2632,
+        "money_cost": 5700,
+        "Level": 57,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mind Freeze": {
+        "id": 47528,
+        "spell_icon_id": 2722,
+        "money_cost": 5700,
+        "Level": 57,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Chains of Ice": {
+        "id": 45524,
+        "spell_icon_id": 180,
+        "money_cost": 5800,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blood Boil (Rank 1)": {
+        "id": 48721,
+        "spell_icon_id": 2725,
+        "money_cost": 5800,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Heart Strike (Rank 2)": {
+        "id": 55258,
+        "spell_icon_id": 3145,
+        "money_cost": 5900,
+        "Level": 59,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blood Strike (Rank 2)": {
+        "id": 49926,
+        "spell_icon_id": 2624,
+        "money_cost": 5900,
+        "Level": 59,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Strangulate": {
+        "id": 47476,
+        "spell_icon_id": 2027,
+        "money_cost": 5900,
+        "Level": 59,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Death and Decay (Rank 1)": {
+        "id": 43265,
+        "spell_icon_id": 118,
+        "money_cost": 6000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Strike (Rank 2)": {
+        "id": 51416,
+        "spell_icon_id": 2740,
+        "money_cost": 6200,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Corpse Explosion (Rank 2)": {
+        "id": 51325,
+        "spell_icon_id": 1737,
+        "money_cost": 300,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Plague Strike (Rank 2)": {
+        "id": 49917,
+        "spell_icon_id": 2719,
+        "money_cost": 5800,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Icy Touch (Rank 2)": {
+        "id": 49896,
+        "spell_icon_id": 2721,
+        "money_cost": 61000,
+        "Level": 61,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Obliterate (Rank 1)": {
+        "id": 49020,
+        "spell_icon_id": 2639,
+        "money_cost": 61000,
+        "Level": 61,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Death Coil (Rank 2)": {
+        "id": 49892,
+        "spell_icon_id": 88,
+        "money_cost": 59000,
+        "Level": 62,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Icebound Fortitude": {
+        "id": 48792,
+        "spell_icon_id": 2720,
+        "money_cost": 62000,
+        "Level": 62,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Death Strike (Rank 2)": {
+        "id": 49999,
+        "spell_icon_id": 2751,
+        "money_cost": 65000,
+        "Level": 63,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Heart Strike (Rank 3)": {
+        "id": 55259,
+        "spell_icon_id": 3145,
+        "money_cost": 3200,
+        "Level": 64,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blood Tap": {
+        "id": 45529,
+        "spell_icon_id": 2724,
+        "money_cost": 64000,
+        "Level": 64,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blood Strike (Rank 3)": {
+        "id": 49927,
+        "spell_icon_id": 2624,
+        "money_cost": 64000,
+        "Level": 64,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Dark Command": {
+        "id": 56222,
+        "spell_icon_id": 2024,
+        "money_cost": 65000,
+        "Level": 65,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Horn of Winter (Rank 1)": {
+        "id": 57330,
+        "spell_icon_id": 2494,
+        "money_cost": 65000,
+        "Level": 65,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Strike (Rank 3)": {
+        "id": 51417,
+        "spell_icon_id": 2740,
+        "money_cost": 3250,
+        "Level": 65,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Plague Strike (Rank 3)": {
+        "id": 49918,
+        "spell_icon_id": 2719,
+        "money_cost": 65000,
+        "Level": 65,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blood Boil (Rank 2)": {
+        "id": 49939,
+        "spell_icon_id": 2725,
+        "money_cost": 66000,
+        "Level": 66,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Death Pact": {
+        "id": 48743,
+        "spell_icon_id": 169,
+        "money_cost": 66000,
+        "Level": 66,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rune Strike": {
+        "id": 56815,
+        "spell_icon_id": 3007,
+        "money_cost": 67000,
+        "Level": 67,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Scourge Strike (Rank 2)": {
+        "id": 55265,
+        "spell_icon_id": 3143,
+        "money_cost": 18000,
+        "Level": 67,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Obliterate (Rank 2)": {
+        "id": 51423,
+        "spell_icon_id": 2639,
+        "money_cost": 67000,
+        "Level": 67,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Death and Decay (Rank 2)": {
+        "id": 49936,
+        "spell_icon_id": 118,
+        "money_cost": 68000,
+        "Level": 67,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Icy Touch (Rank 3)": {
+        "id": 49903,
+        "spell_icon_id": 2721,
+        "money_cost": 67000,
+        "Level": 67,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Death Coil (Rank 3)": {
+        "id": 49893,
+        "spell_icon_id": 88,
+        "money_cost": 68000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Anti-Magic Shell": {
+        "id": 48707,
+        "spell_icon_id": 99,
+        "money_cost": 68000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Heart Strike (Rank 4)": {
+        "id": 55260,
+        "spell_icon_id": 3145,
+        "money_cost": 3450,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blood Strike (Rank 4)": {
+        "id": 49928,
+        "spell_icon_id": 2624,
+        "money_cost": 69000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Death Strike (Rank 3)": {
+        "id": 45463,
+        "spell_icon_id": 2751,
+        "money_cost": 63000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Strike (Rank 4)": {
+        "id": 51418,
+        "spell_icon_id": 2740,
+        "money_cost": 18000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Howling Blast (Rank 2)": {
+        "id": 51409,
+        "spell_icon_id": 2131,
+        "money_cost": 6500,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Corpse Explosion (Rank 3)": {
+        "id": 51326,
+        "spell_icon_id": 1737,
+        "money_cost": 18000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Plague Strike (Rank 4)": {
+        "id": 49919,
+        "spell_icon_id": 2719,
+        "money_cost": 360000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Unholy Presence": {
+        "id": 48265,
+        "spell_icon_id": 2633,
+        "money_cost": 360000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blood Boil (Rank 3)": {
+        "id": 49940,
+        "spell_icon_id": 2725,
+        "money_cost": 360000,
+        "Level": 72,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Raise Ally": {
+        "id": 61999,
+        "spell_icon_id": 1591,
+        "money_cost": 360000,
+        "Level": 72,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Scourge Strike (Rank 3)": {
+        "id": 55270,
+        "spell_icon_id": 3143,
+        "money_cost": 18000,
+        "Level": 73,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Obliterate (Rank 3)": {
+        "id": 51424,
+        "spell_icon_id": 2639,
+        "money_cost": 360000,
+        "Level": 73,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Death and Decay (Rank 3)": {
+        "id": 49937,
+        "spell_icon_id": 118,
+        "money_cost": 360000,
+        "Level": 73,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Icy Touch (Rank 4)": {
+        "id": 49904,
+        "spell_icon_id": 2721,
+        "money_cost": 360000,
+        "Level": 73,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Heart Strike (Rank 5)": {
+        "id": 55261,
+        "spell_icon_id": 3145,
+        "money_cost": 18000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blood Strike (Rank 5)": {
+        "id": 49929,
+        "spell_icon_id": 2624,
+        "money_cost": 360000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Horn of Winter (Rank 2)": {
+        "id": 57623,
+        "spell_icon_id": 2494,
+        "money_cost": 360000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Strike (Rank 5)": {
+        "id": 51419,
+        "spell_icon_id": 2740,
+        "money_cost": 18000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Howling Blast (Rank 3)": {
+        "id": 51410,
+        "spell_icon_id": 2131,
+        "money_cost": 10000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Corpse Explosion (Rank 4)": {
+        "id": 51327,
+        "spell_icon_id": 1737,
+        "money_cost": 18000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Death Strike (Rank 4)": {
+        "id": 49923,
+        "spell_icon_id": 2751,
+        "money_cost": 360000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Plague Strike (Rank 5)": {
+        "id": 49920,
+        "spell_icon_id": 2719,
+        "money_cost": 360000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Empower Rune Weapon": {
+        "id": 47568,
+        "spell_icon_id": 2622,
+        "money_cost": 360000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Death Coil (Rank 4)": {
+        "id": 49894,
+        "spell_icon_id": 88,
+        "money_cost": 360000,
+        "Level": 76,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blood Boil (Rank 4)": {
+        "id": 49941,
+        "spell_icon_id": 2725,
+        "money_cost": 360000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Icy Touch (Rank 5)": {
+        "id": 49909,
+        "spell_icon_id": 2721,
+        "money_cost": 360000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Scourge Strike (Rank 4)": {
+        "id": 55271,
+        "spell_icon_id": 3143,
+        "money_cost": 18000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Obliterate (Rank 4)": {
+        "id": 51425,
+        "spell_icon_id": 2639,
+        "money_cost": 360000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Strike (Rank 6)": {
+        "id": 55268,
+        "spell_icon_id": 2740,
+        "money_cost": 18000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Heart Strike (Rank 6)": {
+        "id": 55262,
+        "spell_icon_id": 3145,
+        "money_cost": 18000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Army of the Dead": {
+        "id": 42650,
+        "spell_icon_id": 2718,
+        "money_cost": 360000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Howling Blast (Rank 4)": {
+        "id": 51411,
+        "spell_icon_id": 2131,
+        "money_cost": 10000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Corpse Explosion (Rank 5)": {
+        "id": 51328,
+        "spell_icon_id": 1737,
+        "money_cost": 18000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Death and Decay (Rank 4)": {
+        "id": 49938,
+        "spell_icon_id": 118,
+        "money_cost": 360000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Blood Strike (Rank 6)": {
+        "id": 49930,
+        "spell_icon_id": 2624,
+        "money_cost": 360000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Death Strike (Rank 5)": {
+        "id": 49924,
+        "spell_icon_id": 2751,
+        "money_cost": 360000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Plague Strike (Rank 6)": {
+        "id": 49921,
+        "spell_icon_id": 2719,
+        "money_cost": 360000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Death Coil (Rank 5)": {
+        "id": 49895,
+        "spell_icon_id": 88,
+        "money_cost": 360000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    }
+}

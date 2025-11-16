@@ -1,0 +1,4806 @@
+{
+    "Brewfest! (2)": {
+        "ID": 11446,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -370,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Brewfest!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 11446,
+        "seasonalEvent": "Brewfest",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "The Barrens",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Playing with Fire (1)": {
+        "ID": 11882,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Playing with Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Teldrassil",
+            "Darkshore",
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Westfall",
+            "Redridge Mountains",
+            "Duskwood",
+            "Wetlands",
+            "Hillsbrad Foothills",
+            "The Hinterlands",
+            "Stranglethorn Vale",
+            "Western Plaguelands",
+            "Burning Steppes",
+            "Blasted Lands",
+            "Ashenvale",
+            "Tanaris",
+            "Winterspring",
+            "Dustwallow Marsh",
+            "Hellfire Peninsula",
+            "Zangarmarsh",
+            "Terokkar Forest",
+            "Terokkar Forest",
+            "Nagrand",
+            "Blade's Edge Mountains",
+            "Netherstorm",
+            "Shadowmoon Valley",
+            "Borean Tundra",
+            "The Storm Peaks"
+        ]
+    },
+    "The Master of Summer Lore": {
+        "ID": 11970,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Master of Summer Lore",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Teldrassil",
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "The Spinner of Summer Tales": {
+        "ID": 11971,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Spinner of Summer Tales",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Desperate Research (Undead) (1)": {
+        "ID": 12752,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Undead"
+        ],
+        "LogTitle": "Desperate Research",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "A Desperate Alliance (Dwarf) (1)": {
+        "ID": 12753,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Dwarf"
+        ],
+        "LogTitle": "A Desperate Alliance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dun Morogh",
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "A Desperate Alliance (Night Elf) (1)": {
+        "ID": 12772,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Night Elf"
+        ],
+        "LogTitle": "A Desperate Alliance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "A Desperate Alliance (Human) (1)": {
+        "ID": 12775,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human"
+        ],
+        "LogTitle": "A Desperate Alliance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "A Desperate Alliance (Draenei) (1)": {
+        "ID": 12777,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "A Desperate Alliance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dun Morogh",
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Desperate Research (Blood Elf) (1)": {
+        "ID": 12782,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Desperate Research",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Desperate Research (Troll) (1)": {
+        "ID": 12783,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Troll"
+        ],
+        "LogTitle": "Desperate Research",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks"
+        ]
+    },
+    "Desperate Research (Tauren) (1)": {
+        "ID": 12784,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Tauren"
+        ],
+        "LogTitle": "Desperate Research",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "A Desperate Alliance (Gnome) (1)": {
+        "ID": 12808,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Gnome"
+        ],
+        "LogTitle": "A Desperate Alliance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dun Morogh",
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Desperate Research (Orc) (1)": {
+        "ID": 12811,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc"
+        ],
+        "LogTitle": "Desperate Research",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Clean Up": {
+        "ID": 12818,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Clean Up",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Just Around the Corner": {
+        "ID": 12819,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Just Around the Corner",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Clean Up"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "A Delicate Touch": {
+        "ID": 12820,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Delicate Touch",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Slightly Unstable"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Opening the Backdoor": {
+        "ID": 12821,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Opening the Backdoor",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Ample Inspiration"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Know No Fear": {
+        "ID": 12822,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Know No Fear",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Opening the Backdoor"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "A Flawless Plan": {
+        "ID": 12823,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Flawless Plan",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Know No Fear"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Demolitionist Extraordinaire": {
+        "ID": 12824,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Demolitionist Extraordinaire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Flawless Plan"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Slightly Unstable": {
+        "ID": 12826,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Slightly Unstable",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Just Around the Corner"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Reclaimed Rations": {
+        "ID": 12827,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Reclaimed Rations",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Expression of Gratitude"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Ample Inspiration": {
+        "ID": 12828,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Ample Inspiration",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Expression of Gratitude"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Moving In": {
+        "ID": 12829,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Moving In",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Ore Repossession": {
+        "ID": 12830,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Ore Repossession",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Only Partly Forgotten": {
+        "ID": 12831,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Only Partly Forgotten",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Bitter Departure": {
+        "ID": 12832,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Bitter Departure",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Only Partly Forgotten"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Overstock": {
+        "ID": 12833,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Overstock",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Demolitionist Extraordinaire"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Expression of Gratitude": {
+        "ID": 12836,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Expression of Gratitude",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "The Crone's Bargain": {
+        "ID": 12841,
+        "QuestLevel": 79,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Crone's Bargain",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Leave No Goblin Behind"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "They Took Our Men!": {
+        "ID": 12843,
+        "QuestLevel": 79,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "They Took Our Men!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Equipment Recovery": {
+        "ID": 12844,
+        "QuestLevel": 79,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Equipment Recovery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Leave No Goblin Behind": {
+        "ID": 12846,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Leave No Goblin Behind",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "They Took Our Men!"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Going Bearback": {
+        "ID": 12851,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Going Bearback",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "You'll Need a Bear"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "On Brann's Trail": {
+        "ID": 12854,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "On Brann's Trail",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Sniffing Out the Perpetrator (1)": {
+        "ID": 12855,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Sniffing Out the Perpetrator",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Cold Hearted": {
+        "ID": 12856,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Cold Hearted",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Going Bearback"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "When All Else Fails (1)": {
+        "ID": 12862,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "When All Else Fails",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Demolitionist Extraordinaire"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Offering Thanks": {
+        "ID": 12863,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Offering Thanks",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Missing Scouts": {
+        "ID": 12864,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Missing Scouts",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Offering Thanks"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Loyal Companions": {
+        "ID": 12865,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Loyal Companions",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Stemming the Aggressors": {
+        "ID": 12866,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Stemming the Aggressors",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Missing Scouts"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Baby Stealers": {
+        "ID": 12867,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Baby Stealers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Loyal Companions"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Sirana Iceshriek": {
+        "ID": 12868,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 1,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Sirana Iceshriek",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Stemming the Aggressors"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Pushed Too Far": {
+        "ID": 12869,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Pushed Too Far",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Baby Stealers"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Ancient Relics (1)": {
+        "ID": 12870,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Ancient Relics",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Norgannon's Shell (1)": {
+        "ID": 12872,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Norgannon's Shell",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Library Console (1)"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "The Frostborn King": {
+        "ID": 12873,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Frostborn King",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Aid from the Explorers' League"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Fervor of the Frostborn": {
+        "ID": 12874,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Fervor of the Frostborn",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Frostborn King"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "An Experienced Guide": {
+        "ID": 12875,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "An Experienced Guide",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Fervor of the Frostborn"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Unwelcome Guests": {
+        "ID": 12876,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Unwelcome Guests",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Fervor of the Frostborn"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "The Lonesome Watcher": {
+        "ID": 12877,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Lonesome Watcher",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "An Experienced Guide"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "The Hidden Relic": {
+        "ID": 12878,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Hidden Relic",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Fate of the Titans"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Fury of the Frostborn King": {
+        "ID": 12879,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Fury of the Frostborn King",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Hidden Relic"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "The Master Explorer": {
+        "ID": 12880,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Master Explorer",
+        "AllowableClasses": [],
+        "RewardSpell": 60888,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Fury of the Frostborn King"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Ancient Relics (2)": {
+        "ID": 12882,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Ancient Relics",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "The Drakkensryd": {
+        "ID": 12886,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Drakkensryd",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Lok'lira's Parting Gift"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "SCRAP-E": {
+        "ID": 12888,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "SCRAP-E",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "The Prototype Console": {
+        "ID": 12889,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Prototype Console",
+        "AllowableClasses": [],
+        "RewardSpell": 55254,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "SCRAP-E"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "The Missing Bronzebeard": {
+        "ID": 12895,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Missing Bronzebeard",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Making a Harness": {
+        "ID": 12900,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Making a Harness",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Deemed Worthy"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Mildred the Cruel": {
+        "ID": 12905,
+        "QuestLevel": 79,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Mildred the Cruel",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Crone's Bargain"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Discipline": {
+        "ID": 12906,
+        "QuestLevel": 79,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Discipline",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mildred the Cruel"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Examples to be Made": {
+        "ID": 12907,
+        "QuestLevel": 79,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Examples to be Made",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Discipline"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "A Certain Prisoner": {
+        "ID": 12908,
+        "QuestLevel": 79,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Certain Prisoner",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Examples to be Made"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "The Nose Knows": {
+        "ID": 12909,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Nose Knows",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Missing Bronzebeard"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Sniffing Out the Perpetrator (2)": {
+        "ID": 12910,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Sniffing Out the Perpetrator",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Nose Knows"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Mending Fences": {
+        "ID": 12915,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Mending Fences",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Sibling Rivalry"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Speaking with the Wind's Voice": {
+        "ID": 12917,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Speaking with the Wind's Voice",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Speak Orcish, Man!"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Catching up with Brann": {
+        "ID": 12920,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Catching up with Brann",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "A Change of Scenery": {
+        "ID": 12921,
+        "QuestLevel": 79,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Change of Scenery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Certain Prisoner"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "The Refiner's Fire": {
+        "ID": 12922,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Refiner's Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Forging an Alliance": {
+        "ID": 12924,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Forging an Alliance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Spark of Hope"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Aberrations": {
+        "ID": 12925,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Aberrations",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Pieces of the Puzzle": {
+        "ID": 12926,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Pieces of the Puzzle",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Catching up with Brann"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Norgannon's Shell (2)": {
+        "ID": 12928,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Norgannon's Shell",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Library Console (2)"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Rare Earth": {
+        "ID": 12930,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Rare Earth",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Fighting Back": {
+        "ID": 12931,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Fighting Back",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12931,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Rare Earth"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Relief for the Fallen": {
+        "ID": 12937,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Relief for the Fallen",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12931,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Rare Earth"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Off With Their Black Wings": {
+        "ID": 12942,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Off With Their Black Wings",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Valkyrion Must Burn": {
+        "ID": 12953,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Valkyrion Must Burn",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "A Spark of Hope": {
+        "ID": 12956,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Spark of Hope",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Slaves of the Stormforged": {
+        "ID": 12957,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Slaves of the Stormforged",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12957,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Fighting Back",
+            "Relief for the Fallen"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "The Dark Ore": {
+        "ID": 12964,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Dark Ore",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12957,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Fighting Back",
+            "Relief for the Fallen"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "The Gifts of Loken": {
+        "ID": 12965,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Gifts of Loken",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12965,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Slaves of the Stormforged",
+            "The Dark Ore"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "You Can't Miss Him": {
+        "ID": 12966,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "You Can't Miss Him",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Battling the Elements": {
+        "ID": 12967,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Battling the Elements",
+        "AllowableClasses": [],
+        "RewardSpell": 55960,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "You Can't Miss Him"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Yulda's Folly": {
+        "ID": 12968,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Yulda's Folly",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Is That Your Goblin?": {
+        "ID": 12969,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Is That Your Goblin?",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Change of Scenery"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "The Hyldsmeet": {
+        "ID": 12970,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Hyldsmeet",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Is That Your Goblin?"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Taking on All Challengers": {
+        "ID": 12971,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Taking on All Challengers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Hyldsmeet"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "You'll Need a Bear": {
+        "ID": 12972,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "You'll Need a Bear",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Taking on All Challengers"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "The Brothers Bronzebeard (3)": {
+        "ID": 12973,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Brothers Bronzebeard",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Master Explorer"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "In Memoriam": {
+        "ID": 12975,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "In Memoriam",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "A Monument to the Fallen": {
+        "ID": 12976,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Monument to the Fallen",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "In Memoriam"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Blowing Hodir's Horn": {
+        "ID": 12977,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Blowing Hodir's Horn",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Monument to the Fallen"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Facing the Storm": {
+        "ID": 12978,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Facing the Storm",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12965,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Slaves of the Stormforged",
+            "The Dark Ore"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Armor of Darkness": {
+        "ID": 12979,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Armor of Darkness",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "The Armor's Secrets": {
+        "ID": 12980,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Armor's Secrets",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Armor of Darkness"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Hot and Cold": {
+        "ID": 12981,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Hot and Cold",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Battling the Elements"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "The Last of Her Kind": {
+        "ID": 12983,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Last of Her Kind",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Making a Harness"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Valduran the Stormborn": {
+        "ID": 12984,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Valduran the Stormborn",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Armor's Secrets"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Forging a Head": {
+        "ID": 12985,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Forging a Head",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Fate of the Titans": {
+        "ID": 12986,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Fate of the Titans",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Lonesome Watcher"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Mounting Hodir's Helm": {
+        "ID": 12987,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Mounting Hodir's Helm",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Forging a Head"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Destroy the Forges!": {
+        "ID": 12988,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Destroy the Forges!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12988,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Valduran the Stormborn"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "The Slithering Darkness": {
+        "ID": 12989,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Slithering Darkness",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Making a Harness"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Hit Them Where it Hurts": {
+        "ID": 12991,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Hit Them Where it Hurts",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12988,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Valduran the Stormborn"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "A Colossal Threat": {
+        "ID": 12993,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Colossal Threat",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Destroy the Forges!",
+            "Hit Them Where it Hurts"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Spy Hunter": {
+        "ID": 12994,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Spy Hunter",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "The Warm-Up": {
+        "ID": 12996,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Warm-Up ",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Last of Her Kind"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Into the Pit": {
+        "ID": 12997,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Into the Pit",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Warm-Up"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "The Heart of the Storm": {
+        "ID": 12998,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Heart of the Storm",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Colossal Threat"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Emergency Measures": {
+        "ID": 13000,
+        "QuestLevel": 79,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Emergency Measures",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Raising Hodir's Spear": {
+        "ID": 13001,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Raising Hodir's Spear",
+        "AllowableClasses": [],
+        "RewardSpell": 61395,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Thrusting Hodir's Spear": {
+        "ID": 13003,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Thrusting Hodir's Spear",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Raising Hodir's Spear"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "The Earthen Oath": {
+        "ID": 13005,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Earthen Oath",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -13005,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Terrace of the Makers"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Polishing the Helm": {
+        "ID": 13006,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Polishing the Helm",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Mounting Hodir's Helm"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "The Iron Colossus": {
+        "ID": 13007,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Iron Colossus",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Heart of the Storm"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "A New Beginning": {
+        "ID": 13009,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A New Beginning",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Forging an Alliance"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Krolmir, Hammer of Storms": {
+        "ID": 13010,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 1119,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 3000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Krolmir, Hammer of Storms",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Territorial Trespass"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Jormuttar is Soo Fat...": {
+        "ID": 13011,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Jormuttar is Soo Fat...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Fargal the Elder": {
+        "ID": 13015,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Fargal the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Stonebeard the Elder": {
+        "ID": 13020,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Stonebeard the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Graymane the Elder": {
+        "ID": 13028,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Graymane the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Muraco the Elder": {
+        "ID": 13032,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Muraco the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "The Witness and the Hero": {
+        "ID": 13034,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Witness and the Hero",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Xarantaur, the Witness"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Loken's Lackeys": {
+        "ID": 13035,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Loken's Lackeys",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -13005,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Terrace of the Makers"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Memories of Stormhoof": {
+        "ID": 13037,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Memories of Stormhoof",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Distortions in Time": {
+        "ID": 13038,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Distortions in Time",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Feeding Arngrim": {
+        "ID": 13046,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Feeding Arngrim",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "The Reckoning": {
+        "ID": 13047,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Reckoning",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Earthen Oath",
+            "Loken's Lackeys"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Where Time Went Wrong": {
+        "ID": 13048,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Where Time Went Wrong",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "The Hero's Arms": {
+        "ID": 13049,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Hero's Arms",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Veranus": {
+        "ID": 13050,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Veranus",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A New Beginning"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Territorial Trespass": {
+        "ID": 13051,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Territorial Trespass",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Veranus"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "The Missing Tracker": {
+        "ID": 13054,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Missing Tracker",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Cave Medicine": {
+        "ID": 13055,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Cave Medicine",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Missing Tracker"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "There's Always Time for Revenge": {
+        "ID": 13056,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "There's Always Time for Revenge",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Cave Medicine"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "The Terrace of the Makers": {
+        "ID": 13057,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Terrace of the Makers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Krolmir, Hammer of Storms"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Changing the Wind's Course": {
+        "ID": 13058,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Changing the Wind's Course",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "When All Else Fails (2)": {
+        "ID": 13060,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "When All Else Fails",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Demolitionist Extraordinaire"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Prepare for Glory": {
+        "ID": 13061,
+        "QuestLevel": 79,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Prepare for Glory",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Into the Pit"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Lok'lira's Parting Gift": {
+        "ID": 13062,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Lok'lira's Parting Gift",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Prepare for Glory"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Deemed Worthy": {
+        "ID": 13063,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Deemed Worthy",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Cold Hearted"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Sibling Rivalry": {
+        "ID": 13064,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Sibling Rivalry",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Drakkensryd"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Everfrost": {
+        "ID": 13420,
+        "QuestLevel": 77,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Everfrost",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Remember Everfrost!": {
+        "ID": 13421,
+        "QuestLevel": 77,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Remember Everfrost!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Everfrost"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Maintaining Discipline": {
+        "ID": 13422,
+        "QuestLevel": 79,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Maintaining Discipline",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Defending Your Title": {
+        "ID": 13423,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Defending Your Title",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Back to the Pit": {
+        "ID": 13424,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Back to the Pit",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "The Aberrations Must Die": {
+        "ID": 13425,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Aberrations Must Die",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Aberrations"
+        ],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Xarantaur, the Witness": {
+        "ID": 13426,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Xarantaur, the Witness",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Candy Bucket (100)": {
+        "ID": 13461,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Candy Bucket (101)": {
+        "ID": 13462,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Candy Bucket (110)": {
+        "ID": 13471,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Spring Collectors": {
+        "ID": 13484,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -374,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Spring Collectors",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Noblegarden",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Candy Bucket (115)": {
+        "ID": 13548,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Hodir's Tribute": {
+        "ID": 13559,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 67,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Hodir's Tribute",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Pilgrim's Bounty (1)": {
+        "ID": 14022,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -375,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Pilgrim's Bounty",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Pilgrim's Bounty",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Pilgrim's Bounty (2)": {
+        "ID": 14036,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -375,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Pilgrim's Bounty",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Pilgrim's Bounty",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks"
+        ]
+    },
+    "Sharing a Bountiful Feast (1)": {
+        "ID": 14064,
+        "QuestLevel": -1,
+        "MinLevel": 0,
+        "QuestInfoID": 0,
+        "QuestSortID": -375,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Sharing a Bountiful Feast",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Pilgrim's Bounty",
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pilgrim's Bounty (1)"
+        ],
+        "zone": [
+            "Teldrassil",
+            "Teldrassil",
+            "Darkshore",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Redridge Mountains",
+            "Western Plaguelands",
+            "Burning Steppes",
+            "Tanaris",
+            "Winterspring",
+            "Hellfire Peninsula",
+            "Sholazar Basin",
+            "Dragonblight",
+            "Howling Fjord",
+            "Grizzly Hills",
+            "The Storm Peaks"
+        ]
+    },
+    "Sharing a Bountiful Feast (2)": {
+        "ID": 14065,
+        "QuestLevel": -1,
+        "MinLevel": 0,
+        "QuestInfoID": 0,
+        "QuestSortID": -375,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Sharing a Bountiful Feast",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Pilgrim's Bounty",
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pilgrim's Bounty (2)"
+        ],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Hillsbrad Foothills",
+            "Burning Steppes",
+            "Stonetalon Mountains",
+            "Thousand Needles",
+            "Desolace",
+            "Tanaris",
+            "Dustwallow Marsh",
+            "Hellfire Peninsula",
+            "Borean Tundra",
+            "Sholazar Basin",
+            "Dragonblight",
+            "Howling Fjord",
+            "Grizzly Hills",
+            "Zul'Drak",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Desecrate this Fire! (The Storm Peaks - Horde)": {
+        "ID": 13446,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Candy Bucket (The Storm Peaks)": {
+        "ID": 13448,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Desecrate this Fire! (The Storm Peaks - Alliance)": {
+        "ID": 13455,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Honor the Flame (The Storm Peaks - Alliance)": {
+        "ID": 13490,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    },
+    "Honor the Flame (The Storm Peaks - Horde)": {
+        "ID": 13498,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "The Storm Peaks"
+        ]
+    }
+}

@@ -1,0 +1,4803 @@
+{
+    "The Archmage's Staff": {
+        "ID": 10173,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Archmage's Staff",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Curse of the Violet Tower": {
+        "ID": 10174,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Curse of the Violet Tower",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Rebuilding the Staff"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Battle-Mage Dathric": {
+        "ID": 10182,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Battle-Mage Dathric",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Off To Area 52": {
+        "ID": 10183,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Off To Area 52",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 10183,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Malevolent Remnants": {
+        "ID": 10184,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Malevolent Remnants",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Curse of the Violet Tower"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "A Fate Worse Than Death": {
+        "ID": 10185,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Fate Worse Than Death",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Curse of the Violet Tower"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "You're Hired!": {
+        "ID": 10186,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "You're Hired!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Manaforge B'naar": {
+        "ID": 10189,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Manaforge B'naar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Recharging the Batteries": {
+        "ID": 10190,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Recharging the Batteries",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Mark V is Alive!": {
+        "ID": 10191,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 1,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Mark V is Alive!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "High Value Targets": {
+        "ID": 10193,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "High Value Targets",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Manaforge B'naar"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Stealth Flight": {
+        "ID": 10194,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Stealth Flight",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Shutting Down Manaforge B'naar (2)"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "A Convincing Disguise": {
+        "ID": 10197,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Convincing Disguise",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Behind Enemy Lines"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Information Gathering": {
+        "ID": 10198,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Information Gathering",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Convincing Disguise"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "That Little Extra Kick": {
+        "ID": 10199,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "That Little Extra Kick",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Securing the Shaleskin Shale"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Return to Thalodien": {
+        "ID": 10200,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Return to Thalodien",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Shutting Down Manaforge Coruu (2)"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "A Defector": {
+        "ID": 10202,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Defector",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Kick Them While They're Down"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Invaluable Asset Zapping": {
+        "ID": 10203,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Invaluable Asset Zapping",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "You're Hired!"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Bloodgem Crystals": {
+        "ID": 10204,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Bloodgem Crystals",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Manaforge B'naar"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Warp-Raider Nesaad": {
+        "ID": 10205,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Warp-Raider Nesaad",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Heap of Ethereals"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Pick Your Part": {
+        "ID": 10206,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Pick Your Part",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Consortium Crystal Collection"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Dr. Boom!": {
+        "ID": 10221,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Dr. Boom!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Invaluable Asset Zapping"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "The Sunfury Garrison": {
+        "ID": 10222,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Sunfury Garrison",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Down With Daellis": {
+        "ID": 10223,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Down With Daellis",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Sunfury Garrison"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Essence for the Engines": {
+        "ID": 10224,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Essence for the Engines",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Report to Engineering"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Report to Engineering": {
+        "ID": 10225,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Report to Engineering",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "You're Hired!"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Elemental Power Extraction": {
+        "ID": 10226,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Elemental Power Extraction",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Essence for the Engines"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "In A Scrap With The Legion": {
+        "ID": 10232,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "In A Scrap With The Legion",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pick Your Part"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Torching Sunfury Hold": {
+        "ID": 10233,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Torching Sunfury Hold",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Krasus's Compendium"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "One Demon's Trash...": {
+        "ID": 10234,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "One Demon's Trash...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Help Mama Wheeler"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Declawing Doomclaw": {
+        "ID": 10235,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Declawing Doomclaw",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "One Demon's Trash..."
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Warn Area 52!": {
+        "ID": 10237,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Warn Area 52!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Declawing Doomclaw"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Potential Energy Source": {
+        "ID": 10239,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Potential Energy Source",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Unending Invasion"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Building a Perimeter": {
+        "ID": 10240,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Building a Perimeter",
+        "AllowableClasses": [],
+        "RewardSpell": 34656,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Potential Energy Source"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Distraction at Manaforge B'naar": {
+        "ID": 10241,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Distraction at Manaforge B'naar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Assist Exarch Orelis"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Naaru Technology": {
+        "ID": 10243,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Naaru Technology",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "B'naar Console Transcription": {
+        "ID": 10245,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "B'naar Console Transcription",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Naaru Technology"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Attack on Manaforge Coruu": {
+        "ID": 10246,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Attack on Manaforge Coruu",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Measuring Warp Energies",
+            "Shutting Down Manaforge Coruu (1)"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Doctor Vomisa, Ph.T.": {
+        "ID": 10247,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 1,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Doctor Vomisa, Ph.T.",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Warn Area 52!"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "You, Robot": {
+        "ID": 10248,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 1,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "You, Robot",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Doctor Vomisa, Ph.T."
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Back to the Chief!": {
+        "ID": 10249,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Back to the Chief!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "You, Robot"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Finding the Keymaster": {
+        "ID": 10256,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 1,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Finding the Keymaster",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Ar'kelos the Guardian"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Wanted: Annihilator Servo!": {
+        "ID": 10261,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 1,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Wanted: Annihilator Servo!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "A Heap of Ethereals": {
+        "ID": 10262,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Heap of Ethereals",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Consortium Crystal Collection"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Assisting the Consortium (1)": {
+        "ID": 10263,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Assisting the Consortium",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 10263,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Assisting the Consortium (2)": {
+        "ID": 10264,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Assisting the Consortium",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 10263,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Consortium Crystal Collection": {
+        "ID": 10265,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Consortium Crystal Collection",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Request for Assistance": {
+        "ID": 10266,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Request for Assistance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Warp-Raider Nesaad"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Rightful Repossession": {
+        "ID": 10267,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Rightful Repossession",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Request for Assistance"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "An Audience with the Prince": {
+        "ID": 10268,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "An Audience with the Prince",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Rightful Repossession"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Triangulation Point One": {
+        "ID": 10269,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Triangulation Point One",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "An Audience with the Prince"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "A Not-So-Modest Proposal": {
+        "ID": 10270,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Not-So-Modest Proposal",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Getting Down to Business": {
+        "ID": 10271,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Getting Down to Business",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Not-So-Modest Proposal"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "A Promising Start": {
+        "ID": 10272,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Promising Start",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Formal Introductions"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Troublesome Distractions": {
+        "ID": 10273,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Troublesome Distractions",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Promising Start"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Securing the Celestial Ridge": {
+        "ID": 10274,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 1,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Securing the Celestial Ridge",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Troublesome Distractions"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Triangulation Point Two": {
+        "ID": 10275,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Triangulation Point Two",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Triangulation Point One"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Full Triangle": {
+        "ID": 10276,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 1,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Full Triangle",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Triangulation Point Two"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Special Delivery to Shattrath City": {
+        "ID": 10280,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3703,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Special Delivery to Shattrath City",
+        "AllowableClasses": [],
+        "RewardSpell": 35076,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Full Triangle"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Formal Introductions": {
+        "ID": 10281,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Formal Introductions",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Getting Down to Business"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "In Search of Farahlite": {
+        "ID": 10290,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 1,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "In Search of Farahlite",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Hitting the Motherlode": {
+        "ID": 10293,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 1,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Hitting the Motherlode",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "In Search of Farahlite"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Shutting Down Manaforge B'naar (1)": {
+        "ID": 10299,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Shutting Down Manaforge B'naar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "B'naar Console Transcription"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Rebuilding the Staff": {
+        "ID": 10300,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Rebuilding the Staff",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Archmage's Staff"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Abjurist Belmara": {
+        "ID": 10305,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Abjurist Belmara",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Conjurer Luminrath": {
+        "ID": 10306,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Conjurer Luminrath",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Cohlien Frostweaver": {
+        "ID": 10307,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Cohlien Frostweaver",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Another Heap of Ethereals": {
+        "ID": 10308,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Another Heap of Ethereals",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Heap of Ethereals"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "It's a Fel Reaver, But with Heart": {
+        "ID": 10309,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 1,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "It's a Fel Reaver, But with Heart",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Sabotage the Warp-Gate!": {
+        "ID": 10310,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 1,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Sabotage the Warp-Gate!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Drijya Needs Your Help"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Drijya Needs Your Help": {
+        "ID": 10311,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Drijya Needs Your Help",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "The Annals of Kirin'Var": {
+        "ID": 10312,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Annals of Kirin'Var",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Malevolent Remnants"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Measuring Warp Energies": {
+        "ID": 10313,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Measuring Warp Energies",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -10313,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Distraction at Manaforge B'naar"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "A Lingering Suspicion": {
+        "ID": 10314,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Lingering Suspicion",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Searching for Evidence"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Neutralizing the Nethermancers": {
+        "ID": 10315,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Neutralizing the Nethermancers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Searching for Evidence": {
+        "ID": 10316,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Searching for Evidence",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Annals of Kirin'Var"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Dealing with the Foreman": {
+        "ID": 10317,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Dealing with the Foreman",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Dealing with the Overmaster": {
+        "ID": 10318,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Dealing with the Overmaster",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Dealing with the Foreman"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Capturing the Phylactery": {
+        "ID": 10319,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Capturing the Phylactery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Lingering Suspicion"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Destroy Naberius!": {
+        "ID": 10320,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 1,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Destroy Naberius!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Capturing the Phylactery"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Shutting Down Manaforge Coruu (1)": {
+        "ID": 10321,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Shutting Down Manaforge Coruu",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -10313,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Shutting Down Manaforge B'naar (1)"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Shutting Down Manaforge Duro (1)": {
+        "ID": 10322,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Shutting Down Manaforge Duro",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Measuring Warp Energies",
+            "Shutting Down Manaforge Coruu (1)"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Shutting Down Manaforge Ara (1)": {
+        "ID": 10323,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 1,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Shutting Down Manaforge Ara",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Shutting Down Manaforge Duro (1)"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Marks of Kil'jaeden": {
+        "ID": 10325,
+        "QuestLevel": 65,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3703,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Marks of Kil'jaeden",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Terokkar Forest",
+            "Netherstorm"
+        ]
+    },
+    "More Marks of Kil'jaeden": {
+        "ID": 10326,
+        "QuestLevel": 65,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3703,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "More Marks of Kil'jaeden",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Marks of Kil'jaeden"
+        ],
+        "zone": [
+            "Terokkar Forest",
+            "Netherstorm"
+        ]
+    },
+    "Single Mark of Kil'jaeden": {
+        "ID": 10327,
+        "QuestLevel": 65,
+        "MinLevel": 62,
+        "QuestInfoID": 0,
+        "QuestSortID": 3703,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Single Mark of Kil'jaeden",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Marks of Kil'jaeden"
+        ],
+        "zone": [
+            "Terokkar Forest",
+            "Netherstorm"
+        ]
+    },
+    "Sunfury Briefings": {
+        "ID": 10328,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Sunfury Briefings",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Shutting Down Manaforge B'naar (2)": {
+        "ID": 10329,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Shutting Down Manaforge B'naar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "High Value Targets"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Shutting Down Manaforge Coruu (2)": {
+        "ID": 10330,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Shutting Down Manaforge Coruu",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Information Gathering"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Indispensable Tools": {
+        "ID": 10331,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Indispensable Tools",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Master Smith Rhonsus": {
+        "ID": 10332,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Master Smith Rhonsus",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Indispensable Tools"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Help Mama Wheeler": {
+        "ID": 10333,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Help Mama Wheeler",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pick Your Part"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Needs More Cowbell": {
+        "ID": 10334,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Needs More Cowbell",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Surveying the Ruins": {
+        "ID": 10335,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Surveying the Ruins",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "The Minions of Culuthas": {
+        "ID": 10336,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Minions of Culuthas",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "When the Cows Come Home": {
+        "ID": 10337,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 1,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "When the Cows Come Home",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Needs More Cowbell"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Shutting Down Manaforge Duro (2)": {
+        "ID": 10338,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Shutting Down Manaforge Duro",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to Thalodien"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "The Ethereum": {
+        "ID": 10339,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Ethereum",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Kick Them While They're Down": {
+        "ID": 10341,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Kick Them While They're Down",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Shutting Down Manaforge Coruu (2)"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Securing the Shaleskin Shale": {
+        "ID": 10342,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Securing the Shaleskin Shale",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "The Unending Invasion": {
+        "ID": 10343,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Unending Invasion",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Curse of the Violet Tower"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "The Flesh Lies...": {
+        "ID": 10345,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Flesh Lies...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "New Opportunities": {
+        "ID": 10348,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "New Opportunities",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Arconus the Insatiable": {
+        "ID": 10353,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Arconus the Insatiable",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Shutting Down Manaforge Ara (2)": {
+        "ID": 10365,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 1,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Shutting Down Manaforge Ara",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Shutting Down Manaforge Duro (2)"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "A Dark Pact": {
+        "ID": 10380,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Dark Pact",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Outside Assistance"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Aldor No More": {
+        "ID": 10381,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Aldor No More",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Dark Pact"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Ethereum Data": {
+        "ID": 10384,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Ethereum Data",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Ethereum"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Potential for Brain Damage = High": {
+        "ID": 10385,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Potential for Brain Damage = High",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Ethereum Data"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "S-A-B-O-T-A-G-E": {
+        "ID": 10405,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "S-A-B-O-T-A-G-E",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Potential for Brain Damage = High"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Delivering the Message": {
+        "ID": 10406,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Delivering the Message",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "S-A-B-O-T-A-G-E"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Socrethar's Shadow": {
+        "ID": 10407,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 1,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Socrethar's Shadow",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Aldor No More"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Nexus-King Salhadaar": {
+        "ID": 10408,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 1,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Nexus-King Salhadaar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Delivering the Message"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Ishanah's Help": {
+        "ID": 10410,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Ishanah's Help",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Socrethar's Shadow"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Electro-Shock Goodness!": {
+        "ID": 10411,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Electro-Shock Goodness!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "The Horrors of Pollution": {
+        "ID": 10413,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Horrors of Pollution",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Run a Diagnostic!": {
+        "ID": 10417,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Run a Diagnostic!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Deal With the Saboteurs": {
+        "ID": 10418,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Deal With the Saboteurs",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Run a Diagnostic!"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Captain Tyralius": {
+        "ID": 10422,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Captain Tyralius",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "To the Stormspire": {
+        "ID": 10423,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "To the Stormspire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Deal With the Saboteurs"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Diagnosis: Critical": {
+        "ID": 10424,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Diagnosis: Critical",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "To the Stormspire"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Escape from the Staging Grounds": {
+        "ID": 10425,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Escape from the Staging Grounds",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Flora of the Eco-Domes": {
+        "ID": 10426,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Flora of the Eco-Domes",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Creatures of the Eco-Domes": {
+        "ID": 10427,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Creatures of the Eco-Domes",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Flora of the Eco-Domes"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "When Nature Goes Too Far": {
+        "ID": 10429,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "When Nature Goes Too Far",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Creatures of the Eco-Domes"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Testing the Prototype": {
+        "ID": 10430,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Testing the Prototype",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Diagnosis: Critical"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Outside Assistance": {
+        "ID": 10431,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Outside Assistance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Sunfury Briefings"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Damning Evidence": {
+        "ID": 10432,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Damning Evidence",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Defector"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Keeping Up Appearances": {
+        "ID": 10433,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Keeping Up Appearances",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "The Dynamic Duo": {
+        "ID": 10434,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Dynamic Duo",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Keeping Up Appearances"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Retrieving the Goods": {
+        "ID": 10435,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Retrieving the Goods",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Dynamic Duo"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "All Clear!": {
+        "ID": 10436,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "All Clear!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Testing the Prototype"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Recipe for Destruction": {
+        "ID": 10437,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Recipe for Destruction",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "On Nethery Wings": {
+        "ID": 10438,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "On Nethery Wings",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Recipe for Destruction"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Dimensius the All-Devouring": {
+        "ID": 10439,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 1,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Dimensius the All-Devouring",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "On Nethery Wings"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Success! (2)": {
+        "ID": 10440,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Success!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "All Clear!"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "A Gift for Voren'thal": {
+        "ID": 10508,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 1,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Gift for Voren'thal",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Damning Evidence"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Bound for Glory": {
+        "ID": 10509,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3703,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Bound for Glory",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Gift for Voren'thal"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Behind Enemy Lines": {
+        "ID": 10652,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Behind Enemy Lines",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Stealth Flight"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Marks of Sargeras (1)": {
+        "ID": 10653,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3703,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Marks of Sargeras",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Terokkar Forest",
+            "Netherstorm"
+        ]
+    },
+    "More Marks of Sargeras (1)": {
+        "ID": 10654,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3703,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "More Marks of Sargeras",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Marks of Sargeras (1)"
+        ],
+        "zone": [
+            "Terokkar Forest",
+            "Netherstorm"
+        ]
+    },
+    "Single Mark of Sargeras (1)": {
+        "ID": 10655,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": 3703,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Single Mark of Sargeras",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Marks of Sargeras (1)"
+        ],
+        "zone": [
+            "Terokkar Forest",
+            "Netherstorm"
+        ]
+    },
+    "Breaking Down Netherock": {
+        "ID": 10701,
+        "QuestLevel": 68,
+        "MinLevel": 67,
+        "QuestInfoID": 1,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Breaking Down Netherock",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Nether Gas In a Fel Fire Engine": {
+        "ID": 10850,
+        "QuestLevel": 70,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Nether Gas In a Fel Fire Engine",
+        "AllowableClasses": [],
+        "RewardSpell": 38758,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Fel Reavers, No Thanks!": {
+        "ID": 10855,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Fel Reavers, No Thanks!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "The Best Defense": {
+        "ID": 10856,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Best Defense",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Fel Reavers, No Thanks!"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Teleport This!": {
+        "ID": 10857,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Teleport This!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Best Defense"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Master of Transmutation (2)": {
+        "ID": 10899,
+        "QuestLevel": 70,
+        "MinLevel": 68,
+        "QuestInfoID": 0,
+        "QuestSortID": -181,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Master of Transmutation",
+        "AllowableClasses": [],
+        "RewardSpell": 28674,
+        "ExclusiveGroup": 10897,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Alchemy",
+        "requires": [
+            "Master of Transmutation (1)"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Bloody Imp-ossible!": {
+        "ID": 10924,
+        "QuestLevel": 69,
+        "MinLevel": 67,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Bloody Imp-ossible!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Seek Out Ameer": {
+        "ID": 10969,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Seek Out Ameer",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "A Mission of Mercy": {
+        "ID": 10970,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Mission of Mercy",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Ethereum Secrets": {
+        "ID": 10971,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Ethereum Secrets",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Mission of Mercy"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "A Thousand Worlds": {
+        "ID": 10973,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 3523,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Thousand Worlds",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Ethereum Secrets"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Stasis Chambers of Bash'ir": {
+        "ID": 10974,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 1,
+        "QuestSortID": 3522,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Stasis Chambers of Bash'ir",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Thousand Worlds"
+        ],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Brewfest! (2)": {
+        "ID": 11446,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -370,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Brewfest!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 11446,
+        "seasonalEvent": "Brewfest",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "The Barrens",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Crisis at the Sunwell": {
+        "ID": 11481,
+        "QuestLevel": 70,
+        "MinLevel": 70,
+        "QuestInfoID": 0,
+        "QuestSortID": 4080,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Crisis at the Sunwell",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Terokkar Forest",
+            "Netherstorm"
+        ]
+    },
+    "Playing with Fire (1)": {
+        "ID": 11882,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Playing with Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Teldrassil",
+            "Darkshore",
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Westfall",
+            "Redridge Mountains",
+            "Duskwood",
+            "Wetlands",
+            "Hillsbrad Foothills",
+            "The Hinterlands",
+            "Stranglethorn Vale",
+            "Western Plaguelands",
+            "Burning Steppes",
+            "Blasted Lands",
+            "Ashenvale",
+            "Tanaris",
+            "Winterspring",
+            "Dustwallow Marsh",
+            "Hellfire Peninsula",
+            "Zangarmarsh",
+            "Terokkar Forest",
+            "Terokkar Forest",
+            "Nagrand",
+            "Blade's Edge Mountains",
+            "Netherstorm",
+            "Shadowmoon Valley",
+            "Borean Tundra",
+            "The Storm Peaks"
+        ]
+    },
+    "Playing with Fire (2)": {
+        "ID": 11915,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Playing with Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Silverpine Forest",
+            "Eversong Woods",
+            "Ghostlands",
+            "Hillsbrad Foothills",
+            "Swamp of Sorrows",
+            "Stranglethorn Vale",
+            "Stonetalon Mountains",
+            "Ashenvale",
+            "Thousand Needles",
+            "Desolace",
+            "Tanaris",
+            "Feralas",
+            "Winterspring",
+            "Hellfire Peninsula",
+            "Zangarmarsh",
+            "Terokkar Forest",
+            "Terokkar Forest",
+            "Nagrand",
+            "Blade's Edge Mountains",
+            "Netherstorm",
+            "Shadowmoon Valley",
+            "Sholazar Basin"
+        ]
+    },
+    "The Master of Summer Lore": {
+        "ID": 11970,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Master of Summer Lore",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Teldrassil",
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "The Spinner of Summer Tales": {
+        "ID": 11971,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Spinner of Summer Tales",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Desperate Research (Undead) (1)": {
+        "ID": 12752,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Undead"
+        ],
+        "LogTitle": "Desperate Research",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "A Desperate Alliance (Dwarf) (1)": {
+        "ID": 12753,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Dwarf"
+        ],
+        "LogTitle": "A Desperate Alliance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dun Morogh",
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "A Desperate Alliance (Night Elf) (1)": {
+        "ID": 12772,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Night Elf"
+        ],
+        "LogTitle": "A Desperate Alliance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "A Desperate Alliance (Human) (1)": {
+        "ID": 12775,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human"
+        ],
+        "LogTitle": "A Desperate Alliance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "A Desperate Alliance (Draenei) (1)": {
+        "ID": 12777,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "LogTitle": "A Desperate Alliance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dun Morogh",
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Desperate Research (Blood Elf) (1)": {
+        "ID": 12782,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Blood Elf"
+        ],
+        "LogTitle": "Desperate Research",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Desperate Research (Troll) (1)": {
+        "ID": 12783,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Troll"
+        ],
+        "LogTitle": "Desperate Research",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks"
+        ]
+    },
+    "Desperate Research (Tauren) (1)": {
+        "ID": 12784,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Tauren"
+        ],
+        "LogTitle": "Desperate Research",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "A Desperate Alliance (Gnome) (1)": {
+        "ID": 12808,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Gnome"
+        ],
+        "LogTitle": "A Desperate Alliance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Dun Morogh",
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Desperate Research (Orc) (1)": {
+        "ID": 12811,
+        "QuestLevel": -1,
+        "MinLevel": 65,
+        "QuestInfoID": 0,
+        "QuestSortID": -284,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc"
+        ],
+        "LogTitle": "Desperate Research",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Eversong Woods",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Spring Collectors": {
+        "ID": 13484,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -374,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Spring Collectors",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Noblegarden",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Pilgrim's Bounty (1)": {
+        "ID": 14022,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -375,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Pilgrim's Bounty",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Pilgrim's Bounty",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Elwynn Forest",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Pilgrim's Bounty (2)": {
+        "ID": 14036,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -375,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Pilgrim's Bounty",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Pilgrim's Bounty",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "The Barrens",
+            "Stranglethorn Vale",
+            "Tanaris",
+            "Winterspring",
+            "Terokkar Forest",
+            "Netherstorm",
+            "The Storm Peaks"
+        ]
+    },
+    "Desecrate this Fire! (Netherstorm - Horde)": {
+        "ID": 11759,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Desecrate this Fire! (Netherstorm - Alliance)": {
+        "ID": 11799,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Honor the Flame (Netherstorm - Alliance)": {
+        "ID": 11830,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Honor the Flame (Netherstorm - Horde)": {
+        "ID": 11835,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Candy Bucket (Netherstorm, Area 52)": {
+        "ID": 12407,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    },
+    "Candy Bucket (Netherstorm, The Stormspire)": {
+        "ID": 12408,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Netherstorm"
+        ]
+    }
+}

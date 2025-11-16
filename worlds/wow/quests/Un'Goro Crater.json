@@ -1,0 +1,1292 @@
+{
+    "Finding the Source": {
+        "ID": 974,
+        "QuestLevel": 55,
+        "MinLevel": 51,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Finding the Source",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "The New Springs": {
+        "ID": 980,
+        "QuestLevel": 55,
+        "MinLevel": 51,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The New Springs",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Finding the Source"
+        ],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "It's a Secret to Everybody (1)": {
+        "ID": 3844,
+        "QuestLevel": 52,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "It's a Secret to Everybody",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "It's a Secret to Everybody (2)": {
+        "ID": 3845,
+        "QuestLevel": 52,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "It's a Secret to Everybody",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "It's a Secret to Everybody (1)"
+        ],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "Expedition Salvation": {
+        "ID": 3881,
+        "QuestLevel": 53,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Expedition Salvation",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "Roll the Bones": {
+        "ID": 3882,
+        "QuestLevel": 51,
+        "MinLevel": 49,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Roll the Bones",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "Alien Ecology": {
+        "ID": 3883,
+        "QuestLevel": 52,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Alien Ecology",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "It's a Secret to Everybody (3)": {
+        "ID": 3908,
+        "QuestLevel": 52,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "It's a Secret to Everybody",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "It's a Secret to Everybody (2)"
+        ],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "A Gnome's Assistance": {
+        "ID": 3941,
+        "QuestLevel": 52,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Gnome's Assistance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Linken's Sword"
+        ],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "Linken's Memory": {
+        "ID": 3942,
+        "QuestLevel": 54,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Linken's Memory",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Gnome's Assistance"
+        ],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "Linken's Adventure": {
+        "ID": 3961,
+        "QuestLevel": 54,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Linken's Adventure",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Aquementas"
+        ],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "It's Dangerous to Go Alone": {
+        "ID": 3962,
+        "QuestLevel": 56,
+        "MinLevel": 47,
+        "QuestInfoID": 1,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "It's Dangerous to Go Alone",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Linken's Adventure"
+        ],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "Muigin and Larion": {
+        "ID": 4141,
+        "QuestLevel": 52,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Muigin and Larion",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "A Visit to Gregan": {
+        "ID": 4142,
+        "QuestLevel": 52,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Visit to Gregan",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Muigin and Larion"
+        ],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "Bloodpetal Sprouts": {
+        "ID": 4144,
+        "QuestLevel": 53,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Bloodpetal Sprouts",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Haze of Evil"
+        ],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "Larion and Muigin": {
+        "ID": 4145,
+        "QuestLevel": 52,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Larion and Muigin",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "Marvon's Workshop": {
+        "ID": 4147,
+        "QuestLevel": 52,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Marvon's Workshop",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Larion and Muigin"
+        ],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "Chasing A-Me 01 (1)": {
+        "ID": 4243,
+        "QuestLevel": 53,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Chasing A-Me 01",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "Chasing A-Me 01 (2)": {
+        "ID": 4244,
+        "QuestLevel": 53,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Chasing A-Me 01",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Chasing A-Me 01 (1)"
+        ],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "Chasing A-Me 01 (3)": {
+        "ID": 4245,
+        "QuestLevel": 53,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Chasing A-Me 01",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Chasing A-Me 01 (2)"
+        ],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "Crystals of Power": {
+        "ID": 4284,
+        "QuestLevel": 53,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Crystals of Power",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "The Northern Pylon": {
+        "ID": 4285,
+        "QuestLevel": 53,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Northern Pylon",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -4285,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Crystals of Power"
+        ],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "The Eastern Pylon": {
+        "ID": 4287,
+        "QuestLevel": 53,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Eastern Pylon",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -4285,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Crystals of Power"
+        ],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "The Western Pylon": {
+        "ID": 4288,
+        "QuestLevel": 53,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Western Pylon",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -4285,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Crystals of Power"
+        ],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "The Apes of Un'Goro": {
+        "ID": 4289,
+        "QuestLevel": 55,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Apes of Un'Goro",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "The Fare of Lar'korwi": {
+        "ID": 4290,
+        "QuestLevel": 53,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Fare of Lar'korwi",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "The Scent of Lar'korwi": {
+        "ID": 4291,
+        "QuestLevel": 53,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Scent of Lar'korwi",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Fare of Lar'korwi"
+        ],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "The Bait for Lar'korwi": {
+        "ID": 4292,
+        "QuestLevel": 56,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Bait for Lar'korwi",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Scent of Lar'korwi"
+        ],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "The Mighty U'cha": {
+        "ID": 4301,
+        "QuestLevel": 55,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Mighty U'cha",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Apes of Un'Goro"
+        ],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "Making Sense of It": {
+        "ID": 4321,
+        "QuestLevel": 53,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Making Sense of It",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "Crystal Restore": {
+        "ID": 4381,
+        "QuestLevel": 53,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Crystal Restore",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Making Sense of It"
+        ],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "Crystal Force": {
+        "ID": 4382,
+        "QuestLevel": 53,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Crystal Force",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Making Sense of It"
+        ],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "Crystal Ward": {
+        "ID": 4383,
+        "QuestLevel": 53,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Crystal Ward",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Making Sense of It"
+        ],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "Crystal Yield": {
+        "ID": 4384,
+        "QuestLevel": 53,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Crystal Yield",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Making Sense of It"
+        ],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "Crystal Charge": {
+        "ID": 4385,
+        "QuestLevel": 53,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Crystal Charge",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Making Sense of It"
+        ],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "Crystal Spire": {
+        "ID": 4386,
+        "QuestLevel": 53,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Crystal Spire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Making Sense of It"
+        ],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "A Little Help From My Friends": {
+        "ID": 4491,
+        "QuestLevel": 55,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Little Help From My Friends",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Lost!"
+        ],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "Lost!": {
+        "ID": 4492,
+        "QuestLevel": 55,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Lost!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "Beware of Pterrordax": {
+        "ID": 4501,
+        "QuestLevel": 55,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Beware of Pterrordax",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "Shizzle's Flyer": {
+        "ID": 4503,
+        "QuestLevel": 51,
+        "MinLevel": 49,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Shizzle's Flyer",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "Dadanga is Hungry!": {
+        "ID": 5150,
+        "QuestLevel": 55,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Dadanga is Hungry!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "Thunderhorn the Elder": {
+        "ID": 8681,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Thunderhorn the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "Toxic Test": {
+        "ID": 9051,
+        "QuestLevel": 52,
+        "MinLevel": 50,
+        "QuestInfoID": 1,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Toxic Test",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Bloodpetal Poison"
+        ],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "Bloodpetal Poison": {
+        "ID": 9052,
+        "QuestLevel": 52,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": -263,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Bloodpetal Poison",
+        "AllowableClasses": [
+            "Druid"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Torwa Pathfinder"
+        ],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "The Activation Rune": {
+        "ID": 12547,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Activation Rune",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Etymidian"
+        ],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "Back Through the Waygate": {
+        "ID": 12797,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Back Through the Waygate",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Activation Rune"
+        ],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "Toxic Tolerance": {
+        "ID": 13850,
+        "QuestLevel": 53,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Toxic Tolerance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "Venomhide Eggs": {
+        "ID": 13887,
+        "QuestLevel": 53,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Venomhide Eggs",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Toxic Tolerance"
+        ],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    },
+    "They Grow Up So Fast": {
+        "ID": 13906,
+        "QuestLevel": 53,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "They Grow Up So Fast",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Venomhide Eggs"
+        ],
+        "zone": [
+            "Un'Goro Crater"
+        ]
+    }
+}

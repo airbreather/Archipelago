@@ -1,0 +1,2726 @@
+{
+    "Corrupted Windblossom (1)": {
+        "ID": 996,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Corrupted Windblossom",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Corrupted Windblossom (2)": {
+        "ID": 998,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Corrupted Windblossom",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Corrupted Windblossom (3)": {
+        "ID": 1514,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Corrupted Windblossom",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Corrupted Songflower (1)": {
+        "ID": 2523,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Corrupted Songflower",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Corrupted Songflower (2)": {
+        "ID": 2878,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 357,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Corrupted Songflower",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Corrupted Songflower (3)": {
+        "ID": 3363,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Corrupted Songflower",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Aquementas": {
+        "ID": 4005,
+        "QuestLevel": 54,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Aquementas",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Silver Heart"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Silver Heart": {
+        "ID": 4084,
+        "QuestLevel": 54,
+        "MinLevel": 47,
+        "QuestInfoID": 0,
+        "QuestSortID": 490,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Silver Heart",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Linken's Memory"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Cleansing Felwood (1)": {
+        "ID": 4101,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Cleansing Felwood",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Cleansing Felwood (2)": {
+        "ID": 4102,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Cleansing Felwood",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Salve via Hunting (1)": {
+        "ID": 4103,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Salve via Hunting",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Cleansing Felwood (1)"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Salve via Mining (1)": {
+        "ID": 4104,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Salve via Mining",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Cleansing Felwood (1)"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Salve via Gathering (1)": {
+        "ID": 4105,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Salve via Gathering",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Cleansing Felwood (1)"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Salve via Skinning (1)": {
+        "ID": 4106,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Salve via Skinning",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Cleansing Felwood (1)"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Salve via Disenchanting (1)": {
+        "ID": 4107,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Salve via Disenchanting",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Cleansing Felwood (1)"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Salve via Hunting (2)": {
+        "ID": 4108,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Salve via Hunting",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Salve via Hunting (1)"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Salve via Mining (2)": {
+        "ID": 4109,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Salve via Mining",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Salve via Mining (1)"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Salve via Gathering (2)": {
+        "ID": 4110,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Salve via Gathering",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Salve via Gathering (1)"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Salve via Skinning (2)": {
+        "ID": 4111,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Salve via Skinning",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Salve via Skinning (1)"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Salve via Disenchanting (2)": {
+        "ID": 4112,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Salve via Disenchanting",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Salve via Disenchanting (1)"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Corrupted Songflower (4)": {
+        "ID": 4113,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Corrupted Songflower",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Corrupted Songflower (5)": {
+        "ID": 4114,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Corrupted Songflower",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Corrupted Windblossom (4)": {
+        "ID": 4115,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Corrupted Windblossom",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Corrupted Songflower (6)": {
+        "ID": 4116,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Corrupted Songflower",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Corrupted Whipper Root (1)": {
+        "ID": 4117,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Corrupted Whipper Root",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Corrupted Songflower (7)": {
+        "ID": 4118,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Corrupted Songflower",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Corrupted Night Dragon (1)": {
+        "ID": 4119,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Corrupted Night Dragon",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Corrupted Windblossom (5)": {
+        "ID": 4221,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Corrupted Windblossom",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Corrupted Windblossom (6)": {
+        "ID": 4222,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Corrupted Windblossom",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Ancient Spirit": {
+        "ID": 4261,
+        "QuestLevel": 56,
+        "MinLevel": 49,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Ancient Spirit",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Purified!"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Corrupted Windblossom (7)": {
+        "ID": 4343,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Corrupted Windblossom",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Corrupted Songflower (8)": {
+        "ID": 4401,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Corrupted Songflower",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Corrupted Windblossom (8)": {
+        "ID": 4403,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Corrupted Windblossom",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "The Corruption of the Jadefire": {
+        "ID": 4421,
+        "QuestLevel": 54,
+        "MinLevel": 49,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Corruption of the Jadefire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Felbound Ancients": {
+        "ID": 4441,
+        "QuestLevel": 54,
+        "MinLevel": 49,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Felbound Ancients",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Flute of Xavaric"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Purified!": {
+        "ID": 4442,
+        "QuestLevel": 54,
+        "MinLevel": 49,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Purified!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Felbound Ancients"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Corrupted Whipper Root (2)": {
+        "ID": 4443,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Corrupted Whipper Root",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Corrupted Whipper Root (3)": {
+        "ID": 4444,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Corrupted Whipper Root",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Corrupted Whipper Root (4)": {
+        "ID": 4445,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Corrupted Whipper Root",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Corrupted Whipper Root (5)": {
+        "ID": 4446,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Corrupted Whipper Root",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Corrupted Night Dragon (2)": {
+        "ID": 4447,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Corrupted Night Dragon",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Corrupted Night Dragon (3)": {
+        "ID": 4448,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Corrupted Night Dragon",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Corrupted Whipper Root (6)": {
+        "ID": 4461,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Corrupted Whipper Root",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Corrupted Night Dragon (4)": {
+        "ID": 4462,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Corrupted Night Dragon",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Corrupted Songflower (9)": {
+        "ID": 4464,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Corrupted Songflower",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Corrupted Songflower (10)": {
+        "ID": 4465,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Corrupted Songflower",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Corrupted Windblossom (9)": {
+        "ID": 4466,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Corrupted Windblossom",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Corrupted Windblossom (10)": {
+        "ID": 4467,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Corrupted Windblossom",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Well of Corruption": {
+        "ID": 4505,
+        "QuestLevel": 54,
+        "MinLevel": 49,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Well of Corruption",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Corrupted Sabers": {
+        "ID": 4506,
+        "QuestLevel": 54,
+        "MinLevel": 49,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Corrupted Sabers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Well of Corruption"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Wild Guardians (1)": {
+        "ID": 4521,
+        "QuestLevel": 56,
+        "MinLevel": 52,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Wild Guardians",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Wild Guardians (2)": {
+        "ID": 4721,
+        "QuestLevel": 59,
+        "MinLevel": 52,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Wild Guardians",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Wild Guardians (3)"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Wild Guardians (3)": {
+        "ID": 4741,
+        "QuestLevel": 58,
+        "MinLevel": 52,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Wild Guardians",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Wild Guardians (1)"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Guarding Secrets (2)": {
+        "ID": 4883,
+        "QuestLevel": 59,
+        "MinLevel": 52,
+        "QuestInfoID": 0,
+        "QuestSortID": 618,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Guarding Secrets",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Guarding Secrets (1)"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Further Corruption": {
+        "ID": 4906,
+        "QuestLevel": 54,
+        "MinLevel": 49,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Further Corruption",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Corruption of the Jadefire"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Mystery Goo": {
+        "ID": 5085,
+        "QuestLevel": 56,
+        "MinLevel": 52,
+        "QuestInfoID": 0,
+        "QuestSortID": 618,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Mystery Goo",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Falling to Corruption"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Forces of Jaedenar": {
+        "ID": 5155,
+        "QuestLevel": 51,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Forces of Jaedenar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Verifying the Corruption": {
+        "ID": 5156,
+        "QuestLevel": 54,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Verifying the Corruption",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Collection of the Corrupt Water": {
+        "ID": 5157,
+        "QuestLevel": 52,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Collection of the Corrupt Water",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Forces of Jaedenar"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Seeking Spiritual Aid": {
+        "ID": 5158,
+        "QuestLevel": 52,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Seeking Spiritual Aid",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Collection of the Corrupt Water"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Dousing the Flames of Protection": {
+        "ID": 5165,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Dousing the Flames of Protection",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Cleansed Water Returns to Felwood"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Rescue From Jaedenar": {
+        "ID": 5203,
+        "QuestLevel": 55,
+        "MinLevel": 49,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Rescue From Jaedenar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Strange Red Key"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Retribution of the Light": {
+        "ID": 5204,
+        "QuestLevel": 57,
+        "MinLevel": 49,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Retribution of the Light",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Rescue From Jaedenar"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "A Final Blow": {
+        "ID": 5242,
+        "QuestLevel": 58,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Final Blow",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Dousing the Flames of Protection"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "To Winterspring!": {
+        "ID": 5249,
+        "QuestLevel": 56,
+        "MinLevel": 53,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "To Winterspring!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 5249,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "The Remains of Trey Lightforge": {
+        "ID": 5385,
+        "QuestLevel": 57,
+        "MinLevel": 49,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Remains of Trey Lightforge",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Retribution of the Light"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Salve via Hunting (3)": {
+        "ID": 5882,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Salve via Hunting",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Cleansing Felwood (2)"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Salve via Mining (3)": {
+        "ID": 5883,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Salve via Mining",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Cleansing Felwood (2)"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Salve via Gathering (3)": {
+        "ID": 5884,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Salve via Gathering",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Cleansing Felwood (2)"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Salve via Skinning (3)": {
+        "ID": 5885,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Salve via Skinning",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Cleansing Felwood (2)"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Salve via Disenchanting (3)": {
+        "ID": 5886,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Salve via Disenchanting",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Cleansing Felwood (2)"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Salve via Hunting (4)": {
+        "ID": 5887,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Salve via Hunting",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Salve via Hunting (3)"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Salve via Mining (4)": {
+        "ID": 5888,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Salve via Mining",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Salve via Mining (3)"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Salve via Gathering (4)": {
+        "ID": 5889,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Salve via Gathering",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Salve via Gathering (3)"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Salve via Skinning (4)": {
+        "ID": 5890,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Salve via Skinning",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Salve via Skinning (3)"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Salve via Disenchanting (4)": {
+        "ID": 5891,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Salve via Disenchanting",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Salve via Disenchanting (3)"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Runecloth": {
+        "ID": 6031,
+        "QuestLevel": 55,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 1769,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Runecloth",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Sacred Cloth": {
+        "ID": 6032,
+        "QuestLevel": 55,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 1769,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Sacred Cloth",
+        "AllowableClasses": [],
+        "RewardSpell": 19437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "A Husband's Last Battle": {
+        "ID": 6162,
+        "QuestLevel": 51,
+        "MinLevel": 46,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Husband's Last Battle",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "What Niby Commands": {
+        "ID": 7601,
+        "QuestLevel": -1,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "What Niby Commands",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Flawless Fel Essence": {
+        "ID": 7602,
+        "QuestLevel": -1,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Flawless Fel Essence",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "What Niby Commands"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Kroshius' Infernal Core": {
+        "ID": 7603,
+        "QuestLevel": -1,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Kroshius' Infernal Core",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 1413,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Flawless Fel Essence"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Ulathek the Traitor": {
+        "ID": 7624,
+        "QuestLevel": -1,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Orc",
+            "Undead",
+            "Gnome",
+            "Blood Elf"
+        ],
+        "LogTitle": "Ulathek the Traitor",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Lord Banehollow"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Xorothian Stardust": {
+        "ID": 7625,
+        "QuestLevel": -1,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Orc",
+            "Undead",
+            "Gnome",
+            "Blood Elf"
+        ],
+        "LogTitle": "Xorothian Stardust",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -7625,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Ulathek the Traitor"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "An Introduction": {
+        "ID": 7633,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": -261,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "An Introduction",
+        "AllowableClasses": [
+            "Hunter"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Stave of the Ancients": {
+        "ID": 7636,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": -261,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Stave of the Ancients",
+        "AllowableClasses": [
+            "Hunter"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Ancient Leaf"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Hot and Itchy": {
+        "ID": 8420,
+        "QuestLevel": 52,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Hot and Itchy",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 8419,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "The Wrong Stuff": {
+        "ID": 8421,
+        "QuestLevel": 52,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": -61,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Wrong Stuff",
+        "AllowableClasses": [
+            "Warlock"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Timbermaw Ally (1)": {
+        "ID": 8460,
+        "QuestLevel": 48,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Timbermaw Ally",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Deadwood of the North (2)": {
+        "ID": 8461,
+        "QuestLevel": 55,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 1769,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Deadwood of the North",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Speak to Nafien": {
+        "ID": 8462,
+        "QuestLevel": 55,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Speak to Nafien",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Timbermaw Ally (1)"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Speak to Salfa": {
+        "ID": 8465,
+        "QuestLevel": 55,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Speak to Salfa",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Feathers for Grazle": {
+        "ID": 8466,
+        "QuestLevel": 55,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Feathers for Grazle",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Timbermaw Ally (1)"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Feathers for Nafien": {
+        "ID": 8467,
+        "QuestLevel": 55,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Feathers for Nafien",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Timbermaw Ally (1)"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Deadwood Ritual Totem": {
+        "ID": 8470,
+        "QuestLevel": 55,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 361,
+        "RequiredFactionId1": 576,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Deadwood Ritual Totem",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "The Root of All Evil": {
+        "ID": 8481,
+        "QuestLevel": 60,
+        "MinLevel": 45,
+        "QuestInfoID": 1,
+        "QuestSortID": 1769,
+        "RequiredFactionId1": 576,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 42000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Root of All Evil",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "The Brokering of Peace (1)": {
+        "ID": 8484,
+        "QuestLevel": 60,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 1769,
+        "RequiredFactionId1": 576,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 42000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Brokering of Peace",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Root of All Evil"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "The Brokering of Peace (2)": {
+        "ID": 8485,
+        "QuestLevel": 60,
+        "MinLevel": 45,
+        "QuestInfoID": 0,
+        "QuestSortID": 1769,
+        "RequiredFactionId1": 576,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 42000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "The Brokering of Peace",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Root of All Evil"
+        ],
+        "zone": [
+            "Felwood"
+        ]
+    },
+    "Nightwind the Elder": {
+        "ID": 8723,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Nightwind the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Felwood"
+        ]
+    }
+}

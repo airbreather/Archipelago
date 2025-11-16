@@ -1,0 +1,2376 @@
+{
+    "Alas, Andorhal (2)": {
+        "ID": 211,
+        "QuestLevel": 60,
+        "MinLevel": 50,
+        "QuestInfoID": 1,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Alas, Andorhal",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "All Along the Watchtowers (1)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "A Matter of Time": {
+        "ID": 4971,
+        "QuestLevel": 56,
+        "MinLevel": 53,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Matter of Time",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Counting Out Time (1)": {
+        "ID": 4972,
+        "QuestLevel": 56,
+        "MinLevel": 53,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Counting Out Time",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Matter of Time"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Counting Out Time (2)": {
+        "ID": 4973,
+        "QuestLevel": 56,
+        "MinLevel": 53,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Counting Out Time",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Counting Out Time (1)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "The Wildlife Suffers Too (1)": {
+        "ID": 4984,
+        "QuestLevel": 54,
+        "MinLevel": 51,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Wildlife Suffers Too",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "The Wildlife Suffers Too (2)": {
+        "ID": 4985,
+        "QuestLevel": 56,
+        "MinLevel": 51,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Wildlife Suffers Too",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Wildlife Suffers Too (1)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Glyphed Oaken Branch (1)": {
+        "ID": 4986,
+        "QuestLevel": 56,
+        "MinLevel": 51,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Glyphed Oaken Branch",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Wildlife Suffers Too (2)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Glyphed Oaken Branch (2)": {
+        "ID": 4987,
+        "QuestLevel": 56,
+        "MinLevel": 51,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Glyphed Oaken Branch",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Wildlife Suffers Too (2)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Better Late Than Never (1)": {
+        "ID": 5021,
+        "QuestLevel": 52,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Better Late Than Never",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Better Late Than Never (2)": {
+        "ID": 5022,
+        "QuestLevel": 52,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Better Late Than Never",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Better Late Than Never (1)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Better Late Than Never (3)": {
+        "ID": 5023,
+        "QuestLevel": 52,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Better Late Than Never",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Better Late Than Never (1)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Two Halves Become One": {
+        "ID": 5051,
+        "QuestLevel": 54,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Two Halves Become One",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Good Luck Charm"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Mrs. Dalson's Diary": {
+        "ID": 5058,
+        "QuestLevel": 55,
+        "MinLevel": 52,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Mrs. Dalson's Diary",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Locked Away (1)": {
+        "ID": 5059,
+        "QuestLevel": 55,
+        "MinLevel": 52,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Locked Away",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Locked Away (2)": {
+        "ID": 5060,
+        "QuestLevel": 55,
+        "MinLevel": 52,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Locked Away",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Clear the Way": {
+        "ID": 5092,
+        "QuestLevel": 52,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Clear the Way",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "All Along the Watchtowers (1)": {
+        "ID": 5097,
+        "QuestLevel": 56,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "All Along the Watchtowers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Clear the Way"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Little Pamela": {
+        "ID": 5142,
+        "QuestLevel": 55,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Little Pamela",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 5142,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "A Strange Historian": {
+        "ID": 5153,
+        "QuestLevel": 56,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Strange Historian",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Auntie Marlene"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "The Annals of Darrowshire": {
+        "ID": 5154,
+        "QuestLevel": 56,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Annals of Darrowshire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Strange Historian"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Catalogue of the Wayward": {
+        "ID": 5164,
+        "QuestLevel": 60,
+        "MinLevel": 57,
+        "QuestInfoID": 1,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Catalogue of the Wayward",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Wrath of the Blue Flight (2)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Breastplate of the Chromatic Flight": {
+        "ID": 5166,
+        "QuestLevel": 60,
+        "MinLevel": 57,
+        "QuestInfoID": 1,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Breastplate of the Chromatic Flight",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Catalogue of the Wayward"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Legplates of the Chromatic Defier": {
+        "ID": 5167,
+        "QuestLevel": 60,
+        "MinLevel": 57,
+        "QuestInfoID": 1,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Legplates of the Chromatic Defier",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Catalogue of the Wayward"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Brother Carlin": {
+        "ID": 5210,
+        "QuestLevel": 56,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Brother Carlin",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Annals of Darrowshire"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "The Scourge Cauldrons (1)": {
+        "ID": 5215,
+        "QuestLevel": 53,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Scourge Cauldrons",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Clear the Way"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Target: Felstone Field (1)": {
+        "ID": 5216,
+        "QuestLevel": 53,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Target: Felstone Field",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Scourge Cauldrons (1)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Return to Chillwind Camp (1)": {
+        "ID": 5217,
+        "QuestLevel": 53,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Return to Chillwind Camp",
+        "AllowableClasses": [],
+        "RewardSpell": 10937,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Target: Felstone Field (1)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Felstone Field Cauldron": {
+        "ID": 5218,
+        "QuestLevel": 53,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Felstone Field Cauldron",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Target: Dalson's Tears (1)": {
+        "ID": 5219,
+        "QuestLevel": 55,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Target: Dalson's Tears",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to Chillwind Camp (1)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Return to Chillwind Camp (2)": {
+        "ID": 5220,
+        "QuestLevel": 55,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Return to Chillwind Camp",
+        "AllowableClasses": [],
+        "RewardSpell": 10937,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Target: Dalson's Tears (1)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Dalson's Tears Cauldron": {
+        "ID": 5221,
+        "QuestLevel": 55,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Dalson's Tears Cauldron",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Target: Writhing Haunt (1)": {
+        "ID": 5222,
+        "QuestLevel": 55,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Target: Writhing Haunt",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to Chillwind Camp (2)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Return to Chillwind Camp (3)": {
+        "ID": 5223,
+        "QuestLevel": 55,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Return to Chillwind Camp",
+        "AllowableClasses": [],
+        "RewardSpell": 10937,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Target: Writhing Haunt (1)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Writhing Haunt Cauldron": {
+        "ID": 5224,
+        "QuestLevel": 55,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Writhing Haunt Cauldron",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Target: Gahrron's Withering (1)": {
+        "ID": 5225,
+        "QuestLevel": 58,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Target: Gahrron's Withering",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to Chillwind Camp (3)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Return to Chillwind Camp (4)": {
+        "ID": 5226,
+        "QuestLevel": 58,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Return to Chillwind Camp",
+        "AllowableClasses": [],
+        "RewardSpell": 10938,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Target: Gahrron's Withering (1)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Gahrron's Withering Cauldron": {
+        "ID": 5227,
+        "QuestLevel": 58,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Gahrron's Withering Cauldron",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Return to the Bulwark (1)": {
+        "ID": 5230,
+        "QuestLevel": 53,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Return to the Bulwark",
+        "AllowableClasses": [],
+        "RewardSpell": 23947,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Target: Felstone Field (2)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Return to the Bulwark (2)": {
+        "ID": 5232,
+        "QuestLevel": 55,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Return to the Bulwark",
+        "AllowableClasses": [],
+        "RewardSpell": 23947,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Target: Dalson's Tears (2)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Return to the Bulwark (3)": {
+        "ID": 5234,
+        "QuestLevel": 55,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Return to the Bulwark",
+        "AllowableClasses": [],
+        "RewardSpell": 23947,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Target: Writhing Haunt (2)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Return to the Bulwark (4)": {
+        "ID": 5236,
+        "QuestLevel": 58,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Return to the Bulwark",
+        "AllowableClasses": [],
+        "RewardSpell": 23948,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Target: Gahrron's Withering (2)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Mission Accomplished! (1)": {
+        "ID": 5237,
+        "QuestLevel": 58,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Mission Accomplished!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return to Chillwind Camp (4)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "The Last Barov (2)": {
+        "ID": 5344,
+        "QuestLevel": 60,
+        "MinLevel": 52,
+        "QuestInfoID": 1,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Last Barov",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Barov Family Fortune (2)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Argent Dawn Commission (1)": {
+        "ID": 5401,
+        "QuestLevel": 55,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Argent Dawn Commission",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Minion's Scourgestones (1)": {
+        "ID": 5402,
+        "QuestLevel": 55,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Minion's Scourgestones",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Invader's Scourgestones (1)": {
+        "ID": 5403,
+        "QuestLevel": 55,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Invader's Scourgestones",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Corruptor's Scourgestones (1)": {
+        "ID": 5404,
+        "QuestLevel": 55,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Corruptor's Scourgestones",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "The Human, Ras Frostwhisper": {
+        "ID": 5461,
+        "QuestLevel": 60,
+        "MinLevel": 57,
+        "QuestInfoID": 1,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Human, Ras Frostwhisper",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Kirtonos the Herald"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "The Dying, Ras Frostwhisper": {
+        "ID": 5462,
+        "QuestLevel": 60,
+        "MinLevel": 57,
+        "QuestInfoID": 1,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Dying, Ras Frostwhisper",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Human, Ras Frostwhisper"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "The Key to Scholomance (1)": {
+        "ID": 5505,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Key to Scholomance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Araj's Scarab (1)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Mantles of the Dawn (2)": {
+        "ID": 5507,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 529,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 21000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Mantles of the Dawn",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 5504,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Chromatic Mantle of the Dawn (2)": {
+        "ID": 5521,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 529,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 42000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Chromatic Mantle of the Dawn",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 5517,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Scholomance (2)": {
+        "ID": 5533,
+        "QuestLevel": 55,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Scholomance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "All Along the Watchtowers (1)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Skeletal Fragments (2)": {
+        "ID": 5537,
+        "QuestLevel": 57,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Skeletal Fragments",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Scholomance (2)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Mold Rhymes With... (2)": {
+        "ID": 5538,
+        "QuestLevel": 57,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Mold Rhymes With...",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Skeletal Fragments (2)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Demon Dogs": {
+        "ID": 5542,
+        "QuestLevel": 56,
+        "MinLevel": 52,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Demon Dogs",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -5542,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Western Plaguelands",
+            "Eastern Plaguelands"
+        ]
+    },
+    "Blood Tinged Skies": {
+        "ID": 5543,
+        "QuestLevel": 56,
+        "MinLevel": 52,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Blood Tinged Skies",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -5542,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Western Plaguelands",
+            "Eastern Plaguelands"
+        ]
+    },
+    "Carrion Grubbage": {
+        "ID": 5544,
+        "QuestLevel": 56,
+        "MinLevel": 52,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Carrion Grubbage",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -5542,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Western Plaguelands",
+            "Eastern Plaguelands"
+        ]
+    },
+    "Araj's Scarab (1)": {
+        "ID": 5803,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 1,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Araj's Scarab",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Fire Plume Forged (1)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Scarlet Subterfuge": {
+        "ID": 5862,
+        "QuestLevel": 60,
+        "MinLevel": 52,
+        "QuestInfoID": 1,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Scarlet Subterfuge",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Find Myranda"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "A Plague Upon Thee (2)": {
+        "ID": 5903,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Plague Upon Thee",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "A Plague Upon Thee (4)": {
+        "ID": 5904,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Plague Upon Thee",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Plague Upon Thee (2)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "In Dreams": {
+        "ID": 5944,
+        "QuestLevel": 60,
+        "MinLevel": 52,
+        "QuestInfoID": 1,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "In Dreams",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 8,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Scarlet Subterfuge"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Unfinished Business (1)": {
+        "ID": 6004,
+        "QuestLevel": 56,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Unfinished Business",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Unfinished Business (3)": {
+        "ID": 6023,
+        "QuestLevel": 57,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Unfinished Business",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Unfinished Business (1)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Unfinished Business (4)": {
+        "ID": 6025,
+        "QuestLevel": 58,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Unfinished Business",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Unfinished Business (3)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "The Eastern Plagues": {
+        "ID": 6185,
+        "QuestLevel": 60,
+        "MinLevel": 56,
+        "QuestInfoID": 1,
+        "QuestSortID": 139,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Eastern Plagues",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Flint Shadowmore"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "The Blightcaller Cometh": {
+        "ID": 6186,
+        "QuestLevel": 60,
+        "MinLevel": 56,
+        "QuestInfoID": 1,
+        "QuestSortID": 1519,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Blightcaller Cometh",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Eastern Plagues"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "A Plague Upon Thee (5)": {
+        "ID": 6389,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "A Plague Upon Thee",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Plague Upon Thee (4)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "A Plague Upon Thee (6)": {
+        "ID": 6390,
+        "QuestLevel": 55,
+        "MinLevel": 48,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "A Plague Upon Thee",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Plague Upon Thee (3)"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Emberstrife": {
+        "ID": 6570,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 1,
+        "QuestSortID": 15,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Emberstrife",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Oculus Illusions"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Dispelling Evil": {
+        "ID": 8414,
+        "QuestLevel": 52,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": -141,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Dispelling Evil",
+        "AllowableClasses": [
+            "Paladin"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Chillwind Camp"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Inert Scourgestones": {
+        "ID": 8416,
+        "QuestLevel": 52,
+        "MinLevel": 50,
+        "QuestInfoID": 0,
+        "QuestSortID": -141,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Inert Scourgestones",
+        "AllowableClasses": [
+            "Paladin"
+        ],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Dispelling Evil"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Moonstrike the Elder": {
+        "ID": 8714,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Moonstrike the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Meadowrun the Elder": {
+        "ID": 8722,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Meadowrun the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Tomb of the Lightbringer": {
+        "ID": 9446,
+        "QuestLevel": 58,
+        "MinLevel": 55,
+        "QuestInfoID": 1,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Tomb of the Lightbringer",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Mark of the Lightbringer"
+        ],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "The Mark of the Lightbringer": {
+        "ID": 9474,
+        "QuestLevel": 58,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 28,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "The Mark of the Lightbringer",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Playing with Fire (1)": {
+        "ID": 11882,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Playing with Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Teldrassil",
+            "Darkshore",
+            "Azuremyst Isle",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Westfall",
+            "Redridge Mountains",
+            "Duskwood",
+            "Wetlands",
+            "Hillsbrad Foothills",
+            "The Hinterlands",
+            "Stranglethorn Vale",
+            "Western Plaguelands",
+            "Burning Steppes",
+            "Blasted Lands",
+            "Ashenvale",
+            "Tanaris",
+            "Winterspring",
+            "Dustwallow Marsh",
+            "Hellfire Peninsula",
+            "Zangarmarsh",
+            "Terokkar Forest",
+            "Terokkar Forest",
+            "Nagrand",
+            "Blade's Edge Mountains",
+            "Netherstorm",
+            "Shadowmoon Valley",
+            "Borean Tundra",
+            "The Storm Peaks"
+        ]
+    },
+    "Sharing a Bountiful Feast (1)": {
+        "ID": 14064,
+        "QuestLevel": -1,
+        "MinLevel": 0,
+        "QuestInfoID": 0,
+        "QuestSortID": -375,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Sharing a Bountiful Feast",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Pilgrim's Bounty",
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pilgrim's Bounty (1)"
+        ],
+        "zone": [
+            "Teldrassil",
+            "Teldrassil",
+            "Darkshore",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Redridge Mountains",
+            "Western Plaguelands",
+            "Burning Steppes",
+            "Tanaris",
+            "Winterspring",
+            "Hellfire Peninsula",
+            "Sholazar Basin",
+            "Dragonblight",
+            "Howling Fjord",
+            "Grizzly Hills",
+            "The Storm Peaks"
+        ]
+    },
+    "Desecrate this Fire! (Western Plaguelands - Horde)": {
+        "ID": 11756,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    },
+    "Honor the Flame (Western Plaguelands - Alliance)": {
+        "ID": 11827,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Western Plaguelands"
+        ]
+    }
+}

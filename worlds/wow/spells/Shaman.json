@@ -1,0 +1,2718 @@
+{
+    "Rockbiter Weapon (Rank 1)": {
+        "id": 8017,
+        "spell_icon_id": 688,
+        "money_cost": 10,
+        "Level": 1,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Earth Shock (Rank 1)": {
+        "id": 8042,
+        "spell_icon_id": 687,
+        "money_cost": 100,
+        "Level": 4,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Earthbind Totem": {
+        "id": 2484,
+        "spell_icon_id": 686,
+        "money_cost": 100,
+        "Level": 6,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Wave (Rank 2)": {
+        "id": 332,
+        "spell_icon_id": 13,
+        "money_cost": 100,
+        "Level": 6,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Earth Shock (Rank 2)": {
+        "id": 8044,
+        "spell_icon_id": 687,
+        "money_cost": 100,
+        "Level": 8,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rockbiter Weapon (Rank 2)": {
+        "id": 8018,
+        "spell_icon_id": 688,
+        "money_cost": 100,
+        "Level": 8,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Stoneclaw Totem (Rank 1)": {
+        "id": 5730,
+        "spell_icon_id": 689,
+        "money_cost": 100,
+        "Level": 8,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lightning Bolt (Rank 2)": {
+        "id": 529,
+        "spell_icon_id": 62,
+        "money_cost": 100,
+        "Level": 8,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lightning Shield (Rank 1)": {
+        "id": 324,
+        "spell_icon_id": 19,
+        "money_cost": 100,
+        "Level": 8,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Strength of Earth Totem (Rank 1)": {
+        "id": 8075,
+        "spell_icon_id": 691,
+        "money_cost": 400,
+        "Level": 10,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flame Shock (Rank 1)": {
+        "id": 8050,
+        "spell_icon_id": 678,
+        "money_cost": 400,
+        "Level": 10,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flametongue Weapon (Rank 1)": {
+        "id": 8024,
+        "spell_icon_id": 679,
+        "money_cost": 400,
+        "Level": 10,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ancestral Spirit (Rank 1)": {
+        "id": 2008,
+        "spell_icon_id": 149,
+        "money_cost": 800,
+        "Level": 12,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Nova (Rank 1)": {
+        "id": 1535,
+        "spell_icon_id": 33,
+        "money_cost": 800,
+        "Level": 12,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Wave (Rank 3)": {
+        "id": 547,
+        "spell_icon_id": 13,
+        "money_cost": 800,
+        "Level": 12,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Purge (Rank 1)": {
+        "id": 370,
+        "spell_icon_id": 47,
+        "money_cost": 800,
+        "Level": 12,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Stoneskin Totem (Rank 2)": {
+        "id": 8154,
+        "spell_icon_id": 690,
+        "money_cost": 900,
+        "Level": 14,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Earth Shock (Rank 3)": {
+        "id": 8045,
+        "spell_icon_id": 687,
+        "money_cost": 900,
+        "Level": 14,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lightning Bolt (Rank 3)": {
+        "id": 548,
+        "spell_icon_id": 62,
+        "money_cost": 900,
+        "Level": 14,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Wind Shear": {
+        "id": 57994,
+        "spell_icon_id": 220,
+        "money_cost": 2500,
+        "Level": 16,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rockbiter Weapon (Rank 3)": {
+        "id": 8019,
+        "spell_icon_id": 688,
+        "money_cost": 1800,
+        "Level": 16,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ghost Wolf": {
+        "id": 2645,
+        "spell_icon_id": 67,
+        "money_cost": 2200,
+        "Level": 16,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Cure Toxins": {
+        "id": 526,
+        "spell_icon_id": 194,
+        "money_cost": 1800,
+        "Level": 16,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lightning Shield (Rank 2)": {
+        "id": 325,
+        "spell_icon_id": 19,
+        "money_cost": 1800,
+        "Level": 16,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Tremor Totem": {
+        "id": 8143,
+        "spell_icon_id": 1676,
+        "money_cost": 2000,
+        "Level": 18,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flame Shock (Rank 2)": {
+        "id": 8052,
+        "spell_icon_id": 678,
+        "money_cost": 2000,
+        "Level": 18,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flametongue Weapon (Rank 2)": {
+        "id": 8027,
+        "spell_icon_id": 679,
+        "money_cost": 2000,
+        "Level": 18,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Stoneclaw Totem (Rank 2)": {
+        "id": 6390,
+        "spell_icon_id": 689,
+        "money_cost": 2000,
+        "Level": 18,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Wave (Rank 4)": {
+        "id": 913,
+        "spell_icon_id": 13,
+        "money_cost": 2000,
+        "Level": 18,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Water Shield (Rank 1)": {
+        "id": 52127,
+        "spell_icon_id": 2287,
+        "money_cost": 2200,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Shock (Rank 1)": {
+        "id": 8056,
+        "spell_icon_id": 976,
+        "money_cost": 2200,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frostbrand Weapon (Rank 1)": {
+        "id": 8033,
+        "spell_icon_id": 681,
+        "money_cost": 2200,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lesser Healing Wave (Rank 1)": {
+        "id": 8004,
+        "spell_icon_id": 964,
+        "money_cost": 2200,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Searing Totem (Rank 2)": {
+        "id": 6363,
+        "spell_icon_id": 680,
+        "money_cost": 2200,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lightning Bolt (Rank 4)": {
+        "id": 915,
+        "spell_icon_id": 62,
+        "money_cost": 2200,
+        "Level": 20,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Nova (Rank 2)": {
+        "id": 8498,
+        "spell_icon_id": 33,
+        "money_cost": 3000,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Water Breathing": {
+        "id": 131,
+        "spell_icon_id": 545,
+        "money_cost": 3000,
+        "Level": 22,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Rockbiter Weapon (Rank 4)": {
+        "id": 10399,
+        "spell_icon_id": 688,
+        "money_cost": 3500,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Resistance Totem (Rank 1)": {
+        "id": 8181,
+        "spell_icon_id": 1713,
+        "money_cost": 3500,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Strength of Earth Totem (Rank 2)": {
+        "id": 8160,
+        "spell_icon_id": 691,
+        "money_cost": 3500,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Stoneskin Totem (Rank 3)": {
+        "id": 8155,
+        "spell_icon_id": 690,
+        "money_cost": 3500,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Earth Shock (Rank 4)": {
+        "id": 8046,
+        "spell_icon_id": 687,
+        "money_cost": 3500,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Wave (Rank 5)": {
+        "id": 939,
+        "spell_icon_id": 13,
+        "money_cost": 3500,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lightning Shield (Rank 3)": {
+        "id": 905,
+        "spell_icon_id": 19,
+        "money_cost": 3500,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ancestral Spirit (Rank 2)": {
+        "id": 20609,
+        "spell_icon_id": 149,
+        "money_cost": 3500,
+        "Level": 24,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Magma Totem (Rank 1)": {
+        "id": 8190,
+        "spell_icon_id": 37,
+        "money_cost": 4000,
+        "Level": 26,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flametongue Weapon (Rank 3)": {
+        "id": 8030,
+        "spell_icon_id": 679,
+        "money_cost": 4000,
+        "Level": 26,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mana Spring Totem (Rank 1)": {
+        "id": 5675,
+        "spell_icon_id": 338,
+        "money_cost": 4000,
+        "Level": 26,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lightning Bolt (Rank 5)": {
+        "id": 943,
+        "spell_icon_id": 62,
+        "money_cost": 4000,
+        "Level": 26,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Water Shield (Rank 2)": {
+        "id": 52129,
+        "spell_icon_id": 2287,
+        "money_cost": 6000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flametongue Totem (Rank 1)": {
+        "id": 8227,
+        "spell_icon_id": 72,
+        "money_cost": 6000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Resistance Totem (Rank 1)": {
+        "id": 8184,
+        "spell_icon_id": 1712,
+        "money_cost": 6000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flame Shock (Rank 3)": {
+        "id": 8053,
+        "spell_icon_id": 678,
+        "money_cost": 6000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frostbrand Weapon (Rank 2)": {
+        "id": 8038,
+        "spell_icon_id": 681,
+        "money_cost": 6000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lesser Healing Wave (Rank 2)": {
+        "id": 8008,
+        "spell_icon_id": 964,
+        "money_cost": 6000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Stoneclaw Totem (Rank 3)": {
+        "id": 6391,
+        "spell_icon_id": 689,
+        "money_cost": 6000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Water Walking": {
+        "id": 546,
+        "spell_icon_id": 101,
+        "money_cost": 6000,
+        "Level": 28,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Totemic Recall": {
+        "id": 36936,
+        "spell_icon_id": 3994,
+        "money_cost": 7000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Earthliving Weapon (Rank 1)": {
+        "id": 51730,
+        "spell_icon_id": 3061,
+        "money_cost": 7000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Nature Resistance Totem (Rank 1)": {
+        "id": 10595,
+        "spell_icon_id": 1675,
+        "money_cost": 7000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Windfury Weapon (Rank 1)": {
+        "id": 8232,
+        "spell_icon_id": 220,
+        "money_cost": 7000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Grounding Totem": {
+        "id": 8177,
+        "spell_icon_id": 1677,
+        "money_cost": 7000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Stream Totem (Rank 2)": {
+        "id": 6375,
+        "spell_icon_id": 1647,
+        "money_cost": 7000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Searing Totem (Rank 3)": {
+        "id": 6364,
+        "spell_icon_id": 680,
+        "money_cost": 7000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Astral Recall": {
+        "id": 556,
+        "spell_icon_id": 458,
+        "money_cost": 7000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Reincarnation": {
+        "id": 20608,
+        "spell_icon_id": 24,
+        "money_cost": 7000,
+        "Level": 30,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Windfury Totem": {
+        "id": 8512,
+        "spell_icon_id": 1397,
+        "money_cost": 8000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Nova (Rank 3)": {
+        "id": 8499,
+        "spell_icon_id": 33,
+        "money_cost": 8000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Purge (Rank 2)": {
+        "id": 8012,
+        "spell_icon_id": 47,
+        "money_cost": 8000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lightning Bolt (Rank 6)": {
+        "id": 6041,
+        "spell_icon_id": 62,
+        "money_cost": 8000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Wave (Rank 6)": {
+        "id": 959,
+        "spell_icon_id": 13,
+        "money_cost": 8000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lightning Shield (Rank 4)": {
+        "id": 945,
+        "spell_icon_id": 19,
+        "money_cost": 8000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Chain Lightning (Rank 1)": {
+        "id": 421,
+        "spell_icon_id": 165,
+        "money_cost": 8000,
+        "Level": 32,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Water Shield (Rank 3)": {
+        "id": 52131,
+        "spell_icon_id": 2287,
+        "money_cost": 9000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Stoneskin Totem (Rank 4)": {
+        "id": 10406,
+        "spell_icon_id": 690,
+        "money_cost": 9000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Shock (Rank 2)": {
+        "id": 8058,
+        "spell_icon_id": 976,
+        "money_cost": 9000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Sentry Totem": {
+        "id": 6495,
+        "spell_icon_id": 195,
+        "money_cost": 9000,
+        "Level": 34,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flametongue Weapon (Rank 4)": {
+        "id": 16339,
+        "spell_icon_id": 679,
+        "money_cost": 10000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Magma Totem (Rank 2)": {
+        "id": 10585,
+        "spell_icon_id": 37,
+        "money_cost": 10000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mana Spring Totem (Rank 2)": {
+        "id": 10495,
+        "spell_icon_id": 338,
+        "money_cost": 10000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Earth Shock (Rank 5)": {
+        "id": 10412,
+        "spell_icon_id": 687,
+        "money_cost": 10000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lesser Healing Wave (Rank 3)": {
+        "id": 8010,
+        "spell_icon_id": 964,
+        "money_cost": 10000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ancestral Spirit (Rank 3)": {
+        "id": 20610,
+        "spell_icon_id": 149,
+        "money_cost": 10000,
+        "Level": 36,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Resistance Totem (Rank 2)": {
+        "id": 10478,
+        "spell_icon_id": 1713,
+        "money_cost": 11000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frostbrand Weapon (Rank 3)": {
+        "id": 10456,
+        "spell_icon_id": 681,
+        "money_cost": 11000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lightning Bolt (Rank 7)": {
+        "id": 10391,
+        "spell_icon_id": 62,
+        "money_cost": 11000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flametongue Totem (Rank 2)": {
+        "id": 8249,
+        "spell_icon_id": 72,
+        "money_cost": 11000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Cleansing Totem": {
+        "id": 8170,
+        "spell_icon_id": 1673,
+        "money_cost": 11000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Strength of Earth Totem (Rank 3)": {
+        "id": 8161,
+        "spell_icon_id": 691,
+        "money_cost": 11000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Stoneclaw Totem (Rank 4)": {
+        "id": 6392,
+        "spell_icon_id": 689,
+        "money_cost": 11000,
+        "Level": 38,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Earthliving Weapon (Rank 2)": {
+        "id": 51988,
+        "spell_icon_id": 3061,
+        "money_cost": 12000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flame Shock (Rank 4)": {
+        "id": 10447,
+        "spell_icon_id": 678,
+        "money_cost": 12000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Windfury Weapon (Rank 2)": {
+        "id": 8235,
+        "spell_icon_id": 220,
+        "money_cost": 12000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lightning Shield (Rank 5)": {
+        "id": 8134,
+        "spell_icon_id": 19,
+        "money_cost": 12000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Wave (Rank 7)": {
+        "id": 8005,
+        "spell_icon_id": 13,
+        "money_cost": 12000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Stream Totem (Rank 3)": {
+        "id": 6377,
+        "spell_icon_id": 1647,
+        "money_cost": 12000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Searing Totem (Rank 4)": {
+        "id": 6365,
+        "spell_icon_id": 680,
+        "money_cost": 12000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Chain Heal (Rank 1)": {
+        "id": 1064,
+        "spell_icon_id": 963,
+        "money_cost": 12000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Chain Lightning (Rank 2)": {
+        "id": 930,
+        "spell_icon_id": 165,
+        "money_cost": 12000,
+        "Level": 40,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Water Shield (Rank 4)": {
+        "id": 52134,
+        "spell_icon_id": 2287,
+        "money_cost": 12000,
+        "Level": 41,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Nova (Rank 4)": {
+        "id": 11314,
+        "spell_icon_id": 33,
+        "money_cost": 16000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Resistance Totem (Rank 2)": {
+        "id": 10537,
+        "spell_icon_id": 1712,
+        "money_cost": 16000,
+        "Level": 42,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Nature Resistance Totem (Rank 2)": {
+        "id": 10600,
+        "spell_icon_id": 1675,
+        "money_cost": 18000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lesser Healing Wave (Rank 4)": {
+        "id": 10466,
+        "spell_icon_id": 964,
+        "money_cost": 18000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Stoneskin Totem (Rank 5)": {
+        "id": 10407,
+        "spell_icon_id": 690,
+        "money_cost": 18000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lightning Bolt (Rank 8)": {
+        "id": 10392,
+        "spell_icon_id": 62,
+        "money_cost": 18000,
+        "Level": 44,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flametongue Weapon (Rank 5)": {
+        "id": 16341,
+        "spell_icon_id": 679,
+        "money_cost": 20000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Chain Heal (Rank 2)": {
+        "id": 10622,
+        "spell_icon_id": 963,
+        "money_cost": 20000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Magma Totem (Rank 3)": {
+        "id": 10586,
+        "spell_icon_id": 37,
+        "money_cost": 20000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mana Spring Totem (Rank 3)": {
+        "id": 10496,
+        "spell_icon_id": 338,
+        "money_cost": 20000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Shock (Rank 3)": {
+        "id": 10472,
+        "spell_icon_id": 976,
+        "money_cost": 20000,
+        "Level": 46,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frostbrand Weapon (Rank 4)": {
+        "id": 16355,
+        "spell_icon_id": 681,
+        "money_cost": 22000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Water Shield (Rank 5)": {
+        "id": 52136,
+        "spell_icon_id": 2287,
+        "money_cost": 22000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flametongue Totem (Rank 3)": {
+        "id": 10526,
+        "spell_icon_id": 72,
+        "money_cost": 22000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lightning Shield (Rank 6)": {
+        "id": 10431,
+        "spell_icon_id": 19,
+        "money_cost": 22000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Stoneclaw Totem (Rank 5)": {
+        "id": 10427,
+        "spell_icon_id": 689,
+        "money_cost": 22000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Earth Shock (Rank 6)": {
+        "id": 10413,
+        "spell_icon_id": 687,
+        "money_cost": 22000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Wave (Rank 8)": {
+        "id": 10395,
+        "spell_icon_id": 13,
+        "money_cost": 22000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Chain Lightning (Rank 3)": {
+        "id": 2860,
+        "spell_icon_id": 165,
+        "money_cost": 22000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ancestral Spirit (Rank 4)": {
+        "id": 20776,
+        "spell_icon_id": 149,
+        "money_cost": 22000,
+        "Level": 48,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lightning Bolt (Rank 9)": {
+        "id": 15207,
+        "spell_icon_id": 62,
+        "money_cost": 24000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Earthliving Weapon (Rank 3)": {
+        "id": 51991,
+        "spell_icon_id": 3061,
+        "money_cost": 24000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Windfury Weapon (Rank 3)": {
+        "id": 10486,
+        "spell_icon_id": 220,
+        "money_cost": 24000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Stream Totem (Rank 4)": {
+        "id": 10462,
+        "spell_icon_id": 1647,
+        "money_cost": 24000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Searing Totem (Rank 5)": {
+        "id": 10437,
+        "spell_icon_id": 680,
+        "money_cost": 24000,
+        "Level": 50,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Nova (Rank 5)": {
+        "id": 11315,
+        "spell_icon_id": 33,
+        "money_cost": 27000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lesser Healing Wave (Rank 5)": {
+        "id": 10467,
+        "spell_icon_id": 964,
+        "money_cost": 27000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flame Shock (Rank 5)": {
+        "id": 10448,
+        "spell_icon_id": 678,
+        "money_cost": 27000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Strength of Earth Totem (Rank 4)": {
+        "id": 10442,
+        "spell_icon_id": 691,
+        "money_cost": 27000,
+        "Level": 52,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Chain Heal (Rank 3)": {
+        "id": 10623,
+        "spell_icon_id": 963,
+        "money_cost": 29000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Resistance Totem (Rank 3)": {
+        "id": 10479,
+        "spell_icon_id": 1713,
+        "money_cost": 29000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Stoneskin Totem (Rank 6)": {
+        "id": 10408,
+        "spell_icon_id": 690,
+        "money_cost": 29000,
+        "Level": 54,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Water Shield (Rank 6)": {
+        "id": 52138,
+        "spell_icon_id": 2287,
+        "money_cost": 29000,
+        "Level": 55,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flametongue Weapon (Rank 6)": {
+        "id": 16342,
+        "spell_icon_id": 679,
+        "money_cost": 30000,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lightning Bolt (Rank 10)": {
+        "id": 15208,
+        "spell_icon_id": 62,
+        "money_cost": 30000,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Chain Lightning (Rank 4)": {
+        "id": 10605,
+        "spell_icon_id": 165,
+        "money_cost": 30000,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Magma Totem (Rank 4)": {
+        "id": 10587,
+        "spell_icon_id": 37,
+        "money_cost": 30000,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mana Spring Totem (Rank 4)": {
+        "id": 10497,
+        "spell_icon_id": 338,
+        "money_cost": 30000,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lightning Shield (Rank 7)": {
+        "id": 10432,
+        "spell_icon_id": 19,
+        "money_cost": 30000,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Wave (Rank 9)": {
+        "id": 10396,
+        "spell_icon_id": 13,
+        "money_cost": 30000,
+        "Level": 56,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flametongue Totem (Rank 4)": {
+        "id": 16387,
+        "spell_icon_id": 72,
+        "money_cost": 32000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frostbrand Weapon (Rank 5)": {
+        "id": 16356,
+        "spell_icon_id": 681,
+        "money_cost": 32000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Resistance Totem (Rank 3)": {
+        "id": 10538,
+        "spell_icon_id": 1712,
+        "money_cost": 32000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Shock (Rank 4)": {
+        "id": 10473,
+        "spell_icon_id": 976,
+        "money_cost": 32000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Stoneclaw Totem (Rank 6)": {
+        "id": 10428,
+        "spell_icon_id": 689,
+        "money_cost": 32000,
+        "Level": 58,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Windfury Weapon (Rank 4)": {
+        "id": 16362,
+        "spell_icon_id": 220,
+        "money_cost": 34000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flame Shock (Rank 6)": {
+        "id": 29228,
+        "spell_icon_id": 678,
+        "money_cost": 65000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Strength of Earth Totem (Rank 5)": {
+        "id": 25361,
+        "spell_icon_id": 691,
+        "money_cost": 34000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Wave (Rank 10)": {
+        "id": 25357,
+        "spell_icon_id": 13,
+        "money_cost": 6500,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Totem of Wrath (Rank 2)": {
+        "id": 57720,
+        "spell_icon_id": 2019,
+        "money_cost": 3400,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Earth Shield (Rank 2)": {
+        "id": 32593,
+        "spell_icon_id": 2015,
+        "money_cost": 1700,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Earthliving Weapon (Rank 4)": {
+        "id": 51992,
+        "spell_icon_id": 3061,
+        "money_cost": 34000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Nature Resistance Totem (Rank 3)": {
+        "id": 10601,
+        "spell_icon_id": 1675,
+        "money_cost": 34000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lesser Healing Wave (Rank 6)": {
+        "id": 10468,
+        "spell_icon_id": 964,
+        "money_cost": 34000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Stream Totem (Rank 5)": {
+        "id": 10463,
+        "spell_icon_id": 1647,
+        "money_cost": 34000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Searing Totem (Rank 6)": {
+        "id": 10438,
+        "spell_icon_id": 680,
+        "money_cost": 34000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Earth Shock (Rank 7)": {
+        "id": 10414,
+        "spell_icon_id": 687,
+        "money_cost": 34000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ancestral Spirit (Rank 5)": {
+        "id": 20777,
+        "spell_icon_id": 149,
+        "money_cost": 34000,
+        "Level": 60,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Nova (Rank 6)": {
+        "id": 25546,
+        "spell_icon_id": 33,
+        "money_cost": 34000,
+        "Level": 61,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Chain Heal (Rank 4)": {
+        "id": 25422,
+        "spell_icon_id": 963,
+        "money_cost": 34000,
+        "Level": 61,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lightning Bolt (Rank 11)": {
+        "id": 25448,
+        "spell_icon_id": 62,
+        "money_cost": 38000,
+        "Level": 62,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Water Shield (Rank 7)": {
+        "id": 24398,
+        "spell_icon_id": 2287,
+        "money_cost": 38000,
+        "Level": 62,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Stoneskin Totem (Rank 7)": {
+        "id": 25508,
+        "spell_icon_id": 690,
+        "money_cost": 42000,
+        "Level": 63,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lightning Shield (Rank 8)": {
+        "id": 25469,
+        "spell_icon_id": 19,
+        "money_cost": 42000,
+        "Level": 63,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Chain Lightning (Rank 5)": {
+        "id": 25439,
+        "spell_icon_id": 165,
+        "money_cost": 42000,
+        "Level": 63,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Wave (Rank 11)": {
+        "id": 25391,
+        "spell_icon_id": 13,
+        "money_cost": 42000,
+        "Level": 63,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flametongue Weapon (Rank 7)": {
+        "id": 25489,
+        "spell_icon_id": 679,
+        "money_cost": 47000,
+        "Level": 64,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Wrath of Air Totem": {
+        "id": 3738,
+        "spell_icon_id": 340,
+        "money_cost": 47000,
+        "Level": 64,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mana Spring Totem (Rank 5)": {
+        "id": 25570,
+        "spell_icon_id": 338,
+        "money_cost": 52000,
+        "Level": 65,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Magma Totem (Rank 5)": {
+        "id": 25552,
+        "spell_icon_id": 37,
+        "money_cost": 52000,
+        "Level": 65,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Strength of Earth Totem (Rank 6)": {
+        "id": 25528,
+        "spell_icon_id": 691,
+        "money_cost": 52000,
+        "Level": 65,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frostbrand Weapon (Rank 6)": {
+        "id": 25500,
+        "spell_icon_id": 681,
+        "money_cost": 58000,
+        "Level": 66,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lesser Healing Wave (Rank 7)": {
+        "id": 25420,
+        "spell_icon_id": 964,
+        "money_cost": 58000,
+        "Level": 66,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Earth Elemental Totem": {
+        "id": 2062,
+        "spell_icon_id": 2289,
+        "money_cost": 58000,
+        "Level": 66,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Resistance Totem (Rank 4)": {
+        "id": 25560,
+        "spell_icon_id": 1713,
+        "money_cost": 64000,
+        "Level": 67,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flametongue Totem (Rank 5)": {
+        "id": 25557,
+        "spell_icon_id": 72,
+        "money_cost": 64000,
+        "Level": 67,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Stoneclaw Totem (Rank 7)": {
+        "id": 25525,
+        "spell_icon_id": 689,
+        "money_cost": 64000,
+        "Level": 67,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lightning Bolt (Rank 12)": {
+        "id": 25449,
+        "spell_icon_id": 62,
+        "money_cost": 64000,
+        "Level": 67,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Resistance Totem (Rank 4)": {
+        "id": 25563,
+        "spell_icon_id": 1712,
+        "money_cost": 71000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Windfury Weapon (Rank 5)": {
+        "id": 25505,
+        "spell_icon_id": 220,
+        "money_cost": 71000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Shock (Rank 5)": {
+        "id": 25464,
+        "spell_icon_id": 976,
+        "money_cost": 71000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Chain Heal (Rank 5)": {
+        "id": 25423,
+        "spell_icon_id": 963,
+        "money_cost": 71000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Elemental Totem": {
+        "id": 2894,
+        "spell_icon_id": 2290,
+        "money_cost": 71000,
+        "Level": 68,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ancestral Spirit (Rank 6)": {
+        "id": 25590,
+        "spell_icon_id": 149,
+        "money_cost": 79000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Nature Resistance Totem (Rank 4)": {
+        "id": 25574,
+        "spell_icon_id": 1675,
+        "money_cost": 79000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Stream Totem (Rank 6)": {
+        "id": 25567,
+        "spell_icon_id": 1647,
+        "money_cost": 79000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Searing Totem (Rank 7)": {
+        "id": 25533,
+        "spell_icon_id": 680,
+        "money_cost": 79000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Earth Shock (Rank 8)": {
+        "id": 25454,
+        "spell_icon_id": 687,
+        "money_cost": 79000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Water Shield (Rank 8)": {
+        "id": 33736,
+        "spell_icon_id": 2287,
+        "money_cost": 79000,
+        "Level": 69,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Nova (Rank 7)": {
+        "id": 25547,
+        "spell_icon_id": 33,
+        "money_cost": 88000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Stoneskin Totem (Rank 8)": {
+        "id": 25509,
+        "spell_icon_id": 690,
+        "money_cost": 88000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lightning Shield (Rank 9)": {
+        "id": 25472,
+        "spell_icon_id": 19,
+        "money_cost": 88000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flame Shock (Rank 7)": {
+        "id": 25457,
+        "spell_icon_id": 678,
+        "money_cost": 88000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Chain Lightning (Rank 6)": {
+        "id": 25442,
+        "spell_icon_id": 165,
+        "money_cost": 88000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Wave (Rank 12)": {
+        "id": 25396,
+        "spell_icon_id": 13,
+        "money_cost": 88000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Riptide (Rank 2)": {
+        "id": 61299,
+        "spell_icon_id": 3786,
+        "money_cost": 9000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Thunderstorm (Rank 2)": {
+        "id": 59156,
+        "spell_icon_id": 3080,
+        "money_cost": 88000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Totem of Wrath (Rank 3)": {
+        "id": 57721,
+        "spell_icon_id": 2019,
+        "money_cost": 5200,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Earth Shield (Rank 3)": {
+        "id": 32594,
+        "spell_icon_id": 2015,
+        "money_cost": 5000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Heroism": {
+        "id": 32182,
+        "spell_icon_id": 2288,
+        "money_cost": 88000,
+        "Level": 70,
+        "AllowableRaces": [
+            "Draenei"
+        ],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Earthliving Weapon (Rank 5)": {
+        "id": 51993,
+        "spell_icon_id": 3061,
+        "money_cost": 71000,
+        "Level": 70,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Bloodlust": {
+        "id": 2825,
+        "spell_icon_id": 38,
+        "money_cost": 88000,
+        "Level": 70,
+        "AllowableRaces": [
+            "Orc",
+            "Tauren",
+            "Troll"
+        ],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Windfury Weapon (Rank 6)": {
+        "id": 58801,
+        "spell_icon_id": 220,
+        "money_cost": 180000,
+        "Level": 71,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frostbrand Weapon (Rank 7)": {
+        "id": 58794,
+        "spell_icon_id": 681,
+        "money_cost": 180000,
+        "Level": 71,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flametongue Weapon (Rank 8)": {
+        "id": 58785,
+        "spell_icon_id": 679,
+        "money_cost": 180000,
+        "Level": 71,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mana Spring Totem (Rank 6)": {
+        "id": 58771,
+        "spell_icon_id": 338,
+        "money_cost": 180000,
+        "Level": 71,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Stream Totem (Rank 7)": {
+        "id": 58755,
+        "spell_icon_id": 1647,
+        "money_cost": 180000,
+        "Level": 71,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Searing Totem (Rank 8)": {
+        "id": 58699,
+        "spell_icon_id": 680,
+        "money_cost": 180000,
+        "Level": 71,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flametongue Totem (Rank 6)": {
+        "id": 58649,
+        "spell_icon_id": 72,
+        "money_cost": 180000,
+        "Level": 71,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Stoneclaw Totem (Rank 8)": {
+        "id": 58580,
+        "spell_icon_id": 689,
+        "money_cost": 180000,
+        "Level": 71,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lesser Healing Wave (Rank 8)": {
+        "id": 49275,
+        "spell_icon_id": 964,
+        "money_cost": 180000,
+        "Level": 72,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Stoneskin Totem (Rank 9)": {
+        "id": 58751,
+        "spell_icon_id": 690,
+        "money_cost": 180000,
+        "Level": 73,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Magma Totem (Rank 6)": {
+        "id": 58731,
+        "spell_icon_id": 37,
+        "money_cost": 180000,
+        "Level": 73,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lightning Bolt (Rank 13)": {
+        "id": 49237,
+        "spell_icon_id": 62,
+        "money_cost": 180000,
+        "Level": 73,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Shock (Rank 6)": {
+        "id": 49235,
+        "spell_icon_id": 976,
+        "money_cost": 180000,
+        "Level": 73,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Chain Heal (Rank 6)": {
+        "id": 55458,
+        "spell_icon_id": 963,
+        "money_cost": 180000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Chain Lightning (Rank 7)": {
+        "id": 49270,
+        "spell_icon_id": 165,
+        "money_cost": 180000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Earth Shock (Rank 9)": {
+        "id": 49230,
+        "spell_icon_id": 687,
+        "money_cost": 180000,
+        "Level": 74,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Riptide (Rank 3)": {
+        "id": 61300,
+        "spell_icon_id": 3786,
+        "money_cost": 9000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Thunderstorm (Rank 3)": {
+        "id": 59158,
+        "spell_icon_id": 3080,
+        "money_cost": 180000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Nature Resistance Totem (Rank 5)": {
+        "id": 58746,
+        "spell_icon_id": 1675,
+        "money_cost": 180000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Resistance Totem (Rank 5)": {
+        "id": 58741,
+        "spell_icon_id": 1713,
+        "money_cost": 180000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Resistance Totem (Rank 5)": {
+        "id": 58737,
+        "spell_icon_id": 1712,
+        "money_cost": 180000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Searing Totem (Rank 9)": {
+        "id": 58703,
+        "spell_icon_id": 680,
+        "money_cost": 180000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flametongue Totem (Rank 7)": {
+        "id": 58652,
+        "spell_icon_id": 72,
+        "money_cost": 180000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Stoneclaw Totem (Rank 9)": {
+        "id": 58581,
+        "spell_icon_id": 689,
+        "money_cost": 180000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Strength of Earth Totem (Rank 7)": {
+        "id": 57622,
+        "spell_icon_id": 691,
+        "money_cost": 180000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lava Burst (Rank 1)": {
+        "id": 51505,
+        "spell_icon_id": 3064,
+        "money_cost": 180000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Earth Shield (Rank 4)": {
+        "id": 49283,
+        "spell_icon_id": 2015,
+        "money_cost": 9000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lightning Shield (Rank 10)": {
+        "id": 49280,
+        "spell_icon_id": 19,
+        "money_cost": 180000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Wave (Rank 13)": {
+        "id": 49272,
+        "spell_icon_id": 13,
+        "money_cost": 180000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flame Shock (Rank 8)": {
+        "id": 49232,
+        "spell_icon_id": 678,
+        "money_cost": 180000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Nova (Rank 8)": {
+        "id": 61649,
+        "spell_icon_id": 33,
+        "money_cost": 180000,
+        "Level": 75,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Windfury Weapon (Rank 7)": {
+        "id": 58803,
+        "spell_icon_id": 220,
+        "money_cost": 180000,
+        "Level": 76,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frostbrand Weapon (Rank 8)": {
+        "id": 58795,
+        "spell_icon_id": 681,
+        "money_cost": 180000,
+        "Level": 76,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flametongue Weapon (Rank 9)": {
+        "id": 58789,
+        "spell_icon_id": 679,
+        "money_cost": 180000,
+        "Level": 76,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mana Spring Totem (Rank 7)": {
+        "id": 58773,
+        "spell_icon_id": 338,
+        "money_cost": 180000,
+        "Level": 76,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Stream Totem (Rank 8)": {
+        "id": 58756,
+        "spell_icon_id": 1647,
+        "money_cost": 180000,
+        "Level": 76,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Water Shield (Rank 9)": {
+        "id": 57960,
+        "spell_icon_id": 2287,
+        "money_cost": 180000,
+        "Level": 76,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lesser Healing Wave (Rank 9)": {
+        "id": 49276,
+        "spell_icon_id": 964,
+        "money_cost": 180000,
+        "Level": 77,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Stoneskin Totem (Rank 10)": {
+        "id": 58753,
+        "spell_icon_id": 690,
+        "money_cost": 180000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Magma Totem (Rank 7)": {
+        "id": 58734,
+        "spell_icon_id": 37,
+        "money_cost": 180000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Stoneclaw Totem (Rank 10)": {
+        "id": 58582,
+        "spell_icon_id": 689,
+        "money_cost": 180000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Shock (Rank 7)": {
+        "id": 49236,
+        "spell_icon_id": 976,
+        "money_cost": 180000,
+        "Level": 78,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lightning Bolt (Rank 14)": {
+        "id": 49238,
+        "spell_icon_id": 62,
+        "money_cost": 180000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Earth Shock (Rank 10)": {
+        "id": 49231,
+        "spell_icon_id": 687,
+        "money_cost": 180000,
+        "Level": 79,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Riptide (Rank 4)": {
+        "id": 61301,
+        "spell_icon_id": 3786,
+        "money_cost": 9000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Chain Heal (Rank 7)": {
+        "id": 55459,
+        "spell_icon_id": 963,
+        "money_cost": 180000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lava Burst (Rank 2)": {
+        "id": 60043,
+        "spell_icon_id": 3064,
+        "money_cost": 180000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Thunderstorm (Rank 4)": {
+        "id": 59159,
+        "spell_icon_id": 3080,
+        "money_cost": 180000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Windfury Weapon (Rank 8)": {
+        "id": 58804,
+        "spell_icon_id": 220,
+        "money_cost": 180000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frostbrand Weapon (Rank 9)": {
+        "id": 58796,
+        "spell_icon_id": 681,
+        "money_cost": 180000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flametongue Weapon (Rank 10)": {
+        "id": 58790,
+        "spell_icon_id": 679,
+        "money_cost": 180000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Mana Spring Totem (Rank 8)": {
+        "id": 58774,
+        "spell_icon_id": 338,
+        "money_cost": 180000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Stream Totem (Rank 9)": {
+        "id": 58757,
+        "spell_icon_id": 1647,
+        "money_cost": 180000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Nature Resistance Totem (Rank 6)": {
+        "id": 58749,
+        "spell_icon_id": 1675,
+        "money_cost": 180000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Frost Resistance Totem (Rank 6)": {
+        "id": 58745,
+        "spell_icon_id": 1713,
+        "money_cost": 180000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Resistance Totem (Rank 6)": {
+        "id": 58739,
+        "spell_icon_id": 1712,
+        "money_cost": 180000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Searing Totem (Rank 10)": {
+        "id": 58704,
+        "spell_icon_id": 680,
+        "money_cost": 180000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flametongue Totem (Rank 8)": {
+        "id": 58656,
+        "spell_icon_id": 72,
+        "money_cost": 180000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Strength of Earth Totem (Rank 8)": {
+        "id": 58643,
+        "spell_icon_id": 691,
+        "money_cost": 180000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Totem of Wrath (Rank 4)": {
+        "id": 57722,
+        "spell_icon_id": 2019,
+        "money_cost": 10000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Earthliving Weapon (Rank 6)": {
+        "id": 51994,
+        "spell_icon_id": 3061,
+        "money_cost": 180000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Hex": {
+        "id": 51514,
+        "spell_icon_id": 3058,
+        "money_cost": 180000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Earth Shield (Rank 5)": {
+        "id": 49284,
+        "spell_icon_id": 2015,
+        "money_cost": 9000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Lightning Shield (Rank 11)": {
+        "id": 49281,
+        "spell_icon_id": 19,
+        "money_cost": 180000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Ancestral Spirit (Rank 7)": {
+        "id": 49277,
+        "spell_icon_id": 149,
+        "money_cost": 180000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Healing Wave (Rank 14)": {
+        "id": 49273,
+        "spell_icon_id": 13,
+        "money_cost": 180000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Chain Lightning (Rank 8)": {
+        "id": 49271,
+        "spell_icon_id": 165,
+        "money_cost": 180000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Flame Shock (Rank 9)": {
+        "id": 49233,
+        "spell_icon_id": 678,
+        "money_cost": 180000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    },
+    "Fire Nova (Rank 9)": {
+        "id": 61657,
+        "spell_icon_id": 33,
+        "money_cost": 180000,
+        "Level": 80,
+        "AllowableRaces": [],
+        "acquire_method": 1,
+        "family": null,
+        "important": false
+    }
+}

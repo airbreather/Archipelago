@@ -1,0 +1,2665 @@
+{
+    "Playing with Fire (2)": {
+        "ID": 11915,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -369,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Playing with Fire",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Silverpine Forest",
+            "Eversong Woods",
+            "Ghostlands",
+            "Hillsbrad Foothills",
+            "Swamp of Sorrows",
+            "Stranglethorn Vale",
+            "Stonetalon Mountains",
+            "Ashenvale",
+            "Thousand Needles",
+            "Desolace",
+            "Tanaris",
+            "Feralas",
+            "Winterspring",
+            "Hellfire Peninsula",
+            "Zangarmarsh",
+            "Terokkar Forest",
+            "Terokkar Forest",
+            "Nagrand",
+            "Blade's Edge Mountains",
+            "Netherstorm",
+            "Shadowmoon Valley",
+            "Sholazar Basin"
+        ]
+    },
+    "Welcome to Sholazar Basin": {
+        "ID": 12489,
+        "QuestLevel": 76,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Welcome to Sholazar Basin",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Where in the World is Hemet Nesingwary?"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Rhino Mastery: The Test": {
+        "ID": 12520,
+        "QuestLevel": 76,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Rhino Mastery: The Test",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Wipe That Grin Off His Face"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Need an Engine, Take an Engine": {
+        "ID": 12522,
+        "QuestLevel": 76,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Need an Engine, Take an Engine",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Have a Part, Give a Part": {
+        "ID": 12523,
+        "QuestLevel": 76,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Have a Part, Give a Part",
+        "AllowableClasses": [],
+        "RewardSpell": 64090,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Need an Engine, Take an Engine"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Venture Co. Misadventure": {
+        "ID": 12524,
+        "QuestLevel": 76,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Venture Co. Misadventure",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Wipe That Grin Off His Face": {
+        "ID": 12525,
+        "QuestLevel": 76,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Wipe That Grin Off His Face",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Venture Co. Misadventure"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Rhino Mastery: The Chase": {
+        "ID": 12526,
+        "QuestLevel": 76,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Rhino Mastery: The Chase",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Rhino Mastery: The Test"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Playing Along": {
+        "ID": 12528,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Playing Along",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "The Ape Hunter's Slave": {
+        "ID": 12529,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Ape Hunter's Slave",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12529,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Playing Along"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "The Underground Menace": {
+        "ID": 12531,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Underground Menace",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12535,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Flown the Coop!"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Flown the Coop!": {
+        "ID": 12532,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Flown the Coop!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "The Wasp Hunter's Apprentice": {
+        "ID": 12533,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Wasp Hunter's Apprentice",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12533,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Ape Hunter's Slave",
+            "Tormenting the Softknuckles"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "The Sapphire Queen": {
+        "ID": 12534,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Sapphire Queen",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12533,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Ape Hunter's Slave",
+            "Tormenting the Softknuckles"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Mischief in the Making": {
+        "ID": 12535,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Mischief in the Making",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12535,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Flown the Coop!"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "A Rough Ride": {
+        "ID": 12536,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Rough Ride",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Just Following Orders": {
+        "ID": 12540,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Just Following Orders",
+        "AllowableClasses": [],
+        "RewardSpell": 51447,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Hoofing It"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "An Offering for Soo-rahm": {
+        "ID": 12543,
+        "QuestLevel": 76,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "An Offering for Soo-rahm",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Rhino Mastery: The Chase"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "The Bones of Nozronn": {
+        "ID": 12544,
+        "QuestLevel": 76,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Bones of Nozronn",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "An Offering for Soo-rahm"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Reclamation": {
+        "ID": 12546,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Reclamation",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Back Through the Waygate"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "The Etymidian": {
+        "ID": 12548,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Etymidian",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Powering the Waygate - The Maker's Overlook"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Dreadsaber Mastery: Becoming a Predator": {
+        "ID": 12549,
+        "QuestLevel": 76,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Dreadsaber Mastery: Becoming a Predator",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Wipe That Grin Off His Face"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Dreadsaber Mastery: Stalking the Prey": {
+        "ID": 12550,
+        "QuestLevel": 76,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Dreadsaber Mastery: Stalking the Prey",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Dreadsaber Mastery: Becoming a Predator"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Crocolisk Mastery: The Trial": {
+        "ID": 12551,
+        "QuestLevel": 76,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Crocolisk Mastery: The Trial",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Rhino Mastery: The Test"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Rhino Mastery: The Kill": {
+        "ID": 12556,
+        "QuestLevel": 76,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Rhino Mastery: The Kill",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12556,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Bones of Nozronn"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Dreadsaber Mastery: Ready to Pounce": {
+        "ID": 12558,
+        "QuestLevel": 76,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Dreadsaber Mastery: Ready to Pounce",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12556,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Dreadsaber Mastery: Stalking the Prey"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Powering the Waygate - The Maker's Perch": {
+        "ID": 12559,
+        "QuestLevel": 77,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Powering the Waygate - The Maker's Perch",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Freya's Pact"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Crocolisk Mastery: The Plan": {
+        "ID": 12560,
+        "QuestLevel": 76,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Crocolisk Mastery: The Plan",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Crocolisk Mastery: The Trial"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "An Issue of Trust": {
+        "ID": 12561,
+        "QuestLevel": 77,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "An Issue of Trust",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Force of Nature"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Crocolisk Mastery: The Ambush": {
+        "ID": 12569,
+        "QuestLevel": 76,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Crocolisk Mastery: The Ambush",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12556,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Crocolisk Mastery: The Plan"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Fortunate Misunderstandings": {
+        "ID": 12570,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Fortunate Misunderstandings",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Just Following Orders"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Make the Bad Snake Go Away": {
+        "ID": 12571,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Make the Bad Snake Go Away",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12571,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Fortunate Misunderstandings"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Making Peace": {
+        "ID": 12573,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Making Peace",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Back So Soon?": {
+        "ID": 12574,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Back So Soon?",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Making Peace"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "The Lost Mistwhisper Treasure": {
+        "ID": 12575,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Lost Mistwhisper Treasure",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12576,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Back So Soon?"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Forced Hand": {
+        "ID": 12576,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Forced Hand",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12576,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Back So Soon?"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Home Time!": {
+        "ID": 12577,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Home Time!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "The Angry Gorloc": {
+        "ID": 12578,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Angry Gorloc",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Home Time!"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Lifeblood of the Mosswalker Shrine": {
+        "ID": 12579,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Lifeblood of the Mosswalker Shrine",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12580,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Angry Gorloc"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "The Mosswalker Savior": {
+        "ID": 12580,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Mosswalker Savior",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12580,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Angry Gorloc"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "A Hero's Burden": {
+        "ID": 12581,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 1,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Hero's Burden",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Lifeblood of the Mosswalker Shrine",
+            "The Mosswalker Savior"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Kick, What Kick?": {
+        "ID": 12589,
+        "QuestLevel": 76,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Kick, What Kick?",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Wipe That Grin Off His Face"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "The Great Hunter's Challenge": {
+        "ID": 12592,
+        "QuestLevel": 76,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Great Hunter's Challenge",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Kick, What Kick?"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "In Search of Bigger Game (2)": {
+        "ID": 12595,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "In Search of Bigger Game",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Rhino Mastery: The Kill",
+            "Dreadsaber Mastery: Ready to Pounce",
+            "Crocolisk Mastery: The Ambush"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Sharpening Your Talons": {
+        "ID": 12603,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Sharpening Your Talons",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12603,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "In Search of Bigger Game (2)"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Securing the Bait": {
+        "ID": 12605,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Securing the Bait",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12603,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "In Search of Bigger Game (2)"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "A Mammoth Undertaking": {
+        "ID": 12607,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Mammoth Undertaking",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Sharpening Your Talons",
+            "Securing the Bait"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Cultist Incursion": {
+        "ID": 12608,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Cultist Incursion",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Fallen Pillar"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Returned Sevenfold": {
+        "ID": 12611,
+        "QuestLevel": 77,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Returned Sevenfold",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "An Issue of Trust"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "The Fallen Pillar": {
+        "ID": 12612,
+        "QuestLevel": 77,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Fallen Pillar",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Returned Sevenfold"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Powering the Waygate - The Maker's Overlook": {
+        "ID": 12613,
+        "QuestLevel": 77,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Powering the Waygate - The Maker's Overlook",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Powering the Waygate - The Maker's Perch"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Post-partum Aggression": {
+        "ID": 12614,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Post-partum Aggression",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "A Mammoth Undertaking"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Exterminate the Intruders": {
+        "ID": 12617,
+        "QuestLevel": 77,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Exterminate the Intruders",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12617,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Cultist Incursion"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "The Lifewarden's Wrath": {
+        "ID": 12620,
+        "QuestLevel": 77,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Lifewarden's Wrath",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Exterminate the Intruders",
+            "Weapons of Destruction"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Freya's Pact": {
+        "ID": 12621,
+        "QuestLevel": 77,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Freya's Pact",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Lifewarden's Wrath"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "It Could Be Anywhere!": {
+        "ID": 12624,
+        "QuestLevel": 76,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "It Could Be Anywhere!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Some Make Lemonade, Some Make Liquor": {
+        "ID": 12634,
+        "QuestLevel": 76,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Some Make Lemonade, Some Make Liquor",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Still At It": {
+        "ID": 12644,
+        "QuestLevel": 76,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Still At It",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Some Make Lemonade, Some Make Liquor"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "The Taste Test": {
+        "ID": 12645,
+        "QuestLevel": 76,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Taste Test",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Still At It"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Lakeside Landing": {
+        "ID": 12651,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Lakeside Landing",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Great Hunter's Challenge"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "The Part-time Hunter": {
+        "ID": 12654,
+        "QuestLevel": 76,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Part-time Hunter",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "My Pet Roc": {
+        "ID": 12658,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "My Pet Roc",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Sharpening Your Talons",
+            "Securing the Bait"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Weapons of Destruction": {
+        "ID": 12660,
+        "QuestLevel": 77,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Weapons of Destruction",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -12617,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Cultist Incursion"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Reconnaissance Flight": {
+        "ID": 12671,
+        "QuestLevel": 77,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Reconnaissance Flight",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "An Embarassing Incident"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Reagent Agent": {
+        "ID": 12681,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Reagent Agent",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Sharpening Your Talons",
+            "Securing the Bait"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Burning to Help": {
+        "ID": 12683,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Burning to Help",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Sharpening Your Talons",
+            "Securing the Bait"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Engineering a Disaster": {
+        "ID": 12688,
+        "QuestLevel": 76,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Engineering a Disaster",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "A Timeworn Coffer": {
+        "ID": 12691,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Timeworn Coffer",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Return of the Lich Hunter": {
+        "ID": 12692,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Return of the Lich Hunter",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Return of the Friendly Dryskin": {
+        "ID": 12695,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Return of the Friendly Dryskin",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Aerial Surveillance (1)": {
+        "ID": 12696,
+        "QuestLevel": 77,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Aerial Surveillance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Have a Part, Give a Part"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "An Embarassing Incident": {
+        "ID": 12699,
+        "QuestLevel": 77,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "An Embarassing Incident",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Chicken Party!": {
+        "ID": 12702,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Chicken Party!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return of the Lich Hunter"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Kartak's Rampage": {
+        "ID": 12703,
+        "QuestLevel": 78,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Kartak's Rampage",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12703,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return of the Lich Hunter"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Appeasing the Great Rain Stone": {
+        "ID": 12704,
+        "QuestLevel": 77,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Appeasing the Great Rain Stone",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return of the Friendly Dryskin"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Will of the Titans": {
+        "ID": 12705,
+        "QuestLevel": 78,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Will of the Titans",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12761,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return of the Friendly Dryskin"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Song of Wind and Water": {
+        "ID": 12726,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Song of Wind and Water",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12726,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return of the Friendly Dryskin"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "The Heartblood's Strength": {
+        "ID": 12732,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Heartblood's Strength",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12758,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return of the Lich Hunter"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Rejek: First Blood": {
+        "ID": 12734,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Rejek: First Blood",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12758,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return of the Lich Hunter"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "A Cleansing Song": {
+        "ID": 12735,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Cleansing Song",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12726,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return of the Friendly Dryskin"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Song of Reflection": {
+        "ID": 12736,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Song of Reflection",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12726,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return of the Friendly Dryskin"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Song of Fecundity": {
+        "ID": 12737,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Song of Fecundity",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12726,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return of the Friendly Dryskin"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Strength of the Tempest": {
+        "ID": 12741,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Strength of the Tempest",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12758,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return of the Lich Hunter"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "A Hero's Headgear": {
+        "ID": 12758,
+        "QuestLevel": 80,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Hero's Headgear",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12758,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return of the Lich Hunter"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Tools of War": {
+        "ID": 12759,
+        "QuestLevel": 78,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Tools of War",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12703,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return of the Lich Hunter"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Secret Strength of the Frenzyheart": {
+        "ID": 12760,
+        "QuestLevel": 78,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Secret Strength of the Frenzyheart",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12703,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return of the Lich Hunter"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Mastery of the Crystals": {
+        "ID": 12761,
+        "QuestLevel": 78,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Mastery of the Crystals",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12761,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return of the Friendly Dryskin"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Power of the Great Ones": {
+        "ID": 12762,
+        "QuestLevel": 78,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Power of the Great Ones",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 12761,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Return of the Friendly Dryskin"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Force of Nature": {
+        "ID": 12803,
+        "QuestLevel": 78,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Force of Nature",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "A Steak Fit for a Hunter": {
+        "ID": 12804,
+        "QuestLevel": 76,
+        "MinLevel": 76,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Steak Fit for a Hunter",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Salvaging Life's Strength": {
+        "ID": 12805,
+        "QuestLevel": 77,
+        "MinLevel": 77,
+        "QuestInfoID": 0,
+        "QuestSortID": 3711,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Salvaging Life's Strength",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Fallen Pillar"
+        ],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Sandrene the Elder": {
+        "ID": 13018,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Sandrene the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Wanikaya the Elder": {
+        "ID": 13024,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Wanikaya the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Sharing a Bountiful Feast (1)": {
+        "ID": 14064,
+        "QuestLevel": -1,
+        "MinLevel": 0,
+        "QuestInfoID": 0,
+        "QuestSortID": -375,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Sharing a Bountiful Feast",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Pilgrim's Bounty",
+        "FactionGroup": 2,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pilgrim's Bounty (1)"
+        ],
+        "zone": [
+            "Teldrassil",
+            "Teldrassil",
+            "Darkshore",
+            "Dun Morogh",
+            "Elwynn Forest",
+            "Redridge Mountains",
+            "Western Plaguelands",
+            "Burning Steppes",
+            "Tanaris",
+            "Winterspring",
+            "Hellfire Peninsula",
+            "Sholazar Basin",
+            "Dragonblight",
+            "Howling Fjord",
+            "Grizzly Hills",
+            "The Storm Peaks"
+        ]
+    },
+    "Sharing a Bountiful Feast (2)": {
+        "ID": 14065,
+        "QuestLevel": -1,
+        "MinLevel": 0,
+        "QuestInfoID": 0,
+        "QuestSortID": -375,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Sharing a Bountiful Feast",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Pilgrim's Bounty",
+        "FactionGroup": 4,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Pilgrim's Bounty (2)"
+        ],
+        "zone": [
+            "Durotar",
+            "Mulgore",
+            "The Barrens",
+            "Tirisfal Glades",
+            "Tirisfal Glades",
+            "Eversong Woods",
+            "Hillsbrad Foothills",
+            "Burning Steppes",
+            "Stonetalon Mountains",
+            "Thousand Needles",
+            "Desolace",
+            "Tanaris",
+            "Dustwallow Marsh",
+            "Hellfire Peninsula",
+            "Borean Tundra",
+            "Sholazar Basin",
+            "Dragonblight",
+            "Howling Fjord",
+            "Grizzly Hills",
+            "Zul'Drak",
+            "The Storm Peaks",
+            "Crystalsong Forest"
+        ]
+    },
+    "Candy Bucket (Sholazar Basin)": {
+        "ID": 12950,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Desecrate this Fire! (Sholazar Basin - Horde)": {
+        "ID": 13442,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Desecrate this Fire! (Sholazar Basin - Alliance)": {
+        "ID": 13450,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Honor the Flame (Sholazar Basin - Alliance)": {
+        "ID": 13486,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    },
+    "Honor the Flame (Sholazar Basin - Horde)": {
+        "ID": 13494,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Sholazar Basin"
+        ]
+    }
+}

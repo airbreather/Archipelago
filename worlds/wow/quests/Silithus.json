@@ -1,0 +1,1795 @@
+{
+    "The Spirits of Southwind": {
+        "ID": 1125,
+        "QuestLevel": 55,
+        "MinLevel": 54,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Spirits of Southwind",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Wasteland"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Hive in the Tower": {
+        "ID": 1126,
+        "QuestLevel": 57,
+        "MinLevel": 54,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Hive in the Tower",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Spirits of Southwind"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Umber, Archivist": {
+        "ID": 6844,
+        "QuestLevel": 57,
+        "MinLevel": 54,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Umber, Archivist",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Hive in the Tower"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Deadly Desert Venom": {
+        "ID": 8277,
+        "QuestLevel": 55,
+        "MinLevel": 54,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Deadly Desert Venom",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Noggle's Last Hope": {
+        "ID": 8278,
+        "QuestLevel": 57,
+        "MinLevel": 54,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Noggle's Last Hope",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Deadly Desert Venom"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "The Twilight Lexicon": {
+        "ID": 8279,
+        "QuestLevel": 60,
+        "MinLevel": 54,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Twilight Lexicon",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Deserter"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Securing the Supply Lines": {
+        "ID": 8280,
+        "QuestLevel": 55,
+        "MinLevel": 54,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Securing the Supply Lines",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Stepping Up Security": {
+        "ID": 8281,
+        "QuestLevel": 57,
+        "MinLevel": 54,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Stepping Up Security",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Securing the Supply Lines"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Noggle's Lost Satchel": {
+        "ID": 8282,
+        "QuestLevel": 58,
+        "MinLevel": 54,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Noggle's Lost Satchel",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Noggle's Last Hope"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Wanted - Deathclasp, Terror of the Sands": {
+        "ID": 8283,
+        "QuestLevel": 59,
+        "MinLevel": 54,
+        "QuestInfoID": 1,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Wanted - Deathclasp, Terror of the Sands",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "The Twilight Mystery": {
+        "ID": 8284,
+        "QuestLevel": 58,
+        "MinLevel": 54,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Twilight Mystery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "The Deserter": {
+        "ID": 8285,
+        "QuestLevel": 59,
+        "MinLevel": 54,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Deserter",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Twilight Mystery"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "What Tomorrow Brings": {
+        "ID": 8286,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "What Tomorrow Brings",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "A Terrible Purpose": {
+        "ID": 8287,
+        "QuestLevel": 60,
+        "MinLevel": 54,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Terrible Purpose",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Twilight Lexicon"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "The Path of the Righteous": {
+        "ID": 8301,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Path of the Righteous",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Only One May Rise"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "The Hand of the Righteous": {
+        "ID": 8302,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Hand of the Righteous",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Path of the Righteous"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Anachronos": {
+        "ID": 8303,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Anachronos",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Path of the Righteous"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Dearest Natalia": {
+        "ID": 8304,
+        "QuestLevel": 60,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Dearest Natalia",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Into The Maw of Madness": {
+        "ID": 8306,
+        "QuestLevel": 60,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Into The Maw of Madness",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Dearest Natalia"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Desert Recipe": {
+        "ID": 8307,
+        "QuestLevel": 57,
+        "MinLevel": 54,
+        "QuestInfoID": 0,
+        "QuestSortID": -304,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Desert Recipe",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Cooking",
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Glyph Chasing": {
+        "ID": 8309,
+        "QuestLevel": 60,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Glyph Chasing",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -8309,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Dearest Natalia"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Breaking the Code": {
+        "ID": 8310,
+        "QuestLevel": 60,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Breaking the Code",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": -8309,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Dearest Natalia"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Sharing the Knowledge": {
+        "ID": 8313,
+        "QuestLevel": 57,
+        "MinLevel": 54,
+        "QuestInfoID": 0,
+        "QuestSortID": -304,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Sharing the Knowledge",
+        "AllowableClasses": [],
+        "RewardSpell": 24802,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Cooking",
+        "requires": [
+            "Desert Recipe"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Unraveling the Mystery": {
+        "ID": 8314,
+        "QuestLevel": 60,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Unraveling the Mystery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "The Calling": {
+        "ID": 8315,
+        "QuestLevel": 60,
+        "MinLevel": 58,
+        "QuestInfoID": 1,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "The Calling",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Unraveling the Mystery"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Kitchen Assistance": {
+        "ID": 8317,
+        "QuestLevel": 57,
+        "MinLevel": 54,
+        "QuestInfoID": 0,
+        "QuestSortID": -304,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Kitchen Assistance",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "Profession": "Cooking",
+        "requires": [
+            "Sharing the Knowledge"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Secret Communication": {
+        "ID": 8318,
+        "QuestLevel": 60,
+        "MinLevel": 57,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Secret Communication",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Encrypted Twilight Texts": {
+        "ID": 8319,
+        "QuestLevel": 60,
+        "MinLevel": 57,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Encrypted Twilight Texts",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Secret Communication"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Twilight Geolords": {
+        "ID": 8320,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Twilight Geolords",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Vyral the Vile": {
+        "ID": 8321,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Vyral the Vile",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Twilight Geolords"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "True Believers": {
+        "ID": 8323,
+        "QuestLevel": 59,
+        "MinLevel": 54,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "True Believers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Twilight Lexicon"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Still Believing": {
+        "ID": 8324,
+        "QuestLevel": 59,
+        "MinLevel": 54,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Still Believing",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "True Believers"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Aurel Goldleaf": {
+        "ID": 8331,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Aurel Goldleaf",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Dukes of the Council": {
+        "ID": 8332,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Dukes of the Council",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Aurel Goldleaf"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Medallion of Station": {
+        "ID": 8333,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Medallion of Station",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Dukes of the Council"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Lords of the Council": {
+        "ID": 8341,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 1,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Lords of the Council",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Goldleaf's Discovery"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Twilight Ring of Lordship": {
+        "ID": 8342,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Twilight Ring of Lordship",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Lords of the Council"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Goldleaf's Discovery": {
+        "ID": 8343,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Goldleaf's Discovery",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Signet of the Dukes": {
+        "ID": 8348,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 1,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Signet of the Dukes",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Bor Wildmane"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Bor Wildmane": {
+        "ID": 8349,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Bor Wildmane",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Dukes of the Council"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Abyssal Contacts": {
+        "ID": 8361,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Abyssal Contacts",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Abyssal Crests": {
+        "ID": 8362,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Abyssal Crests",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Abyssal Contacts"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Abyssal Signets": {
+        "ID": 8363,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 1,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Abyssal Signets",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Signet of the Dukes"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Field Duty (1)": {
+        "ID": 8507,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Field Duty",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Field Duty Papers (1)": {
+        "ID": 8508,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Field Duty Papers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 3,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "A Pawn on the Eternal Board": {
+        "ID": 8519,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Pawn on the Eternal Board",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Long Forgotten Memories"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Volunteer's Battlegear": {
+        "ID": 8548,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 609,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 3000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Volunteer's Battlegear",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Cenarion Battlegear"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Veteran's Battlegear": {
+        "ID": 8572,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 609,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 9000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Veteran's Battlegear",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Cenarion Battlegear"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Champion's Battlegear": {
+        "ID": 8573,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 609,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 42000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Champion's Battlegear",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Cenarion Battlegear"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Stalwart's Battlegear": {
+        "ID": 8574,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 609,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 21000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Stalwart's Battlegear",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "Cenarion Battlegear"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Primestone the Elder": {
+        "ID": 8654,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Primestone the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Bladesing the Elder": {
+        "ID": 8719,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -366,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Bladesing the Elder",
+        "AllowableClasses": [],
+        "RewardSpell": 25716,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Lunar Festival",
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Field Duty (2)": {
+        "ID": 8731,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Field Duty",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Field Duty Papers (2)": {
+        "ID": 8732,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Field Duty Papers",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 5,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Bang a Gong!": {
+        "ID": 8743,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 82,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Bang a Gong!",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Might of Kalimdor"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Treasure of the Timeless One": {
+        "ID": 8745,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Treasure of the Timeless One",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [
+            "The Might of Kalimdor"
+        ],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Cenarion Battlegear": {
+        "ID": 8800,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Cenarion Battlegear",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Secrets of the Colossus - Ashi": {
+        "ID": 8857,
+        "QuestLevel": 60,
+        "MinLevel": 51,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Secrets of the Colossus - Ashi",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Secrets of the Colossus - Regal": {
+        "ID": 8858,
+        "QuestLevel": 60,
+        "MinLevel": 51,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Secrets of the Colossus - Regal",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Secrets of the Colossus - Zora": {
+        "ID": 8859,
+        "QuestLevel": 60,
+        "MinLevel": 51,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Secrets of the Colossus - Zora",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 1,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "A Humble Offering": {
+        "ID": 9248,
+        "QuestLevel": 60,
+        "MinLevel": 58,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 609,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 9000,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "A Humble Offering",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Allegiance to Cenarion Circle": {
+        "ID": 9338,
+        "QuestLevel": 60,
+        "MinLevel": 60,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Allegiance to Cenarion Circle",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Report to Marshal Bluewall": {
+        "ID": 9415,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Report to Marshal Bluewall",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Report to General Kirika": {
+        "ID": 9416,
+        "QuestLevel": 60,
+        "MinLevel": 55,
+        "QuestInfoID": 0,
+        "QuestSortID": 1377,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Report to General Kirika",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": null,
+        "FactionGroup": 0,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Desecrate this Fire! (Silithus - Horde)": {
+        "ID": 11760,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Desecrate this Fire! (Silithus - Alliance)": {
+        "ID": 11800,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Desecrate this Fire!",
+        "AllowableClasses": [],
+        "RewardSpell": 45437,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Honor the Flame (Silithus - Alliance)": {
+        "ID": 11831,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Human",
+            "Dwarf",
+            "Night Elf",
+            "Gnome",
+            "Draenei"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Honor the Flame (Silithus - Horde)": {
+        "ID": 11836,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [
+            "Orc",
+            "Undead",
+            "Tauren",
+            "Troll",
+            "Blood Elf"
+        ],
+        "LogTitle": "Honor the Flame",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Midsummer",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    },
+    "Candy Bucket (Silithus)": {
+        "ID": 12401,
+        "QuestLevel": -1,
+        "MinLevel": 1,
+        "QuestInfoID": 0,
+        "QuestSortID": -22,
+        "RequiredFactionId1": 0,
+        "RequiredFactionId2": 0,
+        "RequiredFactionValue1": 0,
+        "RequiredFactionValue2": 0,
+        "AllowableRaces": [],
+        "LogTitle": "Candy Bucket",
+        "AllowableClasses": [],
+        "RewardSpell": 0,
+        "ExclusiveGroup": 0,
+        "seasonalEvent": "Hallow's End",
+        "FactionGroup": null,
+        "FriendlyGroup": null,
+        "EnemyGroup": null,
+        "requires": [],
+        "zone": [
+            "Silithus"
+        ]
+    }
+}

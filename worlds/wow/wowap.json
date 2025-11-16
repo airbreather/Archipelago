@@ -1,0 +1,368 @@
+{
+    "Teldrassil": {
+      "connections": [ "Darkshore", "Azuremyst Isle", "Elwynn Forest" ],
+        "min_level": 1,
+        "max_level": 10,
+        "id": 141
+    },
+    "Darkshore": {
+        "connections": ["Teldrassil", "Ashenvale"],
+        "min_level": 10,
+        "max_level": 20,
+        "id": 148
+    },
+    "Ashenvale": {
+        "connections": ["Darkshore", "Felwood", "Stonetalon Mountains", "The Barrens"],
+        "min_level": 20,
+        "max_level": 30,
+        "id": 331
+    },
+    "Elwynn Forest": {
+        "connections": ["Westfall", "Redridge Mountains", "Duskwood", "Dun Morogh", "Teldrassil", "Borean Tundra"],
+        "min_level": 1,
+        "max_level": 10,
+        "id": 12
+    },
+    "Loch Modan": {
+        "connections": ["Wetlands", "Dun Morogh", "Badlands"],
+        "min_level": 10,
+        "max_level": 20,
+        "id": 38
+    },
+    "Dun Morogh": {
+        "connections": ["Elwynn Forest", "Loch Modan"],
+        "min_level": 1,
+        "max_level": 10,
+        "id": 1
+    },
+    "Westfall": {
+        "connections": ["Elwynn Forest", "Duskwood"],
+        "min_level": 10,
+        "max_level": 20,
+        "id": 40
+    },
+    "Duskwood": {
+        "connections": ["Elwynn Forest", "Westfall", "Stranglethorn Vale", "Redridge Mountains", "Deadwind Pass"],
+        "min_level": 20,
+        "max_level": 30,
+        "id": 10
+    },
+    "Redridge Mountains": {
+        "connections": ["Elwynn Forest", "Duskwood", "Burning Steppes"],
+        "min_level": 15,
+        "max_level": 25,
+        "id": 44
+    },
+    "Deadwind Pass": {
+        "connections": ["Duskwood", "Swamp of Sorrows"],
+        "min_level": 1,
+        "max_level": 1,
+        "id": 41
+    },
+    "Dustwallow Marsh": {
+        "connections": ["Deadwind Pass", "Wetlands", "The Barrens"],
+        "min_level": 35,
+        "max_level": 45,
+        "id": 15
+    },
+    "The Barrens": {
+        "connections": ["Dustwallow Marsh", "Durotar", "Mulgore", "Stranglethorn Vale", "Stonetalon Mountains", "Ashenvale", "Thousand Needles"],
+        "min_level": 10,
+        "max_level": 33,
+        "id": 17
+    },
+    "Durotar": {
+        "connections": ["The Barrens", "Tirisfal Glades", "Borean Tundra"],
+        "min_level": 1,
+        "max_level": 10,
+        "id": 14
+    },
+    "Mulgore": {
+        "connections": ["The Barrens", "Tirisfal Glades"],
+        "min_level": 1,
+        "max_level": 10,
+        "id": 215
+    },
+    "Tirisfal Glades": {
+        "connections": ["Durotar", "Silverpine Forest", "Eversong Woods", "Western Plaguelands", "Howling Fjord"],
+        "min_level": 1,
+        "max_level": 10,
+        "id": 85
+    },
+    "Silverpine Forest": {
+        "connections": ["Tirisfal Glades", "Hillsbrad Foothills"],
+        "min_level": 10,
+        "max_level": 20,
+        "id": 130
+    },
+    "Hillsbrad Foothills": {
+        "connections": ["Silverpine Forest", "Arathi Highlands", "Alterac Mountains", "The Hinterlands"],
+        "min_level": 20,
+        "max_level": 30,
+        "id": 267
+    },
+    "The Hinterlands": {
+      "connections": [ "Arathi Highlands" ],
+      "min_level": 40,
+      "max_level": 50,
+      "id": 47
+    },
+    "Arathi Highlands": {
+        "connections": ["Hillsbrad Foothills", "Wetlands"],
+        "min_level": 30,
+        "max_level": 40,
+        "id": 45
+    },
+    "Wetlands": {
+        "connections": ["Arathi Highlands", "Loch Modan", "Dustwallow Marsh", "Howling Fjord"],
+        "min_level": 20,
+        "max_level": 30,
+        "id": 11
+    },
+    "Burning Steppes": {
+        "connections": ["Redridge Mountains", "Searing Gorge"],
+        "min_level": 50,
+        "max_level": 60,
+        "id": 46
+    },
+    "Searing Gorge": {
+        "connections": ["Burning Steppes", "Badlands", "Loch Modan"],
+        "min_level": 45,
+        "max_level": 55,
+        "id": 51
+    },
+    "Badlands": {
+        "connections": ["Loch Modan", "Searing Gorge"],
+        "min_level": 35,
+        "max_level": 45,
+        "id": 3
+    },
+    "Stonetalon Mountains": {
+        "connections": ["Ashenvale", "The Barrens", "Desolace"],
+        "min_level": 15,
+        "max_level": 25,
+        "id": 406
+    },
+    "Desolace": {
+        "connections": ["Stonetalon Mountains", "Feralas"],
+        "min_level": 30,
+        "max_level": 40,
+        "id": 405
+    },
+    "Feralas": {
+        "connections": ["Desolace", "Thousand Needles"],
+        "min_level": 40,
+        "max_level": 50,
+        "id": 357
+    },
+    "Thousand Needles": {
+        "connections": ["The Barrens", "Feralas", "Tanaris"],
+        "min_level": 25,
+        "max_level": 35,
+        "id": 400
+    },
+    "Tanaris": {
+        "connections": ["Thousand Needles", "Un'Goro Crater"],
+        "min_level": 40,
+        "max_level": 50,
+        "id": 440
+    },
+    "Un'Goro Crater": {
+        "connections": ["Tanaris", "Silithus"],
+        "min_level": 50,
+        "max_level": 55,
+        "id": 490
+    },
+    "Silithus": {
+        "connections": ["Un'Goro Crater"],
+        "min_level": 55,
+        "max_level": 60,
+        "id": 1377
+    },
+    "Azshara": {
+        "connections": ["Ashenvale"],
+        "min_level": 40,
+        "max_level": 50,
+        "id": 16
+    },
+    "Felwood": {
+        "connections": ["Ashenvale", "Timbermaw Hold"],
+        "min_level": 40,
+        "max_level": 50,
+        "id": 361
+    },
+    "Moonglade": {
+        "connections": ["Timbermaw Hold"],
+        "min_level": 1,
+        "max_level": 1,
+        "id": 493
+    },
+    "Winterspring": {
+        "connections": ["Timbermaw Hold"],
+        "min_level": 50,
+        "max_level": 60,
+        "id": 618
+    },
+    "Timbermaw Hold": {
+        "connections": ["Felwood", "Moonglade", "Winterspring"],
+        "min_level": 40,
+        "max_level": 50
+    },
+    "Blasted Lands": {
+        "connections": ["Swamp of Sorrows", "Hellfire Peninsula"],
+        "min_level": 50,
+        "max_level": 60,
+        "id": 4
+    },
+    "Swamp of Sorrows": {
+        "connections": ["Deadwind Pass", "Blasted Lands"],
+        "min_level": 35,
+        "max_level": 45,
+        "id": 8
+    },
+    "Stranglethorn Vale": {
+        "connections": ["Duskwood", "The Barrens"],
+        "min_level": 30,
+        "max_level": 45,
+        "id": 33
+    },
+    "Alterac Mountains": {
+        "connections": ["Hillsbrad Foothills", "Western Plaguelands"],
+        "min_level": 30,
+        "max_level": 40,
+        "id": 36
+    },
+    "Western Plaguelands": {
+        "connections": ["Alterac Mountains", "Eastern Plaguelands", "Tirisfal Glades"],
+        "min_level": 45,
+        "max_level": 55,
+        "id": 28
+    },
+    "Eastern Plaguelands": {
+        "connections": ["Western Plaguelands", "Ghostlands"],
+        "min_level": 55,
+        "max_level": 60,
+        "id": 139
+    },
+    "Ghostlands": {
+        "connections": ["Eastern Plaguelands", "Eversong Woods"],
+        "min_level": 10,
+        "max_level": 20,
+        "id": 3433
+    },
+    "Eversong Woods": {
+        "connections": ["Ghostlands", "Tirisfal Glades"],
+        "min_level": 1,
+        "max_level": 10,
+        "id": 3430
+    },
+    "Bloodmyst Isle": {
+        "connections": ["Azuremyst Isle"],
+        "min_level": 10,
+        "max_level": 20,
+        "id": 3525
+    },
+    "Azuremyst Isle": {
+      "connections": [ "Bloodmyst Isle", "Teldrassil" ],
+        "min_level": 1,
+        "max_level": 10,
+        "id": 3524
+    },
+    "Hellfire Peninsula": {
+        "connections": ["Blasted Lands", "Zangarmarsh"],
+        "min_level": 58,
+        "max_level": 63,
+        "id": 3483
+    },
+    "Zangarmarsh": {
+        "connections": ["Hellfire Peninsula", "Terokkar Forest", "Nagrand", "Blade's Edge Mountains"],
+        "min_level": 60,
+        "max_level": 64,
+        "id": 3521
+    },
+    "Nagrand": {
+        "connections": ["Zangarmarsh", "Terokkar Forest"],
+        "min_level": 64,
+        "max_level": 67,
+        "id": 3518
+    },
+    "Terokkar Forest": {
+        "connections": ["Shadowmoon Valley", "Nagrand", "Zangarmarsh"],
+        "min_level": 62,
+        "max_level": 65,
+        "id": 3519
+    },
+    "Shadowmoon Valley": {
+        "connections": ["Terokkar Forest"],
+        "min_level": 67,
+        "max_level": 70,
+        "id": 3520
+    },
+    "Blade's Edge Mountains": {
+        "connections": ["Zangarmarsh", "Netherstorm"],
+        "min_level": 65,
+        "max_level": 68,
+        "id": 3522
+    },
+    "Netherstorm": {
+        "connections": ["Blade's Edge Mountains"],
+        "min_level": 67,
+        "max_level": 70,
+        "id": 3523
+    },
+    "Borean Tundra": {
+        "connections": ["Dragonblight", "Sholazar Basin", "Elwynn Forest", "Durotar"],
+        "min_level": 68,
+        "max_level": 72,
+        "id": 3537
+    },
+    "Dragonblight": {
+        "connections": ["Borean Tundra", "Grizzly Hills", "Zul'Drak", "Crystalsong Forest", "Howling Fjord"],
+        "min_level": 71,
+        "max_level": 75,
+        "id": 65
+    },
+    "Grizzly Hills": {
+        "connections": ["Dragonblight", "Zul'Drak", "Howling Fjord"],
+        "min_level": 73,
+        "max_level": 75,
+        "id": 394
+    },
+    "Zul'Drak": {
+        "connections": ["Dragonblight", "Crystalsong Forest", "Grizzly Hills"],
+        "min_level": 74,
+        "max_level": 76,
+        "id": 66
+    },
+    "The Storm Peaks": {
+        "connections": ["Crystalsong Forest", "Icecrown"],
+        "min_level": 77,
+        "max_level": 80,
+        "id": 67
+    },
+    "Icecrown": {
+        "connections": ["The Storm Peaks"],
+        "min_level": 77,
+        "max_level": 80,
+        "id": 210
+    },
+    "Crystalsong Forest": {
+        "connections": ["Dragonblight", "Zul'Drak", "The Storm Peaks"],
+        "min_level": 77,
+        "max_level": 80,
+        "id": 2817
+    },
+    "Sholazar Basin": {
+        "connections": ["Borean Tundra"],
+        "min_level": 76,
+        "max_level": 78,
+        "id": 3711
+    },
+    "Howling Fjord": {
+        "connections": ["Wetlands", "Grizzly Hills", "Dragonblight", "Tirisfal Glades"],
+        "min_level": 68,
+        "max_level": 72,
+        "id": 495
+    },
+    "Plaguelands: The Scarlet Enclave": {}
+}
