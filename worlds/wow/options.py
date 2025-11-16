@@ -112,6 +112,32 @@ class Goal(Choice):
     option_level_70 = 6
     option_level_80 = 7
 
+class SpeedBoost(Range):
+    """
+    Multiplies player movement speed.
+
+    1 is default
+    2 is journeyman riding
+    5 is the max
+    """
+    display_name = "Speed Multiplier"
+    range_start = 1
+    range_end = 5
+    default = 1
+
+class ExpBoost(Range):
+    """
+    Multiplies gained experience.
+
+    1 is default
+    2 is double
+    10 is the max
+    """
+    display_name = "Exp Multiplier"
+    range_start = 1
+    range_end = 10
+    default = 1
+
 class Traps(Toggle):
     """
     Choose if traps should be enabled.
@@ -128,5 +154,7 @@ class WorldOfWarcraftOptions(PerGameCommonOptions):
     starting_zone: StartingZone
     player_class: PlayerClass
     goal: Goal
+    speed_boost: SpeedBoost
+    exp_boost: ExpBoost
     traps: Traps
     death_link: WoWDeathLink

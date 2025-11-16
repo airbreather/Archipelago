@@ -3,12 +3,12 @@ from worlds.AutoWorld import World
 from worlds.generic.Rules import set_rule
 from .options import WorldOfWarcraftOptions
 from .ExportLua import export_lua_mappings
+from .ExportLuaConfig import export_lua_config
 import os
 import json
 import random
 from pathlib import Path
 import importlib.resources as pkg_resources
-
 
 # Constants
 CLASS_VALUE_TO_NAME = {
@@ -70,7 +70,27 @@ FACTION_GROUP_TO_RACES = {
     4: ["Orc", "Troll", "Tauren", "Forsaken", "Blood Elf"],
     5: ["Orc", "Troll", "Tauren", "Forsaken", "Blood Elf"],
     8: ["Human", "Dwarf", "Gnome", "Night Elf", "Draenei"],
+}
 
+PREPENDS = {
+    # Shared ids
+    "Base": 10,
+    "Items": 11,
+    "Quests": 12,
+    "Zones": 13,
+    "Levels": 14,
+    "Spells": 15,
+    # Class specific spells:
+    "Warrior": 20,
+    "DeathKnight": 21,
+    "Paladin": 22,
+    "Hunter": 23,
+    "Shaman": 24,
+    "Rogue": 25,
+    "Druid": 26, 
+    "Priest": 27,
+    "Warlock": 28,
+    "Mage": 29
 }
 
 FREE_LEVELS = 5
@@ -82,13 +102,13 @@ def preload_wow_metadata():
     skills_file = pkg_resources.files(__package__).joinpath("Skills.json")
     locs = {}
     items = {
-        "Victory": 1,
-        "Gold": 2,
-        "Progressive Level": 3,
-        "Progressive Riding": 4,
-        "Random Buff": 5,
-        "Random Debuff": 6,
-        "Random Bag": 7,
+        "Victory": 101,
+        "Gold": 102,
+        "Progressive Level": 103,
+        "Progressive Riding": 104,
+        "Random Buff": 105,
+        "Random Debuff": 106,
+        "Random Bag": 107,
     }
     loc_id = 1
     item_id = 8
@@ -101,15 +121,13 @@ def preload_wow_metadata():
         zones = json.load(f)
         for zone_name, zdata in zones.items():
             if zdata.get("min_level", 0) < 80:
-                items[f"Unlock {zone_name}"] = item_id
-                item_id += 1
+                items[f"Unlock {zone_name}"] = f"{PREPENDS['Zones']}{zdata.get('id', 0)}"
             if zone_name not in all_zones:
                 all_zones[zone_name] = zones[zone_name]
 
 
     for level in range(2, 81):
-        locs[f"Level {level}"] = loc_id
-        loc_id += 1
+        locs[f"Level {level}"] = f"{PREPENDS['Levels']}{level}"
 
     for entry in pkg_resources.files(__package__).joinpath("quests").iterdir():
         if not entry.name.endswith(".json"):
@@ -118,8 +136,7 @@ def preload_wow_metadata():
             data = json.load(f)
         for name in data.keys():
             if name not in locs:
-                locs[name] = loc_id
-                loc_id += 1
+                locs[name] = f"{PREPENDS['Quests']}{data[name]['ID']}"
             if name not in quests:
                 quests[name] = data[name]
 
@@ -135,11 +152,9 @@ def preload_wow_metadata():
 
         for name in data.keys():
             if name not in locs:
-                locs[name] = loc_id
-                loc_id += 1
+                locs[name] = f"{PREPENDS[className]}{data[name]['id']}"
             if name not in items:
-                items[name] = item_id
-                item_id += 1
+                items[name] = f"{PREPENDS[className]}{data[name]['id']}"
             if name not in spells:
                 spells[name] = data[name]
 
@@ -148,12 +163,11 @@ def preload_wow_metadata():
         data = json.load(f)
         for className in data:
             for skill in data[className].keys():
+                prefix = PREPENDS.get(className, PREPENDS["Spells"])
                 if skill not in locs:
-                    locs[name] = loc_id
-                    loc_id += 1
+                    locs[name] = f"{prefix}{data[className][skill]['id']}"
                 if skill not in items:
-                    items[name] = item_id
-                    item_id += 1
+                    items[name] = f"{prefix}{data[className][skill]['id']}"
                 if name not in spells:
                     spells[name] = data[name]
                 if className != "Riding" and skill not in spells_by_class[className]:
@@ -460,6 +474,7 @@ class WowWorld(World):
     # --------------------------------------------------------------------------
     def generate_output(self, output_directory: str) -> None:
         export_lua_mappings(output_directory, self.ALL_QUESTS, self.ALL_ZONES, self.ALL_SPELLS, self.item_name_to_id, self.location_name_to_id, self.SPELLS_MAPPING)
+        export_lua_config(output_directory, self.options)
         return
 
     def generate_early(self):
