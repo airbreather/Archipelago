@@ -353,7 +353,7 @@ class WowWorld(World):
                     continue
                 if rep1 or rep2:
                     continue
-                # if all zones not in connecting level appriopriate zones - this excludes many seasonal event quests
+                # if all zones not in connecting level appropriate zones - this excludes many seasonal event quests
                 all_zones_allowed = True
                 for zone in quest_zones:
                     if zone not in connecting_level_appropriate_zones:

@@ -138,6 +138,25 @@ class ExpBoost(Range):
     range_end = 10
     default = 1
 
+
+class HeirloomWeapons(Toggle):
+    """
+    Choose if class-appropriate heirloom weapons should be given to the player at the start of the game.
+    """
+    display_name = "Start with Heirloom Weapons"
+
+class HeirloomArmor(Toggle):
+    """
+    Choose if class-appropriate heirloom armor should be given to the player at the start of the game.
+    """
+    display_name = "Start with Heirloom Armor"
+
+class HeirloomTrinkets(Toggle):
+    """
+    Choose if heirloom trinkets should be given to the player at the start of the game.
+    """
+    display_name = "Start with Heirloom Trinkets"
+
 class Traps(Toggle):
     """
     Choose if traps should be enabled.
@@ -156,5 +175,8 @@ class WorldOfWarcraftOptions(PerGameCommonOptions):
     goal: Goal
     speed_boost: SpeedBoost
     exp_boost: ExpBoost
+    heirloom_armor: HeirloomArmor
+    heirloom_weapons: HeirloomWeapons
+    heirloom_trinkets: HeirloomTrinkets
     traps: Traps
     death_link: WoWDeathLink
