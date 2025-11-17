@@ -5,34 +5,30 @@ from dataclasses import dataclass
 
 from Options import (Choice, DeathLink, DefaultOnToggle, OptionSet, NamedRange, Range, Toggle, PerGameCommonOptions)
 
-class WoWRace(Choice):
+class WoWRaceClassCombo(Choice):
     """
-    Choose which race you will play as.
+    Choose which race and class you will play as.
+    Only valid race/class combos are accepted for now.
+    You may choose multiple characters to play.
 
-    - Human
-    - Dwarf
-    - Gnome
-    - Night Elf
-    - Draenei
-    - Orc
-    - Troll
-    - Tauren
-    - Forsaken
-    - Blood Elf
-    - Random
+    The format is ["Race/Class"], ex:
+    ["Human/Warrior"] or ["Night Elf Hunter/Blood Elf Mage"]
+
     """
-    display_name = "Choose Race"
-    default = 0
-    option_human = 0
-    option_dwarf = 1
-    option_gnome = 2
-    option_night_elf = 3
-    option_draenei = 4
-    option_orc = 5
-    option_troll = 6
-    option_tauren = 7
-    option_forsaken = 8
-    option_blood_elf = 9
+    display_name = "Character Selection"
+    valid_keys = [
+        "Human/Warrior", "Human/Paladin", "Human/Rogue", "Human/Death Knight", "Human/Priest", "Human/Mage", "Human/Warlock",
+        "Dwarf/Warrior", "Dwarf/Paladin", "Dwarf/Hunter", "Dwarf/Rogue", "Dwarf/Death Knight", "Dwarf/Priest",
+        "Night Elf/Warrior", "Night Elf/Hunter", "Night Elf/Rogue", "Night Elf/Priest", "Night Elf/Druid",
+        "Gnome/Warrior", "Gnome/Rogue", "Gnome/Death Knight", "Gnome/Mage", "Gnome/Warlock",
+        "Draenei/Warrior", "Draenei/Paladin", "Draenei/Hunter", "Draenei/Death Knight", "Dranei/Shaman", "Draenei/Priest", "Draenei/Mage",
+        "Orc/Warrior", "Orc/Hunter", "Orc/Rogue", "Orc/Death Knight", "Orc/Shaman", "Orc/Warlock",
+        "Undead/Warrior", "Undead/Rogue", "Undead/Death Knight", "Undead/Priest", "Undead/Mage", "Undead/Warlock",
+        "Tauren/Warrior", "Tauren/Hunter", "Tauren/Death Knight", "Tauren/Shaman", "Tauren/Druid",
+        "Troll/Warrior", "Troll/Hunter", "Troll/Rogue", "Troll/Death Knight", "Troll/Shaman", "Troll/Priest", "Troll/Mage",
+        "Blood Elf/Paladin", "Blood Elf/Hunter", "Blood Elf/Death Knight", "Blood Elf/Priest", "Blood Elf/Mage", "Blood Elf/Warlock"
+    ]
+
     #option_random = 10
 
 class StartingZone(Choice):
@@ -62,39 +58,6 @@ class StartingZone(Choice):
     option_tirisfal_glades = 7
     option_eversong_woods = 8
     #option_random = 9
-
-class PlayerClass(Choice):
-    """
-    Choose which class you will play as.
-    Note: Death Knight currently unsupported.
-
-    Only valid combinations are usable for now.
-
-    - Warrior
-    - Death Knight
-    - Paladin
-    - Hunter
-    - Shaman
-    - Rogue
-    - Druid
-    - Priest
-    - Warlock
-    - Mage
-    - Random
-    """
-    display_name = "Choose Class"
-    default = 0
-    option_warrior = 0
-    option_death_knight = 1
-    option_paladin = 2
-    option_hunter = 3
-    option_shaman = 4
-    option_rogue = 5
-    option_druid = 6
-    option_priest = 7
-    option_warlock = 8
-    option_mage = 9
-    #option_random = 10
 
 class Goal(Choice):
     """
@@ -167,11 +130,37 @@ class Traps(Toggle):
 class WoWDeathLink(DeathLink):
     __doc__ = DeathLink.__doc__
 
+class PrimaryProfessions(OptionSet):
+    """
+    Adds quests that require the player to have specific professions in order to accept and complete.
+    It is highly recommended to choose a maximum of two per character.
+    """
+    display_name = "Primary Professions"
+    valid_keys = ["Skinning", "Herbalism", "Mining", "Leatherworking", "Alchemy", "Inscription", "Blacksmithing", "Jewelcrafting", "Tailoring", "Enchanting"]
+
+class Fishing(Toggle):
+    """
+    Adds quests that require the player to have trained fishing.
+    """
+    display_name = "Enable Fishing Quests"
+
+class FirstAid(DefaultOnToggle):
+    """
+    Adds quests that require the player to have trained first aid.
+    """
+    display_name = "Enable First Aid Quests"
+
+class Cooking(DefaultOnToggle):
+    """
+    Adds quests that require the player to have trained cooking.
+    """
+    display_name = "Enable Cooking Quests"
+
+
 @dataclass
 class WorldOfWarcraftOptions(PerGameCommonOptions):
-    wow_race: WoWRace
+    wow_race_and_class_combo: WoWRaceClassCombo
     starting_zone: StartingZone
-    player_class: PlayerClass
     goal: Goal
     speed_boost: SpeedBoost
     exp_boost: ExpBoost
@@ -180,3 +169,7 @@ class WorldOfWarcraftOptions(PerGameCommonOptions):
     heirloom_trinkets: HeirloomTrinkets
     traps: Traps
     death_link: WoWDeathLink
+    primary_professions: PrimaryProfessions
+    fishing: Fishing
+    first_aid: FirstAid
+    cooking: Cooking

@@ -349,7 +349,7 @@ class WowWorld(World):
                     continue
                 if quest_id == 3861: # CLUCK! is behaving oddly
                     continue
-                if profession and (profession != "Cooking" or profession != "First Aid"):
+                if profession not in self.professions:
                     continue
                 if rep1 or rep2:
                     continue
@@ -483,6 +483,13 @@ class WowWorld(World):
         self.player_race_name = RACE_VALUE_TO_NAME.get(self.options.wow_race.value, "Unknown")
         self.player_max_level = GOAL_VALUE_TO_LEVEL.get(self.options.goal)
         self.starting_zone_name = RACE_TO_STARTING_ZONE.get(self.options.wow_race.value, "Unknown")
+        self.professions = self.options.primary_professions
+        if self.options.cooking:
+            self.professions.append("Cooking")
+        if self.options.first_aid:
+            self.professions.append("First Aid")
+        if self.options.fishing:
+            self.professions.append("Fishing")
         print(self.player_race_name)
         print(self.starting_zone_name)
         print(self.player_class_name)
