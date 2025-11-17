@@ -5,7 +5,7 @@ from dataclasses import dataclass
 
 from Options import (Choice, DeathLink, DefaultOnToggle, OptionSet, NamedRange, Range, Toggle, PerGameCommonOptions)
 
-class WoWRaceClassCombo(Choice):
+class WoWRaceClassCombo(OptionSet):
     """
     Choose which race and class you will play as.
     Only valid race/class combos are accepted for now.
