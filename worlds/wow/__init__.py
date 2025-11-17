@@ -121,13 +121,13 @@ def preload_wow_metadata():
         zones = json.load(f)
         for zone_name, zdata in zones.items():
             if zdata.get("min_level", 0) < 80:
-                items[f"Unlock {zone_name}"] = f"{PREPENDS['Zones']}{zdata.get('id', 0)}"
+                items[f"Unlock {zone_name}"] = int(f"{PREPENDS['Zones']}{zdata.get('id', 0)}")
             if zone_name not in all_zones:
                 all_zones[zone_name] = zones[zone_name]
 
 
     for level in range(2, 81):
-        locs[f"Level {level}"] = f"{PREPENDS['Levels']}{level}"
+        locs[f"Level {level}"] = int(f"{PREPENDS['Levels']}{level}")
 
     for entry in pkg_resources.files(__package__).joinpath("quests").iterdir():
         if not entry.name.endswith(".json"):
@@ -136,7 +136,7 @@ def preload_wow_metadata():
             data = json.load(f)
         for name in data.keys():
             if name not in locs:
-                locs[name] = f"{PREPENDS['Quests']}{data[name]['ID']}"
+                locs[name] = int(f"{PREPENDS['Quests']}{data[name]['ID']}")
             if name not in quests:
                 quests[name] = data[name]
 
@@ -152,9 +152,9 @@ def preload_wow_metadata():
 
         for name in data.keys():
             if name not in locs:
-                locs[name] = f"{PREPENDS[className]}{data[name]['id']}"
+                locs[name] = int(f"{PREPENDS[className]}{data[name]['id']}")
             if name not in items:
-                items[name] = f"{PREPENDS[className]}{data[name]['id']}"
+                items[name] = int(f"{PREPENDS[className]}{data[name]['id']}")
             if name not in spells:
                 spells[name] = data[name]
 
@@ -165,9 +165,9 @@ def preload_wow_metadata():
             for skill in data[className].keys():
                 prefix = PREPENDS.get(className, PREPENDS["Spells"])
                 if skill not in locs:
-                    locs[name] = f"{prefix}{data[className][skill]['id']}"
+                    locs[name] = int(f"{prefix}{data[className][skill]['id']}")
                 if skill not in items:
-                    items[name] = f"{prefix}{data[className][skill]['id']}"
+                    items[name] = int(f"{prefix}{data[className][skill]['id']}")
                 if name not in spells:
                     spells[name] = data[name]
                 if className != "Riding" and skill not in spells_by_class[className]:
@@ -484,6 +484,7 @@ class WowWorld(World):
     # Generation
     # --------------------------------------------------------------------------
     def generate_output(self, output_directory: str) -> None:
+        print(self.location_name_to_id)
         export_lua_mappings(output_directory, self.ALL_QUESTS, self.ALL_ZONES, self.ALL_SPELLS, self.item_name_to_id, self.location_name_to_id, self.SPELLS_MAPPING)
         export_lua_config(output_directory, self.options)
         return
