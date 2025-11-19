@@ -80,6 +80,7 @@ PREPENDS = {
     "Zones": 13,
     "Levels": 14,
     "Spells": 15,
+
     # Class specific spells:
     "Warrior": 20,
     "DeathKnight": 21,
@@ -486,23 +487,30 @@ class WowWorld(World):
     def generate_output(self, output_directory: str) -> None:
         print(self.location_name_to_id)
         export_lua_mappings(output_directory, self.ALL_QUESTS, self.ALL_ZONES, self.ALL_SPELLS, self.item_name_to_id, self.location_name_to_id, self.SPELLS_MAPPING)
-        export_lua_config(output_directory, self.options)
+        export_lua_config(output_directory, self.options, self.allChars)
         return
 
     def generate_early(self):
         # --- Load all quests and zones dynamically ---
-        print(self.options)
         self.allChars = []
-        for combo in self.options.wow_race_and_class_combo:
-            playerRace, playerClass = self.create_race_and_class(combo)
+        if not self.options.wow_race_and_class_combo.value:
             character= {
-                "race": playerRace,
-                "class": playerClass,
-                "starting_zone": RACE_TO_STARTING_ZONE.get(playerRace, "Unknown")
+                "race": RACE_VALUE_TO_NAME[self.options.wow_race.value],
+                "class": CLASS_VALUE_TO_NAME[self.options.wow_class.value],
+                "starting_zone": RACE_TO_STARTING_ZONE[RACE_VALUE_TO_NAME[self.options.wow_race.value]],
             }
             self.allChars.append(character)
 
-        print(self.allChars)
+        else:
+            for combo in self.options.wow_race_and_class_combo:
+                playerRace, playerClass = self.create_race_and_class(combo)
+                character= {
+                    "race": playerRace,
+                    "class": playerClass,
+                    "starting_zone": RACE_TO_STARTING_ZONE.get(playerRace, "Unknown")
+                }
+                self.allChars.append(character)
+
         #self.player_class_name = CLASS_VALUE_TO_NAME.get(self.options.player_class.value, "Unknown")
         #self.player_race_name = RACE_VALUE_TO_NAME.get(self.options.wow_race.value, "Unknown")
         self.player_max_level = GOAL_VALUE_TO_LEVEL.get(self.options.goal)
@@ -516,12 +524,6 @@ class WowWorld(World):
             self.professions.append("First Aid")
         if self.options.fishing:
             self.professions.append("Fishing")
-        print(self.professions)
-        #print(self.player_race_name)
-        #print(self.starting_zone_name)
-        #print(self.player_class_name)
-        print(self.player_max_level)
-        print(self.options.traps.value)
         
         self.QUESTS, self.ZONES = self.load_quests_from_json()
         self.SPELLS = self.load_spells_from_json()
@@ -754,42 +756,6 @@ class WowWorld(World):
 
                         set_rule(loc, quest_rule)
 
-        # --------------------------------------------------------------------------
-        # Special-case: Winterspring connectivity via Timbermaw Hold
-        # --------------------------------------------------------------------------
-
-        if "Winterspring" in self.ZONES:
-            print("[WOW] Adding special connection logic for Winterspring.")
-
-            # Create Timbermaw Hold region if not already added
-            timbermaw_name = "Timbermaw Hold"
-            if not any(r.name == timbermaw_name and r.player == player for r in multiworld.regions):
-                timbermaw_region = Region(timbermaw_name, player, multiworld)
-                multiworld.regions.append(timbermaw_region)
-                print(f"[WOW] Created special region: {timbermaw_name}")
-            else:
-                timbermaw_region = multiworld.get_region(timbermaw_name, player)
-
-            # Connect Winterspring to Timbermaw Hold
-            winterspring_region = multiworld.get_region("Winterspring", player)
-            winterspring_region.connect(timbermaw_region)
-            timbermaw_region.connect(winterspring_region)
-            print("[WOW] Connected Winterspring → Timbermaw Hold")
-
-            # Connect Timbermaw Hold to Felwood (if exists)
-            if "Felwood" in self.ZONES:
-                felwood_region = multiworld.get_region("Felwood", player)
-                timbermaw_region.connect(felwood_region)
-                felwood_region.connect(timbermaw_region)
-                print("[WOW] Connected Timbermaw Hold → Felwood")
-
-            # Connect Timbermaw Hold to Moonglade (if exists)
-            if "Moonglade" in self.ZONES:
-                moonglade_region = multiworld.get_region("Moonglade", player)
-                timbermaw_region.connect(moonglade_region)
-                moonglade_region.connect(timbermaw_region)
-                print("[WOW] Connected Timbermaw Hold → Moonglade")
-
         # --- Special Case: Deadwind Pass (always added if it connects zones) ---
         deadwind_name = "Deadwind Pass"
         if deadwind_name not in self.ZONES:
@@ -863,7 +829,7 @@ class WowWorld(World):
 
             item = Item(unlock_item_name, ItemClassification.progression,
                         self.item_name_to_id[unlock_item_name], player)
-            if zone_data["min_level"] < self.player_max_level and zone_name not in starting_zones and zone_name != "Timbermaw Hold":
+            if zone_data["min_level"] < self.player_max_level and zone_name not in starting_zones:
                 multiworld.itempool.append(item)
 
         # --- Spell Tokens ---

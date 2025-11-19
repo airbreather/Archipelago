@@ -5,6 +5,36 @@ from dataclasses import dataclass
 
 from Options import (Choice, DeathLink, DefaultOnToggle, OptionSet, NamedRange, Range, Toggle, PerGameCommonOptions)
 
+class WoWRace(Choice):
+    display_name = "Character Race"
+    default = 0
+    option_human = 0
+    option_dwarf = 1
+    option_gnome = 2
+    option_night_elf = 3
+    option_draenei = 4
+    option_orc = 5
+    option_troll = 6
+    option_tauren = 7
+    option_forsaken = 8
+    option_blood_elf = 9
+    #option_random = 10
+
+class WoWClass(Choice):
+    display_name = "Character Class"
+    default = 0
+    option_warrior = 0
+    option_death_knight = 1
+    option_paladin = 2
+    option_hunter = 3
+    option_shaman = 4
+    option_rogue = 5
+    option_druid = 6
+    option_priest = 7
+    option_warlock = 8
+    option_mage = 9
+    #option_random = 10
+
 class WoWRaceClassCombo(OptionSet):
     """
     Choose which race and class you will play as.
@@ -58,6 +88,12 @@ class StartingZone(Choice):
     option_tirisfal_glades = 7
     option_eversong_woods = 8
     #option_random = 9
+
+class RandomizeSpells(Toggle):
+    """
+    Choose to either shuffle spells into the pool (default), or randomize which spells you can get from your entire class list
+    """
+    display_name = "Shuffle/Randomize Spells"
 
 class Goal(Choice):
     """
@@ -159,7 +195,10 @@ class Cooking(DefaultOnToggle):
 
 @dataclass
 class WorldOfWarcraftOptions(PerGameCommonOptions):
+    wow_race: WoWRace
+    wow_class: WoWClass
     wow_race_and_class_combo: WoWRaceClassCombo
+    randomize_spells: RandomizeSpells
     starting_zone: StartingZone
     goal: Goal
     speed_boost: SpeedBoost

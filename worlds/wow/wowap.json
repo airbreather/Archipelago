@@ -186,27 +186,22 @@
         "id": 16
     },
     "Felwood": {
-        "connections": ["Ashenvale", "Timbermaw Hold"],
+        "connections": ["Ashenvale", "Winterspring",  "Moonglade"],
         "min_level": 40,
         "max_level": 50,
         "id": 361
     },
     "Moonglade": {
-        "connections": ["Timbermaw Hold"],
+        "connections": ["Felwood", "Winterspring"],
         "min_level": 1,
         "max_level": 1,
         "id": 493
     },
     "Winterspring": {
-        "connections": ["Timbermaw Hold"],
+        "connections": ["Felwood", "Moonglade"],
         "min_level": 50,
         "max_level": 60,
         "id": 618
-    },
-    "Timbermaw Hold": {
-        "connections": ["Felwood", "Moonglade", "Winterspring"],
-        "min_level": 40,
-        "max_level": 50
     },
     "Blasted Lands": {
         "connections": ["Swamp of Sorrows", "Hellfire Peninsula"],
