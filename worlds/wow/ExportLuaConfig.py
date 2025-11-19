@@ -33,6 +33,8 @@ def export_lua_config(export_path, options, character_list):
     lines.append(f"    [\"riding_level\"] = 0,") # Not implemented
     lines.append(f"    [\"starting_inventory\"] = 0,") # Not implemented
     lines.append(f"    [\"starting_spells\"] = 0,") # Not implemented
+    lines.append(f"    [\"starting_buffs\"] = 0,") # Not implemented
+    lines.append(f"    [\"starting_money\"] = 0,") # Not implemented
     lines.append("}")
 
     with open(EXPORT_PATH, "w", encoding="utf-8") as f:

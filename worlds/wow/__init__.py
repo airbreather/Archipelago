@@ -398,13 +398,13 @@ class WowWorld(World):
         spells_pkg = f"{__package__}.spells"
         spells = {}
 
+
         # --- Load skills and merge for this class ---
         try:
             with pkg_resources.files(__package__).joinpath("Skills.json").open("r", encoding="utf-8") as f:
                 skills_data = json.load(f)
 
             # Class-specific skills
-
             for character in self.allChars:
 
                 class_skills = skills_data.get(character["class"], {})
@@ -421,6 +421,8 @@ class WowWorld(World):
                         "spell_id": skill_id,
                         "important": False,
                         "cost": cost,
+                        "is_class_spell": False
+
                     }
 
                 # Riding skills (shared)
@@ -438,6 +440,7 @@ class WowWorld(World):
                         "spell_id": skill_id,
                         "important": False,
                         "cost": cost,
+                        "is_class_spell": False
                     }
 
         except FileNotFoundError:
@@ -451,7 +454,6 @@ class WowWorld(World):
             try:
                 with pkg_resources.files(__package__).joinpath("spells", f"{character["class"]}.json").open("r", encoding="utf-8") as zf:
                     data = json.load(zf)
-
 
                     for spell_name, spell_data in data.items():
                         level = spell_data.get("Level", 1)
@@ -470,8 +472,33 @@ class WowWorld(World):
                             "spell_id": spell_id,
                             "important": important,
                             "cost": cost,
+                            "is_class_spell": True
                         }
 
+                #TODO needs testing
+                randomized_spells = []
+                all_spell_names = random.shuffle(list(data.keys()))
+                if self.options.randomize_spells.value and self.player_max_level < 80:
+                    print("Fully random")
+                    for spell in spells:
+                        print(spell)
+                        if spell["important"] or not spell["is_class_spell"]:
+                            randomized_spells[spell] = spell
+                        else:
+                            # Check for dupes, check spell amounts, check if valid spells, check that skills/important not randomized
+                            new_spell_name = all_spell_names.pop
+                            while not data[new_spell_name]["money_cost"]:
+                                new_spell_name = all_spell_names.pop
+                            new_spell = data[new_spell_name]
+                            randomized_spells[new_spell_name] = {
+                                "level": new_spell["level"],
+                                "spell_id": new_spell["spell_id"],
+                                "important": False,
+                                "cost": new_spell.get("money_cost", 0),
+                                "is_class_spell": True
+                            }
+                    print("[WOW] Going from", len(spells), "to", len(randomized_spells))
+                    spells = randomized_spells
 
             except FileNotFoundError:
                 print(f"[WOW] Warning: {character["class"]}.json not found in spells/ directory.")
@@ -485,8 +512,6 @@ class WowWorld(World):
     # Generation
     # --------------------------------------------------------------------------
     def generate_output(self, output_directory: str) -> None:
-        print(self.location_name_to_id)
-        export_lua_mappings(output_directory, self.ALL_QUESTS, self.ALL_ZONES, self.ALL_SPELLS, self.item_name_to_id, self.location_name_to_id, self.SPELLS_MAPPING)
         export_lua_config(output_directory, self.options, self.allChars)
         return
 
