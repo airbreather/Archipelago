@@ -397,6 +397,7 @@ class WowWorld(World):
 
         spells_pkg = f"{__package__}.spells"
         spells = {}
+        spells_with_rando = {} # needed if we do more than just shuffle spells, since spells are locations and items
 
 
         # --- Load skills and merge for this class ---
@@ -421,9 +422,8 @@ class WowWorld(World):
                         "spell_id": skill_id,
                         "important": False,
                         "cost": cost,
-                        "is_class_spell": False
-
                     }
+                    spells_with_rando[skill_name] = spells[skill_name]
 
                 # Riding skills (shared)
                 riding_skills = skills_data.get("Riding", {})
@@ -440,8 +440,8 @@ class WowWorld(World):
                         "spell_id": skill_id,
                         "important": False,
                         "cost": cost,
-                        "is_class_spell": False
                     }
+                    spells_with_rando[skill_name] = spells[skill_name]
 
         except FileNotFoundError:
             print("[WOW] Warning: Skills.json not found in package.")
@@ -454,6 +454,8 @@ class WowWorld(World):
             try:
                 with pkg_resources.files(__package__).joinpath("spells", f"{character["class"]}.json").open("r", encoding="utf-8") as zf:
                     data = json.load(zf)
+                    shuffled_spell_list = list(data.keys())
+                    random.shuffle(shuffled_spell_list)
 
                     for spell_name, spell_data in data.items():
                         level = spell_data.get("Level", 1)
@@ -472,33 +474,30 @@ class WowWorld(World):
                             "spell_id": spell_id,
                             "important": important,
                             "cost": cost,
-                            "is_class_spell": True
                         }
 
-                #TODO needs testing
-                randomized_spells = []
-                all_spell_names = random.shuffle(list(data.keys()))
-                if self.options.randomize_spells.value and self.player_max_level < 80:
-                    print("Fully random")
-                    for spell in spells:
-                        print(spell)
-                        if spell["important"] or not spell["is_class_spell"]:
-                            randomized_spells[spell] = spell
+                        if important: #always keep important spells
+                            spells_with_rando[spell_name] = spells[spell_name]
                         else:
-                            # Check for dupes, check spell amounts, check if valid spells, check that skills/important not randomized
-                            new_spell_name = all_spell_names.pop
-                            while not data[new_spell_name]["money_cost"]:
-                                new_spell_name = all_spell_names.pop
-                            new_spell = data[new_spell_name]
-                            randomized_spells[new_spell_name] = {
-                                "level": new_spell["level"],
-                                "spell_id": new_spell["spell_id"],
-                                "important": False,
-                                "cost": new_spell.get("money_cost", 0),
-                                "is_class_spell": True
+                            new_spell_name = shuffled_spell_list.pop()
+                            new_spell_data = data[new_spell_name]
+                            important = new_spell_data.get("important", False)
+
+                            while important: #skip over important spells so we don't dupe them
+                                new_spell_name = shuffled_spell_list.pop()
+                                new_spell_data = data[new_spell_name]
+                                important = new_spell_data.get("important", False)
+
+                            level = new_spell_data.get("Level", 1)
+                            spell_id = new_spell_data.get("id", 1)
+                            races = new_spell_data.get("AllowableRaces", [])  # portals
+                            cost = new_spell_data.get("money_cost", 0)    
+                            spells_with_rando[new_spell_name] = {
+                                "level": level,
+                                "spell_id": spell_id,
+                                "important": important,
+                                "cost": cost,
                             }
-                    print("[WOW] Going from", len(spells), "to", len(randomized_spells))
-                    spells = randomized_spells
 
             except FileNotFoundError:
                 print(f"[WOW] Warning: {character["class"]}.json not found in spells/ directory.")
@@ -506,13 +505,13 @@ class WowWorld(World):
                 print(f"[WOW] Failed to load {character["class"]}.json: {e}")
 
             print(f"[WOW] Loaded {len(spells)} spells for {character["class"]} class.")
-        return spells
+        return spells, spells_with_rando
 
     # --------------------------------------------------------------------------
     # Generation
     # --------------------------------------------------------------------------
     def generate_output(self, output_directory: str) -> None:
-        export_lua_config(output_directory, self.options, self.allChars)
+        export_lua_config(output_directory, self.options, self.allChars, self.player_name)
         return
 
     def generate_early(self):
@@ -542,7 +541,7 @@ class WowWorld(World):
 
         
         #self.starting_zone_name = RACE_TO_STARTING_ZONE.get(self.options.wow_race.value, "Unknown")
-        self.professions = self.options.primary_professions.value or []
+        self.professions = list(self.options.primary_professions.value)
         if self.options.cooking:
             self.professions.append("Cooking")
         if self.options.first_aid:
@@ -551,7 +550,9 @@ class WowWorld(World):
             self.professions.append("Fishing")
         
         self.QUESTS, self.ZONES = self.load_quests_from_json()
-        self.SPELLS = self.load_spells_from_json()
+        self.SPELLS, self.RANDO_SPELLS = self.load_spells_from_json()
+        if not self.options.randomize_spells.value: # if we only shuffle spells, overwrite the spell items 
+            self.RANDO_SPELLS = self.SPELLS
         self.prune_inaccessible_quests()
 
     def generate_basic(self):
@@ -858,7 +859,7 @@ class WowWorld(World):
                 multiworld.itempool.append(item)
 
         # --- Spell Tokens ---
-        for spell_name in self.SPELLS.keys():
+        for spell_name in self.RANDO_SPELLS.keys():
             if spell_name not in self.item_name_to_id:
                 self.item_name_to_id[spell_name] = len(self.item_name_to_id) + 1
 
@@ -866,7 +867,7 @@ class WowWorld(World):
                         self.item_name_to_id[spell_name], player)
             multiworld.itempool.append(item)
 
-            if (self.SPELLS[spell_name]["important"]):
+            if (self.RANDO_SPELLS[spell_name]["important"]):
                 early_items[spell_name] = 1
 
 

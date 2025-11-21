@@ -156,6 +156,19 @@ class HeirloomTrinkets(Toggle):
     """
     display_name = "Start with Heirloom Trinkets"
 
+class StartingMoney(Range):
+    """
+    Starting money in copper
+    100 copper = 1 silver
+    100 silver = 1 gold
+    Min is 0
+    Max is 100000000 (=10k gold)
+    """
+    display_name = "Starting Money"
+    range_start = 0
+    range_end = 100000000
+    default = 0
+
 class Traps(Toggle):
     """
     Choose if traps should be enabled.
@@ -206,6 +219,7 @@ class WorldOfWarcraftOptions(PerGameCommonOptions):
     heirloom_armor: HeirloomArmor
     heirloom_weapons: HeirloomWeapons
     heirloom_trinkets: HeirloomTrinkets
+    starting_money: StartingMoney
     traps: Traps
     death_link: WoWDeathLink
     primary_professions: PrimaryProfessions
