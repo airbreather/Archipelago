@@ -782,6 +782,10 @@ class WowWorld(World):
 
                         set_rule(loc, quest_rule)
 
+        # -------------------------------------------------------------------------------
+        # --- Special Cases: High-level zones that act as bridges for low-level zones ---
+        # -------------------------------------------------------------------------------
+
         # --- Special Case: Deadwind Pass (always added if it connects zones) ---
         deadwind_name = "Deadwind Pass"
         if deadwind_name not in self.ZONES:
@@ -803,6 +807,28 @@ class WowWorld(World):
 
                 # Mark as traversal only: no unlock token or level requirement
                 print(f"[WOW] Added traversal region: {deadwind_name}")
+
+        # --- Special Case: Arathi Highlands (always added if it connects zones) ---
+        arathi_name = "Arathi Highlands"
+        if arathi_name not in self.ZONES:
+            # Only add if at least one of its neighbor zones is present
+            has_hillsbrad = "Hillsbrad Foothills" in self.ZONES
+            has_wetlands = "Wetlands" in self.ZONES
+
+            if has_hillsbrad or has_wetlands:
+                region = Region(arathi_name, player, multiworld)
+                multiworld.regions.append(region)
+
+                # Connect it to Hillsbrad and/or Wetlands if they exist
+                if has_hillsbrad:
+                    region.connect(multiworld.get_region("Hillsbrad Foothills", player))
+                    multiworld.get_region("Hillsbrad Foothills", player).connect(region)
+                if has_wetlands:
+                    region.connect(multiworld.get_region("Wetlands", player))
+                    multiworld.get_region("Wetlands", player).connect(region)
+
+                # Mark as traversal only: no unlock token or level requirement
+                print(f"[WOW] Added traversal region: {arathi_name}")
 
 
 
