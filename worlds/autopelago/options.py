@@ -83,6 +83,11 @@ class EnabledTraps(OptionSet):
     map: ClassVar[dict[FriendlyTrapNames, Aura]] = trap_name_map
 
 
+class DeathLink(Toggle):
+    """When you die, everyone who enabled death link dies. Of course, the reverse is true too."""
+    display_name = "Death Link"
+
+
 class DeathDelaySeconds(Range):
     """Sets the delay (in seconds) from a death trigger to when the rat actually "dies". Has no effect if DeathLink is disabled.
 
@@ -264,7 +269,5 @@ class AutopelagoGameOptions(PerGameCommonOptions):
     msg_exit_bk: ExitBKModeMessages
     msg_completed_goal: CompleteGoalMessages
     lactose_intolerant: LactoseIntolerantMode
-
-    # not working yet:
-    # death_link: DeathLink
-    # death_delay_seconds: DeathDelaySeconds
+    death_link: DeathLink
+    death_delay_seconds: DeathDelaySeconds

@@ -330,9 +330,9 @@ class AutopelagoWorld(World):
             "enabled_buffs": [EnabledBuffs.map[b] for b in self.options.enabled_buffs.value],
             "enabled_traps": [EnabledTraps.map[t] for t in self.options.enabled_traps.value],
 
-            # not working yet:
-            # "death_link": bool(self.options.death_link),
-            # "death_delay_seconds": self.options.death_delay_seconds - 0,
+            # added in 1.1.0
+            "death_link": bool(self.options.death_link),
+            "death_delay_seconds": int(self.options.death_delay_seconds),
         }
 
     def _sort_nonprogression_items_for_item_type(self, item_type: AutopelagoNonProgressionItemType):
