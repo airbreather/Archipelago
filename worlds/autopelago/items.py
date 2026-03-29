@@ -147,6 +147,7 @@ _aura_classification_points: dict[Aura, int] = {
   "distracted": -3,
   "startled": -6,
   "conspiratorial": -1,
+  "poison": -999,
 }
 ENABLED_AURA_SCORE_MULTIPLIER = 1_000_000
 ENABLED_AURA_SCORE_THRESHOLD = 100_000

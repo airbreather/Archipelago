@@ -13,6 +13,7 @@ Aura = Literal[
   "distracted",
   "startled",
   "conspiratorial",
+  "poison",
 ]
 
 

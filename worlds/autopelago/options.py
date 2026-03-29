@@ -23,7 +23,7 @@ buff_name_map: dict[FriendlyBuffNames, Aura] = {
     "Smart": "smart",
 }
 
-FriendlyTrapNames = Literal["Upset Tummy", "Unlucky", "Sluggish", "Distracted", "Startled", "Conspiratorial"]
+FriendlyTrapNames = Literal["Upset Tummy", "Unlucky", "Sluggish", "Distracted", "Startled", "Conspiratorial", "Poison"]
 trap_name_map: dict[FriendlyTrapNames, Aura] = {
     "Upset Tummy": "upset_tummy",
     "Unlucky": "unlucky",
@@ -31,6 +31,7 @@ trap_name_map: dict[FriendlyTrapNames, Aura] = {
     "Distracted": "distracted",
     "Startled": "startled",
     "Conspiratorial": "conspiratorial",
+    "Poison": "poison",
 }
 
 class FillWithDetermination(Toggle):
@@ -76,7 +77,8 @@ class EnabledTraps(OptionSet):
     - **Sluggish:** Moves slower
     - **Distracted:** Skip a "step"
     - **Startled:** Run towards start
-    - **Conspiratorial:** Next check is trap"""
+    - **Conspiratorial:** Next check is trap
+    - **Poison:** Dies"""
     display_name = "Enabled Traps"
     value: frozenset[FriendlyTrapNames]
     valid_keys = default = frozenset(trap_name_map.keys())
@@ -89,7 +91,7 @@ class DeathLink(Toggle):
 
 
 class DeathDelaySeconds(Range):
-    """Sets the delay (in seconds) from a death trigger to when the rat actually "dies". Has no effect if DeathLink is disabled.
+    """Sets the delay (in seconds) from a death trigger to when the rat actually "dies". Has no effect if "Poison" traps are disabled.
 
     Default: 5 (seconds)
     """
@@ -251,6 +253,19 @@ class CompleteGoalMessages(RatChatMessages):
     )
 
 
+class ImpendingDoomMessages(RatChatMessages):
+    """What messages the rat can say when it's about to die.
+
+    Specify the message itself, or with an optional weight to have that message appear more often (default weight is 1).
+
+    If you want to disable rat chat, then you're in the wrong place. Do that from the settings menu in the game client itself."""
+    display_name = "Messages - Impending Doom"
+
+    default = RatChatMessagesHack(
+        "I don't feel so good...",
+    )
+
+
 class LactoseIntolerantMode(Toggle):
     """Replaces all references to lactose-containing products with less offensive ones."""
     display_name = "Lactose Intolerant Mode"
@@ -268,6 +283,7 @@ class AutopelagoGameOptions(PerGameCommonOptions):
     msg_remind_bk: RemindBKModeMessages
     msg_exit_bk: ExitBKModeMessages
     msg_completed_goal: CompleteGoalMessages
+    msg_impending_doom: ImpendingDoomMessages
     lactose_intolerant: LactoseIntolerantMode
     death_link: DeathLink
     death_delay_seconds: DeathDelaySeconds
