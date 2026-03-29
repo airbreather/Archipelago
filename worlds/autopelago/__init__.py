@@ -330,9 +330,15 @@ class AutopelagoWorld(World):
             "enabled_buffs": [EnabledBuffs.map[b] for b in self.options.enabled_buffs.value],
             "enabled_traps": [EnabledTraps.map[t] for t in self.options.enabled_traps.value],
 
-            # added in 1.1.0
-            "death_link": bool(self.options.death_link),
-            "death_delay_seconds": int(self.options.death_delay_seconds),
+            # above 1.0.0, new options must be added in clearly identifiable sections like this. they also
+            # should ideally be backwards-compatible to the greatest extent possible so that older 1.x
+            # clients can completely ignore what they don't recognize and still complete the game (albeit
+            # potentially without the benefit of whatever frills have been added).
+            "added_in_1_1_0": {
+                "msg_impending_doom": self.options.msg_impending_doom.value,
+                "death_link": bool(self.options.death_link),
+                "death_delay_seconds": int(self.options.death_delay_seconds),
+            },
         }
 
     def _sort_nonprogression_items_for_item_type(self, item_type: AutopelagoNonProgressionItemType):
