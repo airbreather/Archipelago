@@ -4,6 +4,8 @@ from BaseClasses import Item, ItemClassification, Location, MultiWorld, Region
 from rule_builder.rules import And, Has
 from worlds.AutoWorld import World
 
+from .options import WowAirbreatherGameOptions
+
 GAME_NAME = "World of Warcraft - airbreather Variant"
 
 
@@ -64,6 +66,8 @@ class WoWAirbreatherLevelRegion(Region):
 
 class WoWAirbreatherWorld(World):
     game = GAME_NAME
+    options_dataclass = WowAirbreatherGameOptions
+    options: WowAirbreatherGameOptions
 
     item_name_to_id: ClassVar[dict[str, int]] = {
         "Progressive Level Cap": 1,
@@ -124,7 +128,11 @@ class WoWAirbreatherWorld(World):
     def create_items(self):
         new_items = [self.create_item(item_name)
                      for item_name in WoWAirbreatherWorld.item_name_to_id
-                     if item_name != "1 Gold"]
+                     if item_name != "1 Gold" and (
+                             item_name != "Spell: Summon Imp" or
+                             self.options.using_mod_individual_progression)
+                     ]
+
         for _ in range(2, 7):
             item = self.create_item("Progressive Level Cap")
             item.classification |= ItemClassification.deprioritized
@@ -243,8 +251,9 @@ class WoWAirbreatherWorld(World):
             Has("Unlock Quest: Tainted Letter [3105]")
         ))
 
-        stolen_tome_region = self.__quest_region("The Stolen Tome [1598]")
-        level1_region.connect(stolen_tome_region, rule=Has("Unlock Quest: The Stolen Tome [1598]"))
+        if self.options.using_mod_individual_progression:
+            stolen_tome_region = self.__quest_region("The Stolen Tome [1598]")
+            level1_region.connect(stolen_tome_region, rule=Has("Unlock Quest: The Stolen Tome [1598]"))
 
     def get_filler_item_name(self):
         assert "1 Gold" in self.item_name_to_id
