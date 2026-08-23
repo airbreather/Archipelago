@@ -24,8 +24,9 @@ class WoWAirbreatherQuestRegion(Region):
         self.locations.append(self.loc)
 
         # use a fake location to track dependencies
-        fake_loc = Location(player, f"_{loc_name}", parent=self)
+        fake_loc = Location(player, f"{loc_name}_", parent=self)
         fake_loc.place_locked_item(self.completion_event)
+        fake_loc.show_in_spoiler = False
         self.locations.append(fake_loc)
 
     def has_completed_quest(self):
@@ -52,8 +53,9 @@ class WoWAirbreatherLevelRegion(Region):
         self.locations.append(self.loc)
 
         # use a fake location to track dependencies
-        fake_loc = Location(player, f"_{loc_name}", parent=self)
+        fake_loc = Location(player, f"{loc_name}_", parent=self)
         fake_loc.place_locked_item(self.completion_event)
+        fake_loc.show_in_spoiler = False
         self.locations.append(fake_loc)
 
     def has_reached_level(self):
@@ -121,14 +123,11 @@ class WoWAirbreatherWorld(World):
 
     def create_items(self):
         new_items = [self.create_item(item_name)
-                     for item_name in WoWAirbreatherWorld.item_name_to_id]
-        for _ in range(2, 8):
+                     for item_name in WoWAirbreatherWorld.item_name_to_id
+                     if item_name != "1 Gold"]
+        for _ in range(2, 7):
             item = self.create_item("Progressive Level Cap")
             item.classification |= ItemClassification.deprioritized
-            new_items.append(item)
-
-        while len(new_items) < 21:
-            item = self.create_item("1 Gold")
             new_items.append(item)
 
         self.multiworld.itempool += new_items
