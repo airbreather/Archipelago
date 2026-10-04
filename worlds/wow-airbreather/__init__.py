@@ -1,67 +1,56 @@
-from typing import ClassVar
+import uuid
 
 from BaseClasses import Item, ItemClassification, Location, MultiWorld, Region
-from rule_builder.rules import And, Has
+from rule_builder.rules import And, CanReachLocation, Has, Rule
 from worlds.AutoWorld import World
 
 from .options import WowAirbreatherGameOptions
+from .races_and_classes import ALL_CLASSES, RACES_AND_CLASSES, RaceAndClass
 
 GAME_NAME = "World of Warcraft - airbreather Variant"
 
 
-class WoWAirbreatherQuestRegion(Region):
-    quest_name: str
-    completion_event: Item
-    loc: Location
+class WoWCharacterSlotRegion(Region):
+    slot_number: int
+    race_and_class: RaceAndClass
+    unlock_requirement: Rule
 
-    def __init__(self, quest_name: str, player: int, multiworld: MultiWorld, hint: str | None = None):
-        super().__init__(f"Quest: {quest_name}", player, multiworld, hint)
-        self.quest_name = quest_name
+    def __init__(self,
+                 slot_number: int,
+                 race_and_class: RaceAndClass,
+                 player: int,
+                 multiworld: MultiWorld,
+                 hint: str | None = None):
 
-        self.completion_event = Item(f"Completed Quest: {quest_name}", ItemClassification.progression, None, player)
-
-        loc_name = f"Complete Quest: {quest_name}"
-        loc_id = WoWAirbreatherWorld.location_name_to_id[loc_name]
-        self.loc = Location(player, loc_name, loc_id, self)
-        self.locations.append(self.loc)
-
-        # use a fake location to track dependencies
-        fake_loc = Location(player, f"{loc_name}_", parent=self)
-        fake_loc.place_locked_item(self.completion_event)
-        fake_loc.show_in_spoiler = False
-        self.locations.append(fake_loc)
-
-    def has_completed_quest(self):
-        return Has(self.completion_event.name)
+        super().__init__(f"Slot {slot_number} - {race_and_class}", player, multiworld, hint)
+        self.slot_number = slot_number
+        self.race_and_class = race_and_class
 
 
-class WoWAirbreatherLevelRegion(Region):
-    level: int
-    completion_event: Item
-    loc: Location
+def create_item_name_to_id():
+    result: dict[str, int] = {
+        "1 Gold": 99998,
+    }
 
-    def __init__(self, level: int, player: int, multiworld: MultiWorld, hint: str | None = None):
-        super().__init__(f"Reach Level {level}", player, multiworld, hint)
-        self.level = level
+    for slot_index in range(6):
+        slot_number = slot_index + 1
+        slot_location_id_base = slot_number * 1000
+        result[f"Slot {slot_number} - Progressive Level Cap"] = slot_location_id_base + 1
 
-        if level == 1:
-            return
+    return result
 
-        self.completion_event = Item(f"Reached Level {level}", ItemClassification.progression, None, player)
 
-        loc_name = f"Reach Level {level}"
-        loc_id = WoWAirbreatherWorld.location_name_to_id[loc_name]
-        self.loc = Location(player, loc_name, loc_id, self)
-        self.locations.append(self.loc)
+def create_location_name_to_id():
+    result: dict[str, int] = { }
 
-        # use a fake location to track dependencies
-        fake_loc = Location(player, f"{loc_name}_", parent=self)
-        fake_loc.place_locked_item(self.completion_event)
-        fake_loc.show_in_spoiler = False
-        self.locations.append(fake_loc)
+    for slot_index in range(6):
+        slot_number = slot_index + 1
+        slot_location_id_base = slot_number * 1000
+        result[f"Slot {slot_number} - Complete Capstone Quest"] = slot_location_id_base + 1
+        for level in range(2, 13):
+            result[f"Slot {slot_number} - Reach Level {level}"] = slot_location_id_base + level
 
-    def has_reached_level(self):
-        return Has(self.completion_event.name)
+    return result
 
 
 class WoWAirbreatherWorld(World):
@@ -69,192 +58,90 @@ class WoWAirbreatherWorld(World):
     options_dataclass = WowAirbreatherGameOptions
     options: WowAirbreatherGameOptions
 
-    item_name_to_id: ClassVar[dict[str, int]] = {
-        "Progressive Level Cap": 1,
-        "Unlock Quest: Kobold Camp Cleanup [7]": 2,
-        "Unlock Quest: Investigate Echo Ridge [15]": 3,
-        "Unlock Quest: Skirmish at Echo Ridge [21]": 4,
-        "Unlock Quest: Report to Goldshire [54]": 5,
-        "Unlock Quest: Eagan Peltskinner [5261]": 6,
-        "Unlock Quest: Wolves Across the Border [33]": 7,
-        "Unlock Quest: Milly Osworth [3903]": 8,
-        "Unlock Quest: Milly's Harvest [3904]": 9,
-        "Unlock Quest: Grape Manifest [3905]": 10,
-        "Unlock Quest: Brotherhood of Thieves [18]": 11,
-        "Unlock Quest: Bounty on Garrick Padfoot [6]": 12,
-        "Unlock Quest: Tainted Letter [3105]": 13,
-        "Unlock Quest: The Stolen Tome [1598]": 14,
-        "Spell: Summon Imp": 99999,
-        "1 Gold": 99998,
-    }
-    location_name_to_id : ClassVar[dict[str, int]] = {
-        "Complete Quest: A Threat Within [783]": 1,
-        "Complete Quest: Kobold Camp Cleanup [7]": 2,
-        "Complete Quest: Investigate Echo Ridge [15]": 3,
-        "Complete Quest: Skirmish at Echo Ridge [21]": 4,
-        "Complete Quest: Report to Goldshire [54]": 5,
-        "Complete Quest: Eagan Peltskinner [5261]": 6,
-        "Complete Quest: Wolves Across the Border [33]": 7,
-        "Complete Quest: Milly Osworth [3903]": 8,
-        "Complete Quest: Milly's Harvest [3904]": 9,
-        "Complete Quest: Grape Manifest [3905]": 10,
-        "Complete Quest: Brotherhood of Thieves [18]": 11,
-        "Complete Quest: Bounty on Garrick Padfoot [6]": 12,
-        "Complete Quest: Tainted Letter [3105]": 13,
-        "Complete Quest: The Stolen Tome [1598]": 14,
-        "Reach Level 1": 99001,
-        "Reach Level 2": 99002,
-        "Reach Level 3": 99003,
-        "Reach Level 4": 99004,
-        "Reach Level 5": 99005,
-        "Reach Level 6": 99006,
-        "Reach Level 7": 99007,
-    }
+    item_name_to_id = create_item_name_to_id()
+    location_name_to_id = create_location_name_to_id()
+
+    slots: list[RaceAndClass]
 
     def __init__(self, multiworld, player):
         super().__init__(multiworld, player)
+        self.slots = []
 
     def generate_early(self):
-        pass
+        # start by picking the 6 classes
+        classes = [clazz for clazz in ALL_CLASSES if clazz != "Death Knight"]
+        self.multiworld.random.shuffle(classes)
+        for clazz in classes[:6]:
+            self.slots.append(self.multiworld.random.choice([
+                race_and_class for race_and_class in RACES_AND_CLASSES if race_and_class.clazz == clazz
+            ]))
+        for _ in range(2):
+            self.multiworld.push_precollected(self.create_item("Slot 1 - Progressive Level Cap"))
 
     def create_item(self, name: str):
         item_id = WoWAirbreatherWorld.item_name_to_id[name]
         classification = \
-            ItemClassification.progression if 1 <= item_id <= 14 \
-            else ItemClassification.filler
+            ItemClassification.filler if item_id == 99998 \
+            else ItemClassification.progression
 
         return Item(name, classification, item_id, self.player)
 
     def create_items(self):
-        new_items = [self.create_item(item_name)
-                     for item_name in WoWAirbreatherWorld.item_name_to_id
-                     if item_name != "1 Gold" and (
-                             item_name != "Spell: Summon Imp" or
-                             self.options.using_mod_individual_progression)
-                     ]
-
-        for _ in range(2, 7):
-            item = self.create_item("Progressive Level Cap")
-            item.classification |= ItemClassification.deprioritized
-            new_items.append(item)
-
-        self.multiworld.itempool += new_items
-
-    def __quest_region(self, quest_name: str) -> WoWAirbreatherQuestRegion:
-        reg = WoWAirbreatherQuestRegion(quest_name, self.player, self.multiworld)
-        self.multiworld.regions.append(reg)
-        return reg
-
-    def __level_region(self, level: int) -> WoWAirbreatherLevelRegion:
-        reg = WoWAirbreatherLevelRegion(level, self.player, self.multiworld)
-        self.multiworld.regions.append(reg)
-        return reg
+        for slot_index in range(6):
+            slot_number = slot_index + 1
+            for level_index in range(12):
+                if slot_index == 0 and level_index < 2:
+                    # first 2 progressive level caps are already precollected.
+                    # we need to balance locations and items, though, so...
+                    self.multiworld.itempool.append(self.create_item("1 Gold"))
+                else:
+                    self.multiworld.itempool.append(self.create_item(f"Slot {slot_number} - Progressive Level Cap"))
 
     def create_regions(self):
-        level1_region = self.__level_region(1)
-        self.origin_region_name = level1_region.name
-        level2_region = self.__level_region(2)
-        level1_region.connect(level2_region, rule=Has("Progressive Level Cap", 1))
-        prev_level_region = level2_region
-        for lvl in range(3, 8):
-            next_region = self.__level_region(lvl)
-            prev_level_region.connect(next_region, rule=And(
-                prev_level_region.has_reached_level(),
-                Has("Progressive Level Cap", lvl - 1),
-            ))
-            prev_level_region = next_region
+        origin_region = Region("Menu", self.player, self.multiworld)
+        self.multiworld.regions.append(origin_region)
+        self.origin_region_name = origin_region.name
+        goal_completion_rules: list[Rule] = []
 
-        # goal: complete the Report to Goldshire quest
-        goldshire_quest_region = self.__quest_region("Report to Goldshire [54]")
-        self.set_completion_rule(goldshire_quest_region.has_completed_quest())
+        for slot_index in range(6):
+            slot = self.slots[slot_index]
+            slot_number = slot_index + 1
+            slot_region = WoWCharacterSlotRegion(slot_number, slot, self.player, self.multiworld)
+            origin_region.connect(slot_region, rule=Has(f"Slot {slot_number} - Progressive Level Cap"))
+            capstone_quest_location_name = f"Slot {slot_number} - Complete Capstone Quest"
+            capstone_quest_location = Location(
+                self.player,
+                capstone_quest_location_name,
+                self.location_name_to_id[capstone_quest_location_name],
+                slot_region,
+            )
+            slot_region.locations.append(capstone_quest_location)
+            goal_completion_rules.append(CanReachLocation(capstone_quest_location_name, slot_region.name))
 
-        # that quest has a straight line of prerequisites
-        skirmish_quest_region = self.__quest_region("Skirmish at Echo Ridge [21]")
-        skirmish_quest_region.connect(goldshire_quest_region, rule=And(
-            skirmish_quest_region.has_completed_quest(),
-            Has("Unlock Quest: Report to Goldshire [54]")
-        ))
+            for level in range(2, 13):
+                level_location_name = f"Slot {slot_number} - Reach Level {level}"
+                level_location = Location(
+                    self.player,
+                    level_location_name,
+                    self.location_name_to_id[level_location_name],
+                    slot_region,
+                )
+                slot_region.locations.append(level_location)
+                if level == slot.capstone_quest_level:
+                    self.set_rule(capstone_quest_location, CanReachLocation(level_location_name, slot_region.name))
+                self.set_rule(level_location, Has(f"Slot {slot_number} - Progressive Level Cap", level))
+                if level == 12:
+                    goal_completion_rules.append(CanReachLocation(level_location_name, slot_region.name))
+            self.multiworld.regions.append(slot_region)
 
-        investigate_quest_region = self.__quest_region("Investigate Echo Ridge [15]")
-        investigate_quest_region.connect(skirmish_quest_region, rule=And(
-            investigate_quest_region.has_completed_quest(),
-            Has("Unlock Quest: Skirmish at Echo Ridge [21]")
-        ))
-
-        cleanup_quest_region = self.__quest_region("Kobold Camp Cleanup [7]")
-        cleanup_quest_region.connect(investigate_quest_region, rule=And(
-            cleanup_quest_region.has_completed_quest(),
-            Has("Unlock Quest: Investigate Echo Ridge [15]")
-        ))
-
-        initial_quest_region = self.__quest_region("A Threat Within [783]")
-        initial_quest_region.connect(cleanup_quest_region, rule=And(
-            initial_quest_region.has_completed_quest(),
-            Has("Unlock Quest: Kobold Camp Cleanup [7]")
-        ))
-
-        level1_region.connect(initial_quest_region)
-
-        # Grape Manifest ends an optional quest line
-        grape_quest_region = self.__quest_region("Grape Manifest [3905]")
-
-        harvest_quest_region = self.__quest_region("Milly's Harvest [3904]")
-        harvest_quest_region.connect(grape_quest_region, rule=And(
-            harvest_quest_region.has_completed_quest(),
-            Has("Unlock Quest: Grape Manifest [3905]")
-        ))
-
-        milly_quest_region = self.__quest_region("Milly Osworth [3903]")
-        milly_quest_region.connect(harvest_quest_region, rule=And(
-            milly_quest_region.has_completed_quest(),
-            Has("Unlock Quest: Milly's Harvest [3904]")
-        ))
-
-        wolves_quest_region = self.__quest_region("Wolves Across the Border [33]")
-        wolves_quest_region.connect(milly_quest_region, rule=And(
-            wolves_quest_region.has_completed_quest(),
-            Has("Progressive Level Cap", 1),
-            Has("Unlock Quest: Milly Osworth [3903]")
-        ))
-
-        eagan_quest_region = self.__quest_region("Eagan Peltskinner [5261]")
-        eagan_quest_region.connect(wolves_quest_region, rule=And(
-            eagan_quest_region.has_completed_quest(),
-            Has("Unlock Quest: Wolves Across the Border [33]")
-        ))
-
-        initial_quest_region.connect(eagan_quest_region, rule=And(
-            initial_quest_region.has_completed_quest(),
-            Has("Unlock Quest: Eagan Peltskinner [5261]")
-        ))
-
-        # Bounty on Garrick Padfoot ends an optional quest line
-        garrick_quest_region = self.__quest_region("Bounty on Garrick Padfoot [6]")
-
-        brotherhood_quest_region = self.__quest_region("Brotherhood of Thieves [18]")
-        brotherhood_quest_region.connect(garrick_quest_region, rule=And(
-            brotherhood_quest_region.has_completed_quest(),
-            Has("Unlock Quest: Bounty on Garrick Padfoot [6]")
-        ))
-
-        initial_quest_region.connect(brotherhood_quest_region, rule=And(
-            initial_quest_region.has_completed_quest(),
-            Has("Progressive Level Cap", 1),
-            Has("Unlock Quest: Brotherhood of Thieves [18]")
-        ))
-
-        # Tainted Letter ends an optional quest line
-        warlock_letter_region = self.__quest_region("Tainted Letter [3105]")
-
-        cleanup_quest_region.connect(warlock_letter_region, rule=And(
-            cleanup_quest_region.has_completed_quest(),
-            Has("Unlock Quest: Tainted Letter [3105]")
-        ))
-
-        if self.options.using_mod_individual_progression:
-            stolen_tome_region = self.__quest_region("The Stolen Tome [1598]")
-            level1_region.connect(stolen_tome_region, rule=Has("Unlock Quest: The Stolen Tome [1598]"))
+        # goal: complete all capstone quests and reach level 12 in all slots.
+        self.set_completion_rule(And(*goal_completion_rules))
 
     def get_filler_item_name(self):
         assert "1 Gold" in self.item_name_to_id
         return "1 Gold"
+
+    def fill_slot_data(self):
+        return {
+            "ap_id": str(uuid.uuid4()),
+        }
