@@ -11,12 +11,10 @@ GAME_NAME = "World of Warcraft - airbreather Variant"
 LEVEL_CAP_INCREMENTS = [4, 6, 8, 10, 12]
 
 class WoWCharacterSlotRegion(Region):
-    slot_number: int
     race_and_class: RaceAndClass
 
-    def __init__(self, slot_number: int, race_and_class: RaceAndClass, player: int, multiworld: MultiWorld):
-        super().__init__(f"Slot {slot_number} - {race_and_class}", player, multiworld)
-        self.slot_number = slot_number
+    def __init__(self, race_and_class: RaceAndClass, player: int, multiworld: MultiWorld):
+        super().__init__(str(race_and_class), player, multiworld)
         self.race_and_class = race_and_class
 
 
@@ -25,10 +23,8 @@ def create_item_name_to_id():
         "1 Gold": 99998,
     }
 
-    for slot_index in range(6):
-        slot_number = slot_index + 1
-        slot_location_id_base = slot_number * 1000
-        result[f"Slot {slot_number} - Progressive Level Cap"] = slot_location_id_base + 1
+    for race_and_class in RACES_AND_CLASSES:
+        result[f"{race_and_class} - Progressive Level Cap"] = len(result) + 1
 
     return result
 
@@ -36,12 +32,10 @@ def create_item_name_to_id():
 def create_location_name_to_id():
     result: dict[str, int] = { }
 
-    for slot_index in range(6):
-        slot_number = slot_index + 1
-        slot_location_id_base = slot_number * 1000
-        result[f"Slot {slot_number} - Complete Capstone Quest"] = slot_location_id_base
+    for race_and_class in RACES_AND_CLASSES:
+        result[f"{race_and_class} - Complete Capstone Quest"] = len(result) + 1
         for level in range(2, 13):
-            result[f"Slot {slot_number} - Reach Level {level}"] = slot_location_id_base + level
+            result[f"{race_and_class} - Reach Level {level}"] = len(result) + 1
 
     return result
 
@@ -56,7 +50,6 @@ class WoWAirbreatherWorld(World):
     game = GAME_NAME
     options_dataclass = WowAirbreatherGameOptions
     options: WowAirbreatherGameOptions
-    topology_present = True # only so the spoiler shows the race/class per slot.
 
     item_name_to_id = create_item_name_to_id()
     location_name_to_id = create_location_name_to_id()
@@ -75,7 +68,7 @@ class WoWAirbreatherWorld(World):
             self.slots.append(self.multiworld.random.choice([
                 race_and_class for race_and_class in RACES_AND_CLASSES if race_and_class.clazz == clazz
             ]))
-        self.multiworld.push_precollected(self.create_item("Slot 1 - Progressive Level Cap"))
+        self.multiworld.push_precollected(self.create_item(f"{self.slots[0]} - Progressive Level Cap"))
 
     def create_item(self, name: str):
         item_id = WoWAirbreatherWorld.item_name_to_id[name]
@@ -86,13 +79,12 @@ class WoWAirbreatherWorld(World):
         return Item(name, classification, item_id, self.player)
 
     def create_items(self):
-        for slot_index in range(6):
-            slot_number = slot_index + 1
+        for slot in self.slots:
             for level in range(2, 13):
                 # only add progressive level cap items for the ones that are NEEDED to reach their
                 # corresponding milestones.
                 if level in LEVEL_CAP_INCREMENTS:
-                    self.multiworld.itempool.append(self.create_item(f"Slot {slot_number} - Progressive Level Cap"))
+                    self.multiworld.itempool.append(self.create_item(f"{slot} - Progressive Level Cap"))
                 else:
                     # we're going to add locations for all levels. locations and items need to be
                     # balanced, so add fillers to balance that out
@@ -106,12 +98,10 @@ class WoWAirbreatherWorld(World):
         self.origin_region_name = origin_region.name
         goal_completion_rules: list[Rule] = []
 
-        for slot_index in range(6):
-            slot = self.slots[slot_index]
-            slot_number = slot_index + 1
-            slot_region = WoWCharacterSlotRegion(slot_number, slot, self.player, self.multiworld)
-            origin_region.connect(slot_region, rule=Has(f"Slot {slot_number} - Progressive Level Cap"))
-            capstone_quest_location_name = f"Slot {slot_number} - Complete Capstone Quest"
+        for slot in self.slots:
+            slot_region = WoWCharacterSlotRegion(slot, self.player, self.multiworld)
+            origin_region.connect(slot_region, rule=Has(f"{slot} - Progressive Level Cap"))
+            capstone_quest_location_name = f"{slot} - Complete Capstone Quest"
             capstone_quest_location = Location(
                 self.player,
                 capstone_quest_location_name,
@@ -120,7 +110,7 @@ class WoWAirbreatherWorld(World):
             )
 
             for level in range(2, 13):
-                level_location_name = f"Slot {slot_number} - Reach Level {level}"
+                level_location_name = f"{slot} - Reach Level {level}"
                 level_location = Location(
                     self.player,
                     level_location_name,
@@ -133,7 +123,7 @@ class WoWAirbreatherWorld(World):
                     goal_completion_rules.append(CanReachLocation(capstone_quest_location_name, slot_region.name))
                     self.set_rule(capstone_quest_location, CanReachLocation(level_location_name, slot_region.name))
                 level_caps_needed = level_caps_needed_for_level(level)
-                self.set_rule(level_location, Has(f"Slot {slot_number} - Progressive Level Cap", level_caps_needed))
+                self.set_rule(level_location, Has(f"{slot} - Progressive Level Cap", level_caps_needed))
                 if level == 12:
                     goal_completion_rules.append(CanReachLocation(level_location_name, slot_region.name))
             self.multiworld.regions.append(slot_region)
@@ -148,5 +138,4 @@ class WoWAirbreatherWorld(World):
     def fill_slot_data(self):
         return {
             "ap_id": str(uuid.uuid4()),
-            "slots": [{ "race": slot.race, "clazz": slot.clazz } for slot in self.slots],
         }
