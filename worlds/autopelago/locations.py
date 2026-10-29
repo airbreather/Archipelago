@@ -2,10 +2,7 @@ from collections import deque
 
 from .definitions_types import (
     AutopelagoAllRequirement,
-    AutopelagoAnyRequirement,
-    AutopelagoAnyTwoRequirement,
     AutopelagoGameRequirement,
-    AutopelagoItemRequirement,
     AutopelagoNonProgressionItemType,
     AutopelagoRegionDefinition,
 )
@@ -23,7 +20,7 @@ for k, curr_region in defs["regions"]["landmarks"].items():
     _name = curr_region["name"]
     location_name_to_id[_name] = next(_location_id_gen)
     location_name_to_progression_item_name[_name] = item_key_to_name[curr_region["unrandomized_item"]]
-    exits: list[str] = curr_region["exits"] if "exits" in curr_region else []
+    exits: list[str] = curr_region.get("exits") or []
     autopelago_regions[k] = AutopelagoRegionDefinition(k, exits, [_name], curr_region["requires"], True)
 
 # build regions for fillers. these don't have any special requirements beyond region connections.
@@ -51,13 +48,13 @@ for rk, curr_region in defs["regions"]["fillers"].items():
                 location_name_to_progression_item_name[_name] = item_key_to_name[k["item"]]
                 _locations.append(_name)
                 _cur += 1
-    for _ in range(region_items["useful_nonprogression"]) if "useful_nonprogression" in region_items else []:
+    for _ in range(region_items.get("useful_nonprogression") or 0):
         _name = curr_region["name_template"].replace("{n}", f"{_cur}")
         location_name_to_id[_name] = next(_location_id_gen)
         location_name_to_nonprogression_item[_name] = "useful_nonprogression"
         _locations.append(_name)
         _cur += 1
-    for _ in range(region_items["filler"]) if "filler" in region_items else []:
+    for _ in range(region_items.get("filler") or 0):
         _name = curr_region["name_template"].replace("{n}", f"{_cur}")
         location_name_to_id[_name] = next(_location_id_gen)
         location_name_to_nonprogression_item[_name] = "filler"
@@ -66,12 +63,15 @@ for rk, curr_region in defs["regions"]["fillers"].items():
     autopelago_regions[rk] = AutopelagoRegionDefinition(rk, curr_region["exits"], _locations, _no_requirement, False)
 
 
-def _get_required_rat_count(req: AutopelagoGameRequirement):
+def _get_required_rat_count(req: AutopelagoGameRequirement) -> int:
     if "all" in req:
+        assert isinstance(req["all"], list)
         return max(_get_required_rat_count(sub_req) for sub_req in req["all"]) if req["all"] else 0
     if "any" in req:
+        assert isinstance(req["any"], list)
         return min(_get_required_rat_count(sub_req) for sub_req in req["any"])
     if "rat_count" in req:
+        assert isinstance(req["rat_count"], int)
         return req["rat_count"]
     return 0
 
@@ -99,18 +99,18 @@ location_name_groups: dict[str, set[str]] = {
 
 def _visit_for_items(group_name: str, req: AutopelagoGameRequirement):
     if "item" in req:
-        req: AutopelagoItemRequirement
+        assert isinstance(req["item"], str)
         item_name_groups[group_name].add(item_key_to_name[req["item"]])
     elif "all" in req:
-        req: AutopelagoAllRequirement
+        assert isinstance(req["all"], list)
         for sub_req in req["all"]:
             _visit_for_items(group_name, sub_req)
     elif "any" in req:
-        req: AutopelagoAnyRequirement
+        assert isinstance(req["any"], list)
         for sub_req in req["any"]:
             _visit_for_items(group_name, sub_req)
     elif "any_two" in req:
-        req: AutopelagoAnyTwoRequirement
+        assert isinstance(req["any_two"], list)
         for sub_req in req["any_two"]:
             _visit_for_items(group_name, sub_req)
 
@@ -118,7 +118,7 @@ def _visit_for_items(group_name: str, req: AutopelagoGameRequirement):
 q: deque[tuple[str, AutopelagoRegionDefinition | None, AutopelagoRegionDefinition]] = deque()
 q.append(("Sewer", None, autopelago_regions["before_basketball"]))
 while q:
-    prev_region_from_q: AutopelagoRegionDefinition
+    prev_region_from_q: AutopelagoRegionDefinition | None
     curr_region_from_q: AutopelagoRegionDefinition
     zone, prev_region_from_q, curr_region_from_q = q.popleft()
     _visit_for_items(f"{zone} Progression", curr_region_from_q.requires)
@@ -143,6 +143,7 @@ while q:
 
         if not next_regions:
             location_name_groups["Optional Bosses"].add(loc)
+            assert prev_region_from_q, "the very first region should not be an optional boss"
             for prev_loc in prev_region_from_q.locations:
                 location_name_groups["Optional Fillers"].add(prev_loc)
 

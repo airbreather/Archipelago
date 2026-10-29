@@ -1,28 +1,14 @@
-﻿from collections.abc import Iterable
-from typing import TypedDict, TypeVar
-
-from typing_extensions import Unpack
+﻿from itertools import combinations
+from typing import TypeVar, override
 
 from test.bases import WorldTestBase
 
 T = TypeVar("T")
 
-
-def all_pairwise_combinations(*possible_items: T) -> Iterable[tuple[T, T]]:
-    for i in range(1, len(possible_items)):
-        second = possible_items[i]
-        for j in range(i):
-            first = possible_items[j]
-            yield first, second
-
-
-class CollectKwargs(TypedDict):
-    collect: bool | None
-
-
 class AccessTest(WorldTestBase):
     game = "Autopelago"
 
+    @override
     def setUp(self):
         super().setUp()
         self.pack_rat = self.world.create_item("Pack Rat")
@@ -34,19 +20,19 @@ class AccessTest(WorldTestBase):
     def remove_rats(self, rat_count: int):
         self.remove(self.pack_rat for _ in range(rat_count))
 
-    def assert_and_collect_access_dependency_from_here(self, location: str, *possible_items: str | list[str],
-                                                       **kwargs: Unpack[CollectKwargs]):
+    def assert_and_collect_access_dependency_from_here(self, location: str, *possible_items: str | tuple[str, str],
+                                                       collect: bool = True):
         for original_item_list in possible_items:
             item_list = (original_item_list,) if isinstance(original_item_list, str) else original_item_list
             self.collect_by_name(item_list[:-1])
             self.assertFalse(self.can_reach_location(location))
             self.collect_by_name(item_list[-1])
             self.assertTrue(self.can_reach_location(location))
-            self.remove_by_name(item_list)
-        if ("collect" not in kwargs) or kwargs["collect"]:
+            self.remove_by_name(item_list) # assumption: these didn't duplicate others that were previously collected
+        if collect:
             self.collect_by_name(possible_items[0])
 
-    def assert_and_collect_additional_rats_from_here(self, location: str, rat_count: int, collect=True):
+    def assert_and_collect_additional_rats_from_here(self, location: str, rat_count: int, collect: bool = True):
         self.collect_rats(max(0, rat_count - 5))
         self.assertFalse(self.can_reach_location(location))
         self.collect(self.rat_pack)
@@ -94,9 +80,9 @@ class AccessTest(WorldTestBase):
 
         # World 3
         self.assert_and_collect_access_dependency_from_here(
-            "Makeshift Rocket Ship", *all_pairwise_combinations(
+            "Makeshift Rocket Ship", *combinations((
             "Energy Drink that is Pure Rocket Fuel", "Pile of Scrap Metal in the Shape of a Rocket Ship",
-            "Ratstronaut", "Turbo Encabulator"))
+            "Ratstronaut", "Turbo Encabulator"), 2))
         self.assert_and_collect_access_dependency_from_here(
             "Robo-Clop: The Robot War Horse", "Quantum Sugar Cube")
         self.assert_and_collect_access_dependency_from_here(
@@ -151,9 +137,9 @@ class AccessTest(WorldTestBase):
 
         # World 3
         self.assert_and_collect_access_dependency_from_here(
-            "Makeshift Rocket Ship", *all_pairwise_combinations(
+            "Makeshift Rocket Ship", *combinations((
             "Energy Drink that is Pure Rocket Fuel", "Pile of Scrap Metal in the Shape of a Rocket Ship",
-            "Ratstronaut", "Turbo Encabulator"))
+            "Ratstronaut", "Turbo Encabulator"), 2))
         self.assert_and_collect_access_dependency_from_here(
             "Robo-Clop: The Robot War Horse", "Quantum Sugar Cube")
         self.assert_and_collect_additional_rats_from_here(

@@ -2,30 +2,28 @@ import typing
 from collections import deque
 from collections.abc import Iterable
 from math import ceil
-from typing import TypeVar
+from typing import TypeVar, override
 
 from BaseClasses import Item, ItemClassification, Location, MultiWorld, Region, Tutorial
 from Options import OptionGroup
-from rule_builder.rules import And, AtLeast, CanReachRegion, Has, Or, Rule, True_
+from rule_builder.rules import And, AtLeast, CanReachRegion, Has, Or, Rule
 from worlds.AutoWorld import WebWorld, World
 
 from .custom_rules import HasRatCount
 from .definitions_types import (
     Aura,
-    AutopelagoAllRequirement,
-    AutopelagoAnyRequirement,
-    AutopelagoAnyTwoRequirement,
     AutopelagoGameRequirement,
-    AutopelagoItemRequirement,
     AutopelagoNonProgressionItemType,
-    AutopelagoRatCountRequirement,
     AutopelagoRegionDefinition,
 )
 from .items import (
     ENABLED_AURA_SCORE_THRESHOLD,
     classify_item_by_score,
+    item_key_to_name,
+    item_name_groups,
     item_name_to_auras,
     item_name_to_id,
+    item_name_to_rat_count,
     items_by_game,
     lactose_intolerant_names,
     names_with_lactose,
@@ -35,9 +33,6 @@ from .items import (
 )
 from .locations import (
     autopelago_regions,
-    item_key_to_name,
-    item_name_groups,
-    item_name_to_rat_count,
     location_name_groups,
     location_name_to_id,
     location_name_to_nonprogression_item,
@@ -61,27 +56,26 @@ from .options import (
     RemindBKModeMessages,
     VictoryLocation,
 )
-from .util import GAME_NAME
+from .util import GAME_NAME as GAME_NAME
 
 T = TypeVar("T")
 
 
 def _to_rule(req: AutopelagoGameRequirement) -> Rule:
     if "all" in req:
-        req: AutopelagoAllRequirement
+        assert isinstance(req["all"], list)
         return And(*(_to_rule(sub_req) for sub_req in req["all"]))
     if "any" in req:
-        req: AutopelagoAnyRequirement
+        assert isinstance(req["any"], list)
         return Or(*(_to_rule(sub_req) for sub_req in req["any"]))
     if "any_two" in req:
-        req: AutopelagoAnyTwoRequirement
+        assert isinstance(req["any_two"], list)
         return AtLeast(2, *(_to_rule(sub_req) for sub_req in req["any_two"]))
     if "item" in req:
-        req: AutopelagoItemRequirement
+        assert isinstance(req["item"], str)
         return Has(item_key_to_name[req["item"]])
     assert "rat_count" in req, "Only AutopelagoRatCountRequirement is expected here"
-    req: AutopelagoRatCountRequirement
-    return HasRatCount(req["rat_count"]) if req["rat_count"] > 0 else True_()
+    return HasRatCount(req["rat_count"])
 
 
 class AutopelagoItem(Item):
@@ -115,14 +109,6 @@ class AutopelagoRegion(Region):
 class AutopelagoWebWorld(WebWorld):
     theme = "partyTime"
     rich_text_options_doc = True
-    tutorials: typing.ClassVar[list[Tutorial]] = [Tutorial(
-        tutorial_name="Setup Guide",
-        description="A guide to playing Autopelago",
-        language="English",
-        file_name="setup_en.md",
-        link="guide/en",
-        authors=["airbreather"]
-    )]
     option_groups: typing.ClassVar[list[OptionGroup]] = [
         OptionGroup("Death Settings", [
             DeathLink,
@@ -140,6 +126,17 @@ class AutopelagoWebWorld(WebWorld):
         ]),
     ]
 
+    def __init__(self):
+        super().__init__()
+        self.tutorials = [Tutorial(
+            tutorial_name="Setup Guide",
+            description="A guide to playing Autopelago",
+            language="English",
+            file_name="setup_en.md",
+            link="guide/en",
+            authors=["airbreather"]
+        )]
+
 
 class AutopelagoWorld(World):
     """
@@ -151,7 +148,8 @@ class AutopelagoWorld(World):
     origin_region_name = "before_basketball"
     web = AutopelagoWebWorld()
     options_dataclass = AutopelagoGameOptions
-    options: AutopelagoGameOptions
+    # pyrefly: ignore[bad-override-mutable-attribute]
+    options: AutopelagoGameOptions # pyright: ignore[reportIncompatibleVariableOverride]
     victory_location: str
     regions_in_scope: set[str]
     locations_in_scope: set[str]
@@ -167,7 +165,7 @@ class AutopelagoWorld(World):
     item_name_groups = item_name_groups
     location_name_groups = location_name_groups
 
-    def __init__(self, multiworld, player):
+    def __init__(self, multiworld: MultiWorld, player: int):
         self.enabled_auras = set()
         super().__init__(multiworld, player)
 
@@ -176,6 +174,7 @@ class AutopelagoWorld(World):
     # - location_descriptions
     # - hint_blacklist (should it include the goal item?)
 
+    @override
     def generate_early(self):
         self.enabled_auras.clear()
         for aura in self.options.enabled_buffs.value:
@@ -184,7 +183,7 @@ class AutopelagoWorld(World):
             self.enabled_auras.add(EnabledTraps.map[aura])
         self.enabled_auras_by_item_id = {}
         for name, auras in item_name_to_auras.items():
-            enabled_auras = [aura for aura in auras if aura in self.enabled_auras]
+            enabled_auras: list[Aura] = [aura for aura in auras if aura in self.enabled_auras]
             if enabled_auras:
                 self.enabled_auras_by_item_id[item_name_to_id[name]] = enabled_auras
 
@@ -217,6 +216,7 @@ class AutopelagoWorld(World):
                 self.regions_in_scope.add(next_exit)
                 q.append(next_exit)
 
+    @override
     def create_item(self, name: str):
         item_id = item_name_to_id[name]
         classification = \
@@ -224,6 +224,7 @@ class AutopelagoWorld(World):
             classify_item_by_score(score_item_by_auras(name, self.enabled_auras))
         return AutopelagoItem(name, classification, item_id, self.player)
 
+    @override
     def create_items(self):
         new_items = [self.create_item(item)
                      for location, item in location_name_to_progression_item_name.items()
@@ -277,7 +278,7 @@ class AutopelagoWorld(World):
             item_type = original_item_type
             if item_type == "filler":
                 if next_filler_becomes_trap:
-                    item_type: AutopelagoNonProgressionItemType = "trap"
+                    item_type = "trap"
                 next_filler_becomes_trap = not next_filler_becomes_trap
 
             item_pool = item_pools[item_type]
@@ -308,6 +309,7 @@ class AutopelagoWorld(World):
             for item_name in item_names
         )
 
+    @override
     def create_regions(self):
         victory_region = Region("Victory", self.player, self.multiworld)
         self.multiworld.regions.append(victory_region)
@@ -325,10 +327,12 @@ class AutopelagoWorld(World):
                 if next_exit in new_regions:
                     r.connect(new_regions[next_exit], rule=new_regions[next_exit].rule)
 
+    @override
     def get_filler_item_name(self):
         assert "Nothing" in self.item_name_to_id
         return "Nothing"
 
+    @override
     def fill_slot_data(self):
         return {
             # version_stamp was more important in versions where you had to download an EXE file and
@@ -372,16 +376,16 @@ class AutopelagoWorld(World):
         slot that expects an item of a given type.
         """
         items_for_base_game = self._shuffled(items_by_game[GAME_NAME])
-        included_games = set(self.multiworld.game.values()) - { GAME_NAME }
+        included_games = set(self.multiworld.game.values())
         items_for_included_games = self._shuffled(
-            item for g, items in items_by_game.items()
-                for item in items
-            if g in included_games
+            item for g, game_items in items_by_game.items()
+                for item in game_items
+            if g in included_games and g != GAME_NAME
         )
         items_for_excluded_games = self._shuffled(
-            item for g, items in items_by_game.items()
-                for item in items
-            if g not in included_games
+            item for g, game_items in items_by_game.items()
+                for item in game_items
+            if g not in included_games and g != GAME_NAME
         )
 
         # all ideal items (true buffs when we're asked for buffs, true traps when we're asked for
@@ -394,27 +398,27 @@ class AutopelagoWorld(World):
         # "true filler" = an item whose enabled aura effects cancel out AND whose disabled aura
         #                 effects also cancel out.
         # the remaining items are fillers, but not "true"
-        items: list[str] = []
+        sorted_candidate_items: list[str] = []
         for items_list in (items_for_included_games, items_for_base_game):
-            items += (
+            sorted_candidate_items += (
                 item for item in items_list
                 if self._distance_from_ideal(item_type, item) == 0
             )
 
         # if item_type is "filler", then now is the time to add the non-"true" ones.
         for items_list in (items_for_included_games, items_for_base_game):
-            items += (
+            sorted_candidate_items += (
                 item for item in items_list
                 if 0 < self._distance_from_ideal(item_type, item) < ENABLED_AURA_SCORE_THRESHOLD
             )
 
         # fill in the values for excluded games as a last resort before we move onto things like
         # yielding fillers when we're asked for traps / buffs
-        items += (
+        sorted_candidate_items += (
                 item for item in items_for_excluded_games
                 if self._distance_from_ideal(item_type, item) == 0
         )
-        items += (
+        sorted_candidate_items += (
                 item for item in items_for_excluded_games
                 if 0 < self._distance_from_ideal(item_type, item) < ENABLED_AURA_SCORE_THRESHOLD
         )
@@ -425,11 +429,11 @@ class AutopelagoWorld(World):
         # might even need to go beyond the fillers, so let's just extend this out to EVERYTHING that
         # we can POSSIBLY draw from.
         for items_list in (items_for_included_games, items_for_base_game, items_for_excluded_games):
-            items += sorted((
+            sorted_candidate_items += sorted((
                 item for item in items_list
                 if self._distance_from_ideal(item_type, item) >= ENABLED_AURA_SCORE_THRESHOLD
             ), key=lambda val: self._distance_from_ideal(item_type, val))
-        return items
+        return sorted_candidate_items
 
     def _distance_from_ideal(self, item_type: AutopelagoNonProgressionItemType, item: str):
         score = score_item_by_auras(item, self.enabled_auras)
@@ -441,7 +445,7 @@ class AutopelagoWorld(World):
             case _:
                 return abs(score)
 
-    def _shuffled(self, items: Iterable[T]) -> list[T]:
-        to_shuffle = list(items)
-        self.multiworld.random.shuffle(to_shuffle)
-        return to_shuffle
+    def _shuffled(self, to_shuffle: Iterable[T]) -> list[T]:
+        to_shuffle_list = list(to_shuffle)
+        self.multiworld.random.shuffle(to_shuffle_list)
+        return to_shuffle_list

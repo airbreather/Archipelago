@@ -1,14 +1,15 @@
-﻿from typing import cast
+﻿from typing import cast, override
 
 from test.bases import WorldTestBase
 from worlds.autopelago import GAME_NAME, AutopelagoWorld
 
 
-class RegressionTestBase(WorldTestBase):
+class MoonShoesAtVictoryLocationRegressionTest(WorldTestBase):
     victory_location = "snakes_on_a_planet"
     game = GAME_NAME
-    run_default_tests = False
+    run_default_tests = False # pyright: ignore[reportIncompatibleMethodOverride, reportAssignmentType]
 
+    @override
     def setUp(self):
         self.options = {
             "victory_location": self.victory_location,
@@ -24,9 +25,9 @@ class RegressionTestBase(WorldTestBase):
             self.fail(f"Victory location item is None at {world.victory_location}")
 
 
-class RegressionTestBaseSecretCache(RegressionTestBase):
+class MoonShoesAtSecretCacheRegressionTest(MoonShoesAtVictoryLocationRegressionTest):
     victory_location = "secret_cache"
 
 
-class RegressionTestBaseCapturedGoldfish(RegressionTestBase):
+class MoonShoesAtCapturedGoldfishRegressionTest(MoonShoesAtVictoryLocationRegressionTest):
     victory_location = "captured_goldfish"

@@ -1,21 +1,32 @@
 import importlib.resources
 import pathlib
 import sys
+from typing import cast
 
 from BaseClasses import ItemClassification
 from Utils import parse_yaml
 
 from .definitions_types import (
     Aura,
-    AutopelagoItemDefinition,
+    AutopelagoItemDefinitionFromYaml,
+    AutopelagoItemDefinitionStructured,
     AutopelagoNonProgressionItemType,
 )
 from .util import defs, gen_ids
 
-names_with_lactose = set()
-lactose_intolerant_names = set()
+names_with_lactose = set[str]()
+lactose_intolerant_names = set[str]()
 nonprogression_item_types: list[AutopelagoNonProgressionItemType] = \
     ["useful_nonprogression", "trap", "filler"]
+
+
+def to_structured(item: AutopelagoItemDefinitionFromYaml) -> AutopelagoItemDefinitionStructured:
+    # assumption: this came from our YAML files.
+    if isinstance(item, list):
+        return cast(AutopelagoItemDefinitionStructured, tuple(item))
+
+    return item
+
 
 
 def _to_lactose_name(name_or_list: str | list[str]) -> str:
@@ -24,9 +35,9 @@ def _to_lactose_name(name_or_list: str | list[str]) -> str:
     return name_or_list[0]
 
 
-def _lactose_name_of(item: AutopelagoItemDefinition):
+def _lactose_name_of(item: AutopelagoItemDefinitionStructured):
     return \
-        _to_lactose_name(item[0]) if isinstance(item, list) else \
+        _to_lactose_name(item[0]) if isinstance(item, tuple) else \
         _to_lactose_name(item["name"])
 
 
@@ -36,13 +47,13 @@ def _to_lactose_intolerant_name(name_or_list: str | list[str]) -> str:
     return name_or_list[1]
 
 
-def _lactose_intolerant_name_of(item: AutopelagoItemDefinition):
+def _lactose_intolerant_name_of(item: AutopelagoItemDefinitionStructured):
     return \
-        _to_lactose_intolerant_name(item[0]) if isinstance(item, list) else \
+        _to_lactose_intolerant_name(item[0]) if isinstance(item, tuple) else \
         _to_lactose_intolerant_name(item["name"])
 
 
-def _names_of(item: AutopelagoItemDefinition):
+def _names_of(item: AutopelagoItemDefinitionStructured):
     lactose_name = _lactose_name_of(item)
     lactose_intolerant_name = _lactose_intolerant_name_of(item)
     if lactose_name == lactose_intolerant_name:
@@ -52,13 +63,13 @@ def _names_of(item: AutopelagoItemDefinition):
     return [lactose_name, lactose_intolerant_name]
 
 
-def _rat_count_of(item: AutopelagoItemDefinition) -> int | None:
+def _rat_count_of(item: AutopelagoItemDefinitionStructured) -> int | None:
     return item["rat_count"] if isinstance(item, dict) and "rat_count" in item else None
 
 
-def _auras_of(item: AutopelagoItemDefinition) -> list[Aura]:
+def _auras_of(item: AutopelagoItemDefinitionStructured) -> list[Aura]:
     return \
-        item[1] if isinstance(item, list) else \
+        item[1] if isinstance(item, tuple) else \
         item["auras_granted"] if "auras_granted" in item else \
         []
 
@@ -71,23 +82,22 @@ item_key_to_name: dict[str, str] = {}
 _item_id_gen = gen_ids()
 item_name_to_id: dict[str, int] = {}
 
-# since some buffs / traps can be disabled for a particular multiworld, it would be not-quite-right to put each item
-# into a fixed "buff" / "trap" / "filler" category like earlier versions once did. instead, assign a score to each aura
-# based on what it does, and determine that category based on the combination of the item's auras *that are enabled*.
-for k, v in defs["items"].items():
-    for _name in _names_of(v):
-        item_name_to_auras[_name] = _auras_of(v)
-        item_name_to_id[_name] = next(_item_id_gen)
-        progression_item_names.add(_name)
-        rat_count = _rat_count_of(v)
-        if rat_count and rat_count > 0:
-            item_name_to_rat_count[_name] = rat_count
-        item_key_to_name[k] = _name
+def _init_progression_items():
+    for k, v in defs["items"].items():
+        for _name in _names_of(v):
+            item_name_to_auras[_name] = _auras_of(v)
+            item_name_to_id[_name] = next(_item_id_gen)
+            progression_item_names.add(_name)
+            rat_count = _rat_count_of(v)
+            if rat_count and rat_count > 0:
+                item_name_to_rat_count[_name] = rat_count
+            item_key_to_name[k] = _name
+_init_progression_items()
 
-
-def _append_items(item_definitions: list[AutopelagoItemDefinition]):
+def _append_items(item_definitions: list[AutopelagoItemDefinitionFromYaml]):
     res: list[str] = []
-    for item_definition in item_definitions:
+    for item_definition_unstructured in item_definitions:
+        item_definition = to_structured(item_definition_unstructured)
         for _name in _names_of(item_definition):
             res.append(_name)
             item_name_to_auras[_name] = _auras_of(item_definition)

@@ -1,17 +1,17 @@
 import logging
 from collections.abc import Iterable, Mapping
 from dataclasses import dataclass
-from typing import TYPE_CHECKING, Any, ClassVar, Literal
+from typing import TYPE_CHECKING, Any, ClassVar, Literal, override
 
 import yaml
 
-from Options import Choice, OptionList, OptionSet, PerGameCommonOptions, Range, Toggle, Visibility
+from Options import Choice, DeathLink, OptionList, OptionSet, PerGameCommonOptions, Range, Toggle, Visibility
 from worlds.AutoWorld import World
 
 from .definitions_types import Aura
 
 if TYPE_CHECKING:
-    from Options import PlandoOptions
+    from BaseClasses import PlandoOptions
 
 FriendlyBuffNames = Literal["Well Fed", "Lucky", "Energized", "Stylish", "Confident", "Smart"]
 buff_name_map: dict[FriendlyBuffNames, Aura] = {
@@ -65,7 +65,8 @@ class EnabledBuffs(OptionSet):
     - **Confident:** Ignore a trap
     - **Smart:** Next check is progression"""
     display_name = "Enabled Buffs"
-    value: frozenset[FriendlyBuffNames]
+    # pyrefly: ignore[bad-override-mutable-attribute]
+    value: set[FriendlyBuffNames]
     valid_keys = default = frozenset(buff_name_map.keys())
     map: ClassVar[dict[FriendlyBuffNames, Aura]] = buff_name_map
 
@@ -81,14 +82,10 @@ class EnabledTraps(OptionSet):
     - **Conspiratorial:** Next check is trap
     - **Poison:** Dies"""
     display_name = "Enabled Traps"
-    value: frozenset[FriendlyTrapNames]
+    # pyrefly: ignore[bad-override-mutable-attribute]
+    value: set[FriendlyTrapNames]
     valid_keys = default = frozenset(trap_name_map.keys())
     map: ClassVar[dict[FriendlyTrapNames, Aura]] = trap_name_map
-
-
-class DeathLink(Toggle):
-    """When you die, everyone who enabled death link dies. Of course, the reverse is true too."""
-    display_name = "Death Link"
 
 
 class DeathDelaySeconds(Range):
@@ -157,25 +154,29 @@ class RatChatMessages(OptionList):
     visibility = Visibility.template
 
     @classmethod
+    @override
     def from_any(cls, data: Any):
         if isinstance(data, RatChatMessagesHack):
             return super().from_any(data.items)
 
         if isinstance(data, Iterable):
             res: list[tuple[str, int]] = []
-            for t in data:
+            for t in data: # pyright: ignore [reportUnknownVariableType] because we narrow it further
                 if isinstance(t, Mapping):
-                    if len(t) != 1:
-                        raise NotImplementedError(f"Dict must have only one item, got {len(t)}")
+                    map_len = len(t) # pyright: ignore [reportUnknownArgumentType] because we just need its len
+                    if map_len != 1:
+                        raise NotImplementedError(f"Dict must have only one item, got {map_len}")
                     res += t.items()
                 elif isinstance(t, str):
                     res.append((t, 1))
                 else:
-                    raise NotImplementedError(f"Cannot convert from non-str + non-dict, got {type(t)}")
+                    el_type = type(t) # pyright: ignore [reportUnknownArgumentType, reportUnknownVariableType]
+                    raise NotImplementedError(f"Cannot convert from non-str + non-dict, got {el_type}")
             return super().from_any(res)
 
         raise NotImplementedError(f"Cannot convert from non-dict, got {type(data)}")
 
+    @override
     def verify(self, world: type[World], player_name: str, plando_options: "PlandoOptions") -> None:
         if len(self.value) == 0:
             s = f"Settings file tried to set empty rat chat messages for {type(self).__name__} (player: {player_name})."

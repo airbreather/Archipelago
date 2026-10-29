@@ -6,7 +6,9 @@ from Utils import parse_yaml
 from .definitions_types import AutopelagoDefinitions
 
 GAME_NAME = "Autopelago"
-defs: AutopelagoDefinitions = parse_yaml(pkgutil.get_data(__name__, "AutopelagoDefinitions.yml"))
+yaml_data = pkgutil.get_data(__name__, "AutopelagoDefinitions.yml")
+assert yaml_data, "all world data should be packaged with its code"
+defs: AutopelagoDefinitions = parse_yaml(yaml_data)
 
 
 def gen_ids() -> Iterator[int]:

@@ -1,4 +1,4 @@
-from typing import Literal, NotRequired, TypeAlias, TypedDict, Union
+from typing import Literal, NotRequired, TypedDict
 
 Aura = Literal[
   "well_fed",
@@ -21,10 +21,10 @@ class AutopelagoItemDefinitionCls(TypedDict):
     name: str | list[str]
     rat_count: NotRequired[int]
     flavor_text: NotRequired[str]
-    auras_granted: NotRequired[list[str]]
+    auras_granted: NotRequired[list[Aura]]
 
 
-# AutopelagoItemDefinition can be in any of these formats:
+# AutopelagoItemDefinitionFromYaml can be in any of these formats:
 # 1: [name, [aura1, aura2]]
 # 2: [[name_with_lactose, lactose_intolerant_name], [aura1, aura2]]
 # 3:
@@ -32,23 +32,21 @@ class AutopelagoItemDefinitionCls(TypedDict):
 #   rat_count: 1
 #   flavor_text: Some flavor text that shows up nowhere for now.
 #   auras_granted: [aura1, aura2]
-AutopelagoItemDefinition = tuple[str | list[str], list[str]] | AutopelagoItemDefinitionCls
+AutopelagoItemDefinitionFromYaml = list[str | list[str] | list[Aura]] | AutopelagoItemDefinitionCls
+AutopelagoItemDefinitionStructured = tuple[str | list[str], list[Aura]] | AutopelagoItemDefinitionCls
 AutopelagoNonProgressionItemType = Literal["useful_nonprogression", "trap", "filler"]
-AutopelagoGameRequirement: TypeAlias = Union[
-    "AutopelagoAllRequirement", "AutopelagoAnyRequirement", "AutopelagoItemRequirement",
-    "AutopelagoRatCountRequirement", "AutopelagoAnyTwoRequirement"]
 
 
 class AutopelagoAllRequirement(TypedDict):
-    all: list[AutopelagoGameRequirement]
+    all: list["AutopelagoGameRequirement"]
 
 
 class AutopelagoAnyRequirement(TypedDict):
-    any: list[AutopelagoGameRequirement]
+    any: list["AutopelagoGameRequirement"]
 
 
 class AutopelagoAnyTwoRequirement(TypedDict):
-    any_two: list[AutopelagoGameRequirement]
+    any_two: list["AutopelagoGameRequirement"]
 
 
 class AutopelagoItemRequirement(TypedDict):
@@ -57,6 +55,11 @@ class AutopelagoItemRequirement(TypedDict):
 
 class AutopelagoRatCountRequirement(TypedDict):
     rat_count: int
+
+
+AutopelagoGameRequirement = \
+    AutopelagoAllRequirement | AutopelagoAnyRequirement | AutopelagoAnyTwoRequirement | \
+    AutopelagoItemRequirement |  AutopelagoRatCountRequirement
 
 
 class AutopelagoLandmarkRegionDefinition(TypedDict):

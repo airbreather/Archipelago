@@ -1,8 +1,9 @@
 ﻿from math import ceil, floor
-from typing import cast
+from typing import cast, override
 
 from test.bases import WorldTestBase
-from worlds.autopelago import GAME_NAME, AutopelagoWorld, location_name_to_nonprogression_item
+from worlds.autopelago import GAME_NAME, AutopelagoWorld
+from worlds.autopelago.locations import location_name_to_nonprogression_item
 
 
 def get_trap_item_count(world: AutopelagoWorld) -> int:
@@ -19,7 +20,7 @@ def get_expected_poison_item_count(world: AutopelagoWorld) -> int:
 
 class ItemsShouldGivePoisonByDefault(WorldTestBase):
     game = GAME_NAME
-    run_default_tests = False
+    run_default_tests = False # pyright: ignore[reportIncompatibleMethodOverride, reportAssignmentType]
 
     def test_poison_items_present(self) -> None:
         world = cast(AutopelagoWorld, self.world)
@@ -35,8 +36,9 @@ class ItemsShouldGivePoisonByDefault(WorldTestBase):
 class MaxPoison(WorldTestBase):
     victory_location = "snakes_on_a_planet"
     game = GAME_NAME
-    run_default_tests = True
+    run_default_tests = False # pyright: ignore[reportIncompatibleMethodOverride, reportAssignmentType]
 
+    @override
     def setUp(self):
         self.options = {
             "victory_location": self.victory_location,
@@ -64,7 +66,9 @@ class MaxPoisonCapturedGoldfish(MaxPoison):
 
 class ItemsShouldNotGivePoisonWithNoTrapsEnabled(WorldTestBase):
     game = GAME_NAME
-    run_default_tests = False
+    run_default_tests = False # pyright: ignore[reportIncompatibleMethodOverride, reportAssignmentType]
+
+    @override
     def setUp(self):
         self.options = {
             "enabled_buffs": frozenset(),

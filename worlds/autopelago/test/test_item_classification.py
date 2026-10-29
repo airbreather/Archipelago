@@ -1,11 +1,16 @@
-﻿from BaseClasses import ItemClassification
+﻿from typing import override
+
+from BaseClasses import ItemClassification
 from test.bases import WorldTestBase
-from worlds.autopelago import GAME_NAME, item_name_to_auras, item_name_to_rat_count
+from worlds.autopelago import GAME_NAME
+from worlds.autopelago.items import item_name_to_auras, item_name_to_rat_count
 
 
 class ItemClassificationTestWithOnlyWellFedAuraEnabled(WorldTestBase):
     game = GAME_NAME
-    run_default_tests = False
+    run_default_tests = False # pyright: ignore[reportIncompatibleMethodOverride, reportAssignmentType]
+
+    @override
     def setUp(self):
         self.options = {
             "enabled_buffs": frozenset({"Well Fed"}),
@@ -24,7 +29,9 @@ class ItemClassificationTestWithOnlyWellFedAuraEnabled(WorldTestBase):
 
 class ItemClassificationTestWithOnlyStartledTrapEnabled(WorldTestBase):
     game = GAME_NAME
-    run_default_tests = False
+    run_default_tests = False # pyright: ignore[reportIncompatibleMethodOverride, reportAssignmentType]
+
+    @override
     def setUp(self):
         self.options = {
             "enabled_buffs": frozenset(),
@@ -44,7 +51,9 @@ class ItemClassificationTestWithOnlyStartledTrapEnabled(WorldTestBase):
 
 class ItemClassificationTestWithNoAurasEnabled(WorldTestBase):
     game = GAME_NAME
-    run_default_tests = False
+    run_default_tests = False # pyright: ignore[reportIncompatibleMethodOverride, reportAssignmentType]
+
+    @override
     def setUp(self):
         self.options = {
             "enabled_buffs": frozenset(),
