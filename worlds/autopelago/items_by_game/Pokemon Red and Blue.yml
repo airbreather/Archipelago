@@ -10,3 +10,6 @@
 - ['Mustard Ball', []]
 - ['HM02.5 Walk', []]
 - ['Rat Fossil', []]
+
+- name: 'Top-Percentage Rat'
+  rat_count: 1

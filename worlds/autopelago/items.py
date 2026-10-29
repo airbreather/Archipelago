@@ -108,13 +108,7 @@ def _append_items(item_definitions: list[AutopelagoItemDefinitionFromYaml]):
     return res
 
 
-# importlib.resources.files changed in Python 3.12 to work a bit more sensibly for our situation. it's not really worth
-# finding a way to build a string that will work here in Python 3.11 (which is essentially one foot out the door at the
-# time of writing). just do what makes 3.11 work, but build it "correctly" for the future (airbreather 2025-12-09).
-anchor = \
-    __name__ if sys.version_info >= (3, 12) else \
-    "worlds.autopelago"
-for package_file_or_dir in importlib.resources.files(anchor).iterdir():
+for package_file_or_dir in importlib.resources.files(__name__).iterdir():
     if package_file_or_dir.name != "items_by_game":
         continue
     for f in package_file_or_dir.iterdir():
